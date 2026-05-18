@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "7ca0a50317ef",
+    "source_url": "https://raw.githubusercontent.com/tfxor/terraform-aws-automation-demo/31fb099c2d801242206d8832a1dfda9e0f60994d/api_swagger.json.tpl",
+    "fetched_at": "2026-05-18T15:04:04.009940+00:00",
+    "content_hash": "75bc07d3c5a55b7f0fbd05a7f3837ad33fe6005f73b1eb9c847630f2edd2ec45",
+    "info_version": "2019-02-27T17:25:48Z",
+    "status": "new",
+    "title": "DemoApi7356626c",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

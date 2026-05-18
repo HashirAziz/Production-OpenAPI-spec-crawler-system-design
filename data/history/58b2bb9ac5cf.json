@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "58b2bb9ac5cf",
+    "source_url": "https://raw.githubusercontent.com/onejgordon/flow-dashboard/b8d85d9313e51cf386f6d2e5944fc958a7d96769/swagger.yaml",
+    "fetched_at": "2026-05-18T15:03:59.684755+00:00",
+    "content_hash": "490f048c4e6569de07060f90302c6e4120bb62cbb9440563191ecc1b28476d8a",
+    "info_version": "1.2",
+    "status": "new",
+    "title": "Flow Dashboard",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

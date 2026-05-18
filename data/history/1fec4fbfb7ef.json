@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1fec4fbfb7ef",
+    "source_url": "https://raw.githubusercontent.com/conradoqg/naivecoin/f48d078f83c5818cc8f7a3a16b1f0aa87e583b2f/lib/httpServer/swagger.json",
+    "fetched_at": "2026-05-18T15:04:02.887043+00:00",
+    "content_hash": "634f3913769af426cb59ea764166197340ee82810041e688e61e5b776fe945fd",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "Naivecoin API",
+    "openapi_version": "swagger_2",
+    "paths_count": 15,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "14f643993342",
+    "source_url": "https://raw.githubusercontent.com/ohkami-rs/ohkami/1ee9f7b1cfcfea2cee9e9be3a2323450853110e5/samples/streaming/openapi.json.sample",
+    "fetched_at": "2026-05-18T15:03:55.867779+00:00",
+    "content_hash": "acf3209b056238d2dbee92033816f0a43589b4e77bf0e5c7d2d3ef0ede957ce4",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "Streaming Sample API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

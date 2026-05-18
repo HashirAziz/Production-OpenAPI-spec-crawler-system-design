@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a94743524614",
+    "source_url": "https://raw.githubusercontent.com/podushkina/whisper-api/c666080783fbf6e21ada3541f9831cb534f33859/api/swagger.yaml%20",
+    "fetched_at": "2026-05-18T15:04:00.415089+00:00",
+    "content_hash": "34fec860faf02880cefcb97270898adf00d351879b05fedaa09147bc71072c89",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Whisper API",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

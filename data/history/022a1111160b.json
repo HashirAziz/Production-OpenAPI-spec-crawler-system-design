@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "022a1111160b",
+    "source_url": "https://raw.githubusercontent.com/APIs-guru/openapi-directory/f04b8d0bcd39c52e1cf3ad7a5fe744709832ae49/APIs/ip2location.io/1.0/openapi.yaml",
+    "fetched_at": "2026-05-18T15:03:49.854103+00:00",
+    "content_hash": "678b9bdad00e589169d27f634c689d3b075f701fa7b0a26d9a7290087de9adbf",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "IP2Location.io IP Geolocation API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "da81b22f1d2d",
+    "source_url": "https://raw.githubusercontent.com/taozhi1010/nest-admin/a8d702acff7d876553dc655ec420627deed29618/server/openApi.json",
+    "fetched_at": "2026-05-18T15:03:56.406248+00:00",
+    "content_hash": "a6a625a6763e05d7168f2bf81b85d6ef45cb359ecd483faaa5ae6308f9e0e216",
+    "info_version": "2.0.0",
+    "status": "new",
+    "title": "Nest-Admin",
+    "openapi_version": "openapi_3",
+    "paths_count": 108,
+    "path_diff": null
+  }
+]

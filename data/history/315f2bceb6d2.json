@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "315f2bceb6d2",
+    "source_url": "https://raw.githubusercontent.com/Akkudoktor-EOS/EOS/a6bd06b5479a38862568b23619343ba4f7d59005/openapi.json",
+    "fetched_at": "2026-05-18T15:03:55.513578+00:00",
+    "content_hash": "5418e5bae8bc78949ce4e5acc251e1eba6d59da82f9be7f0605d9c4c8bb7d256",
+    "info_version": "v0.3.0.dev2604141105859917",
+    "status": "new",
+    "title": "Akkudoktor-EOS",
+    "openapi_version": "openapi_3",
+    "paths_count": 39,
+    "path_diff": null
+  }
+]
