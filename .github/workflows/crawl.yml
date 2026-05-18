@@ -28,6 +28,10 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 60
 
+    # Force Node.js 24 for all actions to suppress deprecation warning
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
     permissions:
       contents: write    # needed to commit updated catalog back to repo
 
