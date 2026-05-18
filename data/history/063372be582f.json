@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "063372be582f",
+    "source_url": "https://raw.githubusercontent.com/m-cmp/mc-application-manager/f27c104feff6eec024f6971ceea2e91e84a401a1/swagger.json",
+    "fetched_at": "2026-05-18T15:18:35.628377+00:00",
+    "content_hash": "aa1d36653a9bcb805a689e09a834747e10fbd0b54e8a5e8540318a2326655f25",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Api Documentation",
+    "openapi_version": "swagger_2",
+    "paths_count": 44,
+    "path_diff": null
+  }
+]

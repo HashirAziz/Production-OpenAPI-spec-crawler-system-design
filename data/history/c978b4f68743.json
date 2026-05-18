@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c978b4f68743",
+    "source_url": "https://raw.githubusercontent.com/NYPL/locations-service/b0ab315bac39e559158c32943c026a5786d4e999/swagger.json",
+    "fetched_at": "2026-05-18T15:18:38.004375+00:00",
+    "content_hash": "fb0b4cabe874ce9db320179bada6eeeccbe010e3f7758f077212e70a1e4447ff",
+    "info_version": "v0.1.0",
+    "status": "new",
+    "title": "Locations Service",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

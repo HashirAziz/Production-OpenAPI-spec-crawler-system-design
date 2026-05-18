@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d503185c8afe",
+    "source_url": "https://raw.githubusercontent.com/Caiphe/Portal/659919526b1f9963f0f7e49491e3bb14e5642bcd/public/openapi/CustomerPlansAPI-swagger.yaml",
+    "fetched_at": "2026-05-18T15:18:00.325709+00:00",
+    "content_hash": "a5280f1b993924ea80e1a5b1e1427157281cc7ba608b1cd4b096a4da365bdfaf",
+    "info_version": "v1.0",
+    "status": "new",
+    "title": "MTN Customer Plans API",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

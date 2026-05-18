@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d1e881288ff2",
+    "source_url": "https://raw.githubusercontent.com/gcp-tools/example-app/d363a8955ff3cb9ea36af9de1ef9639281631054/api-gateway-config/openapi.yaml.tpl",
+    "fetched_at": "2026-05-18T15:17:07.988132+00:00",
+    "content_hash": "c896498c077723655108c636ea6220d1da04eec91c58c07abcfdfd013e4b2d9e",
+    "info_version": "v1",
+    "status": "new",
+    "title": "LiPlan API",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

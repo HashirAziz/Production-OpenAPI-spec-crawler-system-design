@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2f44ab37ea5e",
+    "source_url": "https://raw.githubusercontent.com/seansusmilch/least-watched/11787d3f1f910eed9afb14a7d7a79f67693498a8/openapi/radarr.openapi.json",
+    "fetched_at": "2026-05-18T15:17:41.393715+00:00",
+    "content_hash": "776336dc6ec127f40473a9911613e3a2e06e5d94215567d2d6d06c08c49d2f85",
+    "info_version": "3.0.0",
+    "status": "new",
+    "title": "Radarr",
+    "openapi_version": "openapi_3",
+    "paths_count": 164,
+    "path_diff": null
+  }
+]

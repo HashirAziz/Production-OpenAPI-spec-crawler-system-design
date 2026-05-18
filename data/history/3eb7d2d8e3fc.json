@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3eb7d2d8e3fc",
+    "source_url": "https://raw.githubusercontent.com/M57D30/Commune/3069cd432258b88c98ffa6aabe419551090deae9/openAPI.json",
+    "fetched_at": "2026-05-18T15:17:31.692859+00:00",
+    "content_hash": "9345a951535bf4b1adfb65ed765afa5556dee9cb1bb01f221455ee73b9436b07",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Subreddit API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

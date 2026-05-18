@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "fca4f54c5514",
+    "source_url": "https://raw.githubusercontent.com/Cons-MMadrid-PE4593/api-connector-auto-scfe/830d83a89d164d415a6b9734e3534fc35b8ef1fc/swagger-spring/AutoSCFE-1.6.0-swagger.yaml",
+    "fetched_at": "2026-05-18T15:18:03.439709+00:00",
+    "content_hash": "8cf2e7fc7f662cef2984954836de16825aaec54beb43fe207d86ccd537e182c2",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "SCF Auto Api",
+    "openapi_version": "swagger_2",
+    "paths_count": 16,
+    "path_diff": null
+  }
+]

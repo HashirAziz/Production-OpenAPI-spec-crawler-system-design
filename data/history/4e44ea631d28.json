@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4e44ea631d28",
+    "source_url": "https://raw.githubusercontent.com/sundy-yao/mcp-for-swagger/b2fad777be4ae11beded00fc4c15963b52199689/doc/openapi.yaml.example",
+    "fetched_at": "2026-05-18T15:17:12.924437+00:00",
+    "content_hash": "1745fc766304281876e514d7d7d086960a8fc34d8a10e7092763f9f975cb109d",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Sample Pet Store API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

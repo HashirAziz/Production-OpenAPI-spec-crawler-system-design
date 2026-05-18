@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ac5d604863d6",
+    "source_url": "https://raw.githubusercontent.com/api-evangelist/rawg/88c59679a57cbc9b1a948ebed04ddc6ca3d71f05/openapi/rawg-openapi.json",
+    "fetched_at": "2026-05-18T15:17:32.898903+00:00",
+    "content_hash": "a2efd7688148ce44514d42bef36a05fe58b4c05a3ab916930ba8b39fc83b427e",
+    "info_version": "v1.0",
+    "status": "new",
+    "title": "RAWG Video Games Database API",
+    "openapi_version": "swagger_2",
+    "paths_count": 30,
+    "path_diff": null
+  }
+]

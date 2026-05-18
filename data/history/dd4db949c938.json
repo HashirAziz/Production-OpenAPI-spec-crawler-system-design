@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "dd4db949c938",
+    "source_url": "https://raw.githubusercontent.com/soos3d/chatgpt-plugin-development-quickstart-express/a67e5554a717789afcbb46b3f3d6713681b3b6ee/openapi.yaml",
+    "fetched_at": "2026-05-18T15:17:12.672302+00:00",
+    "content_hash": "d26ca056a7bcd54fde6af0c406fa3d077c613b59f5e92ce684c15f4829724d51",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Airports API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

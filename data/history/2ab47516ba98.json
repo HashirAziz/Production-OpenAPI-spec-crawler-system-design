@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2ab47516ba98",
+    "source_url": "https://raw.githubusercontent.com/solid-nestjs/framework/8935d3982226e1bdd1de77950e50c49c7911a0d4/swagger.json",
+    "fetched_at": "2026-05-18T15:18:42.465898+00:00",
+    "content_hash": "ba476896fde1244f5b74f3f9f9a943cce5df87b7f8f0ffd7fbf573e1086fbedf",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Products API",
+    "openapi_version": "openapi_3",
+    "paths_count": 26,
+    "path_diff": null
+  }
+]

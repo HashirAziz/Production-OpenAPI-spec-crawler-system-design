@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4f34ccb228d4",
+    "source_url": "https://raw.githubusercontent.com/bhumikanilesh/api-explorer-pipeline/fb4be55f82d77a0aeaad3cc933ff26ec35e0b4a9/data/raw/azure.com_applicationinsights-swagger.json",
+    "fetched_at": "2026-05-18T15:18:25.614965+00:00",
+    "content_hash": "c3f1699eccc0d94c141af1150a6ef46a0f90f26579647d816401181ac890c3cd",
+    "info_version": "2018-04-20",
+    "status": "new",
+    "title": "Application Insights Data Plane",
+    "openapi_version": "swagger_2",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

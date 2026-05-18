@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "dbaf223234bf",
+    "source_url": "https://raw.githubusercontent.com/go-gost/x/07ca57055aca4a38edc96e277edd60b3c3528e2e/api/swagger.yaml",
+    "fetched_at": "2026-05-18T15:17:56.839735+00:00",
+    "content_hash": "dda5d5655424e40d489a66eedac5c54eb2b432c82fc6ec69849aa152770ea91b",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Documentation of Web API.",
+    "openapi_version": "swagger_2",
+    "paths_count": 34,
+    "path_diff": null
+  }
+]

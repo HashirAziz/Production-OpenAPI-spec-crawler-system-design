@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0745fea5dc0d",
+    "source_url": "https://raw.githubusercontent.com/kubevault/java/f26febf6fb4f2f591d44f9fbd79bc5e264138d7b/kubernetes/swagger.json.unprocessed",
+    "fetched_at": "2026-05-18T15:18:25.970391+00:00",
+    "content_hash": "83414878b4d840bfe633cd1a28e8e1b0f5b60f0f24ab914d9432a11df0095383",
+    "info_version": "v0.1.0",
+    "status": "new",
+    "title": "KubeVault",
+    "openapi_version": "swagger_2",
+    "paths_count": 14,
+    "path_diff": null
+  }
+]

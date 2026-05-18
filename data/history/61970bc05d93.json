@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "61970bc05d93",
+    "source_url": "https://raw.githubusercontent.com/mohidbt/api-ingest/1807d3f484c42f7ca57a0a856a53c2f73f25d9cf/examples/APIs.guru-swagger.json",
+    "fetched_at": "2026-05-18T15:18:23.209343+00:00",
+    "content_hash": "23a8f7c4e3084ec7f0a62ac9d08ecf9b5874a0dc0eb45b7064d2e689390fae1d",
+    "info_version": "2.2.0",
+    "status": "new",
+    "title": "APIs.guru",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

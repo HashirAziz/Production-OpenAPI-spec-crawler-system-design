@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4f97f4bfa9ad",
+    "source_url": "https://raw.githubusercontent.com/alejandrosnz/n8n-nodes-trillium/51ec13e3f7c1c6168baabbf0bf51a1b4a89069d4/docs/trillium/etapi.openapi.yaml",
+    "fetched_at": "2026-05-18T15:16:58.067355+00:00",
+    "content_hash": "26fec09b586ae63ca909f8b8aa1d58846be826de2aca3e52ce898edaa7fee4d6",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "ETAPI",
+    "openapi_version": "openapi_3",
+    "paths_count": 24,
+    "path_diff": null
+  }
+]

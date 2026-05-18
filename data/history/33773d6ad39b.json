@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "33773d6ad39b",
+    "source_url": "https://raw.githubusercontent.com/MOODMNKY-LLC/POKE-MNKY-v2/ee3520d33cec1e40682b295bfb75c5b84095ab18/schemas/pokeapi-openapi.yaml",
+    "fetched_at": "2026-05-18T15:17:05.007488+00:00",
+    "content_hash": "3e0729e00f9f55b9d9ee5f4ac84371edd3d87cb638cbb149d7b54c125231dc67",
+    "info_version": "2.7.0",
+    "status": "new",
+    "title": "PokéAPI",
+    "openapi_version": "openapi_3",
+    "paths_count": 97,
+    "path_diff": null
+  }
+]

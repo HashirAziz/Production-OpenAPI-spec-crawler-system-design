@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "89cb79826076",
+    "source_url": "https://raw.githubusercontent.com/Ampletracks/Ampletracks/480c273bab1eac8ae4e6318f846911c5ef89898e/www/api/v1/openApi.json.php",
+    "fetched_at": "2026-05-18T15:17:24.190818+00:00",
+    "content_hash": "596726566003496727361b8dda6c5517c33510f2425b98bc788c55f37375dc1d",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Amletracks API v1",
+    "openapi_version": "openapi_3",
+    "paths_count": 15,
+    "path_diff": null
+  }
+]

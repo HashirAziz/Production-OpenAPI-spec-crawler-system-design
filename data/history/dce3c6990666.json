@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "dce3c6990666",
+    "source_url": "https://raw.githubusercontent.com/melisoftspa/SistemaDeVentas/481e86317ae4dc9850d32d42cacf289c39555486/docs/boleta/openapi.yaml.txt",
+    "fetched_at": "2026-05-18T15:17:16.242936+00:00",
+    "content_hash": "28bf47c6fb1cf29db64538fbf8dfaa6c855fb63d791f2d829878066d57e91b58",
+    "info_version": "1.0.5",
+    "status": "new",
+    "title": "API SII - V1",
+    "openapi_version": "openapi_3",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

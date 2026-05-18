@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "42381e8a51b5",
+    "source_url": "https://raw.githubusercontent.com/Neomartin/aws-course-academind/86ba0dda04d73f30160752c6f3682e4d8cb92904/Resources/aws%20pet%20shop%20swagger.json",
+    "fetched_at": "2026-05-18T15:18:33.049838+00:00",
+    "content_hash": "5a55cf0deaa453056c544446491924fbd1b9514a895a2f5ba9c84517e5837307",
+    "info_version": null,
+    "status": "new",
+    "title": "PetStore",
+    "openapi_version": "swagger_2",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

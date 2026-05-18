@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "20931c7ea779",
+    "source_url": "https://raw.githubusercontent.com/jcqin2022/draw_app/3422bda2ca3fc16061c526015c038b228ba130b9/swagger.yaml",
+    "fetched_at": "2026-05-18T15:18:15.772283+00:00",
+    "content_hash": "03e5b36bbd7c5fc626aa0240b750f85900c458f11bb5b2ae66cd6015e801a7f2",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Whiteboard API",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "caccf7a16754",
+    "source_url": "https://raw.githubusercontent.com/heldersepu/Swagger-Net-Test/1f688f622775b7db91cbe9cfd256469961dd9594/swagger.json",
+    "fetched_at": "2026-05-18T15:18:41.890921+00:00",
+    "content_hash": "9d60fdcb9633b9d17816c9ff183dbb8e0d50e78caadbf9e00047496aa81569cf",
+    "info_version": "V1",
+    "status": "new",
+    "title": "Swagger_Test",
+    "openapi_version": "swagger_2",
+    "paths_count": 28,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0524faa735d6",
+    "source_url": "https://raw.githubusercontent.com/pagopa/arc-infra-api-spec/13fca1d93998ebc2a41f235d11dfa4f79be79d91/src/monitor/api/monitor_openapi.json.tpl",
+    "fetched_at": "2026-05-18T15:17:48.173057+00:00",
+    "content_hash": "c6b5d66aae9932fcdd517220929903e9e19cd72244b9b8ff1ff4f46f8b892b97",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "monitor",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

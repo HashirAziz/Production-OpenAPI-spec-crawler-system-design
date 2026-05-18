@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3146ce10c221",
+    "source_url": "https://raw.githubusercontent.com/Caiphe/Portal/659919526b1f9963f0f7e49491e3bb14e5642bcd/public/openapi/CustomerLoansAPI-swagger.yaml",
+    "fetched_at": "2026-05-18T15:17:59.531572+00:00",
+    "content_hash": "138e65c1604b2631ea7e93ec98903375bb247fd8bb2a2de91e24d3e50b6de270",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Api Documentation",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

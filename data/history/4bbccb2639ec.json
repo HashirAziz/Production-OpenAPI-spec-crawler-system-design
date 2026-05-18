@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4bbccb2639ec",
+    "source_url": "https://raw.githubusercontent.com/jnrjose/weir-doc/4b0dddf801e1d5f0722eb9253d0f1d2bdbf4c502/v1.0.0/reference/openapi.json.backup",
+    "fetched_at": "2026-05-18T15:17:37.226878+00:00",
+    "content_hash": "4f14042ea229022fa492c07be2f20d14132de1daf42cf2fd51bdf654e3735597",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Weir AI APIs v1.0.0",
+    "openapi_version": "openapi_3",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

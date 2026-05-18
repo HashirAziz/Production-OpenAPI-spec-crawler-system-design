@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0c48015e289d",
+    "source_url": "https://raw.githubusercontent.com/djval79/careunity-network/96d6b825813e42d1451b17e0e24a054cfc23db83/docs/openapi.yaml.bak",
+    "fetched_at": "2026-05-18T15:16:56.063826+00:00",
+    "content_hash": "06fd204c0da90fb16b1db70de444b32a4daeba5f629b59ea9af9715c030d39f3",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "CareUnity API",
+    "openapi_version": "openapi_3",
+    "paths_count": 104,
+    "path_diff": null
+  }
+]

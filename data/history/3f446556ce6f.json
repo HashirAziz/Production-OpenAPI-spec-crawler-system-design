@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3f446556ce6f",
+    "source_url": "https://raw.githubusercontent.com/netgroup/dstreamon/b425ecb904a86f3d39e4e1818a25a76c19f71f3f/d-streamon/rest-server/swagger/swagger.yaml~",
+    "fetched_at": "2026-05-18T15:17:59.971138+00:00",
+    "content_hash": "bbdb53fc94d83732db9c0620c0d53296d136bdf816eb12c2d326966a169a223d",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "SCISSOR Network Monitoring Management",
+    "openapi_version": "swagger_2",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

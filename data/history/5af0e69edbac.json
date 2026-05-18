@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5af0e69edbac",
+    "source_url": "https://raw.githubusercontent.com/Athar-Nawaid/Social-Media-Project/cb0416e94ef9d5065e7d5dc4d8dfcd4682ce319b/Swagger.json",
+    "fetched_at": "2026-05-18T15:18:38.710453+00:00",
+    "content_hash": "2d2f5ed4af6ad3484e7a94f51e51b34c14d5ab6b405bb1f1de38bc3373624b0f",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Social Media API",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b2f0cb8e7162",
+    "source_url": "https://raw.githubusercontent.com/Q1mi/go-micro-service-and-cloud-native-course/9da884be3d1f04cd15408b54049b8e1b982f22f1/lesson114/review-service/openapi.yaml",
+    "fetched_at": "2026-05-18T15:17:11.080550+00:00",
+    "content_hash": "65e08a187160d3cd74f1263290101a6a950f992b49e4a54bc3855038b1d90101",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": null,
+    "openapi_version": "openapi_3",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

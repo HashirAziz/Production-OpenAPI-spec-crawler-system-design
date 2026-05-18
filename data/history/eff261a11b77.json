@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "eff261a11b77",
+    "source_url": "https://raw.githubusercontent.com/mhkarimi1383/goAPIBaseProject/526cc908dc537341134e3d6174f7ec0f2f09ac36/openapi.json.tpl",
+    "fetched_at": "2026-05-18T15:17:44.299783+00:00",
+    "content_hash": "2b3e488c8c536739c61ec167bbe1cdbb747e1e5fe245ccb6c0323185bc50c3db",
+    "info_version": "there is no version :)",
+    "status": "new",
+    "title": "{{.Title}}",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

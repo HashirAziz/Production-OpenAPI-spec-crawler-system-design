@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "828ad4347b5a",
+    "source_url": "https://raw.githubusercontent.com/ljlm0402/typescript-express-starter/a06543e716badb8d2bd0b317eb5bae398cd32d7f/devtools/api/swagger/swagger.yaml",
+    "fetched_at": "2026-05-18T15:17:55.156755+00:00",
+    "content_hash": "aa88f2441f1b2024fa681cc8f1d05b88118b9867b036e54372cdc39f60681fd1",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Express Typescript API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

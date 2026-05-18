@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "07b23082e6b4",
+    "source_url": "https://raw.githubusercontent.com/Ahmed1monm/b-circle/f9d7143b311874aafa0f38c16faf80fe393789f4/swagger.yaml",
+    "fetched_at": "2026-05-18T15:18:08.740876+00:00",
+    "content_hash": "0d2a0d6013bac2290b7f6a863c2bd1d809617e884affad8720d577006872f74b",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "b-circle API",
+    "openapi_version": "openapi_3",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b2ddfc5f3eec",
+    "source_url": "https://raw.githubusercontent.com/alfredo1111/hamzab3t.xyz/a595649f266856a97fae2aa08d35d1bef880c75a/ezxss-swagger.yaml",
+    "fetched_at": "2026-05-18T15:17:54.313719+00:00",
+    "content_hash": "311825eb3a4fb3960993b51df0276fbfaa8737a86915c0c836bb5a78e424eea8",
+    "info_version": "production",
+    "status": "new",
+    "title": "Classic API Resource Documentation",
+    "openapi_version": "swagger_2",
+    "paths_count": 292,
+    "path_diff": null
+  }
+]

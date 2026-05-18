@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "25c1ec210c73",
+    "source_url": "https://raw.githubusercontent.com/pubannotation/pubdictionaries/24ff274f30ae1a135c0d07e18542de32b1993609/app/views/dictionaries/openapi.yaml.erb",
+    "fetched_at": "2026-05-18T15:17:07.680401+00:00",
+    "content_hash": "40e62d92662eb7bd8db3e624a31e147425c30443f09157ca82c3a80195886a04",
+    "info_version": "v1",
+    "status": "new",
+    "title": "PubDictionaries FindIDs for <%= @dictionary.name %>",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

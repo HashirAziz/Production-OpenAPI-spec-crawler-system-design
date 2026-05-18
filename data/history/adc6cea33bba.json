@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "adc6cea33bba",
+    "source_url": "https://raw.githubusercontent.com/dragosionita/dapi/51f0eb8f970b243ea1f71c9f6c0823c903115692/swagger.yaml.example",
+    "fetched_at": "2026-05-18T15:18:07.429907+00:00",
+    "content_hash": "208a06f94bdecd6ae78be38ae1ea476a547b8356151a62db6279f1fe19781367",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Test Swagger",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ab2fcaa945e7",
+    "source_url": "https://raw.githubusercontent.com/nerufuyo/atomepet/04f1ff29aaa698264ee9db9b191a392dfe215d57/assets/json/swagger.json",
+    "fetched_at": "2026-05-18T15:18:39.726059+00:00",
+    "content_hash": "fe14e9ce8ef47bb05504c1c022d493a06a6daf441d29e3e506734ab50293f5b0",
+    "info_version": "1.0.27",
+    "status": "new",
+    "title": "Swagger Petstore - OpenAPI 3.0",
+    "openapi_version": "openapi_3",
+    "paths_count": 13,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "bc1b12bd6afc",
+    "source_url": "https://raw.githubusercontent.com/sethfitz/marblecutter-tilezen/cba22f73bbc081e609764056bd79a6cffb201a41/swagger.yaml.hbs",
+    "fetched_at": "2026-05-18T15:18:00.474018+00:00",
+    "content_hash": "0b2c5c08d43d77b05900dbad0aca73d3fcd5f596e66face05e29717ce3766e6b",
+    "info_version": "2016-10-12T00:34:01Z",
+    "status": "new",
+    "title": "Dynamic Tiler",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

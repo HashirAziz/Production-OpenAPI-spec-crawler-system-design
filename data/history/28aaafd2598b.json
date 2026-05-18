@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "28aaafd2598b",
+    "source_url": "https://raw.githubusercontent.com/andela/cosmos-ah-backend/2faf1e8a1d0a1a31605d187432fcca42eb2b6bb2/swagger.json",
+    "fetched_at": "2026-05-18T15:18:37.215765+00:00",
+    "content_hash": "1c6b9fe707eb3859750a53298cba3f32811a72eb898e51fe4801819efbf11086",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Author's Haven",
+    "openapi_version": "openapi_3",
+    "paths_count": 27,
+    "path_diff": null
+  }
+]

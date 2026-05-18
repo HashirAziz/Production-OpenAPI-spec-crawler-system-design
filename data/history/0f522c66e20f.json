@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0f522c66e20f",
+    "source_url": "https://raw.githubusercontent.com/Andi-IM/multi-tenant-hr-backend/a3e4f81688a047e7b8bcb5058540a96c6eb3f010/infra/terraform/openapi.yaml.tftpl",
+    "fetched_at": "2026-05-18T15:17:11.741905+00:00",
+    "content_hash": "420ed22a9c51e5f911807a8b685b8a5bbc48edd80688df66604c397f40bb8a54",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "multi-tenant-hr-backend",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

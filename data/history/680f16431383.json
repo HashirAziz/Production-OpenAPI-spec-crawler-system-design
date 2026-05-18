@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "680f16431383",
+    "source_url": "https://raw.githubusercontent.com/raghavendra2006/Serverless-Platform-on-GCP-with-Terraform-and-Cloud-Armor/0d2cfa2e8dc6c3b53b533ff72be5c4131af264c4/terraform/templates/openapi.yaml.tpl",
+    "fetched_at": "2026-05-18T15:17:08.164977+00:00",
+    "content_hash": "e7dd9c7b0671a8cdb295ec2d44a061f20a4653572ae11c407c3dd434ffade02e",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "${api_title}",
+    "openapi_version": "swagger_2",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

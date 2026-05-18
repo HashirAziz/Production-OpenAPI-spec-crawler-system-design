@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "90374053011d",
+    "source_url": "https://raw.githubusercontent.com/rootsongjc/cloud-native-library/b8744cc0e45cb810a35257514a63271ec685ff8b/content/tsb/assets/howto/httpbin-openapi.json_",
+    "fetched_at": "2026-05-18T15:17:23.085467+00:00",
+    "content_hash": "00aad7d3f6f0aa966e5285dec7845221bc98be5c08024cea20c9f34d1f5f3d67",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "HTTPbin API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

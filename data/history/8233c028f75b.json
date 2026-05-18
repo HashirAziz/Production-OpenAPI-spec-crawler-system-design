@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8233c028f75b",
+    "source_url": "https://raw.githubusercontent.com/bhumikanilesh/api-explorer-pipeline/fb4be55f82d77a0aeaad3cc933ff26ec35e0b4a9/data/raw/azure.com_compute-swagger.json",
+    "fetched_at": "2026-05-18T15:18:28.677491+00:00",
+    "content_hash": "2d8bc86446c34c172f4294cf6d05a5bcec19a8221471a9a82a5e2b43247df97d",
+    "info_version": "2015-11-01",
+    "status": "new",
+    "title": "ComputeManagementConvenienceClient",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

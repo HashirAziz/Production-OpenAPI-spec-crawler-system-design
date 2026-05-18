@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "22c3b2383adc",
+    "source_url": "https://raw.githubusercontent.com/KauanCalheiro/bisca/2ab4557c892e68954bc80b7bbf0339001ab8981f/api/docs/scalar/openapi.json.bak",
+    "fetched_at": "2026-05-18T15:17:39.054716+00:00",
+    "content_hash": "5f5758785b5e7e405252a34cf4802465dd864238071505b8ada60f7c2a31f1fe",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API",
+    "openapi_version": "openapi_3",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

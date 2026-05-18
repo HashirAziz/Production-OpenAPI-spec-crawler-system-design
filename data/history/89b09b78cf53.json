@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "89b09b78cf53",
+    "source_url": "https://raw.githubusercontent.com/techspaceco/officernd-api/d1352204d4c2a02bb63d45ae480c1fa3d782e74c/openapi.yaml",
+    "fetched_at": "2026-05-18T15:17:17.622157+00:00",
+    "content_hash": "c60fdaf3e6594e66857c2cc3030c1295d3907e8029b6d33274fbba6d1c8d5afa",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "OfficeRnD",
+    "openapi_version": "openapi_3",
+    "paths_count": 29,
+    "path_diff": null
+  }
+]

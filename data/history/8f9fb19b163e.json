@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8f9fb19b163e",
+    "source_url": "https://raw.githubusercontent.com/NYPL/is-research-service/c4b61ecb762dbcf8b0356a722ef666fb0ae25457/swagger.json",
+    "fetched_at": "2026-05-18T15:18:40.669477+00:00",
+    "content_hash": "4997662153b45eaa12e5450819d6e4d4fe6c36bc02cdbc3dbf612f703a4f0fff",
+    "info_version": "0.1",
+    "status": "new",
+    "title": "Is Research Service",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

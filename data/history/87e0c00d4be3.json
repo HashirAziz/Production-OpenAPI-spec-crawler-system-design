@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "87e0c00d4be3",
+    "source_url": "https://raw.githubusercontent.com/nornscode/norns/9a0638ece82820d95f57b0d9d83cca77d80757ed/openapi.yaml",
+    "fetched_at": "2026-05-18T15:17:11.948433+00:00",
+    "content_hash": "5468b1d6ee990ca2b38354ab39669a3a203b61f68ed1e05240b94faf0df2d6e1",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "Norns API",
+    "openapi_version": "openapi_3",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

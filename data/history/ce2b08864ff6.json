@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ce2b08864ff6",
+    "source_url": "https://raw.githubusercontent.com/andrescevp/chillapi/1c5f07600748eb65f413ad19f5e67653cce8b787/swagger.json~",
+    "fetched_at": "2026-05-18T15:18:26.583703+00:00",
+    "content_hash": "0034a31681f5e0d40ea1e5d92347c06c3b7bce72c84225b190d23acb86cd2de7",
+    "info_version": "0.1",
+    "status": "new",
+    "title": "ChillApi",
+    "openapi_version": "openapi_3",
+    "paths_count": 46,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0ec9d67d46a9",
+    "source_url": "https://raw.githubusercontent.com/Val0429/zenstack-core-plugin-not-found-reproduction/05a907d53b1597e03c9a3105d4925de59868518e/packages/swagger.json.bak",
+    "fetched_at": "2026-05-18T15:18:31.554706+00:00",
+    "content_hash": "792d2f891e1f6bd5a0c47a7cb5eca2526a29c803f52f0d2b1f8748da1d92da9d",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "val-framework",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

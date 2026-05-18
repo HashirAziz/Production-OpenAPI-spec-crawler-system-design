@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4fbf0691db9e",
+    "source_url": "https://raw.githubusercontent.com/RedMetalDragon/TmkBrain/cbd7f1cef516ae69a81a64a8d61580707bd5674f/openapi/openapi.yaml.old",
+    "fetched_at": "2026-05-18T15:17:14.999873+00:00",
+    "content_hash": "7fc439a9a14c52e6cac17058c317c7ea1c23b4743d5dfccc3649efad5c535796",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "Boilerplate",
+    "openapi_version": "openapi_3",
+    "paths_count": 15,
+    "path_diff": null
+  }
+]

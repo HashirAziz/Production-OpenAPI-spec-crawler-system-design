@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a5c89136744b",
+    "source_url": "https://raw.githubusercontent.com/fabiantax87/technovium-unlimited-api/fd3ade01820280c027dcc5a0b01fef61004060cb/openAPI.yaml",
+    "fetched_at": "2026-05-18T15:17:00.143614+00:00",
+    "content_hash": "f7f293dd7e8e8825605b82b671c06d410f09e374fb15b451803336d4c67ae983",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "Technovium Unlimited API version 1.0.0",
+    "openapi_version": "openapi_3",
+    "paths_count": 14,
+    "path_diff": null
+  }
+]

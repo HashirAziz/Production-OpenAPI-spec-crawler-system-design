@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1f28402d106c",
+    "source_url": "https://raw.githubusercontent.com/rywager/anava-gcp-module/57d52a326b4441f8b54e085347903da11cea80b1/templates/openapi.yaml.tpl",
+    "fetched_at": "2026-05-18T15:17:05.368916+00:00",
+    "content_hash": "bbd8c21ea3535365c3b8034c0312b0ef074b7b1fc69478a0da514545b3a8a6f6",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "${solution_prefix} Device API",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

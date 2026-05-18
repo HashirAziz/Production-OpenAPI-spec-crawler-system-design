@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "25e21e2ccad3",
+    "source_url": "https://raw.githubusercontent.com/nits68/jedlik-express-mongoose-ts-backend-template-session/9b322af43a901583791ed282775f1876e6afa597/src/swagger.json.old",
+    "fetched_at": "2026-05-18T15:18:29.821662+00:00",
+    "content_hash": "977c1addae1cda1f835133f86492804f2852a0443b2c02f0d0fd77a124ec0aa9",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "REST API minta backend",
+    "openapi_version": "openapi_3",
+    "paths_count": 13,
+    "path_diff": null
+  }
+]

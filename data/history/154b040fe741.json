@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "154b040fe741",
+    "source_url": "https://raw.githubusercontent.com/cutmasta-kun/Yggdrasil/f0b1825c23fedfb674e4f8457ee9d766b4f44672/pkg/plugin-memory-interface/openapi.yaml_bak",
+    "fetched_at": "2026-05-18T15:16:57.597610+00:00",
+    "content_hash": "d5861c3418d49912bb3c985ed0dfe765bae3789161bb92b4c002e74596398fe4",
+    "info_version": "v1",
+    "status": "new",
+    "title": "Memory Interface Plugin",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

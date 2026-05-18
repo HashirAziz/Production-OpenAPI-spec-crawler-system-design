@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "abb55ab9c45a",
+    "source_url": "https://raw.githubusercontent.com/YYyyyellow000/23-/14439a2a2516408a44af423a813b4d77027c3fb3/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/--main/openapi.json.out",
+    "fetched_at": "2026-05-18T15:17:36.993062+00:00",
+    "content_hash": "de282f4fb2ecad8d349312e1a20a0311db69094b00e0d41fc315a83f42a1eef8",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "多模态小助手 - 后端",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

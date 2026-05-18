@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "55c6bbb9e456",
+    "source_url": "https://raw.githubusercontent.com/hdlcp/API_Hydro_Nex/626655e0a604df5a3c76ff516e06c1267bc10c5d/app/static/swagger.json.bak",
+    "fetched_at": "2026-05-18T15:18:32.850892+00:00",
+    "content_hash": "b3387c332d4c9faa1f70ac05e0e92c4513d14e53e5e3fc08b0d7e94fd3a1caba",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "HydroNex API",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

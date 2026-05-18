@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b6aa26f3e5f7",
+    "source_url": "https://raw.githubusercontent.com/tmforum-apis/TMF673_GeographicAddress/cc3eeaa6f9ba42d0e5f3c20f5771d18f2c0f9cc1/TMF673-GeographicAddress-v4.0.1.swagger.json",
+    "fetched_at": "2026-05-18T15:18:34.962862+00:00",
+    "content_hash": "b50dc5bae04d792462979e23090c2fc33177c51a873999cbddd3389e1de126b7",
+    "info_version": "4.0.1",
+    "status": "new",
+    "title": "API Place - GeographicAddress",
+    "openapi_version": "swagger_2",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

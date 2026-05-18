@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "98db896d686c",
+    "source_url": "https://raw.githubusercontent.com/hoangthang136/abcd/370be1eb9e9a7aba20b6024f0a873b51c7c9349e/xss-swagger.yaml",
+    "fetched_at": "2026-05-18T15:17:55.949597+00:00",
+    "content_hash": "f135ef3f56abea2baf14c8c4fc9e7fbdec800c7def9b04789cf3ca5b60a1bc89",
+    "info_version": "production",
+    "status": "new",
+    "title": "Classic API Resource Documentation",
+    "openapi_version": "swagger_2",
+    "paths_count": 292,
+    "path_diff": null
+  }
+]

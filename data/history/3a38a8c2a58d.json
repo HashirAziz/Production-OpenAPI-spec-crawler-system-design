@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3a38a8c2a58d",
+    "source_url": "https://raw.githubusercontent.com/shamhub/product-api/8a5023b68586931f56e3f57a35a065042d2f958c/swagger.yaml",
+    "fetched_at": "2026-05-18T15:18:12.290566+00:00",
+    "content_hash": "26f9e33676b2de427f8369fa1c11d2b18763c33808e6883f2de8fc8408760039",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "of Product API",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

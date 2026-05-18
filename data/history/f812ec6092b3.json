@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f812ec6092b3",
+    "source_url": "https://raw.githubusercontent.com/SnippetCoders/SnippetCoders/4cd19c188deb675758bc2521e2a4a99ae2149f1e/swagger.json",
+    "fetched_at": "2026-05-18T15:18:37.450777+00:00",
+    "content_hash": "f45e2814c17a8093eaf38e88389533a70b44da41017b0b084247e9fc87fbf3f8",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Grocery App",
+    "openapi_version": "swagger_2",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

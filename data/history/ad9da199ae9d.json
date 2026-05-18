@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ad9da199ae9d",
+    "source_url": "https://raw.githubusercontent.com/stritzinger/trellang/946ad5e79aca27f9a2830bed1ea31a6dce141c27/docs/trello-openapi.json",
+    "fetched_at": "2026-05-18T15:17:31.289653+00:00",
+    "content_hash": "7388bcb383d4e640c85b9475708de438e2890e22afc9fc7b5be4535ec85a4031",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "Trello REST API",
+    "openapi_version": "openapi_3",
+    "paths_count": 187,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6e8c755c616b",
+    "source_url": "https://raw.githubusercontent.com/gfleury/go-bitbucket-v1/df385efaac68f2cdd70049ee0c20b778c50c058b/docs/bitbucketV1-rest-swagger.json",
+    "fetched_at": "2026-05-18T15:18:21.647863+00:00",
+    "content_hash": "7f2017f04971d971283bfa0b0afbca9f3118b9c9f69de876452d9c39b7e12e40",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Bitbucket Server API",
+    "openapi_version": "swagger_2",
+    "paths_count": 124,
+    "path_diff": null
+  }
+]

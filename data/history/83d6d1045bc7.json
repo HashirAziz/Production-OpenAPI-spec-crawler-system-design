@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "83d6d1045bc7",
+    "source_url": "https://raw.githubusercontent.com/ClarityNLP/report-type-mapper-api/e8f6597b64ed6af77f25f5c73dc96a3568982bc3/swagger.json",
+    "fetched_at": "2026-05-18T15:18:37.626273+00:00",
+    "content_hash": "35fed59087950bf7a984b7ab053bde025640b91afdb9a7283d0e0b9894448c94",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Report Type Mapper",
+    "openapi_version": "swagger_2",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "606a0834f66e",
+    "source_url": "https://raw.githubusercontent.com/openconnectivityfoundation/DeviceBuilder/7ec0364a08091555aa1b261311acb65d0c933348/introspection-examples/ctt_1.swagger.json.bak",
+    "fetched_at": "2026-05-18T15:18:20.816835+00:00",
+    "content_hash": "1f15a9545b178d2af5bcc01669875c39d85ff73af7d84179ca0a34ea1bb329e3",
+    "info_version": "v1.1.0-20160519",
+    "status": "new",
+    "title": "Binary Switch",
+    "openapi_version": "swagger_2",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

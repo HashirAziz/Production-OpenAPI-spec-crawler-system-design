@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d22cbad170ee",
+    "source_url": "https://raw.githubusercontent.com/KEMTSOP-TETSAGHO-JOEL/groupe13_application_sondage/10cdd89a04c65c46e7f78c7f5df5a96bfd110194/swagger.yaml",
+    "fetched_at": "2026-05-18T15:18:05.164289+00:00",
+    "content_hash": "450c68f2842a5f48ef476cb8e3d55f6643b39343860eac0c0d458c0d8ef5874b",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API de Mini Sondage",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

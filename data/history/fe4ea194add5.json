@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "fe4ea194add5",
+    "source_url": "https://raw.githubusercontent.com/skovalsky/weather-api/bd6de467ba8f5e50d014bca70a3d6627db222525/___openapi.yaml__",
+    "fetched_at": "2026-05-18T15:17:00.584085+00:00",
+    "content_hash": "9cac05ef9ca95834d55381693ce09648ff4958b9a6f7672bcb10a733ecd2a6e0",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Weather Forecast API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

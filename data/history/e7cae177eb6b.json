@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e7cae177eb6b",
+    "source_url": "https://raw.githubusercontent.com/microcks/api-lifecycle/30ffa0f7b8b6966b4e461f9f2c9e22d35f442ac8/beer-catalog-demo/api-contracts/beer-catalog-api-swagger.json",
+    "fetched_at": "2026-05-18T15:18:34.484313+00:00",
+    "content_hash": "039f35c168f56422278fbbc412171ca53f650dcc5362a8655a2a780bd71b58c6",
+    "info_version": "0.9",
+    "status": "new",
+    "title": "Beer Catalog API",
+    "openapi_version": "swagger_2",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8f3d8077f6fb",
+    "source_url": "https://raw.githubusercontent.com/Klifu/API/24de468c605761fa41f96608580ba74f6f6411e0/swagger.json",
+    "fetched_at": "2026-05-18T15:18:43.895077+00:00",
+    "content_hash": "50203bb0892cac9f222c736372a8bcb2cfb4dd30b6d1bac562a7a89840559362",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Klifu datastore.",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

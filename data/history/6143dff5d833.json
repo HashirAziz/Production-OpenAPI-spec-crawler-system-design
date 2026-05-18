@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6143dff5d833",
+    "source_url": "https://raw.githubusercontent.com/hendripermana2021/BE_PSI/d546bb205095b22da245cf1f8df5fad4a1b793b4/OpenAPI.yaml",
+    "fetched_at": "2026-05-18T15:17:10.123625+00:00",
+    "content_hash": "bf7fa9597f80863f6cfedc42b9576b87a4fba804c4a50bd5e13f58083dba752d",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "MY SWEET SKRIPSI",
+    "openapi_version": "openapi_3",
+    "paths_count": 36,
+    "path_diff": null
+  }
+]

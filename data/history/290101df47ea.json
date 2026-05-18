@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "290101df47ea",
+    "source_url": "https://raw.githubusercontent.com/nawwwal/mymind/e62cfef9e0aae4586ee211d6e33b51f4cd77fd67/.agents/generated/mymind.openapi.yaml",
+    "fetched_at": "2026-05-18T15:17:04.059152+00:00",
+    "content_hash": "dfd0031941663a2ebef0cbc364ef222839930373804874554ae87cd21f675881",
+    "info_version": "0.4.0-alpha",
+    "status": "new",
+    "title": "mymind API",
+    "openapi_version": "openapi_3",
+    "paths_count": 19,
+    "path_diff": null
+  }
+]

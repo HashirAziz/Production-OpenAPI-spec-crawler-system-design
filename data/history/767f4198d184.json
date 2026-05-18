@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "767f4198d184",
+    "source_url": "https://raw.githubusercontent.com/MioraNomenjanahary/openAPI/ca6ebe9895666593d1da546590fbac9c2c5a8f68/openAPI.yaml",
+    "fetched_at": "2026-05-18T15:17:15.338284+00:00",
+    "content_hash": "674cdb16b2222f9418b0a6ded6850d316c324a3643ff150481b23bf4642b724e",
+    "info_version": "1.0.11",
+    "status": "new",
+    "title": "Onboarding API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "946a60350341",
+    "source_url": "https://raw.githubusercontent.com/ChelsieSalome/3855-lab8/1414b10b5a40de6d52e14abbc27b9d3d661fa449/receiver/receiver_openapi.yaml.backup",
+    "fetched_at": "2026-05-18T15:17:03.195073+00:00",
+    "content_hash": "afff318e4ede6f389a2952e194b03eb2a8cb2722beae72858c290f955b6173d7",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Enterprise System Monitoring API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "cc43cf01dc63",
+    "source_url": "https://raw.githubusercontent.com/lergo/lergo-ui/03f6eca214f27d5e31153a0bb270abb808a73f57/swagger.json",
+    "fetched_at": "2026-05-18T15:18:44.364530+00:00",
+    "content_hash": "76fa33d9ff7fa380fff9c8b6111c888be746e2b011f413866eda4d8459c89166",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "unknown",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

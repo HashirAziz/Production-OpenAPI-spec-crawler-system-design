@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1480a4c9d8c8",
+    "source_url": "https://raw.githubusercontent.com/Pham-Nguyen-Khoa/Project_Task_Management/3f4ebb71238472ca5d7d5455aa67956fb6f8851a/Swagger.yaml",
+    "fetched_at": "2026-05-18T15:17:56.474085+00:00",
+    "content_hash": "aec915af20c9b017dda1baa5165abf4ffd09b778519fea579ca3b960cf72610c",
+    "info_version": "1.0.11",
+    "status": "new",
+    "title": "TaskManagement - OpenAPI 3.0",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

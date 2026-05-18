@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "165acd53144d",
+    "source_url": "https://raw.githubusercontent.com/RizkiWahyudie/technicaltest-warehouse-be/c01a7c18cae14bf9216b3775101dc09c392b0ff0/swagger.yaml",
+    "fetched_at": "2026-05-18T15:18:04.791039+00:00",
+    "content_hash": "3a4c0fd17291837bdfae63b54af8b62b019c789cc2df886e497a5c3d22eb02ce",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Warehouse Management API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

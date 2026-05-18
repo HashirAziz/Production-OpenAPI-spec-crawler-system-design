@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "7444694eba08",
+    "source_url": "https://raw.githubusercontent.com/kikkia/yt-cipher/69b89f21210c7a6f81f5b572a6ca544508ca985f/docs/swagger.yaml",
+    "fetched_at": "2026-05-18T15:18:05.638416+00:00",
+    "content_hash": "14c9b3641129a4cc9b5c764bcce23095a516c1fbdad4c2b766972cafc1e47e3a",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "yt-cipher API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "95571291319b",
+    "source_url": "https://raw.githubusercontent.com/v0idhrt/shyyyy/dc207fd737a97977a7f9dbefac05654de5eb0341/docs/api-gateway.openapi.yaml.bak",
+    "fetched_at": "2026-05-18T15:16:59.067460+00:00",
+    "content_hash": "98bd606978ffd3381b9c2e06f80a0cb1ab2cb69ebb2086a18ece455e036b0194",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API Gateway",
+    "openapi_version": "openapi_3",
+    "paths_count": 24,
+    "path_diff": null
+  }
+]

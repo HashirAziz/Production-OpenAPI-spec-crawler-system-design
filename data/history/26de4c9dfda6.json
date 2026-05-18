@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "26de4c9dfda6",
+    "source_url": "https://raw.githubusercontent.com/tpsapi/PaymentGatewayApi/63234afac083f7d07bbaa770042a22609a3b39f1/swagger.yaml",
+    "fetched_at": "2026-05-18T15:18:04.561177+00:00",
+    "content_hash": "d03a13ea46943caba93c271ea38fa66ef0b572fd456cbac8dbd624fb2414ab4f",
+    "info_version": "1.0.1",
+    "status": "new",
+    "title": "TPS Payment Gateway Integration API 1.0",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

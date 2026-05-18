@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3d843db7b194",
+    "source_url": "https://raw.githubusercontent.com/eduair94/ci-validation/72cb7ae351446e314c6f3b24fcb852801c03a990/swagger.json",
+    "fetched_at": "2026-05-18T15:18:42.106797+00:00",
+    "content_hash": "e85caf8f467015190a5893542d385d8a496a308b54e9a3461ef1c9a02258d551",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "CI Validation API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

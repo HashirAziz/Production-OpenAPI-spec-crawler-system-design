@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "92d470e4a813",
+    "source_url": "https://raw.githubusercontent.com/DITAS-Project/BenchmarkScheduler/600e238b352c13eb23b27f40ee0cf2ff04f77ee5/swagger.json",
+    "fetched_at": "2026-05-18T15:18:43.689241+00:00",
+    "content_hash": "0e52689667885fe1a175dabc256bd70eeae3d9cbaf21e43cc7d5dbb07a2ba2b2",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Api Documentation",
+    "openapi_version": "swagger_2",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

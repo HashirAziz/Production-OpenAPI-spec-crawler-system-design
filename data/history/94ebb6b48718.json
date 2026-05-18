@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "94ebb6b48718",
+    "source_url": "https://raw.githubusercontent.com/mrcdevv/dotfiles/630dea877453bb726ab94476f1c00bbbceb59384/scoop/buckets/main/bucket/go-swagger.json",
+    "fetched_at": "2026-05-18T15:18:34.277532+00:00",
+    "content_hash": "b87108449c98bd1f1ee5e246704c818e39132bb1d4f97d301bbb29d5a0e02176",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "unknown",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

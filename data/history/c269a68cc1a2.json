@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c269a68cc1a2",
+    "source_url": "https://raw.githubusercontent.com/YagoLopez/nextjs-chatbot/a0e1863f6a6984cf6409e93aba8c371bf2c34c4e/public/openapi.json.copy",
+    "fetched_at": "2026-05-18T15:17:44.824750+00:00",
+    "content_hash": "84b207ee60e5f3437750caf9e4c1ff45e52b9a6025f7bbada4a41b91e8e4e2c1",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Next.js RAG Chatbot API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

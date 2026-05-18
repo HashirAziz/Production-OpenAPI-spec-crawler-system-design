@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "cff094bef5e5",
+    "source_url": "https://raw.githubusercontent.com/jonha20/Job_APP/b80735b5c607b4122842c3bd4b5e108f6fe8c014/swagger.json",
+    "fetched_at": "2026-05-18T15:18:38.557008+00:00",
+    "content_hash": "9c16e4dd347270ab6196589e51effd24c14530c9a82c9fbff81c888eeea17e0c",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Users API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

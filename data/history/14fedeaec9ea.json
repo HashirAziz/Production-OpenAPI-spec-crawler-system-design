@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "14fedeaec9ea",
+    "source_url": "https://raw.githubusercontent.com/Caiphe/Portal/659919526b1f9963f0f7e49491e3bb14e5642bcd/public/openapi/MessagingSMSAPI-swagger.yaml.bk",
+    "fetched_at": "2026-05-18T15:18:10.198958+00:00",
+    "content_hash": "224497334e44bdf7a0e36560fc3fa5e1916a01b2d2ce6e0d393683cd72933b28",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "MTN Messaging API",
+    "openapi_version": "swagger_2",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

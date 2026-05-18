@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3a0184ab6370",
+    "source_url": "https://raw.githubusercontent.com/Snookerrio/lab-666/4bd8257bceefbfd3fd50baae7a0ccb6f34223433/swagger.yaml",
+    "fetched_at": "2026-05-18T15:18:09.105622+00:00",
+    "content_hash": "5193a96786fdd98c1a0fd9ec0757630b1ae6b930531f154c7f986d241276f27a",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Notes API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

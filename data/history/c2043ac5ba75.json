@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c2043ac5ba75",
+    "source_url": "https://raw.githubusercontent.com/Port39/go-drink/abb06f2f4afc37d70a2750c4d9f988619f4a085d/openapi.yaml",
+    "fetched_at": "2026-05-18T15:17:15.779093+00:00",
+    "content_hash": "16b1194ba5d86094e7ab0fef53264325ef91f25c5d7467235fabb1025a48b829",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "go-drink API",
+    "openapi_version": "openapi_3",
+    "paths_count": 20,
+    "path_diff": null
+  }
+]

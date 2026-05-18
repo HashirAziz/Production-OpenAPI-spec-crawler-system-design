@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f543d8f78a46",
+    "source_url": "https://raw.githubusercontent.com/lordisrael/QR_Attendance_system-/8dee722c3ebf0f0b666b95d5a1695f0f3f7b4a62/swagger.yaml",
+    "fetched_at": "2026-05-18T15:18:09.323990+00:00",
+    "content_hash": "1d737c1fcd1e9cc48a5828409e9444d9311bb6bb526bc35607024f3ada664dd7",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "CPE_QR",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

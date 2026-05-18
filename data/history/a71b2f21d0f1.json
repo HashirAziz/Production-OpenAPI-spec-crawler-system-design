@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a71b2f21d0f1",
+    "source_url": "https://raw.githubusercontent.com/colllijo/M183-CTF/e1c5e020920703f03f298599ccb643a2f8c17b9b/shared/openapi/openapi.json.bak",
+    "fetched_at": "2026-05-18T15:17:33.134713+00:00",
+    "content_hash": "3c3c8eefb918035d928f6d8daef106d398d754d3bbbe0ba0432910c9494816e8",
+    "info_version": "v0",
+    "status": "new",
+    "title": "OpenAPI definition",
+    "openapi_version": "openapi_3",
+    "paths_count": 13,
+    "path_diff": null
+  }
+]

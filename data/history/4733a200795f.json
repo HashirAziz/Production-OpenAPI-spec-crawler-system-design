@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4733a200795f",
+    "source_url": "https://raw.githubusercontent.com/plutoniumship/BugenceEditorConsole/4de1568dfae6c086aa52d24e05270703c82444ee/BugenceEditConsole/OpenApi/content.openapi.yaml.bak",
+    "fetched_at": "2026-05-18T15:17:06.803413+00:00",
+    "content_hash": "e81ae8af0790b61a3d0c9eb323e3d4af120fa3727400479211c1c626729a6372",
+    "info_version": "0.3.0",
+    "status": "new",
+    "title": "Bugence Content API",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

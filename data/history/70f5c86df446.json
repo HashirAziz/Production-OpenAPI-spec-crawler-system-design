@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "70f5c86df446",
+    "source_url": "https://raw.githubusercontent.com/Caiphe/Portal/659919526b1f9963f0f7e49491e3bb14e5642bcd/public/openapi/CustomerSubscriptionsAPI-swagger.yaml",
+    "fetched_at": "2026-05-18T15:17:58.483780+00:00",
+    "content_hash": "05b06e12937feb903f469e30af62755ee594c34a6fd91a20009ed33147854bab",
+    "info_version": "v1",
+    "status": "new",
+    "title": "subscriptionAPI",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "cc4b12d2ec52",
+    "source_url": "https://raw.githubusercontent.com/mobiledgex/edge-cloud-doc/93fff862f4960023f211ca1801665f4153ef3940/api/client.swagger.json",
+    "fetched_at": "2026-05-18T15:18:36.278471+00:00",
+    "content_hash": "d3f1b9421847c7166c6ac0f3b034c1c2f91735dd6140219bad83ff5589065207",
+    "info_version": "2.0",
+    "status": "new",
+    "title": "MobiledgeX Client API",
+    "openapi_version": "swagger_2",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "92e2dd2888f5",
+    "source_url": "https://raw.githubusercontent.com/pabloripoll/social-feed-apirest-jwt-nginx-php-postgres-symfony-7/416595ee204e687914cbebaec5770aa8b475c610/openapi.yaml.sample",
+    "fetched_at": "2026-05-18T15:17:15.183932+00:00",
+    "content_hash": "2bc8222aec06fc8e7f51b0b4e92233bef7f9e36381bdb520aea9bb7cd112e6b1",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Member Authentication API",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

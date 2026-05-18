@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0def58252eee",
+    "source_url": "https://raw.githubusercontent.com/RaceHero/api/a9ad53da815e5d0b761ba48dc2da267cac19f752/swagger.yaml",
+    "fetched_at": "2026-05-18T15:18:13.818059+00:00",
+    "content_hash": "28b8e89ddf357900cb2b490a412ffd16ecbb77930f6295e370d027fb7d27dccd",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "RaceHero",
+    "openapi_version": "swagger_2",
+    "paths_count": 23,
+    "path_diff": null
+  }
+]
