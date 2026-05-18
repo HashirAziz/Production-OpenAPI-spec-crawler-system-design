@@ -1,0 +1,53 @@
+{
+  "a3f9b2c11d04": {
+    "spec_id": "a3f9b2c11d04",
+    "source_url": "https://raw.githubusercontent.com/swagger-api/swagger-petstore/master/src/main/resources/openapi.yaml",
+    "title": "Swagger Petstore - OpenAPI 3.0",
+    "description": "This is a sample Pet Store Server based on the OpenAPI 3.0 specification.",
+    "openapi_version": "openapi_3",
+    "servers": ["https://petstore3.swagger.io/api/v3"],
+    "tags": ["pet", "store", "user"],
+    "paths_count": 13,
+    "latest_info_version": "1.0.11",
+    "latest_hash": "8b4f2a1c9e7d3b6f0a5c8e1d4f7b2a9c3e6d1b8f5a2c7e0d3b6f9a2c5e8d1b4",
+    "status": "updated",
+    "first_seen_at": "2025-05-01T06:00:00+00:00",
+    "last_updated_at": "2025-05-17T06:00:00+00:00",
+    "fetched_at": "2025-05-17T06:03:12+00:00",
+    "history_file": "history/a3f9b2c11d04.json"
+  },
+  "d71c4e8f2b09": {
+    "spec_id": "d71c4e8f2b09",
+    "source_url": "https://raw.githubusercontent.com/APIs-guru/openapi-directory/main/APIs/github.com/1.1.4/openapi.yaml",
+    "title": "GitHub v3 REST API",
+    "description": "GitHub's v3 REST API.",
+    "openapi_version": "openapi_3",
+    "servers": ["https://api.github.com"],
+    "tags": ["actions", "apps", "checks", "code-scanning", "codes-of-conduct", "emojis"],
+    "paths_count": 537,
+    "latest_info_version": "1.1.4",
+    "latest_hash": "3c7a1e9f4d2b8c6e0f5a3d1b7e9c4f2a6b3d8e1c5f7a2b4d6e8c0f3a5b7d9e",
+    "status": "unchanged",
+    "first_seen_at": "2025-04-15T06:00:00+00:00",
+    "last_updated_at": "2025-04-15T06:00:00+00:00",
+    "fetched_at": "2025-05-17T06:01:44+00:00",
+    "history_file": "history/d71c4e8f2b09.json"
+  },
+  "b82e5f3a7c16": {
+    "spec_id": "b82e5f3a7c16",
+    "source_url": "https://raw.githubusercontent.com/some-user/legacy-payments-api/main/swagger.yaml",
+    "title": "Legacy Payments API",
+    "description": "Internal payments processing API (Swagger 2.0).",
+    "openapi_version": "swagger_2",
+    "servers": ["https://payments.internal.example.com/api/v1"],
+    "tags": ["payments", "refunds", "webhooks"],
+    "paths_count": 24,
+    "latest_info_version": "2.3.1",
+    "latest_hash": "1a5c9e3f7b2d6e0a4c8f2b6d0e4a8c2f6b0d4e8a2c6f0b4d8e2a6c0f4b8d2e",
+    "status": "new",
+    "first_seen_at": "2025-05-17T06:00:00+00:00",
+    "last_updated_at": "2025-05-17T06:00:00+00:00",
+    "fetched_at": "2025-05-17T06:04:55+00:00",
+    "history_file": "history/b82e5f3a7c16.json"
+  }
+}

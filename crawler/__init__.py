@@ -1,0 +1,1 @@
+"""openapi-spec-crawler — discovers, tracks, and diffs OpenAPI specs from GitHub."""
