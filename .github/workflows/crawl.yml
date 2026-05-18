@@ -70,7 +70,7 @@ jobs:
       # ----------------------------------------------------------------
       - name: Run crawler
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.CRAWLER }}
         run: |
           python scripts/run_crawler.py \
             --max-results ${{ github.event.inputs.max_results || '100' }} \
