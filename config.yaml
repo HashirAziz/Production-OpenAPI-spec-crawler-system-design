@@ -1,0 +1,30 @@
+# config.yaml — OpenAPI Spec Crawler runtime configuration
+#
+# This file controls crawler behaviour without requiring code changes.
+# Environment variables (GITHUB_TOKEN) take precedence over values here.
+
+crawler:
+  # GitHub Code Search queries.  Add patterns to expand discovery surface.
+  search_queries:
+    - "filename:openapi.yaml"
+    - "filename:openapi.json"
+    - "filename:swagger.yaml"
+    - "filename:swagger.json"
+
+  # Maximum results per search query (GitHub hard limit: 1000)
+  max_results_per_query: 200
+
+  # HTTP settings
+  request_timeout_seconds: 20
+  max_retries: 3
+  inter_page_sleep_seconds: 1.0
+
+storage:
+  # Relative to project root
+  data_dir: "data"
+  catalog_filename: "catalog.json"
+  history_subdir: "history"
+
+logging:
+  # "debug" | "info" | "warning" | "error"
+  level: "info"
