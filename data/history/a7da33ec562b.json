@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a7da33ec562b",
+    "source_url": "https://raw.githubusercontent.com/Finikfin/AI-COPILOT/0be92526a67554ca471b83c5044468dbde981abf/frontend/public/base-swagger.yaml",
+    "fetched_at": "2026-05-19T09:36:14.131687+00:00",
+    "content_hash": "1091a8d8cc1bd3504e29bd5ed186ebd8ce98763f4f76a65d3caeca5aabe85130",
+    "info_version": "1.1.0",
+    "status": "new",
+    "title": "Travel & CRM Pipeline API",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

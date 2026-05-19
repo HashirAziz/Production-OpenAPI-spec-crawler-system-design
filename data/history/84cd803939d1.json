@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "84cd803939d1",
+    "source_url": "https://raw.githubusercontent.com/popopapi/bkk-demo2/de96bc01786038cda72ac90b84f26a543ac69e4e/futar-openapi.yaml",
+    "fetched_at": "2026-05-19T09:35:31.929745+00:00",
+    "content_hash": "477966db474a80e98d4b2922b32c10a7288cb3f8eecc12c7453da9147a7d1d8e",
+    "info_version": "1.0.1",
+    "status": "new",
+    "title": "realCity Query Server API",
+    "openapi_version": "openapi_3",
+    "paths_count": 26,
+    "path_diff": null
+  }
+]

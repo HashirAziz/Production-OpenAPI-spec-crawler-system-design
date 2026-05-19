@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "301249012a7a",
+    "source_url": "https://raw.githubusercontent.com/avsm/oxmono/4e3b745fb95d66fa0e13601d7fa7aeaed7962043/avsm/typesense/typesense-openapi.yaml",
+    "fetched_at": "2026-05-19T09:35:23.583967+00:00",
+    "content_hash": "bebadba741f4fb936b81656157dd0cc958e2688da62e5f77f2c1f96520310799",
+    "info_version": "30.0",
+    "status": "new",
+    "title": "Typesense API",
+    "openapi_version": "openapi_3",
+    "paths_count": 46,
+    "path_diff": null
+  }
+]

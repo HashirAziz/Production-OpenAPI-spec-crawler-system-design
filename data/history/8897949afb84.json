@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8897949afb84",
+    "source_url": "https://raw.githubusercontent.com/Fish-Place/fp-swagger/cdc21e237f40cdc25b28f8b3a5eb8a79361adda4/swagger.yaml",
+    "fetched_at": "2026-05-19T09:36:22.435512+00:00",
+    "content_hash": "d99c8f12ad48e785fcb47a47e9c305220cc5969274bd9a853d94e44be5aa48af",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Fish Place",
+    "openapi_version": "openapi_3",
+    "paths_count": 53,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4328a8718784",
+    "source_url": "https://raw.githubusercontent.com/kas021/CMS-REPO/32e6d40aac974297bc8a534416f91b7dee87a8a7/backend/openapi.json.txt",
+    "fetched_at": "2026-05-19T09:35:54.208367+00:00",
+    "content_hash": "3163f2fd0f74c0380b400e17fbefc695cb58b1279c53fa6b0cbd56682c8086de",
+    "info_version": "4.0.4",
+    "status": "new",
+    "title": "Logistics & Invoice CMS API",
+    "openapi_version": "openapi_3",
+    "paths_count": 12,
+    "path_diff": null
+  }
+]

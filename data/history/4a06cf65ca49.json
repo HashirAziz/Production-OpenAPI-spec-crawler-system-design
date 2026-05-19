@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4a06cf65ca49",
+    "source_url": "https://raw.githubusercontent.com/RafaelAPNascimento/LogisticTest/20b190206b280ebc0306a7b6bd1dcc533b83fe81/swagger.yaml",
+    "fetched_at": "2026-05-19T09:36:19.793649+00:00",
+    "content_hash": "740ad786c37d35ebe2e5732ca07eacf979d6c081e3797c024e86c5d8c722c350",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "LOL Foods API",
+    "openapi_version": "swagger_2",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

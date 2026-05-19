@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1737fdd62905",
+    "source_url": "https://raw.githubusercontent.com/supabase/auth/cda62a9c215ea1b8eb7ab281e0db549a2c9e4b46/openapi.yaml",
+    "fetched_at": "2026-05-19T09:35:19.428759+00:00",
+    "content_hash": "d3f7d49a0bd6be4d15241d1c9e3f753e991a7e1ec41fa2c1e85f12503f568ec2",
+    "info_version": "latest",
+    "status": "new",
+    "title": "Supabase Auth REST API",
+    "openapi_version": "openapi_3",
+    "paths_count": 43,
+    "path_diff": null
+  }
+]

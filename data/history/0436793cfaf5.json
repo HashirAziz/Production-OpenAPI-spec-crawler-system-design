@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0436793cfaf5",
+    "source_url": "https://raw.githubusercontent.com/osu-mist/beaver-bus-api/4d2b81bc37bd3d874be41c60a525b0c3cf41a9e7/swagger.yaml",
+    "fetched_at": "2026-05-19T09:36:20.590842+00:00",
+    "content_hash": "2b1d52a29173fb97b132ddfae80107b521d6d16856f2782e1f40fbc23cc5c368",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Beaver Bus API",
+    "openapi_version": "swagger_2",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

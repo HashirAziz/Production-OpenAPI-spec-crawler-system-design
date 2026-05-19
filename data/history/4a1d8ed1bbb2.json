@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4a1d8ed1bbb2",
+    "source_url": "https://raw.githubusercontent.com/MotWakorb/guidearr/f37761775cf5c58ba6035a407a2f023698719dfa/swagger.json",
+    "fetched_at": "2026-05-19T09:36:45.513856+00:00",
+    "content_hash": "798d45a8c1e30c6259d6eb6c4fc16080d2bb26fd85e779dd7e045d145bbde0c6",
+    "info_version": "v1",
+    "status": "new",
+    "title": "Dispatcharr API",
+    "openapi_version": "swagger_2",
+    "paths_count": 141,
+    "path_diff": null
+  }
+]

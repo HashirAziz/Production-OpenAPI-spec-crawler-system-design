@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ac1236023f00",
+    "source_url": "https://raw.githubusercontent.com/ECECloudAPI/webAPI/61d070cc8cbf71dd27a4d40f858d330c05d76b5b/python-flask-server/swagger/swagger.yaml~",
+    "fetched_at": "2026-05-19T09:36:12.022478+00:00",
+    "content_hash": "1654c6cbe64f02cbc356e9ed04219e25971d2e33eba1c35f6fe3ab742fe00f20",
+    "info_version": "1.0.2",
+    "status": "new",
+    "title": "CloudServicesAPI",
+    "openapi_version": "swagger_2",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

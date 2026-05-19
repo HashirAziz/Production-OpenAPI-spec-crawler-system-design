@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "283e39393a51",
+    "source_url": "https://raw.githubusercontent.com/nikolaev-dm/doc/402f247e9611713ad6dc81f18102a6b349d5217a/swagger.yaml",
+    "fetched_at": "2026-05-19T09:36:24.633347+00:00",
+    "content_hash": "cad8486504f90abc57c89f1a5c86c475a1b157b84cc1364581f37eba69de79ee",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": null,
+    "openapi_version": "swagger_2",
+    "paths_count": 27,
+    "path_diff": null
+  }
+]

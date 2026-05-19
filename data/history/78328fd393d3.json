@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "78328fd393d3",
+    "source_url": "https://raw.githubusercontent.com/Champion1102/filmi-gpt-backend/6c3a3737ac72e60b4d666dae493952b7ac0f3a33/swagger.yaml",
+    "fetched_at": "2026-05-19T09:36:17.459873+00:00",
+    "content_hash": "916aef4ef6f6e7a6fc98b1a63be4e71a5f5a7cbf7268ae22cc4e235d554e3f48",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Authentication API",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c1afb5659fa5",
+    "source_url": "https://raw.githubusercontent.com/Bryand22/SportRadar2/25c26f2e9dd7d855ebc637b1f12a8978aa84afc8/swagger.yaml",
+    "fetched_at": "2026-05-19T09:36:21.270434+00:00",
+    "content_hash": "4f3217c0ac71a24528928e68053d88cf1e7375b6fd7e91ac0d3d4e904ea3c68b",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "SportRadar API",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

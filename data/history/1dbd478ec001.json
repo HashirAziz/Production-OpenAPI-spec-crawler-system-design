@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1dbd478ec001",
+    "source_url": "https://raw.githubusercontent.com/yantrashala/loopback-models-commerce/e2866a64b1b1d5ab8b31afe749c167427ce37df6/swagger.json",
+    "fetched_at": "2026-05-19T09:36:48.069753+00:00",
+    "content_hash": "25d078345970d4ee03696e14afe875606574f7daf9e425528084d33981b284d6",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "Commerce Yaml",
+    "openapi_version": "swagger_2",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

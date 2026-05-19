@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e223461d4f0a",
+    "source_url": "https://raw.githubusercontent.com/thalles-victor/maik-bank-backend/e01280f3bda7fc0fa2e2824a56b1d3f2b7e9c113/swagger.yaml",
+    "fetched_at": "2026-05-19T09:36:18.403138+00:00",
+    "content_hash": "66c3fe05c36810f7ec1dfc72590fb0d7814d5c83f03723e6c8bac8dfbdfa3b45",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Swagger Petstore - OpenAPI 3.0",
+    "openapi_version": "openapi_3",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

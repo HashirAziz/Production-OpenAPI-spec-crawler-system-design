@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "90ff507bdcf9",
+    "source_url": "https://raw.githubusercontent.com/CothamTechnologies/OpenAPIFiles/95e10682199ebe523a058568ba2b47640a0df02f/Templates/getAddressIO/getAddressIO-swagger.json",
+    "fetched_at": "2026-05-19T09:36:46.716574+00:00",
+    "content_hash": "e115d7d94ba19635b77afeebac57b477c7f3e9144715c51ee25946a0d2b8049e",
+    "info_version": "v1",
+    "status": "new",
+    "title": "api.getaddres.io",
+    "openapi_version": "swagger_2",
+    "paths_count": 12,
+    "path_diff": null
+  }
+]

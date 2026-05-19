@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1e7ea33f7932",
+    "source_url": "https://raw.githubusercontent.com/saber13812002/bot-generator-bale-telegram-laravel-10/758902b5d5902b00ea47b7cf939b97c61cd81997/swagger.yaml",
+    "fetched_at": "2026-05-19T09:36:15.344909+00:00",
+    "content_hash": "ddb95487390751b098bee9bc10a4c01361432f73296a701f36bcd98760cecf2a",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Mission Management API",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f744b2e31f3d",
+    "source_url": "https://raw.githubusercontent.com/nfriend21/asf_apidocs/bea91a12c2ca6c6c03e3db3694a46b3d7ebc065e/swagger.yaml",
+    "fetched_at": "2026-05-19T09:36:21.119250+00:00",
+    "content_hash": "b8cb329243dc3d5f09f8f4a0d741e8848831731488eb8817b20132994f509b1d",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Art Storefronts Web API",
+    "openapi_version": "swagger_2",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

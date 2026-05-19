@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "20b543c65f79",
+    "source_url": "https://raw.githubusercontent.com/neilfarmer/memoire/f05d85df844a3d1138d78fc3b879a9e4e9e85b77/frontend/openapi.yaml.tpl",
+    "fetched_at": "2026-05-19T09:35:24.219451+00:00",
+    "content_hash": "385e6cdd086d670b5716b3df79e2ffafb87b28a9a097a5a65f49afa9d7ed8a63",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Memoire API",
+    "openapi_version": "openapi_3",
+    "paths_count": 60,
+    "path_diff": null
+  }
+]

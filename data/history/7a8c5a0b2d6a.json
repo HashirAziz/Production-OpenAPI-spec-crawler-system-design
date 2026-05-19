@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "7a8c5a0b2d6a",
+    "source_url": "https://raw.githubusercontent.com/JPinkney/devworkspace-generated-client/86a6d77bedcfe1c38b8376bbed766b31953c0cee/swagger.json.unprocessed",
+    "fetched_at": "2026-05-19T09:36:42.868655+00:00",
+    "content_hash": "5ae73ae892dba59c6bdd517962d5b748b4c8f7a7e28b68a2ef8a6033c3cbb697",
+    "info_version": "unversioned",
+    "status": "new",
+    "title": "Kubernetes",
+    "openapi_version": "swagger_2",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

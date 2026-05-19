@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "118e2d4e5022",
+    "source_url": "https://raw.githubusercontent.com/Sauhard04/endpoint-health-monitor/ad360772014dc7632aa849e85649cf02b9daa7b4/appPackage/apiSpecificationFile/openapi.yaml.original",
+    "fetched_at": "2026-05-19T09:35:25.467185+00:00",
+    "content_hash": "90e5e3291775f3a305c25c9b443b7ed951c1dd8af3de16981b3edfe258ca3ae1",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Endpoint Health API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

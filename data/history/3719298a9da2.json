@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3719298a9da2",
+    "source_url": "https://raw.githubusercontent.com/shiukaheng/todo/505d3376265d0a5318596d795351b333bdf24842/client/openapi.json.bak",
+    "fetched_at": "2026-05-19T09:35:46.361963+00:00",
+    "content_hash": "9274669be4dde65a7a14c8d8676854b4a49aa5d638bf0feda6f53d244611cc62",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "DAG Todo API",
+    "openapi_version": "openapi_3",
+    "paths_count": 15,
+    "path_diff": null
+  }
+]

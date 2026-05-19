@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4ebaf334f18f",
+    "source_url": "https://raw.githubusercontent.com/Fm-s/open-nfse/a1629702e54f94fbb0b16cff09c1b3aa7f0a5f2c/specs/adn-contribuinte.openapi.json",
+    "fetched_at": "2026-05-19T09:35:56.835489+00:00",
+    "content_hash": "fb17a4256e4b96b74544bd0ef88e05660771276bb949ec07d6cc547bcc7c128c",
+    "info_version": "v1",
+    "status": "new",
+    "title": "API NFS-e - ADN Contribuinte",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "28c3ad4a73bf",
+    "source_url": "https://raw.githubusercontent.com/jvario/intent-classification/e1795648de68bac4546f2966d0bdefe2a5a1e737/swagger.yaml",
+    "fetched_at": "2026-05-19T09:36:26.388236+00:00",
+    "content_hash": "92cbc5045fb2ab4b0ed28635dd75e0499231db9b29829f549c04fdd28e80ebe6",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Intent Classification API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

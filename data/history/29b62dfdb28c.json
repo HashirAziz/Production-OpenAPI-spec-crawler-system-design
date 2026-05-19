@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "29b62dfdb28c",
+    "source_url": "https://raw.githubusercontent.com/usernamap/gh-insight-engine/0e5ca8594b704955514c4863d059f6786c506dd7/openapi.yaml.backup",
+    "fetched_at": "2026-05-19T09:35:33.103198+00:00",
+    "content_hash": "a36bb6dafe95b7da82e24ebe4133526f030ecda412e32c6fede4fa2167b1476a",
+    "info_version": "0.1.77",
+    "status": "new",
+    "title": "GitHub Insight Engine API",
+    "openapi_version": "openapi_3",
+    "paths_count": 12,
+    "path_diff": null
+  }
+]

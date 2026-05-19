@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "473f32499223",
+    "source_url": "https://raw.githubusercontent.com/va5ja/codingtask/651e127d366f6635185417f0c767134a88213fd8/swagger.yaml",
+    "fetched_at": "2026-05-19T09:36:27.055545+00:00",
+    "content_hash": "017bd5257b306226e6daddcf894d4a5ed0c326e3efc3a6ac24e9e76f94ce4f01",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Coding Task",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

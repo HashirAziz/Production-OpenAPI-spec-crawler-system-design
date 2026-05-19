@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "fc825145e3e9",
+    "source_url": "https://raw.githubusercontent.com/andrewermel/SaaS_ErmelTech/0ba2029d71f052ee52be061e49ff3eba3637b4ce/Swagger.yaml",
+    "fetched_at": "2026-05-19T09:36:18.752348+00:00",
+    "content_hash": "cc8c9d17bde8fd75e49727572980030c53b9f33d2f077607c3ae14c5511ee10c",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "BlackLanches SaaS API",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

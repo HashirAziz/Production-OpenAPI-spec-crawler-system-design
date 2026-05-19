@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "91adf5b30a8a",
+    "source_url": "https://raw.githubusercontent.com/cschneider/redocly-learning/9cf203362ac8e50e2ca870414017d599ff418867/openapi/openapi.yaml.old",
+    "fetched_at": "2026-05-19T09:35:17.134754+00:00",
+    "content_hash": "092676177fc484b33c5171929f653c807149d34b87c096f79b0b6a28e19a4d66",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "AEM Content Fragment APIs",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

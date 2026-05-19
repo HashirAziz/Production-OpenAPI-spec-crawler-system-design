@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ea488fd629ff",
+    "source_url": "https://raw.githubusercontent.com/cardanoapi/mempool-explorer/44224d900864430ebb0fcb245a4a1f6002e5e44e/server/swagger.json",
+    "fetched_at": "2026-05-19T09:36:43.730255+00:00",
+    "content_hash": "29465ad36c0baf01a684acc977907c19952830145868117d0de751e935575a45",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "My User Project CRUD",
+    "openapi_version": "swagger_2",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

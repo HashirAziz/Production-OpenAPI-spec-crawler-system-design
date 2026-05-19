@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "16113acda950",
+    "source_url": "https://raw.githubusercontent.com/supersede-project/replan_optimizer/01c8a8ccb18549d55e45cb199b82fff8518c396a/swagger.yaml",
+    "fetched_at": "2026-05-19T09:36:25.413046+00:00",
+    "content_hash": "378dea6934aa5ab2c2162e5b92820e73485bbadfbfa8cb29ada4d4093528895d",
+    "info_version": "1.1.0",
+    "status": "new",
+    "title": "SUPERSEDE ReleasePlanner. Wrapper of Valentin's Implementation",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

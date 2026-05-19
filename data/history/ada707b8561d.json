@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ada707b8561d",
+    "source_url": "https://raw.githubusercontent.com/BartSoj/API-Health-Checker/3460ef916e287f4d82ab975495e958feef1e3be1/api_specs/script_openapi.json",
+    "fetched_at": "2026-05-19T09:35:57.884802+00:00",
+    "content_hash": "e3bd669c7c7461fef0c99211d00d7aee3e4d4e667f58adcb319aecf118beec75",
+    "info_version": "v1",
+    "status": "new",
+    "title": "Apps Script API",
+    "openapi_version": "openapi_3",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "204bec024e0d",
+    "source_url": "https://raw.githubusercontent.com/michaelw/template-go-api-service/b8aca23d39574ad7626a982e4ed187b1d3e33b54/template-gin-api/api/openapi.yaml.jinja",
+    "fetched_at": "2026-05-19T09:35:16.947633+00:00",
+    "content_hash": "621f63a38571eecdbb8bab03896e40ccf7bfed73c89cedad1291e8a143bcfc76",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "{{ project_name }}",
+    "openapi_version": "openapi_3",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

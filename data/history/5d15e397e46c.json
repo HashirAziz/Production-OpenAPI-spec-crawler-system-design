@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5d15e397e46c",
+    "source_url": "https://raw.githubusercontent.com/LePetitBloc/bitcoin-swagger/19b26a35d4e74e0a7405162d08cc23f52f32fd7d/swagger.json",
+    "fetched_at": "2026-05-19T09:36:48.288608+00:00",
+    "content_hash": "fcfe95c81e21c3a9e017ab725d4a625cd843109a35b224d12c395f4d03a9a13c",
+    "info_version": "0.16",
+    "status": "new",
+    "title": "Bitcoind",
+    "openapi_version": "swagger_2",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

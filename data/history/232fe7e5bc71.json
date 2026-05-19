@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "232fe7e5bc71",
+    "source_url": "https://raw.githubusercontent.com/jwehlen-cell/gms-iei-api/2b15bd7cbb2aebc83ea25f0166abbcd345bb8251/openapi.yaml.backup",
+    "fetched_at": "2026-05-19T09:35:28.512111+00:00",
+    "content_hash": "0374617946bec5e56298770ceb949b1b71460c3deb907dd109272639a66ce20a",
+    "info_version": "1.0.0-combined",
+    "status": "new",
+    "title": "GMS IEI API (Combined)",
+    "openapi_version": "openapi_3",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "96affd9dbb82",
+    "source_url": "https://raw.githubusercontent.com/wuulong/gov_openapi_agent/0a4737c73a1925946fbe7ea181bee91feecb6a54/config/openapi_specs/%E4%BA%A4%E9%80%9A%E9%83%A8%E9%81%8B%E8%BC%B8%E8%B3%87%E6%96%99%E6%B5%81%E9%80%9A%E6%9C%8D%E5%8B%99%E5%B9%B3%E5%8F%B0_openapi.json",
+    "fetched_at": "2026-05-19T09:36:02.304150+00:00",
+    "content_hash": "f54ef47c4afaa5ca77a369f03e45e7944ecdf1c012fdb711abb57cb34febe247",
+    "info_version": "v2",
+    "status": "new",
+    "title": "公共運輸-公車",
+    "openapi_version": "openapi_3",
+    "paths_count": 49,
+    "path_diff": null
+  }
+]

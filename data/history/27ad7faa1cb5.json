@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "27ad7faa1cb5",
+    "source_url": "https://raw.githubusercontent.com/sk-sohel01/rbcpoc/5ebf69fb23728d76b36b135343a67a1ca87c4f6e/position-service/openapi.yaml.bak",
+    "fetched_at": "2026-05-19T09:35:33.797460+00:00",
+    "content_hash": "5f792154e147e78ad8b37d1a277825469e2d464ce32a0207ebe241e269d15cdd",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "FINOS TraderX Position Service",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

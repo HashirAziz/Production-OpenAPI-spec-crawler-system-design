@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f42c7c945782",
+    "source_url": "https://raw.githubusercontent.com/ChouYuanjue/NOVA_Mock_Service/90c429b773782f071c9f9879e4e14fcbcf6e432c/contracts/openapi.yaml.bak",
+    "fetched_at": "2026-05-19T09:35:28.243407+00:00",
+    "content_hash": "97f3f940d171e416ca80908e69477ee5f3628a2a76e7ad7a9b5730fecea98947",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Nova 信息流 API",
+    "openapi_version": "openapi_3",
+    "paths_count": 22,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "95cbca9cc197",
+    "source_url": "https://raw.githubusercontent.com/rocklambros/nist-csf-2-mcp-server/05fe1cb74b8114985c2c3920094805df77b06d98/openapi.yaml",
+    "fetched_at": "2026-05-19T09:35:26.349484+00:00",
+    "content_hash": "baea774bf5928d26736455dcf54f90a597d8660787f9ce3aa5025ff7d143ce2d",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "NIST CSF 2.0 MCP Server API",
+    "openapi_version": "openapi_3",
+    "paths_count": 30,
+    "path_diff": null
+  }
+]

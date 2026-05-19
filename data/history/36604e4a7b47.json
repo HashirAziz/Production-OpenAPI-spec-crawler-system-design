@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "36604e4a7b47",
+    "source_url": "https://raw.githubusercontent.com/Dale-Harrison/multi-cloud-test/2b624deb64c0edca792c34cd52db0239118e33a1/terraform/gcp/openapi.yaml.tftpl",
+    "fetched_at": "2026-05-19T09:35:22.393399+00:00",
+    "content_hash": "703625ccf932d24a4f46e05845b2ccee7cc516c3992e36d1df550159060004ef",
+    "info_version": "1.0.1",
+    "status": "new",
+    "title": "Spring Boot Hello API",
+    "openapi_version": "swagger_2",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9f6ebdf0931f",
+    "source_url": "https://raw.githubusercontent.com/JhaNaman9/Backend-Sports-Academy/22e0904ee85832030c687bda1134dfb08b066698/docs/swagger.yaml.bak",
+    "fetched_at": "2026-05-19T09:36:14.663922+00:00",
+    "content_hash": "17c9632de564075060083ea4eae4b63eaaf010ad2a069a4d1b50429ae4f612d2",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Sports Academy Management API",
+    "openapi_version": "openapi_3",
+    "paths_count": 15,
+    "path_diff": null
+  }
+]

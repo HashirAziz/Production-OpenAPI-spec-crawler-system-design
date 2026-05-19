@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "54fb7d9fff63",
+    "source_url": "https://raw.githubusercontent.com/fredlcore/BSB-LAN/3af2339460ead4ab561ab75cb877b9a26848c495/openapi.yaml",
+    "fetched_at": "2026-05-19T09:35:21.024246+00:00",
+    "content_hash": "8c5ad055002a18aca5135a5410a16cb56b0188b16748fa3a560140702a8869e7",
+    "info_version": "2.4",
+    "status": "new",
+    "title": "BSB-LAN API",
+    "openapi_version": "openapi_3",
+    "paths_count": 15,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f1018ce4a6e9",
+    "source_url": "https://raw.githubusercontent.com/OpenReqEU/mallikas/254b62e0741cd5fdabfffaaca14d60c0f851c35b/swagger.yaml",
+    "fetched_at": "2026-05-19T09:36:20.163894+00:00",
+    "content_hash": "6f7e2c68103206981b120baf9759b33e3a38216b2283c8a2add6f125fc9a423b",
+    "info_version": "1.11",
+    "status": "new",
+    "title": "Mallikas",
+    "openapi_version": "swagger_2",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6719427aedd6",
+    "source_url": "https://raw.githubusercontent.com/roshitx/stockradar/b2fc0f739d40ede3cf502b1b1f3776f656050c29/datasaham-openapi.json",
+    "fetched_at": "2026-05-19T09:35:55.792117+00:00",
+    "content_hash": "9e38370597d35a30911a6b3da3bf4816dd504a08c712cd9eff074b79482bc94a",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Datasaham.io API",
+    "openapi_version": "openapi_3",
+    "paths_count": 68,
+    "path_diff": null
+  }
+]

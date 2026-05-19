@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6a141210580c",
+    "source_url": "https://raw.githubusercontent.com/bitNathan/ECE46100-phase-2/8ca1d64c044962dafffa0253c6a00042f892348d/OpenAPI.yaml",
+    "fetched_at": "2026-05-19T09:35:15.048913+00:00",
+    "content_hash": "214b285dadb8635e11cf152743017c338bc5911c93c84ee800e31c49d40619cf",
+    "info_version": "2.0.0",
+    "status": "new",
+    "title": "ECE 461 - Fall 2024 - Project Phase 2",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

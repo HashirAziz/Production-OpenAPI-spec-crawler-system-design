@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "fce9d76af85c",
+    "source_url": "https://raw.githubusercontent.com/dlyubanevich/sweet/52f88b13ebb0c685ff440cde09745bb3c6ae7383/examples/swagger.json",
+    "fetched_at": "2026-05-19T09:36:51.603332+00:00",
+    "content_hash": "164a09c124fd4fee89cb7037c440a294c5527a00d1ede6b7bc375d9a740d26ff",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "SWEET EXAMPLES",
+    "openapi_version": "openapi_3",
+    "paths_count": 16,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "242ecc61325a",
+    "source_url": "https://raw.githubusercontent.com/Ahmed-Raouf-Metwally/Jobs-API/4e877c5db76cbcc07840ad655f9775ce835b8ee4/swagger.yaml",
+    "fetched_at": "2026-05-19T09:36:26.555970+00:00",
+    "content_hash": "f4954a9d0ace968236924feaecddb63f893dfe0cd4c29cdaa77fe11c09558938",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Jobs API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]
