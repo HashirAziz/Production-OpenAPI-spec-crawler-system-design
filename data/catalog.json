@@ -89,7 +89,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:03:48.445671+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-05-19T10:34:37.457807+00:00",
+    "fetched_at": "2026-05-19T10:36:04.584203+00:00",
     "history_file": "history/e5f26fc9de90.json"
   },
   "022a1111160b": {
@@ -109,7 +109,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:03:49.411695+00:00",
     "last_updated_at": "2026-05-18T15:03:49.411695+00:00",
-    "fetched_at": "2026-05-19T10:34:38.255494+00:00",
+    "fetched_at": "2026-05-19T10:36:05.130687+00:00",
     "history_file": "history/022a1111160b.json"
   },
   "4761b86d5d65": {
@@ -127,7 +127,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:03:49.858091+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-05-19T10:34:38.613450+00:00",
+    "fetched_at": "2026-05-19T10:36:05.596259+00:00",
     "history_file": "history/4761b86d5d65.json"
   },
   "ec6a5b1a5d08": {
@@ -145,7 +145,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:03:50.245041+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-05-19T10:34:38.956273+00:00",
+    "fetched_at": "2026-05-19T10:36:05.664045+00:00",
     "history_file": "history/ec6a5b1a5d08.json"
   },
   "6c32315e35b6": {
@@ -163,7 +163,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:03:51.268155+00:00",
     "last_updated_at": "2026-05-18T15:03:51.268155+00:00",
-    "fetched_at": "2026-05-19T10:34:39.333177+00:00",
+    "fetched_at": "2026-05-19T10:36:05.793509+00:00",
     "history_file": "history/6c32315e35b6.json"
   },
   "26f104df4bfe": {
@@ -181,7 +181,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:03:53.509110+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-05-19T10:34:42.601520+00:00",
+    "fetched_at": "2026-05-19T10:36:08.466457+00:00",
     "history_file": "history/26f104df4bfe.json"
   },
   "503fc84c6654": {
@@ -217,7 +217,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:03:53.911897+00:00",
     "last_updated_at": "2026-05-18T15:03:53.911897+00:00",
-    "fetched_at": "2026-05-19T10:34:42.915997+00:00",
+    "fetched_at": "2026-05-19T10:36:08.532208+00:00",
     "history_file": "history/503fc84c6654.json"
   },
   "315f2bceb6d2": {
@@ -235,7 +235,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:03:54.649579+00:00",
     "last_updated_at": "2026-05-18T15:03:54.649579+00:00",
-    "fetched_at": "2026-05-19T10:34:43.660996+00:00",
+    "fetched_at": "2026-05-19T10:36:08.985521+00:00",
     "history_file": "history/315f2bceb6d2.json"
   },
   "14f643993342": {
@@ -255,7 +255,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:03:55.516610+00:00",
     "last_updated_at": "2026-05-18T15:03:55.516610+00:00",
-    "fetched_at": "2026-05-19T10:34:44.474552+00:00",
+    "fetched_at": "2026-05-19T10:36:09.497327+00:00",
     "history_file": "history/14f643993342.json"
   },
   "da81b22f1d2d": {
@@ -273,7 +273,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:03:55.870752+00:00",
     "last_updated_at": "2026-05-18T15:03:55.870752+00:00",
-    "fetched_at": "2026-05-19T10:34:44.786849+00:00",
+    "fetched_at": "2026-05-19T10:36:09.947666+00:00",
     "history_file": "history/da81b22f1d2d.json"
   },
   "1957bd18e81c": {
@@ -293,7 +293,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:03:58.669493+00:00",
     "last_updated_at": "2026-05-18T15:03:58.669493+00:00",
-    "fetched_at": "2026-05-19T10:34:48.149127+00:00",
+    "fetched_at": "2026-05-19T10:36:13.108266+00:00",
     "history_file": "history/1957bd18e81c.json"
   },
   "756e25461b0a": {
@@ -311,7 +311,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:03:59.028896+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-05-19T10:34:48.540253+00:00",
+    "fetched_at": "2026-05-19T10:36:13.221265+00:00",
     "history_file": "history/756e25461b0a.json"
   },
   "58b2bb9ac5cf": {
@@ -331,7 +331,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:03:59.357061+00:00",
     "last_updated_at": "2026-05-18T15:03:59.357061+00:00",
-    "fetched_at": "2026-05-19T10:34:48.880377+00:00",
+    "fetched_at": "2026-05-19T10:36:13.294283+00:00",
     "history_file": "history/58b2bb9ac5cf.json"
   },
   "bcd05d6d3e65": {
@@ -351,7 +351,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:03:59.687756+00:00",
     "last_updated_at": "2026-05-18T15:03:59.687756+00:00",
-    "fetched_at": "2026-05-19T10:34:49.232160+00:00",
+    "fetched_at": "2026-05-19T10:36:13.366112+00:00",
     "history_file": "history/bcd05d6d3e65.json"
   },
   "a94743524614": {
@@ -371,7 +371,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:04:00.016689+00:00",
     "last_updated_at": "2026-05-18T15:04:00.016689+00:00",
-    "fetched_at": "2026-05-19T10:34:49.569515+00:00",
+    "fetched_at": "2026-05-19T10:36:13.436321+00:00",
     "history_file": "history/a94743524614.json"
   },
   "a365985f8f4d": {
@@ -407,7 +407,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:04:02.525823+00:00",
     "last_updated_at": "2026-05-18T15:04:02.525823+00:00",
-    "fetched_at": "2026-05-19T10:34:52.490217+00:00",
+    "fetched_at": "2026-05-19T10:36:14.824556+00:00",
     "history_file": "history/1fec4fbfb7ef.json"
   },
   "c33efacdd550": {
@@ -425,7 +425,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:04:02.891006+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-05-19T10:34:52.871420+00:00",
+    "fetched_at": "2026-05-19T10:36:14.933996+00:00",
     "history_file": "history/c33efacdd550.json"
   },
   "25d44528d22c": {
@@ -443,7 +443,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:04:03.222627+00:00",
     "last_updated_at": "2026-05-18T15:04:03.222627+00:00",
-    "fetched_at": "2026-05-19T10:34:53.210852+00:00",
+    "fetched_at": "2026-05-19T10:36:14.998996+00:00",
     "history_file": "history/25d44528d22c.json"
   },
   "7ca0a50317ef": {
@@ -461,7 +461,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:04:03.692897+00:00",
     "last_updated_at": "2026-05-18T15:04:03.692897+00:00",
-    "fetched_at": "2026-05-19T10:34:53.539434+00:00",
+    "fetched_at": "2026-05-19T10:36:15.065102+00:00",
     "history_file": "history/7ca0a50317ef.json"
   },
   "92e23825e61d": {
@@ -507,7 +507,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:16:54.069363+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-05-19T10:34:40.106388+00:00",
+    "fetched_at": "2026-05-19T10:36:06.433381+00:00",
     "history_file": "history/3e0c66ba55ca.json"
   },
   "1b801d651c62": {
@@ -545,7 +545,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:16:54.463064+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-05-19T10:34:40.819381+00:00",
+    "fetched_at": "2026-05-19T10:36:06.593521+00:00",
     "history_file": "history/b57c432d01ac.json"
   },
   "1aeeaa1e9567": {
@@ -573,7 +573,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:16:54.633351+00:00",
     "last_updated_at": "2026-05-18T15:16:54.633351+00:00",
-    "fetched_at": "2026-05-19T10:34:41.158376+00:00",
+    "fetched_at": "2026-05-19T10:36:06.660909+00:00",
     "history_file": "history/1aeeaa1e9567.json"
   },
   "642987f0357b": {
@@ -2501,7 +2501,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:17:22.667922+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-05-19T10:34:45.334116+00:00",
+    "fetched_at": "2026-05-19T10:36:11.352390+00:00",
     "history_file": "history/e6c5daa0502c.json"
   },
   "90374053011d": {
@@ -2521,7 +2521,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:17:22.855325+00:00",
     "last_updated_at": "2026-05-18T15:17:22.855325+00:00",
-    "fetched_at": "2026-05-19T10:34:45.652612+00:00",
+    "fetched_at": "2026-05-19T10:36:11.417392+00:00",
     "history_file": "history/90374053011d.json"
   },
   "a3e546357a87": {
@@ -2557,7 +2557,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:17:23.492341+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-05-19T10:34:46.519941+00:00",
+    "fetched_at": "2026-05-19T10:36:11.727048+00:00",
     "history_file": "history/9a8fddee1a0a.json"
   },
   "3b041304189b": {
@@ -2575,7 +2575,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:17:23.636410+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-05-19T10:34:46.858034+00:00",
+    "fetched_at": "2026-05-19T10:36:11.802038+00:00",
     "history_file": "history/3b041304189b.json"
   },
   "89cb79826076": {
@@ -4356,7 +4356,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:17:52.932766+00:00",
     "last_updated_at": "2026-05-18T15:17:52.932766+00:00",
-    "fetched_at": "2026-05-19T10:34:49.921771+00:00",
+    "fetched_at": "2026-05-19T10:36:13.517741+00:00",
     "history_file": "history/e5568e095228.json"
   },
   "2ead1f6fe712": {
@@ -4374,7 +4374,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:17:53.153611+00:00",
     "last_updated_at": "2026-05-18T15:17:53.153611+00:00",
-    "fetched_at": "2026-05-19T10:34:50.383750+00:00",
+    "fetched_at": "2026-05-19T10:36:13.645742+00:00",
     "history_file": "history/2ead1f6fe712.json"
   },
   "6ec3d1d30f1b": {
@@ -4392,7 +4392,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:17:53.343037+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-05-19T10:34:50.774477+00:00",
+    "fetched_at": "2026-05-19T10:36:13.717554+00:00",
     "history_file": "history/6ec3d1d30f1b.json"
   },
   "44c8a80302b8": {
@@ -4410,7 +4410,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:17:53.524199+00:00",
     "last_updated_at": "2026-05-18T15:17:53.524199+00:00",
-    "fetched_at": "2026-05-19T10:34:51.129326+00:00",
+    "fetched_at": "2026-05-19T10:36:13.800780+00:00",
     "history_file": "history/44c8a80302b8.json"
   },
   "b2ddfc5f3eec": {
@@ -4899,7 +4899,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:17:58.062474+00:00",
     "last_updated_at": "2026-05-18T15:17:58.062474+00:00",
-    "fetched_at": "2026-05-19T10:34:51.458043+00:00",
+    "fetched_at": "2026-05-19T10:36:13.911250+00:00",
     "history_file": "history/a5a921b1ae31.json"
   },
   "70f5c86df446": {
@@ -6509,7 +6509,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:18:19.847105+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-05-19T10:34:53.862225+00:00",
+    "fetched_at": "2026-05-19T10:36:15.141884+00:00",
     "history_file": "history/59685e5ca520.json"
   },
   "aef697ce7353": {
@@ -6529,7 +6529,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:18:20.044889+00:00",
     "last_updated_at": "2026-05-18T15:18:20.044889+00:00",
-    "fetched_at": "2026-05-19T10:34:54.201104+00:00",
+    "fetched_at": "2026-05-19T10:36:15.206996+00:00",
     "history_file": "history/aef697ce7353.json"
   },
   "0dd62175757d": {
@@ -6549,7 +6549,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:18:20.226543+00:00",
     "last_updated_at": "2026-05-18T15:18:20.226543+00:00",
-    "fetched_at": "2026-05-19T10:34:54.554104+00:00",
+    "fetched_at": "2026-05-19T10:36:15.276995+00:00",
     "history_file": "history/0dd62175757d.json"
   },
   "50dc89e17cc3": {
@@ -6567,7 +6567,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:18:20.424459+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-05-19T10:34:54.910881+00:00",
+    "fetched_at": "2026-05-19T10:36:15.368066+00:00",
     "history_file": "history/50dc89e17cc3.json"
   },
   "606a0834f66e": {
@@ -6585,7 +6585,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:18:20.628347+00:00",
     "last_updated_at": "2026-05-18T15:18:20.628347+00:00",
-    "fetched_at": "2026-05-19T10:34:55.393066+00:00",
+    "fetched_at": "2026-05-19T10:36:15.432065+00:00",
     "history_file": "history/606a0834f66e.json"
   },
   "e9d850d96ebc": {
@@ -6603,7 +6603,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:18:20.824483+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-05-19T10:34:55.762423+00:00",
+    "fetched_at": "2026-05-19T10:36:15.524069+00:00",
     "history_file": "history/e9d850d96ebc.json"
   },
   "1fd5f713e8d2": {
@@ -8457,7 +8457,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-19T09:35:12.874381+00:00",
     "last_updated_at": "2026-05-19T09:35:12.874381+00:00",
-    "fetched_at": "2026-05-19T10:34:40.453761+00:00",
+    "fetched_at": "2026-05-19T10:36:06.500045+00:00",
     "history_file": "history/c800f5f11c70.json"
   },
   "1d34ac3e5ab3": {
@@ -9751,7 +9751,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-19T09:35:38.883178+00:00",
     "last_updated_at": "2026-05-19T09:35:38.883178+00:00",
-    "fetched_at": "2026-05-19T10:34:46.003169+00:00",
+    "fetched_at": "2026-05-19T10:36:11.488047+00:00",
     "history_file": "history/b7a238f6079c.json"
   },
   "27c2f2d51e9a": {
@@ -12532,5 +12532,33 @@
     "last_updated_at": "2026-05-19T10:34:39.682868+00:00",
     "fetched_at": "2026-05-19T10:34:39.682868+00:00",
     "history_file": "history/d11aed11c62c.json"
+  },
+  "74a528c0464d": {
+    "spec_id": "74a528c0464d",
+    "id": "github:jzellis/kowloon/openapi.yamlx",
+    "source_url": "https://raw.githubusercontent.com/jzellis/kowloon/ea98be1d756b9c70f84805d45d904540589923f1/openapi.yamlx",
+    "title": "Kowloon API",
+    "description": null,
+    "openapi_version": "openapi_3",
+    "servers": [],
+    "tags": [
+      "Activities",
+      "Bookmarks",
+      "Circles",
+      "Events",
+      "Groups",
+      "Pages",
+      "Posts",
+      "Users",
+      "Utility"
+    ],
+    "paths_count": 40,
+    "latest_info_version": "1.0.0",
+    "latest_hash": "31cf3bd772f47026ee984695d6f225b5b1c3ea4b3fd68e2ed5beec8192c1d350",
+    "status": "new",
+    "first_seen_at": "2026-05-19T10:36:05.856509+00:00",
+    "last_updated_at": "2026-05-19T10:36:05.856509+00:00",
+    "fetched_at": "2026-05-19T10:36:05.856509+00:00",
+    "history_file": "history/74a528c0464d.json"
   }
 }
