@@ -85,7 +85,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:03:48.445671+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-05-18T15:03:48.445671+00:00",
+    "fetched_at": "2026-05-19T09:35:59.050449+00:00",
     "history_file": "history/e5f26fc9de90.json"
   },
   "022a1111160b": {
@@ -101,10 +101,10 @@
     "paths_count": 1,
     "latest_info_version": "1.0",
     "latest_hash": "678b9bdad00e589169d27f634c689d3b075f701fa7b0a26d9a7290087de9adbf",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-05-18T15:03:49.411695+00:00",
     "last_updated_at": "2026-05-18T15:03:49.411695+00:00",
-    "fetched_at": "2026-05-18T15:03:49.411695+00:00",
+    "fetched_at": "2026-05-19T09:36:00.016238+00:00",
     "history_file": "history/022a1111160b.json"
   },
   "4761b86d5d65": {
@@ -121,7 +121,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:03:49.858091+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-05-18T15:03:49.858091+00:00",
+    "fetched_at": "2026-05-19T09:36:00.451771+00:00",
     "history_file": "history/4761b86d5d65.json"
   },
   "ec6a5b1a5d08": {
@@ -138,7 +138,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:03:50.245041+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-05-18T15:03:50.245041+00:00",
+    "fetched_at": "2026-05-19T09:36:00.930097+00:00",
     "history_file": "history/ec6a5b1a5d08.json"
   },
   "6c32315e35b6": {
@@ -152,10 +152,10 @@
     "paths_count": 0,
     "latest_info_version": null,
     "latest_hash": "048396b3b24f2b277aea41cbb07b06e3816976ec0657c97a0fcb155803908419",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-05-18T15:03:51.268155+00:00",
     "last_updated_at": "2026-05-18T15:03:51.268155+00:00",
-    "fetched_at": "2026-05-18T15:03:51.268155+00:00",
+    "fetched_at": "2026-05-19T09:36:01.492174+00:00",
     "history_file": "history/6c32315e35b6.json"
   },
   "26f104df4bfe": {
@@ -172,7 +172,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:03:53.509110+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-05-18T15:03:53.509110+00:00",
+    "fetched_at": "2026-05-19T09:36:04.456311+00:00",
     "history_file": "history/26f104df4bfe.json"
   },
   "503fc84c6654": {
@@ -204,10 +204,10 @@
     "paths_count": 111,
     "latest_info_version": "3.3.2",
     "latest_hash": "93b26a9a9afae99e8263cd4200283fdc30955280b68a6310c71f7e94acbfd7f4",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-05-18T15:03:53.911897+00:00",
     "last_updated_at": "2026-05-18T15:03:53.911897+00:00",
-    "fetched_at": "2026-05-18T15:03:53.911897+00:00",
+    "fetched_at": "2026-05-19T09:36:04.870861+00:00",
     "history_file": "history/503fc84c6654.json"
   },
   "315f2bceb6d2": {
@@ -221,10 +221,10 @@
     "paths_count": 39,
     "latest_info_version": "v0.3.0.dev2604141105859917",
     "latest_hash": "5418e5bae8bc78949ce4e5acc251e1eba6d59da82f9be7f0605d9c4c8bb7d256",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-05-18T15:03:54.649579+00:00",
     "last_updated_at": "2026-05-18T15:03:54.649579+00:00",
-    "fetched_at": "2026-05-18T15:03:54.649579+00:00",
+    "fetched_at": "2026-05-19T09:36:06.998381+00:00",
     "history_file": "history/315f2bceb6d2.json"
   },
   "14f643993342": {
@@ -240,10 +240,10 @@
     "paths_count": 2,
     "latest_info_version": "0.1.0",
     "latest_hash": "acf3209b056238d2dbee92033816f0a43589b4e77bf0e5c7d2d3ef0ede957ce4",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-05-18T15:03:55.516610+00:00",
     "last_updated_at": "2026-05-18T15:03:55.516610+00:00",
-    "fetched_at": "2026-05-18T15:03:55.516610+00:00",
+    "fetched_at": "2026-05-19T09:36:08.465075+00:00",
     "history_file": "history/14f643993342.json"
   },
   "da81b22f1d2d": {
@@ -257,10 +257,10 @@
     "paths_count": 108,
     "latest_info_version": "2.0.0",
     "latest_hash": "a6a625a6763e05d7168f2bf81b85d6ef45cb359ecd483faaa5ae6308f9e0e216",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-05-18T15:03:55.870752+00:00",
     "last_updated_at": "2026-05-18T15:03:55.870752+00:00",
-    "fetched_at": "2026-05-18T15:03:55.870752+00:00",
+    "fetched_at": "2026-05-19T09:36:09.015124+00:00",
     "history_file": "history/da81b22f1d2d.json"
   },
   "1957bd18e81c": {
@@ -276,10 +276,10 @@
     "paths_count": 10,
     "latest_info_version": "1.0.0",
     "latest_hash": "588a87efdb88730d0bec63a76b8fc54503e54dd05e460a3c30040a1f6490e4d9",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-05-18T15:03:58.669493+00:00",
     "last_updated_at": "2026-05-18T15:03:58.669493+00:00",
-    "fetched_at": "2026-05-18T15:03:58.669493+00:00",
+    "fetched_at": "2026-05-19T09:36:14.075453+00:00",
     "history_file": "history/1957bd18e81c.json"
   },
   "756e25461b0a": {
@@ -296,7 +296,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:03:59.028896+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-05-18T15:03:59.028896+00:00",
+    "fetched_at": "2026-05-19T09:36:14.491990+00:00",
     "history_file": "history/756e25461b0a.json"
   },
   "58b2bb9ac5cf": {
@@ -312,10 +312,10 @@
     "paths_count": 2,
     "latest_info_version": "1.2",
     "latest_hash": "490f048c4e6569de07060f90302c6e4120bb62cbb9440563191ecc1b28476d8a",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-05-18T15:03:59.357061+00:00",
     "last_updated_at": "2026-05-18T15:03:59.357061+00:00",
-    "fetched_at": "2026-05-18T15:03:59.357061+00:00",
+    "fetched_at": "2026-05-19T09:36:14.830092+00:00",
     "history_file": "history/58b2bb9ac5cf.json"
   },
   "bcd05d6d3e65": {
@@ -331,10 +331,10 @@
     "paths_count": 3,
     "latest_info_version": "1.0",
     "latest_hash": "a4edabc19b57ea4443783a959f97b48c44b611f461116661ca83638f8ede6dc9",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-05-18T15:03:59.687756+00:00",
     "last_updated_at": "2026-05-18T15:03:59.687756+00:00",
-    "fetched_at": "2026-05-18T15:03:59.687756+00:00",
+    "fetched_at": "2026-05-19T09:36:15.177159+00:00",
     "history_file": "history/bcd05d6d3e65.json"
   },
   "a94743524614": {
@@ -350,10 +350,10 @@
     "paths_count": 5,
     "latest_info_version": "1.0.0",
     "latest_hash": "34fec860faf02880cefcb97270898adf00d351879b05fedaa09147bc71072c89",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-05-18T15:04:00.016689+00:00",
     "last_updated_at": "2026-05-18T15:04:00.016689+00:00",
-    "fetched_at": "2026-05-18T15:04:00.016689+00:00",
+    "fetched_at": "2026-05-19T09:36:15.506806+00:00",
     "history_file": "history/a94743524614.json"
   },
   "a365985f8f4d": {
@@ -384,10 +384,10 @@
     "paths_count": 15,
     "latest_info_version": "0.0.1",
     "latest_hash": "634f3913769af426cb59ea764166197340ee82810041e688e61e5b776fe945fd",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-05-18T15:04:02.525823+00:00",
     "last_updated_at": "2026-05-18T15:04:02.525823+00:00",
-    "fetched_at": "2026-05-18T15:04:02.525823+00:00",
+    "fetched_at": "2026-05-19T09:36:17.744871+00:00",
     "history_file": "history/1fec4fbfb7ef.json"
   },
   "c33efacdd550": {
@@ -404,7 +404,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:04:02.891006+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-05-18T15:04:02.891006+00:00",
+    "fetched_at": "2026-05-19T09:36:18.216916+00:00",
     "history_file": "history/c33efacdd550.json"
   },
   "25d44528d22c": {
@@ -418,10 +418,10 @@
     "paths_count": 0,
     "latest_info_version": null,
     "latest_hash": "5a6167983a656d41ed9b9d372cfa2afe779667a409818d6f6ee70a930bdd0cea",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-05-18T15:04:03.222627+00:00",
     "last_updated_at": "2026-05-18T15:04:03.222627+00:00",
-    "fetched_at": "2026-05-18T15:04:03.222627+00:00",
+    "fetched_at": "2026-05-19T09:36:18.689164+00:00",
     "history_file": "history/25d44528d22c.json"
   },
   "7ca0a50317ef": {
@@ -435,10 +435,44 @@
     "paths_count": 1,
     "latest_info_version": "2019-02-27T17:25:48Z",
     "latest_hash": "75bc07d3c5a55b7f0fbd05a7f3837ad33fe6005f73b1eb9c847630f2edd2ec45",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-05-18T15:04:03.692897+00:00",
     "last_updated_at": "2026-05-18T15:04:03.692897+00:00",
-    "fetched_at": "2026-05-18T15:04:03.692897+00:00",
+    "fetched_at": "2026-05-19T09:36:19.145442+00:00",
     "history_file": "history/7ca0a50317ef.json"
+  },
+  "2a91ad5252da": {
+    "spec_id": "2a91ad5252da",
+    "source_url": "https://raw.githubusercontent.com/WWBN/AVideo/5ab7001ce67176f726c83c6db8cf004a3d4b2eae/plugin/API/swagger.json.php",
+    "title": null,
+    "description": null,
+    "openapi_version": "unknown",
+    "servers": [],
+    "tags": [],
+    "paths_count": 0,
+    "latest_info_version": null,
+    "latest_hash": null,
+    "status": "error",
+    "first_seen_at": "2026-05-18T17:47:02.744685+00:00",
+    "last_updated_at": "",
+    "fetched_at": "2026-05-18T17:47:02.744685+00:00",
+    "history_file": "history/2a91ad5252da.json"
+  },
+  "59685e5ca520": {
+    "spec_id": "59685e5ca520",
+    "source_url": "https://raw.githubusercontent.com/worldsibu/convector-rest-api/d108e4d7970261dada25f68153919cbdd47f4087/src/generators/swagger.json.ts",
+    "title": null,
+    "description": null,
+    "openapi_version": "unknown",
+    "servers": [],
+    "tags": [],
+    "paths_count": 0,
+    "latest_info_version": null,
+    "latest_hash": null,
+    "status": "error",
+    "first_seen_at": "2026-05-19T09:36:19.628302+00:00",
+    "last_updated_at": "",
+    "fetched_at": "2026-05-19T09:36:19.628302+00:00",
+    "history_file": "history/59685e5ca520.json"
   }
 }
