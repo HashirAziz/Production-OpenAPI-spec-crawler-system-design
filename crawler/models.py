@@ -7,13 +7,15 @@ Design decisions:
 - SpecStatus as a string enum so JSON serialization works without custom encoders.
 - All timestamps are ISO-8601 strings (not datetime objects) to avoid tz-aware
   serialization edge cases in catalog persistence.
+- APIMatic-compatible fields: id (human-readable), oas_version property,
+  extended SpecStatus with active/stale/invalid values.
 """
 
 from __future__ import annotations
 
 from enum import Enum
 from typing import Optional
-from pydantic import BaseModel, Field, HttpUrl
+from pydantic import BaseModel, Field
 
 
 # ---------------------------------------------------------------------------
@@ -26,6 +28,10 @@ class SpecStatus(str, Enum):
     UPDATED = "updated"
     UNCHANGED = "unchanged"
     ERROR = "error"
+    # APIMatic-compatible status values
+    ACTIVE = "active"
+    STALE = "stale"
+    INVALID = "invalid"
 
 
 class OpenAPIVersion(str, Enum):
@@ -112,8 +118,13 @@ class CatalogEntry(BaseModel):
 
     Mutable between runs; history_file points to the sidecar file that
     holds all historical snapshots for this spec.
+
+    APIMatic-compatible fields:
+    - id: human-readable "github:owner/repo/filename" format
+    - oas_version: property returning "2.0" or "3.0" string
     """
     spec_id: str
+    id: str = ""                        # APIMatic: "github:owner/repo/filename"
     source_url: str
     title: Optional[str] = None
     description: Optional[str] = None
@@ -132,6 +143,20 @@ class CatalogEntry(BaseModel):
 
     # Sidecar
     history_file: str = ""              # relative path under data/history/
+
+    @property
+    def oas_version(self) -> str:
+        """
+        APIMatic-compatible OAS version string.
+
+        Returns "3.0", "2.0", or "unknown" instead of internal enum values.
+        """
+        mapping = {
+            OpenAPIVersion.OPENAPI_3: "3.0",
+            OpenAPIVersion.SWAGGER_2: "2.0",
+            OpenAPIVersion.UNKNOWN: "unknown",
+        }
+        return mapping.get(self.openapi_version, "unknown")
 
 
 # ---------------------------------------------------------------------------

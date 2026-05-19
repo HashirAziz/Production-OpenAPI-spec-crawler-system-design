@@ -7,6 +7,8 @@ Design decisions:
   anywhere in the codebase to avoid timezone bugs.
 - spec_id is derived deterministically from the source URL so the catalog
   key is stable across runs without needing a database sequence.
+- make_human_id generates APIMatic-compatible "github:owner/repo/filename"
+  format IDs for human-readable catalog entries.
 """
 
 from __future__ import annotations
@@ -78,6 +80,33 @@ def make_spec_id(source_url: str) -> str:
     return sha256_of_str(source_url)[:12]
 
 
+def make_human_id(source_url: str) -> str:
+    """
+    Generate an APIMatic-compatible human-readable ID from a raw GitHub URL.
+
+    Converts:
+        https://raw.githubusercontent.com/stripe/openapi/master/openapi/spec3.yaml
+    To:
+        github:stripe/openapi/spec3.yaml
+
+    Falls back to a hash-based ID for non-standard URLs.
+
+    Args:
+        source_url: The canonical raw URL of the spec file.
+
+    Returns:
+        Human-readable ID string in "github:owner/repo/filename" format.
+    """
+    pattern = r"https://raw\.githubusercontent\.com/([^/]+)/([^/]+)/[^/]+/(.+)"
+    match = re.match(pattern, source_url)
+    if match:
+        owner, repo, path = match.groups()
+        filename = path.split("/")[-1]
+        return f"github:{owner}/{repo}/{filename}"
+    # Fallback for non-GitHub or non-standard URLs
+    return f"github:{sha256_of_str(source_url)[:12]}"
+
+
 # ---------------------------------------------------------------------------
 # URL helpers
 # ---------------------------------------------------------------------------
@@ -98,7 +127,6 @@ def to_raw_github_url(html_url: str) -> str:
     Returns:
         Raw content URL, or the original URL if conversion is not possible.
     """
-    # Pattern: github.com/{owner}/{repo}/blob/{branch+path}
     pattern = r"https://github\.com/([^/]+)/([^/]+)/blob/(.+)"
     match = re.match(pattern, html_url)
     if match:

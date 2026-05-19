@@ -26,7 +26,7 @@ from crawler.models import (
     PathDiff,
     SpecStatus,
 )
-from crawler.utils import make_spec_id, utc_now_iso
+from crawler.utils import make_spec_id, make_human_id, utc_now_iso
 
 
 # ---------------------------------------------------------------------------
@@ -50,7 +50,7 @@ def determine_status(
         SpecStatus.NEW       — first time we've seen this spec.
         SpecStatus.UPDATED   — hash or info.version has changed.
         SpecStatus.UNCHANGED — no detectable change.
-        SpecStatus.ERROR     — parse failed (handled upstream, included for completeness).
+        SpecStatus.ERROR     — parse failed (handled upstream).
     """
     if not parsed.is_valid:
         return SpecStatus.ERROR
@@ -189,11 +189,12 @@ def make_new_catalog_entry(
         fetched_at:   ISO-8601 timestamp.
 
     Returns:
-        A fresh CatalogEntry with status=NEW.
+        A fresh CatalogEntry with status=NEW and APIMatic-compatible id.
     """
     spec_id = make_spec_id(source_url)
     return CatalogEntry(
         spec_id=spec_id,
+        id=make_human_id(source_url),       # APIMatic: "github:owner/repo/filename"
         source_url=source_url,
         title=parsed.title,
         description=parsed.description,
