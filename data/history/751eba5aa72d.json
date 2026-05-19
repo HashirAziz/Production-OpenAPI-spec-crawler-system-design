@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "751eba5aa72d",
+    "source_url": "https://raw.githubusercontent.com/CodeSandwich/swagger-cardano-poligon/33d1e0514fd175845eae3a07eb863ea608cb7254/cardano-node-api.swagger.json",
+    "fetched_at": "2026-05-18T15:18:27.343924+00:00",
+    "content_hash": "31ad9323399455cc4ab06c0601f5bf71d0beeee156cd7606a88d33302a76edbf",
+    "info_version": "cardano-sl:0",
+    "status": "new",
+    "title": "Cardano Node API",
+    "openapi_version": "swagger_2",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

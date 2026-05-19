@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c56662ada344",
+    "source_url": "https://raw.githubusercontent.com/FluxNotes/treatment-options-rest-api/992f698c01fff2dcd0d36e53edb9063a1b2f5102/swagger.yaml",
+    "fetched_at": "2026-05-19T09:40:12.306212+00:00",
+    "content_hash": "928d0c0c31613cf4f8a6115fcf4f5b3ce266608ca15d5a8e6286117a9ab3cca4",
+    "info_version": "1.0.1",
+    "status": "new",
+    "title": "FluxNotes Treatment Options Rest Client",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

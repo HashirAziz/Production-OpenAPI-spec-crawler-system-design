@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4db24b8c48d7",
+    "source_url": "https://raw.githubusercontent.com/vikashpisces/node-api-template/00dabe29497dbf6255c65c6d6be3367c0cbe374c/swagger.yaml",
+    "fetched_at": "2026-05-18T15:18:12.114020+00:00",
+    "content_hash": "ddf09699579aee6b027b6677cbb083d87d78a0f1a418ce89d368f18d8fcbd2a9",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Node Based API",
+    "openapi_version": "swagger_2",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

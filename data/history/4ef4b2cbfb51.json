@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4ef4b2cbfb51",
+    "source_url": "https://raw.githubusercontent.com/shiyue137mh-netizen/Odysseia-Forum-webpage/efbdc27bcbd33fe15427c2ddb5c100c222aa5a5c/openapi.json.bak",
+    "fetched_at": "2026-05-18T15:17:42.246776+00:00",
+    "content_hash": "7e5fb143e6937f94fcf6fd787e31e1a83d4962d0e17d96522fc9f9522c1b5719",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Odysseia Forum Bot API",
+    "openapi_version": "openapi_3",
+    "paths_count": 36,
+    "path_diff": null
+  }
+]

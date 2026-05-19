@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "56dfbb585bc3",
+    "source_url": "https://raw.githubusercontent.com/hazraarka072/khorcha/abfd9174415b2e69b1d03070ad83a4fe24a36eba/swagger.json.tpl",
+    "fetched_at": "2026-05-19T09:36:33.656649+00:00",
+    "content_hash": "345bfe830152a3073e2022633399736e73eb7cff94f912c4d9717e0d715f940d",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "User Registration API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

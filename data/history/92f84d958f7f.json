@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "92f84d958f7f",
+    "source_url": "https://raw.githubusercontent.com/ray-sachin/vehicle-parking-app-v2/7f682c483aa02b8242ac142b982d91c49a7a8eb4/OPENAPI.yaml",
+    "fetched_at": "2026-05-18T15:17:07.181202+00:00",
+    "content_hash": "6f05dbc910da648bc1b015f845c08bcc0ebe47373ef9addac41a16b63741d46b",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Vehicle Parking API",
+    "openapi_version": "openapi_3",
+    "paths_count": 23,
+    "path_diff": null
+  }
+]

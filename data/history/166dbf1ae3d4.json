@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "166dbf1ae3d4",
+    "source_url": "https://raw.githubusercontent.com/PgBiel/jabuty-reviewers-quest/f41e3512476c4bf15e815513f5417825a5a8eb34/swagger.yaml",
+    "fetched_at": "2026-05-19T09:36:26.706524+00:00",
+    "content_hash": "98e602173b14b9d22b671da7a8aa8393b9e7183d5a36fb8c2ed035d8d2cb818f",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "Jabuty Reviewer's Quest Backend API",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

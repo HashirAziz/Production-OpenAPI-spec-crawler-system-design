@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1e5776421c10",
+    "source_url": "https://raw.githubusercontent.com/shoppea/service/9028e4b7d29f1fe29b3f6bf24a2820d2684639d9/src/main/swagger.jsonbrew",
+    "fetched_at": "2026-05-18T15:18:28.258373+00:00",
+    "content_hash": "9274ff58e4a0d111273e80cc0b94dbd29df94c3cb4d74eb4ea70af835780f4b9",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "swagger_2",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

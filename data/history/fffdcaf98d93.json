@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "fffdcaf98d93",
+    "source_url": "https://raw.githubusercontent.com/SneaksAndData/nexus/58fee32c80f7ff6fd3fa657e10d3610c5902973f/docs/swagger.yaml",
+    "fetched_at": "2026-05-18T15:18:13.507782+00:00",
+    "content_hash": "314341777b59ff27057284bc6da876c266b116e96718d806d349cac1a187daa8",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Nexus Scheduler API",
+    "openapi_version": "swagger_2",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

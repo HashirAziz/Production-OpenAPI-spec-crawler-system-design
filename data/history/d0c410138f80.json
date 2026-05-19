@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d0c410138f80",
+    "source_url": "https://raw.githubusercontent.com/tmforum-apis/TMF675_GeographicLocation/fe8b56ee09c695e15ecf0f72acd62846bcc0531f/TMF675-GeographicLocation-v4.0.0.swagger.json",
+    "fetched_at": "2026-05-18T15:18:30.613065+00:00",
+    "content_hash": "80bb863aed3d2858f7dc59fb7c0d5f665467875782f308cbdbab426927fea2b3",
+    "info_version": "4.0.0",
+    "status": "new",
+    "title": "API GeographicLocation",
+    "openapi_version": "swagger_2",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

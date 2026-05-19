@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "387b569a50a9",
+    "source_url": "https://raw.githubusercontent.com/sourcegraph-testing/grpc-gateway/e8ea5bde418a534334e8a34db7103b2db72be672/runtime/internal/examplepb/example.swagger.json",
+    "fetched_at": "2026-05-18T15:18:29.989154+00:00",
+    "content_hash": "aa0fec95906bb560be917862bd09e6ebb50dc3e96300de37506990244c257acd",
+    "info_version": "version not set",
+    "status": "new",
+    "title": "runtime/internal/examplepb/example.proto",
+    "openapi_version": "swagger_2",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

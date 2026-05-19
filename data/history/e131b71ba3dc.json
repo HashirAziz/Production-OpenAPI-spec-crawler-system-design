@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e131b71ba3dc",
+    "source_url": "https://raw.githubusercontent.com/voyagermesh/java/4e65a992d2b7243a6fd75f403b41c521da4d2a9a/kubernetes/swagger.json.unprocessed",
+    "fetched_at": "2026-05-18T15:18:28.096814+00:00",
+    "content_hash": "343e60fbb942f339efa2709b91cdcfd407bdbf562dbb8a56f74cae3ab9161838",
+    "info_version": "v7.1.1",
+    "status": "new",
+    "title": "Voyager",
+    "openapi_version": "swagger_2",
+    "paths_count": 15,
+    "path_diff": null
+  }
+]

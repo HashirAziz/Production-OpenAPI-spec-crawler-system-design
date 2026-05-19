@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2ead1f6fe712",
+    "source_url": "https://raw.githubusercontent.com/Nuvoola/oreilly-ai-nyc/22a683c63b7d0153cc2249a94d76b3c8969b1972/mxnet_lambda/src/swagger.yaml.template",
+    "fetched_at": "2026-05-18T15:17:53.337505+00:00",
+    "content_hash": "74eb2b87145f60762dbee58d73290b28a3dce3d1cc482752cd6241add6c4dd3b",
+    "info_version": null,
+    "status": "new",
+    "title": "MXNetLambdaAPI",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

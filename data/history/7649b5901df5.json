@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "7649b5901df5",
+    "source_url": "https://raw.githubusercontent.com/novatechflow/bacnet-mqtt-gateway/9bd7e2f26d423dff566205e560058a3743c71eb4/openapi.yaml",
+    "fetched_at": "2026-05-19T09:35:14.682779+00:00",
+    "content_hash": "f2c33837d146117f9d13427282aef7581d7a2973ceadf714f68afe3193d6f66c",
+    "info_version": "1.6.0",
+    "status": "new",
+    "title": "BACnet MQTT Gateway API",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

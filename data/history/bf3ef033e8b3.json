@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "bf3ef033e8b3",
+    "source_url": "https://raw.githubusercontent.com/Kosisochi1/URL_SHORTHENER_API/f5913477fc7ef8a967259874546a259abb1ad3b3/swagger.yaml",
+    "fetched_at": "2026-05-19T09:40:15.839040+00:00",
+    "content_hash": "d24421d18fb9fe4e9009ba3867ac678ee5980ceecd59c3d5fa9313aa77f795d1",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "main",
+    "openapi_version": "openapi_3",
+    "paths_count": 13,
+    "path_diff": null
+  }
+]

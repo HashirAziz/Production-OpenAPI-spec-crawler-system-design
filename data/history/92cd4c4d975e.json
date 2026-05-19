@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "92cd4c4d975e",
+    "source_url": "https://raw.githubusercontent.com/ziemovit/M365AgentV1/8071711cbb2630c851253052cd18459843d34474/appPackage/apiSpecificationFile/openapi.yaml.original",
+    "fetched_at": "2026-05-19T09:35:25.656153+00:00",
+    "content_hash": "bedf15cf5a517eb27edb0a166365176d1b804d2d8c999ff03b41b7eff943d89d",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Posts API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

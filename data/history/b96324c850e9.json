@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b96324c850e9",
+    "source_url": "https://raw.githubusercontent.com/corridor-explorer/ParameterSetter/0f82853218d19d36b4d56277a50f0dc45f7f62d6/old.openapi.json.v0.1",
+    "fetched_at": "2026-05-18T15:17:36.222224+00:00",
+    "content_hash": "945923b04176e531b5e3ab430a57ed2c0b18bff94ef2c6a8e0d90ac642a866e2",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Corridor Explorer Simulation Input",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

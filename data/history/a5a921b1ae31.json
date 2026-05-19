@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a5a921b1ae31",
+    "source_url": "https://raw.githubusercontent.com/mdr356/CapsuleNYT-API-Project/d448dedd2f8a771deffb53585f824fa74e041a97/MovieReviewsAPIswagger.yaml",
+    "fetched_at": "2026-05-18T15:17:58.257431+00:00",
+    "content_hash": "6f4136415bd8ef0715ef3fc3f6e07187ac01b2f05285568b671e0d0ae48f2a9e",
+    "info_version": "2.0.0",
+    "status": "new",
+    "title": "Movie Reviews API",
+    "openapi_version": "swagger_2",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

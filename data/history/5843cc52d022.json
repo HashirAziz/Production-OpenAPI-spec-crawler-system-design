@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5843cc52d022",
+    "source_url": "https://raw.githubusercontent.com/u1i/bambleweeny/a8f6dce8c54cbad27948d7058d248dd6a6695da1/docs/swagger.json.v0_22",
+    "fetched_at": "2026-05-18T15:18:22.437583+00:00",
+    "content_hash": "eddffe63c6265adb4ccdea9b127c1392d43bdc43d82845b7cdf9c054341ecdcf",
+    "info_version": null,
+    "status": "new",
+    "title": "bambleweeny",
+    "openapi_version": "swagger_2",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

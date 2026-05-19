@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e4a67816a618",
+    "source_url": "https://raw.githubusercontent.com/supadata-ai/supadata-docs/608fecdd30db158c990ba4642fd1c9ade3b2755f/api-reference/v1-openapi.json",
+    "fetched_at": "2026-05-19T09:35:53.695729+00:00",
+    "content_hash": "76283cefdb84d4718c9c43931dd7a15af019674b60be1bbd9adbdad58aec1cbc",
+    "info_version": "1.3.0",
+    "status": "new",
+    "title": "Supadata",
+    "openapi_version": "openapi_3",
+    "paths_count": 21,
+    "path_diff": null
+  }
+]

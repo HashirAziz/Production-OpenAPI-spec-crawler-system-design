@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "74745fe38f21",
+    "source_url": "https://raw.githubusercontent.com/networkinss/SampleOpenAPICollection/1748d8e657d5d29a1dec9d5516089fc5e9c3c410/helloworld/helloworldswagger.yaml",
+    "fetched_at": "2026-05-18T15:18:07.249868+00:00",
+    "content_hash": "902419c3a57c19bd019b90e50dd6181a8f9fb860bbc7414d4f149669f1ba9483",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Hello World API",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

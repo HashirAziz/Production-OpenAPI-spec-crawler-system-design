@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "fce5e3ac0486",
+    "source_url": "https://raw.githubusercontent.com/AlightVN/assignment/c2e292f8288142516692abc72c8e9ceaad4678ac/swagger.yaml",
+    "fetched_at": "2026-05-18T15:18:06.477373+00:00",
+    "content_hash": "21a8efd638489d326f5d1b23fa8824dc0023793b9ea7b9264532ab5da36065c8",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API Documentation",
+    "openapi_version": "swagger_2",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

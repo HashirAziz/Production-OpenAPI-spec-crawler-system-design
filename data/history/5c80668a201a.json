@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5c80668a201a",
+    "source_url": "https://raw.githubusercontent.com/thespamer/pov-finance-sandbox/75299539e83d48e2693a2c66ca13242b767d4d2f/swagger.yaml",
+    "fetched_at": "2026-05-19T09:40:07.006173+00:00",
+    "content_hash": "b14248ac8a412a4d0cb48eed66a972a5d90ab7ba34ed38f2d28b106d06279182",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Open Finance Project API",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

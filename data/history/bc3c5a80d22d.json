@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "bc3c5a80d22d",
+    "source_url": "https://raw.githubusercontent.com/TLHY/TextWithGameCharacters/5645435780d9b00880963eb3aeefe149a3d01391/swagger.yaml",
+    "fetched_at": "2026-05-19T09:40:06.433153+00:00",
+    "content_hash": "400ed6914f2833fd231a5a5a3907ac784ca0e8b9530aa839d64d7f63b2629050",
+    "info_version": null,
+    "status": "new",
+    "title": "TextWithGameCharacters",
+    "openapi_version": "unknown",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

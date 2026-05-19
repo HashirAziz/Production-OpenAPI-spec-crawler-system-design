@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e5568e095228",
+    "source_url": "https://raw.githubusercontent.com/Netherium/api-gen/6b2faf2dd5931a3904cc2e261ac4961136982a1d/src/lib/templates/server/swagger.yaml.tmpl",
+    "fetched_at": "2026-05-18T15:17:53.147950+00:00",
+    "content_hash": "fccdf1b192d16dfc5b072ad2ee7472879f39cb1a26c5286f79293bde059d0d43",
+    "info_version": "0.3.5",
+    "status": "new",
+    "title": "Neth-Express-Api-TS",
+    "openapi_version": "openapi_3",
+    "paths_count": 14,
+    "path_diff": null
+  }
+]

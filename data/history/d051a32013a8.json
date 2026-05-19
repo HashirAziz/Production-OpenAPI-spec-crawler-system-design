@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d051a32013a8",
+    "source_url": "https://raw.githubusercontent.com/Abdelrhman1020/hospital-system/05bea1d69a4d99f2d3077663fe316c7d35c21252/swagger.yaml",
+    "fetched_at": "2026-05-19T09:36:17.940757+00:00",
+    "content_hash": "3395af8c4fbbd2341796c63fa43b2d44a3b71a3e1b86ad1143bf9357d7882bac",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Hospital System API",
+    "openapi_version": "openapi_3",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

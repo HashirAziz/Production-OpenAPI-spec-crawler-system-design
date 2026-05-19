@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "aef697ce7353",
+    "source_url": "https://raw.githubusercontent.com/CiscoDevNet/go-msx-swagger/90fe9fe945078afc4a151239ef097cf1ee188874/example/swagger.json.2",
+    "fetched_at": "2026-05-18T15:18:20.218863+00:00",
+    "content_hash": "f37d39892f81c3c322d2e9c4a8a8d816bdf3ff6789348ec3a29f69c3d0c6f3f0",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Simple Hello API",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4d08cd3c21a4",
+    "source_url": "https://raw.githubusercontent.com/jlmartinnavarro/rawGithub/282a2c9b24b406b19b7114ea2116980d030679ad/not-a-notice/other--gpts.webpilot.ai-%25-gpts-openapi.yaml",
+    "fetched_at": "2026-05-18T15:17:02.745775+00:00",
+    "content_hash": "b159d0af0cae43c0f030eacc3d3603f2bfb41e0993d5af0737685c9514d93393",
+    "info_version": "v1.1",
+    "status": "new",
+    "title": "webPilot",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

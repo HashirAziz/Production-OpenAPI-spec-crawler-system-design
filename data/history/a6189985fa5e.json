@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a6189985fa5e",
+    "source_url": "https://raw.githubusercontent.com/duyvu997/rent-house/b4ce4a71609ee0f40da54232e81517dbfc04adcd/swagger.yaml",
+    "fetched_at": "2026-05-19T09:36:27.202148+00:00",
+    "content_hash": "896dc83fb1e675dec646570f29b557f486cc5f1d3b01d4badc5b54237626aae2",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Swagger Orange Juice",
+    "openapi_version": "openapi_3",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

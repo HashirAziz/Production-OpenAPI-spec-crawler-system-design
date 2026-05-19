@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d30c6f66a164",
+    "source_url": "https://raw.githubusercontent.com/HewlettPackard/morpheus-openapi/c103f686bde69ab24d046910b6ea71e4f4b47efb/openapi.yaml",
+    "fetched_at": "2026-05-19T09:35:32.401134+00:00",
+    "content_hash": "e8cd59c5048a4be1f2e137e8c9e06dbfc43670888ac74c49fa68b68fcb924761",
+    "info_version": "9.0.0",
+    "status": "new",
+    "title": "Morpheus API",
+    "openapi_version": "openapi_3",
+    "paths_count": 615,
+    "path_diff": null
+  }
+]

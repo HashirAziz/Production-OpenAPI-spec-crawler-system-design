@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "7a5055bd6775",
+    "source_url": "https://raw.githubusercontent.com/mamonaco1973/gcp-resume-app/6dbd02a22e1a59e64db1463fea90fc30604c1824/02-functions/openapi.yaml.tpl",
+    "fetched_at": "2026-05-19T09:35:26.558091+00:00",
+    "content_hash": "b4cc7019fcb34bdd6df1a4bf857c0a817d546287d330b3f4b6ff1e186641bc9f",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Resume Scorer API",
+    "openapi_version": "swagger_2",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

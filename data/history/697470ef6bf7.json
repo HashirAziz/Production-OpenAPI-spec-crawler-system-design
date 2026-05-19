@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "697470ef6bf7",
+    "source_url": "https://raw.githubusercontent.com/Caiphe/Portal/659919526b1f9963f0f7e49491e3bb14e5642bcd/public/openapi/CustomerProfileAPI-swagger.yaml",
+    "fetched_at": "2026-05-18T15:18:03.648916+00:00",
+    "content_hash": "5c1af1099cb5976c811629727d67de0cb7a19bbfc90af766bec36d180d0266aa",
+    "info_version": "v1.8",
+    "status": "new",
+    "title": "MTN Customer Profile API",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a2a75e16759c",
+    "source_url": "https://raw.githubusercontent.com/TheresaLiao/dataset-collection-api/c336fe36606b7f206d889e56e5e237624c377fe7/doc/swagger.yaml.bak",
+    "fetched_at": "2026-05-19T09:36:15.721361+00:00",
+    "content_hash": "47783355ab87f703d041939f583b034f2fcd0da3aa41551add163150069a4163",
+    "info_version": "0.0.0",
+    "status": "new",
+    "title": "dataset-collection",
+    "openapi_version": "swagger_2",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1ee23c61ed33",
+    "source_url": "https://raw.githubusercontent.com/dudkinox/REST-API-NodeJS-byGuitar/b7487ded97d0426ca2463d7b81de3c517b86648b/swagger.json",
+    "fetched_at": "2026-05-19T09:36:45.705872+00:00",
+    "content_hash": "7796bea5b2540bd79c80647a9534d8e698e4d4c6e170ab54ac407107ee5b39eb",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

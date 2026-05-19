@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2748079d33f7",
+    "source_url": "https://raw.githubusercontent.com/s8ken/SYMBI-Resonate/12a69d63cb271bce063cd6cd12d853fe42f8e075/docs/openapi.yaml.backup",
+    "fetched_at": "2026-05-18T15:17:13.117478+00:00",
+    "content_hash": "f8287ef3070f41421a0511c9e063f099be6d45063c1317dc5b7a5b4b0043e16a",
+    "info_version": "0.2.0",
+    "status": "new",
+    "title": "SYMBI Resonate API",
+    "openapi_version": "openapi_3",
+    "paths_count": 22,
+    "path_diff": null
+  }
+]

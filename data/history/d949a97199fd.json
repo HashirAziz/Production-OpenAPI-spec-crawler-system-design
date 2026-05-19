@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d949a97199fd",
+    "source_url": "https://raw.githubusercontent.com/ADORSYS-GIS/DGAT-sustainability/dcdf6d214f2c533d82936a244608d9e82d91f5c1/frontend/openapi.json.backup",
+    "fetched_at": "2026-05-18T15:17:45.496530+00:00",
+    "content_hash": "a2a4a2ef3fb7ab277558a6957ea6c4bd48bcf9fc597213a1d69cb3f71ce5e9e1",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "sustainability-tool",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

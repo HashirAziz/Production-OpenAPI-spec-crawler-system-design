@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "41c039d57f98",
+    "source_url": "https://raw.githubusercontent.com/Mtynan/Thunderwings/ad9fb54b64658c56db626bbef535e6805b1d92d1/OpenAPI.yaml",
+    "fetched_at": "2026-05-18T15:17:10.398681+00:00",
+    "content_hash": "595873f1778cc93f585d8987a9364ae3d54e6a76477d4f098f2a48a55f46838a",
+    "info_version": "v1",
+    "status": "new",
+    "title": "Thunderwings API",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f4f2898fdd80",
+    "source_url": "https://raw.githubusercontent.com/tilt-dev/vscode-tilt-status/9eac678f73f63e9c77367b044343d7352a127188/src/gen/swagger.json.unprocessed",
+    "fetched_at": "2026-05-19T09:36:49.067136+00:00",
+    "content_hash": "55e5e6a52b6ba7c9693ed412aa2e2a086bf047c92de46d2f638cc8437ab844c9",
+    "info_version": "0.19.5",
+    "status": "new",
+    "title": "tilt",
+    "openapi_version": "swagger_2",
+    "paths_count": 24,
+    "path_diff": null
+  }
+]

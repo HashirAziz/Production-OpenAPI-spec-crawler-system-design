@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "7938c4f7627e",
+    "source_url": "https://raw.githubusercontent.com/azakharo/node-starter/c1f3555fd6fbc04307f412657b207484aa00d465/swagger.yaml",
+    "fetched_at": "2026-05-18T15:18:07.813631+00:00",
+    "content_hash": "3eb1864a5ccdde024d9c1da4823071422e3394800875727e001f26a26ef9932a",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "node-starter",
+    "openapi_version": "swagger_2",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

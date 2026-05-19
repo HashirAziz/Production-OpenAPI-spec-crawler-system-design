@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "00805cb7df81",
+    "source_url": "https://raw.githubusercontent.com/walker-tx/esv-sdk-ruby/4ce26d96503fe190b675486c93f7633c73052df7/.speakeasy/out.openapi.yaml",
+    "fetched_at": "2026-05-19T09:35:20.048839+00:00",
+    "content_hash": "9b6041a64364a3ba7186095af5272a2cd5184af7a6a91b2794450716b9f6f82a",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "ESV.org API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

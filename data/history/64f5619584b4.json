@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "64f5619584b4",
+    "source_url": "https://raw.githubusercontent.com/yoonseokham/gpt2-practice/bdca0231d9d7fadfa168846cba264b38b960c0c8/Swagger.yaml",
+    "fetched_at": "2026-05-19T09:40:03.816889+00:00",
+    "content_hash": "5194162384893a2f59a520e525efc24d4010ef48218321403a3c8d3f57926afc",
+    "info_version": "2.0",
+    "status": "new",
+    "title": "ainize-gpt2-cover-letter",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

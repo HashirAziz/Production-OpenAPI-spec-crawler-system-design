@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a55dacb63a7d",
+    "source_url": "https://raw.githubusercontent.com/e-kotov/motis.client/b7162e7cc12d5e1b5e1ac65dc83d999111acdaf2/tools/openapi.yaml.remote",
+    "fetched_at": "2026-05-18T15:17:08.794872+00:00",
+    "content_hash": "38f866c892779f8f587d65bc4725a89b2a88f9205396b8c413ff06977ae876ba",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "unknown",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

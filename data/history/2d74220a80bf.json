@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2d74220a80bf",
+    "source_url": "https://raw.githubusercontent.com/OHDSI/Broadsea-Usagi/3da2964cd35103e474040d5750f6afe5910ebd7d/swagger_website/api/openapi.yaml.orig",
+    "fetched_at": "2026-05-18T15:16:58.429216+00:00",
+    "content_hash": "bebbf72bb2f596bc3b24ba754ac39700b114bd956af1d18a988e07a7825f719b",
+    "info_version": "0.1",
+    "status": "new",
+    "title": "defaultTitle",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c4170ec5bbff",
+    "source_url": "https://raw.githubusercontent.com/sentioxyz/sentio-ai-kit/7a581bb27d495a18e06aa6428945fb8350daab9d/skills/sentio-platform/references/openapi.swagger.json",
+    "fetched_at": "2026-05-18T15:18:27.152960+00:00",
+    "content_hash": "4b81badd398a2ea86a1287bf187ecb1ff9d6a7f56ea46d9625f842b9e4485759",
+    "info_version": "version not set",
+    "status": "new",
+    "title": "Sentio API",
+    "openapi_version": "swagger_2",
+    "paths_count": 69,
+    "path_diff": null
+  }
+]

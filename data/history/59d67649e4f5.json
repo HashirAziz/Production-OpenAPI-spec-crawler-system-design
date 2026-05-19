@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "59d67649e4f5",
+    "source_url": "https://raw.githubusercontent.com/cogirep/documentation/55c091d796e827a7afe562fc6072da344d48b73a/docs/swagger/byd-manager-company-swagger.yaml",
+    "fetched_at": "2026-05-18T15:17:57.030642+00:00",
+    "content_hash": "bb56a5307a73e04763c4e10fee33faf7484d610cab9afc7ef89cdd0ffdd43eaf",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "BYD MANAGER COMPANY API",
+    "openapi_version": "swagger_2",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

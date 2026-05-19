@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "35e99a3ecf16",
+    "source_url": "https://raw.githubusercontent.com/BielosX/AWS-developer/dd751a1635c2e86b52829749763d38b508f9c049/cognito_user_pool/openapi.json.tmpl",
+    "fetched_at": "2026-05-19T09:36:00.996666+00:00",
+    "content_hash": "d94ed118fb49551935a88a437fcf554a42e0845820dd87acde8862f72b55c46d",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "demo",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

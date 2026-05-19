@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "fbfa00c79245",
+    "source_url": "https://raw.githubusercontent.com/VinulaUthsara/SwaggerAdvanceSyncBankATM/9263d920c9f4bacdf45904637b172a06c44bf78f/swagger.yaml",
+    "fetched_at": "2026-05-18T15:18:11.851795+00:00",
+    "content_hash": "760ef385c19257496bd63a0cf8a46c5abe2b6b393930dab7166a66f3709a1f61",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "SwaggerAdvanceSync",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

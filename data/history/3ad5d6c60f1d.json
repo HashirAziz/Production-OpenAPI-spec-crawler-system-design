@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3ad5d6c60f1d",
+    "source_url": "https://raw.githubusercontent.com/ghga-de/microservice-repository-template/19bb40682a91f288cd06e5b188e0318e12dc6fbf/openapi.yaml",
+    "fetched_at": "2026-05-19T09:35:33.256821+00:00",
+    "content_hash": "ee4d2c98131ae68f593378c7d4f5ff8b50cd1d89e6a819b909251c6bd4e76b57",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "FastAPI",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

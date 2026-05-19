@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "be18ebe37f9c",
+    "source_url": "https://raw.githubusercontent.com/TheShvdow/decoupage_administratif_api/15649cf8099640b77557b20b40aab063055a5329/openApi.json",
+    "fetched_at": "2026-05-18T15:17:48.496098+00:00",
+    "content_hash": "c6159739060a76f81b54d3c8a8c1ff553c5fc2d0d51ec9cf24ded8fd3ee9064a",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API Découpage Administratif du Sénégal",
+    "openapi_version": "openapi_3",
+    "paths_count": 20,
+    "path_diff": null
+  }
+]

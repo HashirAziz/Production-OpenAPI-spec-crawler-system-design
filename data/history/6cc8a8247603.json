@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6cc8a8247603",
+    "source_url": "https://raw.githubusercontent.com/elixir-cloud-aai/cwl-WES/4021c76fafedb93467f9ba8ec45801e9d977eb77/cwl_wes/api/20181010.be85140.workflow_execution_service.swagger.yaml",
+    "fetched_at": "2026-05-18T15:18:10.683488+00:00",
+    "content_hash": "b8e6c15d787812bab5a41c62af139190d624717c20e6bb7bee13abe7573f0294",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Workflow Execution Service",
+    "openapi_version": "swagger_2",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

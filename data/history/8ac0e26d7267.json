@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8ac0e26d7267",
+    "source_url": "https://raw.githubusercontent.com/jinr-greenlab/go-adc/31b99efb2931ae03152926574fbdf9cff01c6ec9/swagger.json",
+    "fetched_at": "2026-05-18T15:18:44.592876+00:00",
+    "content_hash": "814dba12f6ee1bdd8285c4ef385eec8fb2eca63fd8022ec7d9577e35cdfca877",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "go-adc64 API",
+    "openapi_version": "swagger_2",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

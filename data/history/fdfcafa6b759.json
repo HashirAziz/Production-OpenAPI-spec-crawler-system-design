@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "fdfcafa6b759",
+    "source_url": "https://raw.githubusercontent.com/R6Stats/docs2html/a02bdd86f3d7b223a007f05361fad1f21b36bfb0/swagger.yaml",
+    "fetched_at": "2026-05-19T09:40:09.688459+00:00",
+    "content_hash": "407c6d11a2c1d35c2e83552cf3f9a7d497be7dacb5ed997dd7193ec8742f38d0",
+    "info_version": "1.1.0",
+    "status": "new",
+    "title": "R6Stats API",
+    "openapi_version": "swagger_2",
+    "paths_count": 15,
+    "path_diff": null
+  }
+]

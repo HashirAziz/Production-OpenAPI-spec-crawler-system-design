@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "17b0ca2f463a",
+    "source_url": "https://raw.githubusercontent.com/AbdusSattar-70/Blogging-Haven/cbdb651099529ec058395b804c3ea2db565a7e72/swagger/v1/swagger.yaml",
+    "fetched_at": "2026-05-19T09:40:11.393489+00:00",
+    "content_hash": "78708a24b6e466a752d09c527bc7b96a8851e0ff106c932039c26e2c2e9f367b",
+    "info_version": "v1",
+    "status": "new",
+    "title": "API V1",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

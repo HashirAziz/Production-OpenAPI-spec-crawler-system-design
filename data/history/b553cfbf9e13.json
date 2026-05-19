@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b553cfbf9e13",
+    "source_url": "https://raw.githubusercontent.com/i-Sociaal-Lab/vektis-api/28e1f39f1ba8afc0b0f441d1d2b1225a26fd2adc/vektis_openapi.json",
+    "fetched_at": "2026-05-19T09:35:51.413405+00:00",
+    "content_hash": "7df31e5d17bfc3ee52fe8d23eb4d76c69bfcf0c0f4ece8233f9d5d4fb0fe852e",
+    "info_version": "v2",
+    "status": "new",
+    "title": "Vektis.AGB.WebAPI.Raadplegen (test-agb-api.vektis.nl/) v2",
+    "openapi_version": "swagger_2",
+    "paths_count": 50,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d5acb97d36ae",
+    "source_url": "https://raw.githubusercontent.com/HITS-Bank/bank-mono-repo/604e48696edf48a43bff212d9c531053414c6eb4/swagger.yaml",
+    "fetched_at": "2026-05-19T09:36:21.498330+00:00",
+    "content_hash": "a3781fde47d4513ff59b2394d7f217024c83a43e710e3f31f2e019aa1e909863",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Swagger (свэг) - OpenAPI 3.0",
+    "openapi_version": "openapi_3",
+    "paths_count": 29,
+    "path_diff": null
+  }
+]

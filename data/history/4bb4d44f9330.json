@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4bb4d44f9330",
+    "source_url": "https://raw.githubusercontent.com/auliaharvy/backend-sig/8a7df8bec7cedd059b280a6bc41e60ffe347e6ec/api-gateway/swagger.json.bck",
+    "fetched_at": "2026-05-18T15:18:34.005180+00:00",
+    "content_hash": "60eab4335b6d1515814cbd8c3eca94afe8bb736101af954bdf0e56200d7ede0a",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "PMS-SIG",
+    "openapi_version": "swagger_2",
+    "paths_count": 60,
+    "path_diff": null
+  }
+]

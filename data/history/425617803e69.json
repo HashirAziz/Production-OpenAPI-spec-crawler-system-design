@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "425617803e69",
+    "source_url": "https://raw.githubusercontent.com/Vizzuality/trends.earth-API/bfc3b2ec3577aba0cf0a3e32c68f0dfd5094d9b5/swagger.json",
+    "fetched_at": "2026-05-18T15:18:36.014685+00:00",
+    "content_hash": "41eba0acc888e495aab1f98b74e3bc9a718ef3ad04023af8ab8c1fde60c3743b",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "GEF API",
+    "openapi_version": "swagger_2",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

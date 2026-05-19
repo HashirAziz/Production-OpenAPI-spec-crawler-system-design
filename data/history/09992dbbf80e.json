@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "09992dbbf80e",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/ff416a7cd47c6293570dabfec46df3de8214a316/apis/openapi/sheetlabs.com/vs-api/1.2/meta/source/swagger.json",
+    "fetched_at": "2026-05-19T09:36:38.140545+00:00",
+    "content_hash": "3107712374ae40c56bb55c0c164e7be040feaadaa7bb543ada3127d6cf552b5c",
+    "info_version": "1.2",
+    "status": "new",
+    "title": "vs API",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

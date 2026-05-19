@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b9bacf54e7f0",
+    "source_url": "https://raw.githubusercontent.com/badarang/PROFECT_API/d8cef60c477902c1f2afd030f855145da12a814b/swagger.yaml.backup",
+    "fetched_at": "2026-05-18T15:18:04.205271+00:00",
+    "content_hash": "cdeec35ff6f631d244533eb00a9e8361dae6570f391da591f66186d65aaea0f3",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Profect API",
+    "openapi_version": "openapi_3",
+    "paths_count": 23,
+    "path_diff": null
+  }
+]

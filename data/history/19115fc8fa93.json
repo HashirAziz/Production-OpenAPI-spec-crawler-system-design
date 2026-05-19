@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "19115fc8fa93",
+    "source_url": "https://raw.githubusercontent.com/DFilyushin/library/412aaf4e86dcb6cacf9e92d99228f704a6057922/swagger.json",
+    "fetched_at": "2026-05-18T15:18:39.473148+00:00",
+    "content_hash": "4e3779b1d1045dffc231e52c282a5a13ca558ac6145ff30f8ed632d3dc65ad56",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Fb2 books store",
+    "openapi_version": "swagger_2",
+    "paths_count": 17,
+    "path_diff": null
+  }
+]

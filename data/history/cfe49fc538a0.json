@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "cfe49fc538a0",
+    "source_url": "https://raw.githubusercontent.com/itdcoronation/Documentation/e60cbc76546869768cc97976a78a40c941884a5d/swagger.yaml",
+    "fetched_at": "2026-05-18T15:18:15.591622+00:00",
+    "content_hash": "224d2362e89a7ff0eb65808ef3961ca1cddf79380d6007ed75a6c8ca4747b37e",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Wealth By Coronation Backend APIs",
+    "openapi_version": "openapi_3",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

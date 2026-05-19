@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c3784e673dc5",
+    "source_url": "https://raw.githubusercontent.com/radhey113/node-express-latest-swagger-bluebird/d25807f904cd3081c15317deca6d295f8536bfe5/swagger.json",
+    "fetched_at": "2026-05-18T15:18:44.119888+00:00",
+    "content_hash": "4463cca59fb08bf4d51852b37fbd87c4507182442babd448c90d14851a495722",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Demo Backend Documentation.",
+    "openapi_version": "swagger_2",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

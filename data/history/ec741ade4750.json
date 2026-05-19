@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ec741ade4750",
+    "source_url": "https://raw.githubusercontent.com/DECODEproject/verifier-api-definition/3beaba0b3d57870dcfcfe3fe4cf172aa0defcb70/swagger.yaml",
+    "fetched_at": "2026-05-18T15:18:16.176711+00:00",
+    "content_hash": "cf73dcd3e73bc222d1a271831d6d27c2a317a3baf2e322e2361e6838c3efd8f8",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Verifier API",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

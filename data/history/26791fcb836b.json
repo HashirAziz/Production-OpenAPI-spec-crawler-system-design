@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "26791fcb836b",
+    "source_url": "https://raw.githubusercontent.com/eljoesb/traffic-infraction-registration-system/1051172cf57b55ee4c0b1e15cf3b274bc6574bef/swagger.yaml",
+    "fetched_at": "2026-05-19T09:40:12.492938+00:00",
+    "content_hash": "9ad44506352aebe681d8b05e289b47745aeaf098b5809db0078ef3b89f9a6262",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Traffic Infraction Registration System API",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

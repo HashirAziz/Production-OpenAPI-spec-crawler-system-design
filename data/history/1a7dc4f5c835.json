@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1a7dc4f5c835",
+    "source_url": "https://raw.githubusercontent.com/Hendri-Welpie/store-main/7e75fd4d93d687fc715888290d018b55cba2ecf0/OpenAPI.yaml",
+    "fetched_at": "2026-05-18T15:17:01.160764+00:00",
+    "content_hash": "9f7e30f6fe1561aa137e8d5f251bb33a07fb4ae24ebb90489d8ede2a74ae7409",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Store API",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

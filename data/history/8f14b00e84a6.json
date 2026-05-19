@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8f14b00e84a6",
+    "source_url": "https://raw.githubusercontent.com/Orphanet/API_RDcode/8da3396e7516c822562e301ef6fffe15e3d1d6f6/swagger_server/swagger/swagger.yaml.old",
+    "fetched_at": "2026-05-18T15:18:01.983803+00:00",
+    "content_hash": "e7c5ef3149e0faf56c8ea98cf6a8e2009f27428bf1af7aa0063334b0da293e1a",
+    "info_version": "2.2",
+    "status": "new",
+    "title": "ORPHA Nomenclature (JULY 2022) - RD-CODE project",
+    "openapi_version": "openapi_3",
+    "paths_count": 24,
+    "path_diff": null
+  }
+]

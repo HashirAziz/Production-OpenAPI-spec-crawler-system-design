@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4b2bbcb86968",
+    "source_url": "https://raw.githubusercontent.com/DewyKB/dewy/78a581a56a91cee98edb97db50b76a88a389a65b/openapi.yaml",
+    "fetched_at": "2026-05-18T15:17:04.277012+00:00",
+    "content_hash": "ca6a4a7b61db6a62b0568625ef7ef37f63490dabf2892d8807aef996bb618657",
+    "info_version": "0.4.0",
+    "status": "new",
+    "title": "Dewy Knowledge Base API",
+    "openapi_version": "openapi_3",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

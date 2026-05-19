@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "bb0fc3f36237",
+    "source_url": "https://raw.githubusercontent.com/SatangBudsai/double-next-temp/5b5ef238f15246a696154bd8f9106f4f6f603ad5/src/api/generated/configs/main-service.swagger.json",
+    "fetched_at": "2026-05-19T09:36:45.962022+00:00",
+    "content_hash": "363e215732318863108628c048b748870f4d6db212517f1b9913b3675638dc93",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "realtime-chat-service",
+    "openapi_version": "openapi_3",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

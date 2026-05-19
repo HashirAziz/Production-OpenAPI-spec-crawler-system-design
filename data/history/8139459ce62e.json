@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8139459ce62e",
+    "source_url": "https://raw.githubusercontent.com/DonDalai/holidays-api/4bd977a74cec70aca9e3b75969dac1b92c819950/Swagger.yaml",
+    "fetched_at": "2026-05-19T09:40:04.008245+00:00",
+    "content_hash": "1f6d9f14ab692bd487bfba6cd9f99d095f29fcfe787a464414cc436ca124ec79",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Ejemplo de Documentación de API con Swagger",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

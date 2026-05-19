@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e4f0004ad7cb",
+    "source_url": "https://raw.githubusercontent.com/colosa/pmio-api-doc/de1e0fdd894c7d2a1323090adbccbc1052c505f3/swagger.json",
+    "fetched_at": "2026-05-18T15:18:36.934980+00:00",
+    "content_hash": "ec8fbe055ec95076630f76a7bcc1d0e038c03a8532a92c4c4577358325706fb2",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "ProcessMaker API",
+    "openapi_version": "swagger_2",
+    "paths_count": 32,
+    "path_diff": null
+  }
+]

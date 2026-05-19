@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5bcacdc1a2b0",
+    "source_url": "https://raw.githubusercontent.com/panisara-bd/watchl-backend/5034b39d0e63cab9b00bf278eb164f760f6eaedb/openapi.yaml.tpl",
+    "fetched_at": "2026-05-18T15:17:01.583549+00:00",
+    "content_hash": "bc6b51b14477e085abdc5a20bc3bca91557205677384648215fdf0f42c42ba60",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "WatchL API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

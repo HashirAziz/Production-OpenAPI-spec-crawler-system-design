@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "adf5a11adbce",
+    "source_url": "https://raw.githubusercontent.com/DarylCh/big-brain-v2/6c35098eef4ecfaf023fdbaa8c731c15b6e81207/swagger.yaml",
+    "fetched_at": "2026-05-19T09:40:15.451941+00:00",
+    "content_hash": "0535533a42cc3576fe37ba705a20c91c714cf99c9665668c4e1a8a03d3f42cef",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "BigBrain API",
+    "openapi_version": "openapi_3",
+    "paths_count": 15,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e9e2783890f4",
+    "source_url": "https://raw.githubusercontent.com/vinaybabu96/Feb16-26/aef8f9a7fccf9d20f908d1a7a04f880d8710d162/swagger.yaml",
+    "fetched_at": "2026-05-19T09:40:10.912590+00:00",
+    "content_hash": "4553f95132d93d79ad7fcd3d1852c1f0ef76814ff767a585991fb1a30f3fb419",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Feb6-26 Go API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

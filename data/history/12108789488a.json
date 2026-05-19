@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "12108789488a",
+    "source_url": "https://raw.githubusercontent.com/aaryan-rampal/spotipy-types/9d51396fd485624cb350fdea4189d08ab5690a32/schemas/spotify_openapi.yaml",
+    "fetched_at": "2026-05-18T15:17:12.504959+00:00",
+    "content_hash": "055ca4063605b2c6261830ea17d430cb02ecdec139062a22a4d38fbe5060b0e8",
+    "info_version": "2025.5.18",
+    "status": "new",
+    "title": "Spotify Web API with fixes and improvements from sonallux",
+    "openapi_version": "openapi_3",
+    "paths_count": 68,
+    "path_diff": null
+  }
+]

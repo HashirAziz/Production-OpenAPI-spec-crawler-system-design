@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "7dc5700954ee",
+    "source_url": "https://raw.githubusercontent.com/PwszSkierniewiceTeam/pms-backend/99ed02f353b7853242583067bcf98199f336c3a1/swagger.yaml",
+    "fetched_at": "2026-05-19T09:40:13.116175+00:00",
+    "content_hash": "55d6b09f2307f302048ced484be5a25dc6f379661b6b4903923543d9c6ba48b0",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "Project Management System Api",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

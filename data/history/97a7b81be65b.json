@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "97a7b81be65b",
+    "source_url": "https://raw.githubusercontent.com/BuzzzLeee/Assignment-main/c39c9053559c17a9ed4e9d97421848d911e8a68f/Swagger.yaml",
+    "fetched_at": "2026-05-18T15:18:10.005599+00:00",
+    "content_hash": "0683b00b347826de00a2e269c3ecaf4607413d5658a68f7f27cadb715c11b82a",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Hotel Visitor Management API",
+    "openapi_version": "swagger_2",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

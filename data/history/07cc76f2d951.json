@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "07cc76f2d951",
+    "source_url": "https://raw.githubusercontent.com/EvenChang/Kubesphere/53960d87a02becf24cfe52553edbf0c79f01d97e/api/ks-openapi-spec/swagger.json.orig",
+    "fetched_at": "2026-05-18T15:18:32.446364+00:00",
+    "content_hash": "10c32de3b0d5b37b7ab7eb826fa8ea5852930b9d7f0ad9c0a3639818445af02f",
+    "info_version": "v0.0.0",
+    "status": "new",
+    "title": "KubeSphere",
+    "openapi_version": "swagger_2",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

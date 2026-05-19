@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e0ac439a683f",
+    "source_url": "https://raw.githubusercontent.com/Sanchit-044/doc-cluster/b6f3d2d6af4a95f6c91d78df6de0fcf69e681c8f/swagger.yaml",
+    "fetched_at": "2026-05-18T15:18:08.526047+00:00",
+    "content_hash": "3ee7bc146a81911ca620b2c9e93d6e1c1880bb4b8c9842d86acc9ab646cf3f8f",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Doc-Cluster API",
+    "openapi_version": "openapi_3",
+    "paths_count": 12,
+    "path_diff": null
+  }
+]

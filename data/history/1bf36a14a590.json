@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1bf36a14a590",
+    "source_url": "https://raw.githubusercontent.com/odch/go-capzlog/3a561b31972054047a115087a04039361d8ed76b/swagger.json.orig",
+    "fetched_at": "2026-05-18T15:18:32.238526+00:00",
+    "content_hash": "4168049ac4a72006b18ecb18720995d5b6f251dd195d6aec52ef56eecc739ae5",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "capzlog.aero REST Services",
+    "openapi_version": "swagger_2",
+    "paths_count": 13,
+    "path_diff": null
+  }
+]

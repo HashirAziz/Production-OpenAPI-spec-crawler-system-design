@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a8ffbae1a60c",
+    "source_url": "https://raw.githubusercontent.com/shashankvivek/e-food-server/d32f54d933658f218ca5d28d3961b306ba326ce6/resources/_sample_swagger.yaml",
+    "fetched_at": "2026-05-18T15:18:01.405348+00:00",
+    "content_hash": "2babe13417a94dc34f64573a087ae9080d0563f107fffb5a66dea6917e39e8dd",
+    "info_version": "1.0.5",
+    "status": "new",
+    "title": "Swagger Petstore",
+    "openapi_version": "swagger_2",
+    "paths_count": 14,
+    "path_diff": null
+  }
+]

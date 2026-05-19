@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "cadb4c1094fe",
+    "source_url": "https://raw.githubusercontent.com/Lemonarque/P11/2e533b50e0a68e386ac27cb6236d5eea96de3aac/swagger.yaml",
+    "fetched_at": "2026-05-19T09:36:19.527506+00:00",
+    "content_hash": "111f48345c23659c9f0117e89a6e622ea5544a6c17ba48fb4ddc9f3470c185e8",
+    "info_version": "2.0.0",
+    "status": "new",
+    "title": "Bank Argent API documentation",
+    "openapi_version": "swagger_2",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

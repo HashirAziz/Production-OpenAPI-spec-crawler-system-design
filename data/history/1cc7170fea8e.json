@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1cc7170fea8e",
+    "source_url": "https://raw.githubusercontent.com/despeauxz/Expo/1f9e8d085b0d6e06790bba33352711f0c2dc978f/swagger.yaml",
+    "fetched_at": "2026-05-19T09:40:12.032065+00:00",
+    "content_hash": "00c9902f143089818a4f862a424ba1a95e03dddab14334d71a39b950ba24d864",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Expo",
+    "openapi_version": "swagger_2",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

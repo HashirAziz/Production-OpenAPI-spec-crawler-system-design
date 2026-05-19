@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e030e886979f",
+    "source_url": "https://raw.githubusercontent.com/AniketDev7/ai-rest-assured-framework/688158667a5749aa2622b79598f02a319a434661/sample-specs/google-travel-partner-openapi.json",
+    "fetched_at": "2026-05-18T15:17:46.272227+00:00",
+    "content_hash": "e1fc26596854dcb13b6cfd4bd50ae050877de42180f5c841ba296f356e9eb433",
+    "info_version": "v3",
+    "status": "new",
+    "title": "Travel Partner API",
+    "openapi_version": "openapi_3",
+    "paths_count": 17,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8e8c35495c51",
+    "source_url": "https://raw.githubusercontent.com/sbmonahan/tech-inventory-api/d701af28935cd3a3d3303a204a217f0af10fec3e/openapi.yaml.old",
+    "fetched_at": "2026-05-18T15:17:09.204900+00:00",
+    "content_hash": "4611059dc334a4364268b103cbe8bc2ca1a99f7d39bdddd9fc65b7df53418d54",
+    "info_version": "1.0.1",
+    "status": "new",
+    "title": "Tech Inventory API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

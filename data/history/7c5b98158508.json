@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "7c5b98158508",
+    "source_url": "https://raw.githubusercontent.com/apapadopoulos22/orfeas-ai-studio/acdbfe18506188473422e5b59706dc67668e064e/backend/openapi.yaml.mojibake_backup",
+    "fetched_at": "2026-05-18T15:17:16.621429+00:00",
+    "content_hash": "0114bd071f8de1920223639531ade0404a07abd32833b33c6c1e8247cf99e87a",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "ORFEAS AI 2DÃ¢â€ â€™3D Studio API",
+    "openapi_version": "openapi_3",
+    "paths_count": 12,
+    "path_diff": null
+  }
+]

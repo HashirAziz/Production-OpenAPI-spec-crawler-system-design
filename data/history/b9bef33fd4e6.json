@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b9bef33fd4e6",
+    "source_url": "https://raw.githubusercontent.com/ainize-team/model-serving/1dd06f65db88945184f73256c30523b32796086e/Swagger.yaml",
+    "fetched_at": "2026-05-18T15:17:59.777059+00:00",
+    "content_hash": "ae4bea7bde90a0198c73e3bb5f98e391bf5238a757f96d57d93b92b55e4e178f",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Prediction of Emotion",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

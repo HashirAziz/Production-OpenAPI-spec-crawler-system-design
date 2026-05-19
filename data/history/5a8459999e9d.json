@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5a8459999e9d",
+    "source_url": "https://raw.githubusercontent.com/filipkowal/memberApp/701a988239dd80e87351a197fe88cb45c5b1d3db/openApi.yaml",
+    "fetched_at": "2026-05-18T15:17:05.610346+00:00",
+    "content_hash": "a7836ebc8712abb3222be26d5572abfef5217f0a6b00c12f41aff112d085a8a0",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "memberApp",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f7732d9902bc",
+    "source_url": "https://raw.githubusercontent.com/DSRCorporation/full-stack-js-course/ba82884c18e0dacae4030e2cc0e9916ae967aa1f/swagger.yaml",
+    "fetched_at": "2026-05-19T09:36:25.608837+00:00",
+    "content_hash": "f8ec52d5702251d31629f3cd9ee2d4c977e93e68efcdcdb8a764ee01ceb783c9",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Digital Diary",
+    "openapi_version": "swagger_2",
+    "paths_count": 13,
+    "path_diff": null
+  }
+]

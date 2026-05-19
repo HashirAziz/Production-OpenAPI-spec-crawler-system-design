@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f0dd601826d4",
+    "source_url": "https://raw.githubusercontent.com/BartSoj/API-Health-Checker/3460ef916e287f4d82ab975495e958feef1e3be1/api_specs/people_openapi.json",
+    "fetched_at": "2026-05-18T15:17:42.758003+00:00",
+    "content_hash": "99f51a5128b0c56c0f9311a66404a56308fa759bfc7606d87ebaa858181c9ca8",
+    "info_version": "v1",
+    "status": "new",
+    "title": "People API",
+    "openapi_version": "openapi_3",
+    "paths_count": 20,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "70b10a43182b",
+    "source_url": "https://raw.githubusercontent.com/On-Do-Polaris/polaris_backend_fastapi/c2a28fd7b8f3e177340120b6bfefaa4bc16e8799/openapi.json.backup",
+    "fetched_at": "2026-05-18T15:17:28.492375+00:00",
+    "content_hash": "b9411b72de07b832de55c2e54886e29574424e826de43cadde5c83ba0806f244",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "SKAX Physical Risk AI Agent API",
+    "openapi_version": "openapi_3",
+    "paths_count": 25,
+    "path_diff": null
+  }
+]

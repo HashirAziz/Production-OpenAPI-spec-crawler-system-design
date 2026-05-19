@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e79e09367d3e",
+    "source_url": "https://raw.githubusercontent.com/SURFnet/apie/2f7f91d39783f1069fb92369b09daa17de53a305/example-profiles/petstore.openapi.json.license",
+    "fetched_at": "2026-05-18T15:17:25.949665+00:00",
+    "content_hash": "b2c9f72dafc5a525066a33c1e2b5df9c63c8271cca85204ddd37649e8bf94567",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "unknown",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "796a1c7d3858",
+    "source_url": "https://raw.githubusercontent.com/intsig-textin/docflow-docs/4a162913d0417b50b79e7da6bf75541c28c1d06a/docflow-global/cn/rest-api/openapi.yaml.src",
+    "fetched_at": "2026-05-18T15:17:11.598294+00:00",
+    "content_hash": "707c0bd6fffaafd6a226e827a750352cb624c73291205cc9820b3fd9b25317a0",
+    "info_version": "2.4.2",
+    "status": "new",
+    "title": "DocFlow API",
+    "openapi_version": "openapi_3",
+    "paths_count": 43,
+    "path_diff": null
+  }
+]

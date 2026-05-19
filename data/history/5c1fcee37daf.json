@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5c1fcee37daf",
+    "source_url": "https://raw.githubusercontent.com/NCATS-Tangerine/biolink-beacon/a1a6c5c83c956bcd0c3ba71bce09777269740e7a/server/swagger_server/swagger/swagger.yaml-localhost",
+    "fetched_at": "2026-05-19T09:40:04.516036+00:00",
+    "content_hash": "b5efc3d34b8440f9899f2db402712af1043ba0ed797afe18e56a404d1c6d2d5a",
+    "info_version": "1.1.1",
+    "status": "new",
+    "title": "Translator Knowledge Beacon API",
+    "openapi_version": "swagger_2",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

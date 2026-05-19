@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "00b3a8d1246d",
+    "source_url": "https://raw.githubusercontent.com/vickz84259/lolesports-api-docs/74027a7950c7e4629d3cab01ddd3990457a9956d/openapi.yaml",
+    "fetched_at": "2026-05-19T09:35:22.777302+00:00",
+    "content_hash": "5737ba80e2e41e0bdf0f3e9079dcd757c16553d3f120b3f6d8bba6f3dc782d9c",
+    "info_version": "1.0.0-alpha-1",
+    "status": "new",
+    "title": "Lolesports API",
+    "openapi_version": "openapi_3",
+    "paths_count": 18,
+    "path_diff": null
+  }
+]

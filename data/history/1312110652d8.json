@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1312110652d8",
+    "source_url": "https://raw.githubusercontent.com/czechitas/da-test-webapp/b596f2792a848ca26209ec5df63f074d97e560cb/.heroku_builder/swagger.yaml.example",
+    "fetched_at": "2026-05-19T09:36:16.588892+00:00",
+    "content_hash": "3c4c31e217baeaaf096cb92e81ed923349745e8084f9961682022a1f8c1a0d93",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "${APIARY_NAME}",
+    "openapi_version": "swagger_2",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9dce04380ccc",
+    "source_url": "https://raw.githubusercontent.com/vrann/crowdy-aws/68fe70fe08e64f71c66e5e38d00a69ac6a0a22fa/swagger.yaml",
+    "fetched_at": "2026-05-18T15:18:06.052069+00:00",
+    "content_hash": "a5f639c52344425fc957879bdd18a1028aa9cd5c395792c3f21d12d75c441b51",
+    "info_version": null,
+    "status": "new",
+    "title": "Crwody",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3a02f4999061",
+    "source_url": "https://raw.githubusercontent.com/maxencexz/docs/d529a47a7db21146aa3420ac34eb6d363fb55c0c/api-reference/openapi.json.old",
+    "fetched_at": "2026-05-18T15:17:29.103734+00:00",
+    "content_hash": "8063fe2efd7462900d6e9c14f7a63d1652f9ae4508ad440435ec87076e403a6b",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "OpenAPI Plant Store",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

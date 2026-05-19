@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4d70c6c33b1b",
+    "source_url": "https://raw.githubusercontent.com/CatoTH/antragsgruen/4f0f35fb9063742426b8fe4c92086df690e8a97f/docs/openapi.yaml",
+    "fetched_at": "2026-05-18T15:16:56.261725+00:00",
+    "content_hash": "6dc7d3c3355f90a0a1d8e5ca7cd9ef227a579ef309c056a7e75151956cb734f9",
+    "info_version": "0.3.0",
+    "status": "new",
+    "title": "Antragsgrün API",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

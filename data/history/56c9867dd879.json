@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "56c9867dd879",
+    "source_url": "https://raw.githubusercontent.com/safbc/Chaincore/34088e5009375597a2e9387d6cd76fd06cc26934/src/BlockEx/BlockExAPI/api/swagger.yaml.bak",
+    "fetched_at": "2026-05-19T09:36:18.579904+00:00",
+    "content_hash": "267cb22c739a5fbe422cc8a5dc422d35352133d1a383bf900b73240bdaee092b",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "BlockEx API",
+    "openapi_version": "swagger_2",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

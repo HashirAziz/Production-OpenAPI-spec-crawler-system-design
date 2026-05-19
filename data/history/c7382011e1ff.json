@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c7382011e1ff",
+    "source_url": "https://raw.githubusercontent.com/xRocketPowerx/python-sel-dedicated/3b9b41fbd7abc05d427e8abf688b007b6dcf9e96/swagger.json",
+    "fetched_at": "2026-05-18T15:18:41.152522+00:00",
+    "content_hash": "6a9cda856c4356d7bbb78d012731edfb1cf74663d5aef30889941eb3e394b194",
+    "info_version": "2.4.8",
+    "status": "new",
+    "title": "Seido User REST API",
+    "openapi_version": "swagger_2",
+    "paths_count": 62,
+    "path_diff": null
+  }
+]

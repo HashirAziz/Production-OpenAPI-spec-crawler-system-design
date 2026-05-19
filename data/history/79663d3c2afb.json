@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "79663d3c2afb",
+    "source_url": "https://raw.githubusercontent.com/ismetkoralay/express-rest/2ef9bfe48fd969ed676def28d060ef9f721278dd/swagger.yaml",
+    "fetched_at": "2026-05-18T15:18:04.938674+00:00",
+    "content_hash": "ddd00d4108402d7e7ab3367adf8359e3c5f6d1fc07946c122cb51da3023a80d0",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Express",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

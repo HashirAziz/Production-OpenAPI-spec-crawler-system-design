@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "09344f9d5870",
+    "source_url": "https://raw.githubusercontent.com/ZYousef/mx-coe558-project/87daec55f8f9ea55d9850c12829b5ee0a46eab78/openapi.yaml.tpl",
+    "fetched_at": "2026-05-19T09:35:20.554271+00:00",
+    "content_hash": "fa9a78ede9ca49b583396504d0efbf3c8b112061fa3148baea408890cf23f593",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "coe558-unified-api",
+    "openapi_version": "swagger_2",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ca9e591803ad",
+    "source_url": "https://raw.githubusercontent.com/drid-uniben/ibr-tetfund-server/41a140815be3b4dbf1d8fbc1048d3f798f5fac74/swagger.yaml",
+    "fetched_at": "2026-05-19T09:36:25.267839+00:00",
+    "content_hash": "4b47f879870bbd96c4e2c6b3cce80be4e6a121e3ba7cd5263abfbcf70366a184",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "UNIBEN Research Submission Portal API",
+    "openapi_version": "openapi_3",
+    "paths_count": 14,
+    "path_diff": null
+  }
+]

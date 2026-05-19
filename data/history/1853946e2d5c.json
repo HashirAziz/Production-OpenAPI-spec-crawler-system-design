@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1853946e2d5c",
+    "source_url": "https://raw.githubusercontent.com/sk-sohel01/rbcpoc/5ebf69fb23728d76b36b135343a67a1ca87c4f6e/trade-processor/openapi.yaml.bak",
+    "fetched_at": "2026-05-19T09:35:28.658752+00:00",
+    "content_hash": "c8b2bf2e40cf17fb3aa9a6bbbfd8336e4b61a07b6e9c237744c3c26014fd21ca",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Position Service - TraderX",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

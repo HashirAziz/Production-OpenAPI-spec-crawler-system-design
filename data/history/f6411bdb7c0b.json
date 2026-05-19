@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f6411bdb7c0b",
+    "source_url": "https://raw.githubusercontent.com/carlosgaleano/apilogy2/0b714d9778bdd53a59ebc6a357b0d0d9fb5ec4eb/public/swagger.json",
+    "fetched_at": "2026-05-18T15:18:42.735390+00:00",
+    "content_hash": "64832c58591d91feece2ccc750d873a927985ea18bdd44029960c59cdd9541a0",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API TSA VERIFONE",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

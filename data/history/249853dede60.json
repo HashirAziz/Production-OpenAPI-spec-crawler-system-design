@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "249853dede60",
+    "source_url": "https://raw.githubusercontent.com/sk-sohel01/rbcpoc/5ebf69fb23728d76b36b135343a67a1ca87c4f6e/reference-data/openapi.yaml.bak",
+    "fetched_at": "2026-05-19T09:35:27.849787+00:00",
+    "content_hash": "0276ae791b9fcd1eb5188f8d9a22faaa2123340e931866eb3994d953a6126659",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "FINOS TraderX | Reference Data Service",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

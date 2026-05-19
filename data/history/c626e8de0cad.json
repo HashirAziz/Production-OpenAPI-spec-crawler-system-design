@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c626e8de0cad",
+    "source_url": "https://raw.githubusercontent.com/charly-vega/docs/79c0efad3a1797a29e37edef930f96b6d6f14ced/api-reference/openapi.yaml.disabled",
+    "fetched_at": "2026-05-19T09:35:33.569514+00:00",
+    "content_hash": "09b8d4b37e310cde4d22264156d932352a782cb80a07319ca30985cb480a7559",
+    "info_version": "v1.0.0",
+    "status": "new",
+    "title": "CreatorKit API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1b801d651c62",
+    "source_url": "https://raw.githubusercontent.com/pnp/copilot-pro-dev-samples/f70c9087d2dff8abca2d31aaae61e4d2727c7df4/samples/da-HRHelpdesk/appPackage/apiSpecificationFile/openapi.yaml.original",
+    "fetched_at": "2026-05-18T15:16:54.461297+00:00",
+    "content_hash": "61dee555d8de725425a2ac108094af069650e00bf10d3853c3041e008426a2df",
+    "info_version": "latest",
+    "status": "new",
+    "title": "Table API - Subset",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

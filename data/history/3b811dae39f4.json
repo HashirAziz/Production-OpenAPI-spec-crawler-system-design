@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3b811dae39f4",
+    "source_url": "https://raw.githubusercontent.com/scottschroeder/storyestimate/6f44b969691d4d74c3b1d3a667659250eb45d862/templates/swagger.yaml.swaggerspec.hbs",
+    "fetched_at": "2026-05-18T15:17:56.157681+00:00",
+    "content_hash": "233bd0a2e50bc68cf1a669ae3589586c5bf467021063b0733d2dd1285b1f9e58",
+    "info_version": "0.2.0",
+    "status": "new",
+    "title": "StoryEstimates API",
+    "openapi_version": "swagger_2",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

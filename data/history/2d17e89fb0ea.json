@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2d17e89fb0ea",
+    "source_url": "https://raw.githubusercontent.com/emreler/finch/205cd9e3afb83c02ea415a97d1f76bc0556f062a/swagger.yaml",
+    "fetched_at": "2026-05-18T15:18:02.837581+00:00",
+    "content_hash": "0dd2625050e18d2c8d01cc91e91cc5e74025725d7477fd67a2987e95fd8b849d",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "Finch API",
+    "openapi_version": "swagger_2",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

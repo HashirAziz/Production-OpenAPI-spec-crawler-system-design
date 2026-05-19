@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "31a41b7ea0e7",
+    "source_url": "https://raw.githubusercontent.com/tazama-lf/tms-service/0f7472830d6a4869ad36d5fa17c95b4e09e3b60a/swagger.yaml",
+    "fetched_at": "2026-05-19T09:40:15.256090+00:00",
+    "content_hash": "e2cdb885201c2cf2d12d0aa98579aba9879b2adc0e3bf21e3369ed3abaea4a48",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "Swagger Example",
+    "openapi_version": "swagger_2",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

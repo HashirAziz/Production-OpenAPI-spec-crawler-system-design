@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1d7326380675",
+    "source_url": "https://raw.githubusercontent.com/xSam08/reservations-system/39d99b561e841c90e2cfe158dfa5eb14187ff514/reservations-backend/api-gateway/swagger.yaml.old",
+    "fetched_at": "2026-05-18T15:18:11.299466+00:00",
+    "content_hash": "990520c55f300009aa9cf9aadda38c1da5dc806ae28c034ea54ec9e343098558",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Hotel Reservation System API",
+    "openapi_version": "openapi_3",
+    "paths_count": 50,
+    "path_diff": null
+  }
+]

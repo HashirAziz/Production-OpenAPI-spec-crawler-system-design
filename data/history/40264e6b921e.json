@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "40264e6b921e",
+    "source_url": "https://raw.githubusercontent.com/BenjaminMedia/bonnier-services-documentation/17601c9de8f20d2e4730a3ced6e2483aa91b6fd8/spec/swagger.yaml",
+    "fetched_at": "2026-05-19T09:40:12.730197+00:00",
+    "content_hash": "ccf7949f1195fd0363939ab77478a14096dd00eeab280c2432fb630d9af5398d",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Example.com",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

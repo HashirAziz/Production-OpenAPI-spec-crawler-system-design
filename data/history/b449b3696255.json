@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b449b3696255",
+    "source_url": "https://raw.githubusercontent.com/ieasybooks/aljam3-web-app/be4bb9f39ad926d1f36a1f5d974df38193586b39/swagger/v1/swagger.yaml",
+    "fetched_at": "2026-05-18T15:18:07.064651+00:00",
+    "content_hash": "edb2888465ec6104baee457656de35fce65f64ffc8d6ae7c37fc5bc6d8141a49",
+    "info_version": "v1",
+    "status": "new",
+    "title": "Aljam3 API",
+    "openapi_version": "openapi_3",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

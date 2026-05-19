@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "69204ac52764",
+    "source_url": "https://raw.githubusercontent.com/AISS-2021-L1-G06/Proyecto-Integracion/f6e5a3f08ee733200a866c4c15bc3a651d5e8a49/src/main/webapp/docs/swagger.yaml",
+    "fetched_at": "2026-05-19T09:40:14.921428+00:00",
+    "content_hash": "4e8a8808559af22d959b2f3e9d24bce8a1f987b09a9f6cfae8928d02188d16a0",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API de coches para el Proyecto Integración AISS",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

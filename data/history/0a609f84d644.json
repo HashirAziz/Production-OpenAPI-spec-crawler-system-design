@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0a609f84d644",
+    "source_url": "https://raw.githubusercontent.com/JPVenson/MatrixAutomatic1111Bot/109c7e2ddccbd5043ba3230e991559622d8d1458/OpenApi.json",
+    "fetched_at": "2026-05-18T15:17:40.133594+00:00",
+    "content_hash": "d58efd22cd88ed41b92ffadab52531c6feff39f7b3ede32acceb2dd6bc6d01b1",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "FastAPI",
+    "openapi_version": "openapi_3",
+    "paths_count": 88,
+    "path_diff": null
+  }
+]

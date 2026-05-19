@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "fe3d8afe7219",
+    "source_url": "https://raw.githubusercontent.com/iamthegreatdestroyer/Ryzanstein/4fe68aa3333f5f221fc29b3ed5f461705873e1d4/RYZEN-LLM/openapi.json.bak",
+    "fetched_at": "2026-05-18T15:17:31.467091+00:00",
+    "content_hash": "341053dccd2eeac357d1864881f5189ad3c19ad8c6db5a74e15633fd61c11a5a",
+    "info_version": "3.0.0",
+    "status": "new",
+    "title": "RYZEN-LLM Distributed API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

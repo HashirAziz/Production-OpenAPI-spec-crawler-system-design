@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3537b7d45c58",
+    "source_url": "https://raw.githubusercontent.com/As1i1/AndroidHW3/6b3593776c0db6624530a68c864ac1662e671589/swagger.yaml",
+    "fetched_at": "2026-05-19T09:36:24.415686+00:00",
+    "content_hash": "09bbc32406ab8ceabd1d57fe01bbf7af10116cfc6a6e60c0a3de03c539508f84",
+    "info_version": "0.1",
+    "status": "new",
+    "title": "API приложения \"DOLG\"",
+    "openapi_version": "swagger_2",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

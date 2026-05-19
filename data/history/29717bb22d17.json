@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "29717bb22d17",
+    "source_url": "https://raw.githubusercontent.com/EricFernandezDC/TMFValidator/6622afd206e722e7fbbece29eb2b8277489c2fc6/swagger/paymentManagementTMF_v1.0.0_review9.swagger.json",
+    "fetched_at": "2026-05-18T15:18:24.198707+00:00",
+    "content_hash": "6706a715340745c47a45e7638e63ef6e85d67df442d8845cde20a85adee71da9",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Payment Management",
+    "openapi_version": "swagger_2",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

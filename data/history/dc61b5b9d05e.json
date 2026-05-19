@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "dc61b5b9d05e",
+    "source_url": "https://raw.githubusercontent.com/go-WebAPI-team/task-app/48b99a3d42e1493472761090a1400e113bb52b3a/docs/swagger.json.bak",
+    "fetched_at": "2026-05-19T09:36:38.613235+00:00",
+    "content_hash": "bfd8d92b149fd55c3c9a98c59513286ac6a8d7ac98a642c51706def5fa8a32b0",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "swagger_2",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

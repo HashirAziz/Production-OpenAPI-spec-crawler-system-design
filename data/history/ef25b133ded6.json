@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ef25b133ded6",
+    "source_url": "https://raw.githubusercontent.com/NikitaBagulov/Design-Patterns/765140217ecbfd5d9d5dd830ad1392b9b4265161/swagger.yaml",
+    "fetched_at": "2026-05-19T09:40:08.394852+00:00",
+    "content_hash": "4d87908a3453a7481ca839534ec637f11d25ed5442ae1087c69dd0b73e46ba12",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "RestApi",
+    "openapi_version": "swagger_2",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

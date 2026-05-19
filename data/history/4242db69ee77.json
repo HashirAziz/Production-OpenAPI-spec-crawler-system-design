@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4242db69ee77",
+    "source_url": "https://raw.githubusercontent.com/scy6500/KoGPT2/5a54b3a71bfff267a91c608c22a4ab1df6ada7cf/Swagger.yaml",
+    "fetched_at": "2026-05-18T15:18:12.938635+00:00",
+    "content_hash": "1e5f0aba44ec8c4f707356f874f1f1d48e5f22c0b4fd1d083482a798f797ad42",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "KoGPT2",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

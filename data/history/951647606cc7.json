@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "951647606cc7",
+    "source_url": "https://raw.githubusercontent.com/Sanketh149/sanketh-job-api/8f904ec8874df253b6a8ab913b4b0a4839efce18/swagger.yaml",
+    "fetched_at": "2026-05-19T09:40:06.832572+00:00",
+    "content_hash": "f2e186cd46bc6338b2811932fdb9c3f9a82f0e6a72cdff1cc0ce16d5a8a00e7d",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Jobs API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

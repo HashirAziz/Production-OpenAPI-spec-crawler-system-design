@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6aa3151e8e65",
+    "source_url": "https://raw.githubusercontent.com/restrok/latam-devops/c3bafc49a33ec73e86ab774dc7f5e0144392e1a9/infra/openapi.yaml.tpl",
+    "fetched_at": "2026-05-19T09:35:21.750199+00:00",
+    "content_hash": "e0f918924f1a9ab7d0fbc18c8588e2291c0c9579936a33d426cdd10cb56521b5",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "my-api",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ecaa1c6d9b27",
+    "source_url": "https://raw.githubusercontent.com/titaska/Bitukai/fe259bc8d1443149608eaee289ab9863ec996e0a/new_openapi.yaml",
+    "fetched_at": "2026-05-19T09:35:30.589998+00:00",
+    "content_hash": "ecc8ce3a314c7ec514a3d95594dae6c5a07cbcc37281e99f4a22f755def5ee63",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Versatile Point of Sale (POS) API",
+    "openapi_version": "openapi_3",
+    "paths_count": 36,
+    "path_diff": null
+  }
+]

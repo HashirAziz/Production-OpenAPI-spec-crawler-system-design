@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0c7248b7aa20",
+    "source_url": "https://raw.githubusercontent.com/devEddu17x/meet-one-infrastructure/c12bf467e40e951a1da85af9f072764c60aa5466/iac/modules/api-gateway-rest/openapi.yaml.tftpl",
+    "fetched_at": "2026-05-18T15:17:06.131985+00:00",
+    "content_hash": "8184f725a8aa40e5fd257c00f630c613498fb43af9f60efb55f64b687e32d746",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "${name_prefix}-api",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

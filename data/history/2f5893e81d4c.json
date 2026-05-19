@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2f5893e81d4c",
+    "source_url": "https://raw.githubusercontent.com/DeMaskFinance/demask_v2_backend_api/2d515b1ce5c9f7a11dd346bf116ed2edf31f44a5/swagger.yaml",
+    "fetched_at": "2026-05-18T15:18:08.163408+00:00",
+    "content_hash": "87e59432e76b6e1172113d8026b67861f49cd21aadf67c067dec1de69db9d001",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Swagger API Demask",
+    "openapi_version": "openapi_3",
+    "paths_count": 31,
+    "path_diff": null
+  }
+]

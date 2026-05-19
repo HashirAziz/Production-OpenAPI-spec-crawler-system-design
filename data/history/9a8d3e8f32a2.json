@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9a8d3e8f32a2",
+    "source_url": "https://raw.githubusercontent.com/meybecode/maze/e45cdba96a91aab58bb05aac6c662fa7870bd5ed/swagger.yaml",
+    "fetched_at": "2026-05-18T15:18:08.939027+00:00",
+    "content_hash": "572403cfd7119da90b01c48030d813af2c8b7bc30b2f719556385afb0dfbdd51",
+    "info_version": "0.0.4",
+    "status": "new",
+    "title": "laby",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

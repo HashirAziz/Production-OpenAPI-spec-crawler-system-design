@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2eed26472d4c",
+    "source_url": "https://raw.githubusercontent.com/api-evangelist/amazon-app-runner/b4a922b51d15bad38b4fcf7b44b5609ee6f673cf/openapi/amazon-app-runner-openapi.json",
+    "fetched_at": "2026-05-18T15:17:47.002371+00:00",
+    "content_hash": "4dd5ceb0a74c2e9f2e330315e808197aad5475f8f283616ea5ac6accd1742c49",
+    "info_version": "2020-05-15",
+    "status": "new",
+    "title": "AWS App Runner",
+    "openapi_version": "openapi_3",
+    "paths_count": 35,
+    "path_diff": null
+  }
+]

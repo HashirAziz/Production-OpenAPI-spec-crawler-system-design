@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "05fca4282657",
+    "source_url": "https://raw.githubusercontent.com/valex1984/katacoda-scenarios/b7921217985c3f629db8f552e1620d0ebd784fa3/openapi1/assets/httpbin-openapi.yaml",
+    "fetched_at": "2026-05-18T15:17:02.997080+00:00",
+    "content_hash": "3528e362df3092fd7117a54489cdd725577d06b8d713bb7da9994f1f9ecd598d",
+    "info_version": "1.0-oas3",
+    "status": "new",
+    "title": "httpbin",
+    "openapi_version": "openapi_3",
+    "paths_count": 22,
+    "path_diff": null
+  }
+]

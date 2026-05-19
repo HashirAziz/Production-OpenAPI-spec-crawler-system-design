@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "983035ef021e",
+    "source_url": "https://raw.githubusercontent.com/rcholic/SentienceAPI-SDK/90ba4c7cdda6d3b2ff2e4fcec8119dc7a9d4bf8e/openapi.json.backup",
+    "fetched_at": "2026-05-18T15:17:28.758723+00:00",
+    "content_hash": "97096300ed39dda008718cd2b223f497532f8026d18d970cc9237930dcd35439",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Sentience API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "779e8bdb687d",
+    "source_url": "https://raw.githubusercontent.com/TSEnterpriseCloud/shared/42571e273a8767cca6f0b54e69f203c6a5f31dcd/fw/swagger.yaml.old",
+    "fetched_at": "2026-05-19T09:36:15.005741+00:00",
+    "content_hash": "5c9388775b0d7abc09fb7f5cafa8a900385c53ffcc17e5afc8c580d63f13dcd5",
+    "info_version": "v2025.1000",
+    "status": "new",
+    "title": "TSE Cloud - FW",
+    "openapi_version": "openapi_3",
+    "paths_count": 16,
+    "path_diff": null
+  }
+]

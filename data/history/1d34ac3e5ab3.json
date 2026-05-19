@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1d34ac3e5ab3",
+    "source_url": "https://raw.githubusercontent.com/APWG/ecx2-openapi-doc/9218d45cdc82dded5474adb2a58072e68483cdd8/ecx2-openapi.yaml.28Mar",
+    "fetched_at": "2026-05-19T09:35:14.518276+00:00",
+    "content_hash": "d6861fef643c3ac468636ca438c84d2099b5a9e06656613bcd9db0731ce698bb",
+    "info_version": "1.0.5",
+    "status": "new",
+    "title": "eCXv2 - API v1.0",
+    "openapi_version": "openapi_3",
+    "paths_count": 19,
+    "path_diff": null
+  }
+]

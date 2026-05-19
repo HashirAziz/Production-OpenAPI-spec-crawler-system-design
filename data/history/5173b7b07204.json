@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5173b7b07204",
+    "source_url": "https://raw.githubusercontent.com/FarosBelgium/eye-spotted-be/bc3f8c1789472eaa7ff28c7b85e1cd31d4a7dda1/OpenApi.json",
+    "fetched_at": "2026-05-18T15:17:44.478650+00:00",
+    "content_hash": "9b3702581eefe5f992ee672ac764257fdc589b6eb52c42ec2cb40bd3c3488a27",
+    "info_version": "v0",
+    "status": "new",
+    "title": "My Career Open API Overview",
+    "openapi_version": "openapi_3",
+    "paths_count": 13,
+    "path_diff": null
+  }
+]

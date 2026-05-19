@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d58160312ef5",
+    "source_url": "https://raw.githubusercontent.com/wthz-dev/backend-railway/44ae4ed4c1873852242cc38d25ef6e25ec66af3a/swagger.yaml",
+    "fetched_at": "2026-05-19T09:36:22.092248+00:00",
+    "content_hash": "9f021c057a010745c5aea501952795606c81161aea3fc18d2485c723056e9967",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "My Blog API",
+    "openapi_version": "openapi_3",
+    "paths_count": 13,
+    "path_diff": null
+  }
+]
