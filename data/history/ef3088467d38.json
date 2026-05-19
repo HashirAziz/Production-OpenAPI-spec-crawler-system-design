@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ef3088467d38",
+    "source_url": "https://raw.githubusercontent.com/family-care/Inventory-Watcher-Backend/7e183a04073aead32a5cb010ba7a0d0ce666c482/swagger.yaml",
+    "fetched_at": "2026-05-19T09:40:12.919298+00:00",
+    "content_hash": "49ba86eca51e3cfd0cf4b7ba709469434794d2f344998dc160c66e4c054c5e7d",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "Inventory Tracker API",
+    "openapi_version": "swagger_2",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

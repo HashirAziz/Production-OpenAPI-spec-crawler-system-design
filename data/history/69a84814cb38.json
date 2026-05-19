@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "69a84814cb38",
+    "source_url": "https://raw.githubusercontent.com/MeryamAbdulla/node-restapi/178706cc5e3335b4a2e89f04e75b78f6d4c41ef1/swagger.yaml",
+    "fetched_at": "2026-05-19T09:40:10.634412+00:00",
+    "content_hash": "314084123a1393fa2e82cdf26a4787209f9d65f649421773891ef2b5008b45d6",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "User API",
+    "openapi_version": "openapi_3",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

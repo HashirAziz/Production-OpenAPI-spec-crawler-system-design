@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c51ecc36c04d",
+    "source_url": "https://raw.githubusercontent.com/OrganicityEu-Platform/experimentManagentService/bb408b3e901612882894b758424972c6a42d5b46/api/swagger/swagger.yaml.old",
+    "fetched_at": "2026-05-19T09:40:05.737036+00:00",
+    "content_hash": "43a87013d8eba5c3db30ce385aad01ed8c119e1fa45db94532c210a325089b23",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Experiment Management Service",
+    "openapi_version": "swagger_2",
+    "paths_count": 15,
+    "path_diff": null
+  }
+]

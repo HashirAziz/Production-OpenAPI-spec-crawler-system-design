@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "35c14e7d469e",
+    "source_url": "https://raw.githubusercontent.com/Explainable-Artificial-Intelligence/ConvolutionalAutoEncoder/0aaad0bf6d87461ff5e43a550e0446e54930d326/swagger.yaml",
+    "fetched_at": "2026-05-19T09:40:06.208223+00:00",
+    "content_hash": "3a49918412ee35d506570e6c83dce9bcccba281a905dece632ee0d7ca347b879",
+    "info_version": "1.2.2",
+    "status": "new",
+    "title": "Convolutional Autoencoder",
+    "openapi_version": "swagger_2",
+    "paths_count": 31,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "91076d23a59a",
+    "source_url": "https://raw.githubusercontent.com/sharadregoti/devops-cli/81b5f40238d73abc985cbbe82e80b10419bf4b2b/devops-frontend/swagger.yaml",
+    "fetched_at": "2026-05-19T09:40:09.844110+00:00",
+    "content_hash": "759890d8aa1a6d86708c42f06241194717a62f47bb4fc3c914a3b82cff565bf8",
+    "info_version": "v0.1.0",
+    "status": "new",
+    "title": "NEW Devops API",
+    "openapi_version": "swagger_2",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

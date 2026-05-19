@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "7d68bc32a6b9",
+    "source_url": "https://raw.githubusercontent.com/dmytro07/github_release_notifier/4104ba36887aa0066960721a96e4697d9545dcce/swagger.yaml",
+    "fetched_at": "2026-05-19T09:40:08.563816+00:00",
+    "content_hash": "569134b4337e449799f946cd3b1a913d9511c1c6ab0646c2a598a83fb6be0cb2",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "GitHub Release Notification API",
+    "openapi_version": "swagger_2",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

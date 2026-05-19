@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f6d721811b0a",
+    "source_url": "https://raw.githubusercontent.com/M1-Elmasry/project_manager/00acbca84998bf687a9973796caa0a6b3acbbe14/swagger.yaml",
+    "fetched_at": "2026-05-19T09:40:14.275048+00:00",
+    "content_hash": "29b735eb9449eac5d7a3053098f3ba454f234f2f2fea02be6d7f3e5d16f39d62",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Project Manager Backend API",
+    "openapi_version": "openapi_3",
+    "paths_count": 28,
+    "path_diff": null
+  }
+]

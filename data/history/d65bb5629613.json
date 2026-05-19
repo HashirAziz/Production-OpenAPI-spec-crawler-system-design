@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d65bb5629613",
+    "source_url": "https://raw.githubusercontent.com/buildingSMART/documents-API/938bd7636e094c2dc3c65ad6dae846ac3c7b6a9b/swagger.yaml",
+    "fetched_at": "2026-05-19T09:40:03.018948+00:00",
+    "content_hash": "b6d5b5ee5da62648e385d5e468a9589f3ea4b385fabcfd3598b5a8bb668b6bbf",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "OpenCDE Documents API",
+    "openapi_version": "openapi_3",
+    "paths_count": 12,
+    "path_diff": null
+  }
+]

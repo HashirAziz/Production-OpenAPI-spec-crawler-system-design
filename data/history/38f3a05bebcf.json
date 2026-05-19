@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "38f3a05bebcf",
+    "source_url": "https://raw.githubusercontent.com/Mjbhatty/testing-env/00b52ea60670ad3130beaf71c4535d9de35ee264/swagger.yaml",
+    "fetched_at": "2026-05-19T09:40:07.228408+00:00",
+    "content_hash": "c59ea1fb6e20ff75310e2a86a794a95c69ed5b146abde34811bee614a4ac6c4b",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "The Innovation Game API",
+    "openapi_version": "openapi_3",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

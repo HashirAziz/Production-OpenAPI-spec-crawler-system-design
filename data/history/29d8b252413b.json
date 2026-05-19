@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "29d8b252413b",
+    "source_url": "https://raw.githubusercontent.com/rojaldo/spring-boot-samples/ec4310d653ce6671807b49e8fe03f950c02101bc/swagger.yaml",
+    "fetched_at": "2026-05-19T09:40:10.309205+00:00",
+    "content_hash": "828db8b938f10f0250c6f142c6813bc94a2247a31d4b5e26e57a69a63366e4a6",
+    "info_version": "1.0.5",
+    "status": "new",
+    "title": "Library",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

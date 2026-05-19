@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b17f3de167d6",
+    "source_url": "https://raw.githubusercontent.com/fethi-meza/Node.js---MongoDB-Authentication-Git-Hub--auth-/9dbf67f047f1daf804dd81619db80b5f599aa6f9/swagger.yaml",
+    "fetched_at": "2026-05-19T09:40:14.438684+00:00",
+    "content_hash": "16492987cf262b8546cafa8b1b144c2cffa776f1b2115fd7a1d7a7cf0aecedac",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Full-Auth API",
+    "openapi_version": "openapi_3",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

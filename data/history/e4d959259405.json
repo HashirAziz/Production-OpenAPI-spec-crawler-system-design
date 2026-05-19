@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e4d959259405",
+    "source_url": "https://raw.githubusercontent.com/FinalBuild-Studio/binance-premium-bot/c49ec9914b6ed4d5a3b0af415cad42aa8f03366c/swagger.yaml",
+    "fetched_at": "2026-05-19T09:40:09.117786+00:00",
+    "content_hash": "443c56a811285c4fbc7382036f16a7a2c97b73279b61c7d03df8fc296f4f48ed",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "binance-premium-bot",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]
