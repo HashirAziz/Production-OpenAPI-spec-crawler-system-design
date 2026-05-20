@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "54f788ed066c",
+    "source_url": "https://raw.githubusercontent.com/ohpensource/platform-candidate-assessment/9384b4c67a6936efe2b205f1f3f0f12ea9398be5/ecs-fargate/container/app/static/swagger.json.old",
+    "fetched_at": "2026-05-20T09:02:26.890848+00:00",
+    "content_hash": "fc6143e6bc66ec6f591732d1443a9cd083d13c127985b7593759c474f50cd9e4",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Swagger Rest Article",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

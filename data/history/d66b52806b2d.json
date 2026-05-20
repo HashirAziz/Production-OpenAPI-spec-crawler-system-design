@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d66b52806b2d",
+    "source_url": "https://raw.githubusercontent.com/pycodebench/pycodebench/3975954ae63360eccc4b6406d914a82470e57387/openapi.yaml",
+    "fetched_at": "2026-05-20T09:00:21.248853+00:00",
+    "content_hash": "032689c7897fdd9f58c3ad228938a2769eaa3fc00cccfedb0e55c9b3bc387110",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "pycodebench",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "07ea8ede51e0",
+    "source_url": "https://raw.githubusercontent.com/jplutajr/chatgpt-google-integration/7e75bd351fb254edeb5fce42802dcdc54c9ea93e/openapi.yaml.txt",
+    "fetched_at": "2026-05-20T08:59:49.632029+00:00",
+    "content_hash": "8c94c1c967fe5a7ff41af7cde7226a4cb366354f78334fb492d85e096d3c124b",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Google Drive and Docs Integration",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

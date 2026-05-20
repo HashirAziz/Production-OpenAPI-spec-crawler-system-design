@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2e5d1d52f55f",
+    "source_url": "https://raw.githubusercontent.com/turivishal/restful-api-nodejs/e6e6481f78d5487f0d0af623e4821670612ae90c/swagger.json",
+    "fetched_at": "2026-05-20T09:02:24.818435+00:00",
+    "content_hash": "adabdd8c0688e1560004c6f64bd00711bd4b0f95a114138a4f3efd52fb57bf0f",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Swagger Product API",
+    "openapi_version": "openapi_3",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

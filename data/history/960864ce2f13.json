@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "960864ce2f13",
+    "source_url": "https://raw.githubusercontent.com/bashovski/apollo/ead44bb12398002e9f68d225b39ab69f957452dc/swagger.yaml",
+    "fetched_at": "2026-05-20T09:01:56.492943+00:00",
+    "content_hash": "b08167ff135e90c4f16798163627e025d6721201eeb9e84673858321a8a832a3",
+    "info_version": "Alpha",
+    "status": "new",
+    "title": "Apollo",
+    "openapi_version": "swagger_2",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

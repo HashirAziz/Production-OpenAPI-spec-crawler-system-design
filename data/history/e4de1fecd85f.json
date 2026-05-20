@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e4de1fecd85f",
+    "source_url": "https://raw.githubusercontent.com/seriousme/fastify-swaggergen/c5a0db4145b6e0b6b6c2328a15f64822899a166e/examples/generatedProject/openApi.json",
+    "fetched_at": "2026-05-20T09:01:16.270575+00:00",
+    "content_hash": "fc3caad427c816332ce04918b33293c194b35c33c8bbd0bb05389ceb97cbb407",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Swagger Petstore",
+    "openapi_version": "swagger_2",
+    "paths_count": 14,
+    "path_diff": null
+  }
+]

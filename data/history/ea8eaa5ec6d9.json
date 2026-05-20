@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ea8eaa5ec6d9",
+    "source_url": "https://raw.githubusercontent.com/Hyperkid123/adk-ui-exploration/a729fc4f834e22745c0349810f2f35f2b1aa3f60/packages/rbac-mcp/rbac-openapi.json.backup",
+    "fetched_at": "2026-05-20T09:00:58.640237+00:00",
+    "content_hash": "de0bf358e4cc7fa96b30316f7c2dbc4732c5a439b07e355a90888f05beb07cfd",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Role Based Access Control",
+    "openapi_version": "openapi_3",
+    "paths_count": 16,
+    "path_diff": null
+  }
+]

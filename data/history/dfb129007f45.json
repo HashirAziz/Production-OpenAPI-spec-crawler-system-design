@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "dfb129007f45",
+    "source_url": "https://raw.githubusercontent.com/alexc-MSFT/m365-insider/576e1b79296915216cc60f8a24bad03067bfa7cb/appPackage/apiSpecificationFile/openapi.yaml.original",
+    "fetched_at": "2026-05-20T09:00:03.131311+00:00",
+    "content_hash": "9b788eb6c2644dfd7eefd9033ec9b2c9512ae7f75b8490a0612aecf1a68b82d0",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Microsoft 365 Release Communications API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

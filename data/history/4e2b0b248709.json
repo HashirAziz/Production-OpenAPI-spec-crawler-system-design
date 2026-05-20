@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4e2b0b248709",
+    "source_url": "https://raw.githubusercontent.com/lokimeyburg/PizzaOrderingAgent/ed7fd2663971d0513010076eded2d79bc8026319/appPackage/apiSpecificationFile/openapi.yaml.original",
+    "fetched_at": "2026-05-20T09:00:14.965081+00:00",
+    "content_hash": "fe1d5baa189656c03a5e39e069574a1e86e0555959779c02e2f27339e91e0719",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Pizza API",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

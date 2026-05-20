@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f6519131f7ba",
+    "source_url": "https://raw.githubusercontent.com/mamonaco1973/gcp-identity-app/0f82251181d0c06758e713ff4a48abb863bf640d/01-functions/openapi.yaml.tpl",
+    "fetched_at": "2026-05-20T09:00:23.946806+00:00",
+    "content_hash": "f5f11e3c23a42606aebf48e5ac076f0cfb20d0e4e3c0bba8caddd61fe35275d8",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "notes-api",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

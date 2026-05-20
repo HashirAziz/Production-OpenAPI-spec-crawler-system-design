@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3d4494274201",
+    "source_url": "https://raw.githubusercontent.com/topcoderinc/Headlessrefapp/dd4ff3b8b63b9645ad3ef8159cee988ba867722e/demo/swagger.yaml",
+    "fetched_at": "2026-05-20T09:01:55.501671+00:00",
+    "content_hash": "5cf5f8d89cd25677b0401b06885c97128e26b8a60e331481144083873d2e4f5f",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Swagger Petstore",
+    "openapi_version": "swagger_2",
+    "paths_count": 14,
+    "path_diff": null
+  }
+]

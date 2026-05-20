@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b60d7d4b2d44",
+    "source_url": "https://raw.githubusercontent.com/dtmilano/CulebraTester2-public/d43f0252ea0c9fc3cfa8436983ca9c18f38d2af6/openapi.yaml",
+    "fetched_at": "2026-05-20T09:00:07.613247+00:00",
+    "content_hash": "699a150c80be018b50455c5f9a607fdb15c2e0851802ce9d2d09d4d922981a6c",
+    "info_version": "2.0.74",
+    "status": "new",
+    "title": "CulebraTester",
+    "openapi_version": "openapi_3",
+    "paths_count": 79,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5d31b0c6a5c4",
+    "source_url": "https://raw.githubusercontent.com/bhumikanilesh/api-explorer-pipeline/fb4be55f82d77a0aeaad3cc933ff26ec35e0b4a9/data/raw/azure.com_addons-addons-swagger.json",
+    "fetched_at": "2026-05-20T09:02:11.356199+00:00",
+    "content_hash": "513a34dca591f966c84c32b8ea793824fe7691a7c8d672cab8171bc02c03720a",
+    "info_version": "2018-03-01",
+    "status": "new",
+    "title": "Azure Addons Resource Provider",
+    "openapi_version": "swagger_2",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

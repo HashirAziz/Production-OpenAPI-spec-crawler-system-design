@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "83ba4bb051f2",
+    "source_url": "https://raw.githubusercontent.com/Cimpress-MCP/healthcheck.spec/1675aa5c8bb30cf0cfde5bfee6c4b8ffd826e7e5/swagger.yaml",
+    "fetched_at": "2026-05-20T09:01:48.317318+00:00",
+    "content_hash": "46329b32ea4f0ac5b09c41ad28db55dc5c2b81853d6de78b1f7341953772784f",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Healthcheck example API",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

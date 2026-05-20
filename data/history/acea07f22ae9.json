@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "acea07f22ae9",
+    "source_url": "https://raw.githubusercontent.com/chwoerz/reporelay/fb6267509011c88d05a5cc9a42dd1d5db786097c/openapi.yaml",
+    "fetched_at": "2026-05-20T09:00:23.202414+00:00",
+    "content_hash": "e17bd2a0c0c9b8a4650ca5a6ea5dc96933b7888a1022255d3673feff5706cbfc",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "RepoRelay API",
+    "openapi_version": "openapi_3",
+    "paths_count": 17,
+    "path_diff": null
+  }
+]

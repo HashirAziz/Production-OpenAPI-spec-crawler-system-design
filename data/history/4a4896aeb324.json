@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4a4896aeb324",
+    "source_url": "https://raw.githubusercontent.com/Sourabh25002/API-Governance/bc934ff77c33dc70eeac6731ec82e12037a71603/backend/public/AmplifyBackend-swagger.json",
+    "fetched_at": "2026-05-20T09:02:12.707581+00:00",
+    "content_hash": "bd3656107df5e5a5b9231032b31ed72474511a136d85eacbf590022029113160",
+    "info_version": "2020-08-11",
+    "status": "new",
+    "title": "AmplifyBackend",
+    "openapi_version": "openapi_3",
+    "paths_count": 30,
+    "path_diff": null
+  }
+]

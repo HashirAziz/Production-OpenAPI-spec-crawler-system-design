@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "654f73e9da5c",
+    "source_url": "https://raw.githubusercontent.com/nuhaaaaan/ITHELPDESKDECAGENT/73c78f580d4aa9012682dc1d1a5fd256c9266038/appPackage/apiSpecificationFile/openapi.yaml.original",
+    "fetched_at": "2026-05-20T09:00:25.566426+00:00",
+    "content_hash": "9b780e4ec67d011e26ba3a081b5c452d6bffb5849880f5259116d17ac2a9e69c",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "IT Helpdesk API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

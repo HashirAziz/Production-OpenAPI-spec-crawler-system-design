@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "47e59ff87928",
+    "source_url": "https://raw.githubusercontent.com/k6av/spades-rest/efa7b4021b244ae3c40837f672e4fc44279b1d1a/openapi.jsonnet",
+    "fetched_at": "2026-05-20T09:00:59.323005+00:00",
+    "content_hash": "7883bcc6ed5a8ed72a9a656388492f2fb96756e90c47fe3872f46b9748154f91",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "Ace of Spades Master Server API",
+    "openapi_version": "openapi_3",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

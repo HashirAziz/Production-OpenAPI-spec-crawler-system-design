@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "871a346954a1",
+    "source_url": "https://raw.githubusercontent.com/stackmon/status-dashboard-v3/bed85daf009de627470fae2dc0db7af36593ab2c/openapi.yaml",
+    "fetched_at": "2026-05-20T09:00:16.627460+00:00",
+    "content_hash": "6b8352cbbbbf0d2386dafec3595484ff9306f1c9e356714de1c8bdade9302f68",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Status Dashboard API",
+    "openapi_version": "openapi_3",
+    "paths_count": 18,
+    "path_diff": null
+  }
+]

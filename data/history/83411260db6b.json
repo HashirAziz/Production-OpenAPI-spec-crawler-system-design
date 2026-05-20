@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "83411260db6b",
+    "source_url": "https://raw.githubusercontent.com/paulsaurav/nlp-preprocessing-tool/7082088715eb2dd0fc91492025591607a2f8b4e7/swagger.yaml",
+    "fetched_at": "2026-05-20T09:01:45.659199+00:00",
+    "content_hash": "29e3b818dac7fdaff5541b59b77ab4e39b3bd6cbcdecfd7ec804e7e3f4e944ab",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Aviation Terms Preprocessing API",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

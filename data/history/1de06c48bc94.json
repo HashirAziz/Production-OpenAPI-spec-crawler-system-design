@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1de06c48bc94",
+    "source_url": "https://raw.githubusercontent.com/teacurran/village-storefront/503e838b938abdd6e0250f8fb75590bde35f4fb3/api/v1/openapi.yaml.bak",
+    "fetched_at": "2026-05-20T09:00:25.099190+00:00",
+    "content_hash": "fef34d950ca09375de09b88784f4c5284489cc547750c83eca90cc3c9a55e75b",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Village Storefront API",
+    "openapi_version": "openapi_3",
+    "paths_count": 75,
+    "path_diff": null
+  }
+]

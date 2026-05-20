@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "bc9b5a96fdaf",
+    "source_url": "https://raw.githubusercontent.com/schbm/go-serverci/77c71627a56039b11b2b5cc88a7e4c7d422d3b89/openapi.yaml",
+    "fetched_at": "2026-05-20T09:00:28.262347+00:00",
+    "content_hash": "3d12564640cb5f8f8b9fcb23aa9105594bcd2e2a068ed9c192d8d5f142605789",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Server Configuration Item Document Generator",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2e241a5a619b",
+    "source_url": "https://raw.githubusercontent.com/liang21/aitestos/ca5477ffa8099ce993eeda2b62c61c1e6925e25a/backend/specs/openapi.yaml.bak",
+    "fetched_at": "2026-05-20T09:00:09.232500+00:00",
+    "content_hash": "219d9d46e7a5e6242f92dde997fb377938b8d2221fc630852776a121063d7737",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "智能测试管理平台 API",
+    "openapi_version": "openapi_3",
+    "paths_count": 30,
+    "path_diff": null
+  }
+]

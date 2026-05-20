@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "bcc1d18e296f",
+    "source_url": "https://raw.githubusercontent.com/node-real/greenfield-bundle-service/088e52f23368f30813ee6e6860cd7386b73dcb10/swagger.yaml",
+    "fetched_at": "2026-05-20T09:01:50.360870+00:00",
+    "content_hash": "6d70fb1de37567baf3d9df3266da02a9850ead459d8a99ce2420c142e56ae013",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Bundle Service API",
+    "openapi_version": "swagger_2",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f236f5aae999",
+    "source_url": "https://raw.githubusercontent.com/kovkir/bmstu-dips-lab4/b1fb02dc6e30e4ab5c09e0e692ee88f2159b581e/docs/example_openapi.yaml",
+    "fetched_at": "2026-05-20T08:59:58.541649+00:00",
+    "content_hash": "cad2045d9a6aef961e0f0c1e630c5973c8fe27840d14af3e2f8e0f07fbc7838c",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Flight Booking System",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

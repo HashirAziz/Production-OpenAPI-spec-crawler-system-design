@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a54f44034855",
+    "source_url": "https://raw.githubusercontent.com/gameballers/gameball-docs/c41c966e7279fc6cf1bc6a189b85ec4eb70437f0/api-reference/openapi.json.backup",
+    "fetched_at": "2026-05-20T09:00:54.798376+00:00",
+    "content_hash": "e1f18f20e581973ddfe66ff645b09189edb5ba9b61160af2eaf4c7e5a69d1dc7",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "OpenAPI Plant Store",
+    "openapi_version": "openapi_3",
+    "paths_count": 60,
+    "path_diff": null
+  }
+]

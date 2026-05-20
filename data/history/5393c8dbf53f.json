@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5393c8dbf53f",
+    "source_url": "https://raw.githubusercontent.com/lucid-fdn/lucid-ai-sdk/6a8744f94282c7e00524d1293f6f09f7bbc523e0/openapi.yaml",
+    "fetched_at": "2026-05-20T09:00:17.924610+00:00",
+    "content_hash": "a3b14878bf24e9e495b6d21e4aa410f0556c701ea4ee8a55ab6fc64dd5a80315",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "LucidLayer API",
+    "openapi_version": "openapi_3",
+    "paths_count": 176,
+    "path_diff": null
+  }
+]

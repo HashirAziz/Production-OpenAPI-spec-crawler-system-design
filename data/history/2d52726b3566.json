@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2d52726b3566",
+    "source_url": "https://raw.githubusercontent.com/containerum/volume/9952980da039e186aa64755f42b26d11acbef9a2/swagger.json",
+    "fetched_at": "2026-05-20T09:02:27.346535+00:00",
+    "content_hash": "b70a6f3bccf23b786708f38472f05c056e368962f0048b09225371cf257d9f8c",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "Volume-Manager API",
+    "openapi_version": "swagger_2",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

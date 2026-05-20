@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ef778370a55a",
+    "source_url": "https://raw.githubusercontent.com/jjesse/zscaler_datacenters/eae40ba3150ad6ed1806b25d65bddab967bb94a4/openapi.yaml",
+    "fetched_at": "2026-05-20T09:00:21.993306+00:00",
+    "content_hash": "935ed45a1b698dab5f50f28ed1bf4b6ddce3b4211610196eae7011b206cc1aa9",
+    "info_version": "1.3.0",
+    "status": "new",
+    "title": "Zscaler Datacenter Lookup API",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

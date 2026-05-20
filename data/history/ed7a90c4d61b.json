@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ed7a90c4d61b",
+    "source_url": "https://raw.githubusercontent.com/yezz123/CoveAPI/2e877db2b116c0b30b6ed4f8aee05fa5c4513769/dump/swagger.json.coveapi.old",
+    "fetched_at": "2026-05-20T09:02:25.750218+00:00",
+    "content_hash": "8c2955d7701f7affd589e3f73a4d4ab7733cb5b8eec7c5e841c0f7e17acb7aa0",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "CoveAPI Example Project",
+    "openapi_version": "swagger_2",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

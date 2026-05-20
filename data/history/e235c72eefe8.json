@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e235c72eefe8",
+    "source_url": "https://raw.githubusercontent.com/nik420690/payment/87f3e61d77ed46e09f3810578a07891bb9217cdd/swagger.yaml",
+    "fetched_at": "2026-05-20T09:01:53.143232+00:00",
+    "content_hash": "ef8d8489724f431838a469dc2d43debf3313d89b7f0921365a95ccc1e8a19258",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Payments API",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

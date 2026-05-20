@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f449274b07b5",
+    "source_url": "https://raw.githubusercontent.com/Zang983/Ecogarden/3914c288b8ec3f0be357f23fabb177b7136ce057/swagger.yaml",
+    "fetched_at": "2026-05-20T09:01:44.990964+00:00",
+    "content_hash": "e83d1111ed098efca8e056e08ec783393ecb71d6bcf5680a13839ff381d29c94",
+    "info_version": "v1",
+    "status": "new",
+    "title": "EcoGarden",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

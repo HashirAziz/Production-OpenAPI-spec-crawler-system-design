@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6ca70e63480f",
+    "source_url": "https://raw.githubusercontent.com/rachana-tf/mcp-poc-app/c0b8971525b79d737a90cbb3af4dc4fbe15c9b3a/.speakeasy/out.openapi.yaml",
+    "fetched_at": "2026-05-20T09:00:11.674624+00:00",
+    "content_hash": "dbb88614a7ffd99ae0771a96b282cbb21de47b81145d4195b71e26741b5228d7",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Petstore - OpenAPI 3.1",
+    "openapi_version": "openapi_3",
+    "paths_count": 13,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0eda1bc10b30",
+    "source_url": "https://raw.githubusercontent.com/laserpointlabs/dadms/35936c20ef09e5187540936c7dc135728c22d0d8/docs/api/data_manager_service_openapi.yaml.backup",
+    "fetched_at": "2026-05-20T09:00:19.186372+00:00",
+    "content_hash": "698d5db078b14ae7251e53cbcdc368f5b31885fec82439b89572f15d204e293a",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "DADMS DataManager Service API",
+    "openapi_version": "openapi_3",
+    "paths_count": 29,
+    "path_diff": null
+  }
+]

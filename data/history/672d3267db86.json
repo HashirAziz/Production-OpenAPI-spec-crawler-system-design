@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "672d3267db86",
+    "source_url": "https://raw.githubusercontent.com/bouyahiaahmed/AI_Attacks/de2e9af5c2757384f0b7867eb17a47f6f9bb7912/attacks/land-service/report/probe__openapi.json.body",
+    "fetched_at": "2026-05-20T09:01:14.959942+00:00",
+    "content_hash": "8328f00d5e7f7fd840a1799347274f09622e342589329d9b58abe02df9220c90",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Land Classification Service",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

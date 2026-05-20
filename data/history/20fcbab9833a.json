@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "20fcbab9833a",
+    "source_url": "https://raw.githubusercontent.com/metaholf/craftimweb-loyalty-monorepo/98abef52530a145ef037657a42f547e78f63ecaa/backend-flask/api/open_api/openapi.yaml.old",
+    "fetched_at": "2026-05-20T09:00:06.746132+00:00",
+    "content_hash": "bbf54bad01389e969b8754696c2fb06d3c90811f1a4d7272d811bf01ec34dfce",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "SC API pos",
+    "openapi_version": "openapi_3",
+    "paths_count": 19,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "090e6f4ac9b2",
+    "source_url": "https://raw.githubusercontent.com/28Pollux28/galvanize/b9e7a415c816cdca86d3ab49dcff48206c85abad/galvanize-instancer/api/openapi.yaml.in",
+    "fetched_at": "2026-05-20T08:59:53.436972+00:00",
+    "content_hash": "a593fa75c04ee2dc4a6900163ea947c728a5dcbeed06cb890509393f1dc1c926",
+    "info_version": "0.7.0",
+    "status": "new",
+    "title": "Galvanize Instancer",
+    "openapi_version": "openapi_3",
+    "paths_count": 15,
+    "path_diff": null
+  }
+]

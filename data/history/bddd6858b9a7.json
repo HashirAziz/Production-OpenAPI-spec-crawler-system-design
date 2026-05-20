@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "bddd6858b9a7",
+    "source_url": "https://raw.githubusercontent.com/City-of-Mikkeli/casem-rest-client/1fc08b22106a769ff996d580b16e41056f717b48/swagger.yaml",
+    "fetched_at": "2026-05-20T09:01:56.244269+00:00",
+    "content_hash": "39d6f67eef9d43486eda90ed5c706ee38bd5d1370c44ade20686a103c42aad8c",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "CaseM client",
+    "openapi_version": "swagger_2",
+    "paths_count": 15,
+    "path_diff": null
+  }
+]

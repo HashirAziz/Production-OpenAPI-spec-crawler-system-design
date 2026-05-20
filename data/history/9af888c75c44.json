@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9af888c75c44",
+    "source_url": "https://raw.githubusercontent.com/JoseGomis299/OpenApi2Java/d6f0e58b02d559b077b71406f5783f3c37b68fbf/openApiDefinitions/openapi.yaml.template",
+    "fetched_at": "2026-05-20T09:00:05.655679+00:00",
+    "content_hash": "1b0ad73e676780ef62a729829848f7d38ceb267b7f5e82b075479bd29660d8e4",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Your API Title",
+    "openapi_version": "openapi_3",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

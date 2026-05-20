@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "42d781a535b4",
+    "source_url": "https://raw.githubusercontent.com/efy/gorecall/488211d38405173b591851739e34d9511a6abe57/swagger.yaml",
+    "fetched_at": "2026-05-20T09:01:55.963407+00:00",
+    "content_hash": "a9ddd9b36bd863fe61abf8a74a14757a78bd4627f629617bbe812e37c80db9a0",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Recall API",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

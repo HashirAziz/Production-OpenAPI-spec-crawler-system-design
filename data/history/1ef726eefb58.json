@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1ef726eefb58",
+    "source_url": "https://raw.githubusercontent.com/tunghoang/procon-team-manager/7fa5b392215f6f172a02c082d641079c6688c723/src/swagger.json.bk",
+    "fetched_at": "2026-05-20T09:02:06.828898+00:00",
+    "content_hash": "83f024b61c7a03e3f2bb96dcc7dd485812d2dcb6ce93ca4c21945b140d13bc82",
+    "info_version": null,
+    "status": "new",
+    "title": "Procon",
+    "openapi_version": "swagger_2",
+    "paths_count": 20,
+    "path_diff": null
+  }
+]

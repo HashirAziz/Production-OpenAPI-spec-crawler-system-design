@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "347699b9358b",
+    "source_url": "https://raw.githubusercontent.com/bhumikanilesh/api-explorer-pipeline/fb4be55f82d77a0aeaad3cc933ff26ec35e0b4a9/data/raw/azure.com_operationalinsights-swagger.json",
+    "fetched_at": "2026-05-20T09:02:13.262425+00:00",
+    "content_hash": "68f4cf0560e6e65fe65262a5554d91d1d0797a60833ba069e6a99e4ec4d13e67",
+    "info_version": "2017-10-01",
+    "status": "new",
+    "title": "Azure Log Analytics",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

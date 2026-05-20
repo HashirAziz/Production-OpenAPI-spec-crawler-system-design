@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f921d1aab516",
+    "source_url": "https://raw.githubusercontent.com/nedssoft/Politico/54e824636607baa00fc030effd12bf96847b4425/swagger.json",
+    "fetched_at": "2026-05-20T09:02:35.638457+00:00",
+    "content_hash": "e065154ca4a266e2b27ab8e5f2c0c500bc4d31480b50baee338a4cc43f342c86",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "POLITICO",
+    "openapi_version": "swagger_2",
+    "paths_count": 24,
+    "path_diff": null
+  }
+]

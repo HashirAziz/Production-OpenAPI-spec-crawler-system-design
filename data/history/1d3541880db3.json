@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1d3541880db3",
+    "source_url": "https://raw.githubusercontent.com/dagisky/terraform-google-mini-infra/9fa9875d8adee16552e51848f4e7481785621f6c/openapi/openapi.yaml.tmpl",
+    "fetched_at": "2026-05-20T08:59:55.502399+00:00",
+    "content_hash": "22c743995a11850bd51dbc1ad5b8df6678ae5f09a71a9688a52cc29c99cfde7a",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Minimal Startup API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

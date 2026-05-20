@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5d47e75661c5",
+    "source_url": "https://raw.githubusercontent.com/BrandNewMyUserName/Genesis-case/b641afa12ea5665097d7b2d6f46bb6a344045019/swagger.yaml",
+    "fetched_at": "2026-05-20T09:01:47.147517+00:00",
+    "content_hash": "674f03499091298127c9c42aa4ae865d8cda67e8281d4ea085a2b0cdf801a3df",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "GitHub Release Notification API",
+    "openapi_version": "swagger_2",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]
