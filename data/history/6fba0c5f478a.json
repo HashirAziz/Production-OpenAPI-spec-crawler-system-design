@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6fba0c5f478a",
+    "source_url": "https://raw.githubusercontent.com/ChelsieSalome/3855-lab8/1414b10b5a40de6d52e14abbc27b9d3d661fa449/storage-mysql/storage_openapi.yaml..backup",
+    "fetched_at": "2026-05-21T09:32:01.436144+00:00",
+    "content_hash": "78b56eb689e401c95da43382f3d1de6f54cc40679dca30ff48f6c802210b14ce",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Enterprise System Monitoring API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

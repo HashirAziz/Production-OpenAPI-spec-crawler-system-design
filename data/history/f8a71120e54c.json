@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f8a71120e54c",
+    "source_url": "https://raw.githubusercontent.com/go-dev-frame/sponge/beef9eecdc5e2dc6b1358f130d8e9133771c277b/docs/apis.swagger.json",
+    "fetched_at": "2026-05-21T09:33:25.339485+00:00",
+    "content_hash": "99e4477bac6848fb46de69144608bd24e448370eabe0caa4dbc29e61ee2640db",
+    "info_version": "v1.0.0",
+    "status": "new",
+    "title": "serverNameExample api docs",
+    "openapi_version": "swagger_2",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

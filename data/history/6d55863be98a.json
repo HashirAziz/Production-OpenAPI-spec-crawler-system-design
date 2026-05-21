@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6d55863be98a",
+    "source_url": "https://raw.githubusercontent.com/stella-ang-github/swagger_test/63a522d8cf254b92c58105826f2f3d00744d9134/OpenAPI.json",
+    "fetched_at": "2026-05-21T09:32:41.847770+00:00",
+    "content_hash": "fa894dcad6f6f276204b536429c861f3b20b866f7442e66dbf343971a5f63cfc",
+    "info_version": "v0",
+    "status": "new",
+    "title": "OpenAPI definition",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

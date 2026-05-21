@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "853236abe21a",
+    "source_url": "https://raw.githubusercontent.com/Autumn-27/ScopeSentry/c7266f8b816c4f601c0c35e22d5f212eeb8374fa/docs/swagger.json",
+    "fetched_at": "2026-05-21T09:33:34.561374+00:00",
+    "content_hash": "ac69142501ac74241be1d50ffad4aabadc8d3d938f2b61b4933ba2a809a6728f",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "ScopeSentry API",
+    "openapi_version": "swagger_2",
+    "paths_count": 16,
+    "path_diff": null
+  }
+]

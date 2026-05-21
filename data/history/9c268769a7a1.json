@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9c268769a7a1",
+    "source_url": "https://raw.githubusercontent.com/Las-Fuerzas-Del-Cielo/Sistema-Anti-Fraude-Electoral/051da907b8ae468060a754a163cda1b0372f8211/api/swagger.json",
+    "fetched_at": "2026-05-21T09:33:28.016995+00:00",
+    "content_hash": "94c8f87c4d6fa0610d88defbb4c4db0d25b27400875072cb076ab01b25830c1f",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "LLA Fraud detection API",
+    "openapi_version": "swagger_2",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

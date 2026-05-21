@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3a74e73a47a2",
+    "source_url": "https://raw.githubusercontent.com/retracedhq/retraced/e0d4f6e4ad28e2b59afc0bb74c01b9cd7cdb8658/swagger.json",
+    "fetched_at": "2026-05-21T09:33:40.786837+00:00",
+    "content_hash": "2f9996a8b6c749c6580c8780867a09a37df04e2f097f1cfa9ddb11888715e5c5",
+    "info_version": "1.13.1",
+    "status": "new",
+    "title": "retraced",
+    "openapi_version": "openapi_3",
+    "paths_count": 23,
+    "path_diff": null
+  }
+]

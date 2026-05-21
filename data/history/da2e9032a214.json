@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "da2e9032a214",
+    "source_url": "https://raw.githubusercontent.com/Lukylix/argentBank-api/530772ee9fa95bf4ec0bb5dd6c887aff1d8fd5ff/swagger.yaml",
+    "fetched_at": "2026-05-21T09:33:13.364068+00:00",
+    "content_hash": "e20e9b862dca64a23a2ffa0fc4a1689704bab4432760bd329d4414ecf416cc29",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Bank Argent API documentation",
+    "openapi_version": "openapi_3",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

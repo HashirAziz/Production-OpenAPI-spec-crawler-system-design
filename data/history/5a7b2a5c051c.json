@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5a7b2a5c051c",
+    "source_url": "https://raw.githubusercontent.com/ONSdigital/dp-search-scrubber-api/c2fd688d44f90976cead7ec98a07da73c7ddb1bb/swagger.yaml",
+    "fetched_at": "2026-05-21T09:33:01.264159+00:00",
+    "content_hash": "7ebdbc82bc7b89dc9d1da5c4d76954a158bf24ea01d497600298d16eedb87a7d",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "dp-search-scrubber-api",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

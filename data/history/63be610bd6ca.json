@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "63be610bd6ca",
+    "source_url": "https://raw.githubusercontent.com/craftbeerpi/craftbeerpi/44745932f6541f3d6645d0f2fca16ee0ac2c7845/docs/swagger.json",
+    "fetched_at": "2026-05-21T09:33:23.984004+00:00",
+    "content_hash": "325d334082b673ad38fd464f98cd8dd1be482ae7ab5823e1d26fda995de08623",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "swagger_2",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "885e8e6c8274",
+    "source_url": "https://raw.githubusercontent.com/seccome/Ehoney/3712e644d326466a7d64b1dec937064c6f7db8d7/docs/swagger.json",
+    "fetched_at": "2026-05-21T09:33:27.494792+00:00",
+    "content_hash": "f5233e8ad84f5dfe7825e4b97928d464f9202f186f763cfb29259784db98ecfe",
+    "info_version": "2.0",
+    "status": "new",
+    "title": "欺骗防御接口文档",
+    "openapi_version": "swagger_2",
+    "paths_count": 66,
+    "path_diff": null
+  }
+]

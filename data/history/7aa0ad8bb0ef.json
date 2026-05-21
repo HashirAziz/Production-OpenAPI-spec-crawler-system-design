@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "7aa0ad8bb0ef",
+    "source_url": "https://raw.githubusercontent.com/googleforgames/open-match/d781be1a3ce1b6b7fce495345b23256089f55de9/api/query.swagger.json",
+    "fetched_at": "2026-05-21T09:33:22.136792+00:00",
+    "content_hash": "53ba5a2f99a0bd260489338fb8d451a12ec98afecac6989aa62c8e82370d3fda",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "MM Logic (Data Layer)",
+    "openapi_version": "swagger_2",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

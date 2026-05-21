@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "75d1d3e5a4da",
+    "source_url": "https://raw.githubusercontent.com/stevenpollack/dairy_queen/39c7459537f258a403f39504b7960c37376d3adf/swagger.yaml",
+    "fetched_at": "2026-05-21T09:33:10.021168+00:00",
+    "content_hash": "cd84c2d91e462eb633c27410f44034b1f0a2a0feaf018cd98ad8f4852ce63b70",
+    "info_version": "2.0.0",
+    "status": "new",
+    "title": "dairy-queen",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

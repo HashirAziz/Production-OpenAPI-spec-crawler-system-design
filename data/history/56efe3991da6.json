@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "56efe3991da6",
+    "source_url": "https://raw.githubusercontent.com/icreated/webstore-api/ea1e19cdf3fc91317035f54c9a343415baab253d/openapi.yaml",
+    "fetched_at": "2026-05-21T09:32:18.614033+00:00",
+    "content_hash": "10914f7aff6bc0822726ac47941a54f0b340ab36d5c2a9cd794c3dfcc103c5ff",
+    "info_version": "3.0",
+    "status": "new",
+    "title": "Icreated WebStore API",
+    "openapi_version": "openapi_3",
+    "paths_count": 18,
+    "path_diff": null
+  }
+]

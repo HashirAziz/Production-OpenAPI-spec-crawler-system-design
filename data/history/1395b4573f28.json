@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1395b4573f28",
+    "source_url": "https://raw.githubusercontent.com/josue-lubaki/FishAppBackend/25763e18289d0ac32db9c8294f143932b5c186f5/swagger.yaml",
+    "fetched_at": "2026-05-21T09:33:10.295857+00:00",
+    "content_hash": "02226cfbefa4aa5656a8fb7e8db7faff2ec766b3ffe630464cd5dacaf3e614a1",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "FishApp API",
+    "openapi_version": "openapi_3",
+    "paths_count": 32,
+    "path_diff": null
+  }
+]

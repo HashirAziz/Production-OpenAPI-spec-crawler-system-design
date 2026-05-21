@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "bb0753444e65",
+    "source_url": "https://raw.githubusercontent.com/reinhapa/Sandbox/0b477d1bb8d64bbe2744afa2a8946a9d06be83c9/swagger.yaml",
+    "fetched_at": "2026-05-21T09:33:07.208469+00:00",
+    "content_hash": "bf376cad03f4e03420a3ad4d4e43954d06683cb76c223640e69585b08f801df0",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "A TODO-Task list application",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

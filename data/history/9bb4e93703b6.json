@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9bb4e93703b6",
+    "source_url": "https://raw.githubusercontent.com/TrentoCrowdAI/crowdai/a73e13c060ac350460509958568edd9c65735d7c/swagger.yaml",
+    "fetched_at": "2026-05-21T09:33:04.863045+00:00",
+    "content_hash": "6ec261dd3ce288363ccffdaf808fc83a9a646e9bd2e53ab6101019676cb76d42",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "crowdrev-api",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

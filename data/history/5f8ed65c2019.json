@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5f8ed65c2019",
+    "source_url": "https://raw.githubusercontent.com/Yanina0704/nodejs-aws-shop-react-be/7edf6367da661ce3d55871bfc92309d5304fcf06/swagger.yaml",
+    "fetched_at": "2026-05-21T09:33:08.156462+00:00",
+    "content_hash": "db558c9687c7f7464aeda9f0186fea676547bb1cc0480a7c0001d65cb6eaf551",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "AWS SHOP - OpenAPI 3.0",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

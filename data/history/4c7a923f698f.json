@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4c7a923f698f",
+    "source_url": "https://raw.githubusercontent.com/clickvisual/clickvisual/7b694b6ffc85d5acc5ac73ae7a4fe69daa3e718c/api/docs/swagger.json",
+    "fetched_at": "2026-05-21T09:33:26.061052+00:00",
+    "content_hash": "5aee018d6422871501c469e1d6554c6f0af2505321b8649b7e58d2f854e687e6",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "openapi_3",
+    "paths_count": 113,
+    "path_diff": null
+  }
+]

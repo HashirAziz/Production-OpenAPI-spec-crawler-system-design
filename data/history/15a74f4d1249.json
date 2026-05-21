@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "15a74f4d1249",
+    "source_url": "https://raw.githubusercontent.com/betagouv/beta.gouv.fr/fe973a0697404325e991a1b01d8ab6257a457c93/api/swagger.json",
+    "fetched_at": "2026-05-21T09:33:30.285126+00:00",
+    "content_hash": "c5f8c364163042b8f05218365104531e8f53a4659cda0f3f40e3d4f85fbb3607",
+    "info_version": "2.6.0",
+    "status": "new",
+    "title": "beta.gouv.fr API",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

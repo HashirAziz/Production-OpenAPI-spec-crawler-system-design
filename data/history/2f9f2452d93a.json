@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2f9f2452d93a",
+    "source_url": "https://raw.githubusercontent.com/samuelogboye/CrediWallet/71c3b2847de936833b5ff4a8a379fae2f24de7c7/swagger.yaml",
+    "fetched_at": "2026-05-21T09:33:08.638016+00:00",
+    "content_hash": "209dfda4fc3057a389c911fe5f85390c7b1158841bd242b7aed3ed7ef8fad7b1",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "CrediWallet API",
+    "openapi_version": "openapi_3",
+    "paths_count": 14,
+    "path_diff": null
+  }
+]

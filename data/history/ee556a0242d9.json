@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ee556a0242d9",
+    "source_url": "https://raw.githubusercontent.com/obiora198/jobs-api/f4f5b8265ba914aeb48bb5690398f9f1e4fb7089/swagger.yaml",
+    "fetched_at": "2026-05-21T09:33:12.780719+00:00",
+    "content_hash": "4573c64300a0eec1f8e1507a7c6dcd52530cfa5810b8440383dcd80c063e9fe3",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Jobs Api",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

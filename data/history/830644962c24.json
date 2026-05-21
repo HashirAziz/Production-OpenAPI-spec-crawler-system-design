@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "830644962c24",
+    "source_url": "https://raw.githubusercontent.com/goodrain/rainbond/d6c586ccc1bed6e9c60811789be1e8bcb00f8ac3/cmd/api/swagger.json",
+    "fetched_at": "2026-05-21T09:33:21.313290+00:00",
+    "content_hash": "8c773e22244883af7d9bc23dd87fec7ad4d3e99e7757fae148a8e61f0ce7dc07",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "swagger_2",
+    "paths_count": 69,
+    "path_diff": null
+  }
+]

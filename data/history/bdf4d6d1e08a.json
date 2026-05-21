@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "bdf4d6d1e08a",
+    "source_url": "https://raw.githubusercontent.com/sensepost/gowitness/4f562901bc2327b8e206fcd68a2767bd79a4634f/web/docs/swagger.json",
+    "fetched_at": "2026-05-21T09:33:22.518182+00:00",
+    "content_hash": "b1bf9e87bcb140cac86459a82706f82b772824e7fe946bb72cfbd66cb58387f1",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "swagger_2",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

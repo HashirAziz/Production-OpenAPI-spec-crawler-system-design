@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b1929f81cb63",
+    "source_url": "https://raw.githubusercontent.com/vynhqapp-commits/VYN-Laravel-Backend/c689c6f1a560302d2572618e9a8c31844731d51a/public/openapi.yaml.captain-baseline-2026-05-01",
+    "fetched_at": "2026-05-21T09:32:19.680932+00:00",
+    "content_hash": "3a3408224015d0e85a5cf2c72859abd2ef77d0067951937403f9d9963c84270a",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Laravel Swagger API Documentation",
+    "openapi_version": "openapi_3",
+    "paths_count": 147,
+    "path_diff": null
+  }
+]

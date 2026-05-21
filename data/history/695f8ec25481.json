@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "695f8ec25481",
+    "source_url": "https://raw.githubusercontent.com/BukkyOmo/Questioner/f9408933ad6b49f4f69f6d202c7021efa8219cd6/swagger.yaml",
+    "fetched_at": "2026-05-21T09:33:02.749751+00:00",
+    "content_hash": "54468b971635f2f54fea5e35230f30f2be2828c25cfc9129cb56e9eec87283e0",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Questioner",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

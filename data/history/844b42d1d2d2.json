@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "844b42d1d2d2",
+    "source_url": "https://raw.githubusercontent.com/oriondesign2015/SetupOrion/b0f6d94e615da6c86ccf70cdaf28cf3dfd31b79d/Extras/Zep/docs/swagger.json",
+    "fetched_at": "2026-05-21T09:33:33.285999+00:00",
+    "content_hash": "bd19578311bf68e476655a01f5557ed549f8cdafbae872cb8131ca6c0a15e7be",
+    "info_version": "0.x",
+    "status": "new",
+    "title": "Zep REST-like API",
+    "openapi_version": "swagger_2",
+    "paths_count": 16,
+    "path_diff": null
+  }
+]

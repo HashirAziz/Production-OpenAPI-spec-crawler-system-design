@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "22397a953f4b",
+    "source_url": "https://raw.githubusercontent.com/Gaganrobin8831/ChatAppGagan/0b3033498c1b8231a55eaa009e86c0cf116a54da/swagger.yaml",
+    "fetched_at": "2026-05-21T09:33:13.551955+00:00",
+    "content_hash": "07827963bfbf9ef1a8d0924ea45a4fc1b7fe58f7aff680ea9a3c27d220cc2c9a",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Admin API",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

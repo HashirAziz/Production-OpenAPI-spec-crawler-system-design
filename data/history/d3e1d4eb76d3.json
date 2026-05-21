@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d3e1d4eb76d3",
+    "source_url": "https://raw.githubusercontent.com/WangYihang/Platypus/6bc804d426b1b316f602d30b1524fadee74913ca/docs/swagger.json",
+    "fetched_at": "2026-05-21T09:33:25.679260+00:00",
+    "content_hash": "7f8b1ac0cb68637a69fc261dbf3c97eb6077b45a2f9774e8505170ae1da5a535",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Platypus API",
+    "openapi_version": "swagger_2",
+    "paths_count": 13,
+    "path_diff": null
+  }
+]

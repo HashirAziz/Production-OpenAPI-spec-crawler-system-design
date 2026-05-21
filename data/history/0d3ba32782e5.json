@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0d3ba32782e5",
+    "source_url": "https://raw.githubusercontent.com/solo-io/workshops/d301abd86761b9db21d090165a21242fc0a454a2/swagger.json",
+    "fetched_at": "2026-05-21T09:33:41.257924+00:00",
+    "content_hash": "62c183e574a2b526472445657757aec1bdc5d1efd00e3d2232b0cc924d378733",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "BookInfo API",
+    "openapi_version": "swagger_2",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

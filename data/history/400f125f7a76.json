@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "400f125f7a76",
+    "source_url": "https://raw.githubusercontent.com/mr-karan/logchef/207316b33b89ca377f9dfcd23f9330bef144c65a/docs/swagger.json",
+    "fetched_at": "2026-05-21T09:33:44.650909+00:00",
+    "content_hash": "b870ddc9a3a1d869e937aed48d673c8739b85dd94d8a3d8cb5e644c04c3c7fef",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Logchef API",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

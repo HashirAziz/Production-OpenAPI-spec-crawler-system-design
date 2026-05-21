@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1ccbc959391e",
+    "source_url": "https://raw.githubusercontent.com/pelagios/recogito2/48c5fff0c21a8284f75f2b3a51b2ba4b853cb468/conf/swagger.json",
+    "fetched_at": "2026-05-21T09:33:47.159508+00:00",
+    "content_hash": "747e3029c0b2604efa3211f4918e075aff3a7521a9f930152e97c3698a45083e",
+    "info_version": "0.1-beta",
+    "status": "new",
+    "title": "Recogito API",
+    "openapi_version": "swagger_2",
+    "paths_count": 13,
+    "path_diff": null
+  }
+]

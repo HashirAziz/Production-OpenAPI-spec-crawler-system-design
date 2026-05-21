@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a5da0b778c5d",
+    "source_url": "https://raw.githubusercontent.com/Kong/sdk-portal-js/be1d7e1dd25ef0918690c3d675b18dfd3f122125/openapi.yaml",
+    "fetched_at": "2026-05-21T09:32:18.032092+00:00",
+    "content_hash": "f702c919b6232117af3f624e6acac334645c67b0a0982468489b5601f8909839",
+    "info_version": "2.1.0",
+    "status": "new",
+    "title": "Portal API",
+    "openapi_version": "openapi_3",
+    "paths_count": 36,
+    "path_diff": null
+  }
+]

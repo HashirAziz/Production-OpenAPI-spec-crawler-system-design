@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "362be263716f",
+    "source_url": "https://raw.githubusercontent.com/Taresz-geq/Szakdolgozat-wif/afaf131af1ecd8f3e4d0b4d158fde4811212f0a7/infra/openapi.yaml.del",
+    "fetched_at": "2026-05-21T09:32:09.332135+00:00",
+    "content_hash": "21c8282077a5e2c65988f7bddb0a0aa52cacb2a81eb8510d7a88a18b8147bd20",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Notes API",
+    "openapi_version": "swagger_2",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

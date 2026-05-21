@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "38ca5fa0bdad",
+    "source_url": "https://raw.githubusercontent.com/qingwave/weave/8bdbd37ba86bfaf57e93bbd22c0adc622512b4b8/docs/swagger.json",
+    "fetched_at": "2026-05-21T09:33:38.437193+00:00",
+    "content_hash": "ce04ad876bfe0a221c07853ae233d2abd321bdec4cb949a07ecda87348fbf37e",
+    "info_version": "2.0",
+    "status": "new",
+    "title": "Weave Server API",
+    "openapi_version": "swagger_2",
+    "paths_count": 29,
+    "path_diff": null
+  }
+]

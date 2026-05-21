@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "959b4b3b6631",
+    "source_url": "https://raw.githubusercontent.com/TimurDenisenko/GamesAPI/b381f81315786ea3bb7bf49afd8f78918619568d/swagger.yaml",
+    "fetched_at": "2026-05-21T09:33:11.651218+00:00",
+    "content_hash": "026e6c3541fac1604fc18618b5ca54b9aa3e57d0d3a7d6a31360fd96300d9cdb",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Games-API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

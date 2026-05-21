@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "beb90b0658b8",
+    "source_url": "https://raw.githubusercontent.com/OpenDroneMap/NodeODM/8ad3e30dc0006d59fd552c1e884614b53daa19e3/docs/swagger.json",
+    "fetched_at": "2026-05-21T09:33:42.186938+00:00",
+    "content_hash": "0967fcbb5e816eed53db33a10897575c0fe52c6dd29c194b3cad1b69dac2f59d",
+    "info_version": "2.2.1",
+    "status": "new",
+    "title": "NodeODM",
+    "openapi_version": "swagger_2",
+    "paths_count": 16,
+    "path_diff": null
+  }
+]

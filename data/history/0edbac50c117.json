@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0edbac50c117",
+    "source_url": "https://raw.githubusercontent.com/avrvenkatesa/pathfinder-phase1a-mvp/e26e3a1dab600fc2ad75f13f9a919ba1dbfcbbc3/server/docs/openapi.yaml.bak",
+    "fetched_at": "2026-05-21T09:32:10.878546+00:00",
+    "content_hash": "311b0ff7ed5c6ac4a91c92e8e84a712f4d0b0fe6f84ea1f471280b9dc5b1f0eb",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Contact Management API - Phase 1A",
+    "openapi_version": "openapi_3",
+    "paths_count": 15,
+    "path_diff": null
+  }
+]

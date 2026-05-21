@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "478977352404",
+    "source_url": "https://raw.githubusercontent.com/blampe/rreading-glasses/a2939b625d91389d3f0a3e58cbc3bfa7ebb8390a/internal/swagger.json",
+    "fetched_at": "2026-05-21T09:33:40.588797+00:00",
+    "content_hash": "9be75e04dbb12123249ac72e94a23b1ad5d869615074817d325f94c93827b4f8",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "bookinfo.pro api",
+    "openapi_version": "swagger_2",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

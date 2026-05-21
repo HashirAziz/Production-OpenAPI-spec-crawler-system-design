@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "70c4d4609165",
+    "source_url": "https://raw.githubusercontent.com/runabol/tork/370eaf804e37e07198899584c8d61fed5dfb05e3/docs/swagger.json",
+    "fetched_at": "2026-05-21T09:33:43.706143+00:00",
+    "content_hash": "562188420a0a3da399797213698a0971428a5a347c6b0221dec42ec77363a44a",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Tork API",
+    "openapi_version": "swagger_2",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

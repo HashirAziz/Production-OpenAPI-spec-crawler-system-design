@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5f0679c0ac8a",
+    "source_url": "https://raw.githubusercontent.com/jovandeginste/workout-tracker/496253b023fe129e57fda1f9a2a639f20e8a8f0e/docs/swagger.json",
+    "fetched_at": "2026-05-21T09:33:43.500513+00:00",
+    "content_hash": "41c8646a7f965be27d4f800240cb4a96f0618d58aec95d769b15cf68b9f26a9d",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Workout Tracker",
+    "openapi_version": "swagger_2",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

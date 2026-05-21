@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5a47c9ebb41c",
+    "source_url": "https://raw.githubusercontent.com/lindb/lindb/612070e1dc6043d2ea47d5b3bc6dccd51eefaee4/docs/swagger.json",
+    "fetched_at": "2026-05-21T09:33:21.874714+00:00",
+    "content_hash": "550a11354ae5d3bd0a9a0fa68c52d6dfd06cfe537f5650a8c04a7f7570255d74",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "LinDB Open API",
+    "openapi_version": "swagger_2",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

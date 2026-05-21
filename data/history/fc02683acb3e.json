@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "fc02683acb3e",
+    "source_url": "https://raw.githubusercontent.com/thst71/pdfclassifier-api-mock/679c74d21fbdc8dc26290b092d25569fc5e1d954/openapi.yaml",
+    "fetched_at": "2026-05-21T09:32:17.319711+00:00",
+    "content_hash": "e0ccc316b62df6d354a65ec7d7b49bcce34c9d7a324987db2fff5f58431306ff",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "PDF Classifier API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

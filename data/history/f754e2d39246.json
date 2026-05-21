@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f754e2d39246",
+    "source_url": "https://raw.githubusercontent.com/srg190/instant-mart-backend/d2b0243bec895555bbdccf0df228bf1a87ad4d71/swagger.yaml",
+    "fetched_at": "2026-05-21T09:33:03.849441+00:00",
+    "content_hash": "0f057daf961b173b783824dfab8f3d8aa22c7f4d2bf8b8edb38c16b9e68e0807",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "E-Commerce",
+    "openapi_version": "swagger_2",
+    "paths_count": 24,
+    "path_diff": null
+  }
+]

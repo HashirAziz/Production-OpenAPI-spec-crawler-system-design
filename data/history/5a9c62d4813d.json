@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5a9c62d4813d",
+    "source_url": "https://raw.githubusercontent.com/ThingsPanel/thingspanel-backend-community/66794d723519349b398bf17c6610f69bf441fe17/docs/swagger.json",
+    "fetched_at": "2026-05-21T09:33:33.449699+00:00",
+    "content_hash": "b00a5da323dace6b2fcd1873ad139fb2b517694ed20029876f0e9aaa02599b71",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "ThingsPanel API",
+    "openapi_version": "swagger_2",
+    "paths_count": 98,
+    "path_diff": null
+  }
+]

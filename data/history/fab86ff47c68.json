@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "fab86ff47c68",
+    "source_url": "https://raw.githubusercontent.com/ThomasTartrau/ironflow/c0d96f124559878e4a6347177a29cd52de82f8e1/ironflow-dashboard/openapi.json.bak",
+    "fetched_at": "2026-05-21T09:32:29.625021+00:00",
+    "content_hash": "66da7455911fa068ae1290b5e4d306daad0811a9a288e7ddf88e2715cdcf1b42",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Ironflow REST API",
+    "openapi_version": "openapi_3",
+    "paths_count": 21,
+    "path_diff": null
+  }
+]

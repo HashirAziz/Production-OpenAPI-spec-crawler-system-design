@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "15654b13d0c0",
+    "source_url": "https://raw.githubusercontent.com/HDFGroup/hdf-rest-api/d19049c04e87059c2f292ecb9f5cb1c877af823f/openapi.yaml",
+    "fetched_at": "2026-05-21T09:32:18.382599+00:00",
+    "content_hash": "6cc59932050f9dadac6dfcd04f2499db02121fffe164bbfcf0eb57d485a4354a",
+    "info_version": "2.0",
+    "status": "new",
+    "title": "HDF Scalable Data Service REST API",
+    "openapi_version": "openapi_3",
+    "paths_count": 20,
+    "path_diff": null
+  }
+]

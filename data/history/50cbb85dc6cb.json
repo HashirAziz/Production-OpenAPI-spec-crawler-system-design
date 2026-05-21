@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "50cbb85dc6cb",
+    "source_url": "https://raw.githubusercontent.com/opsre/go-ldap-admin/eee01c3980e492b12c015699c5c93331cf0f4361/docs/swagger.json",
+    "fetched_at": "2026-05-21T09:33:26.318377+00:00",
+    "content_hash": "b7dd139f5de2ea21bd904d7eaa9229d28d5790ef5c74f5b76f924ae5c01c1550",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Go Ldap Admin",
+    "openapi_version": "swagger_2",
+    "paths_count": 60,
+    "path_diff": null
+  }
+]

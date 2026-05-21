@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c352557857c8",
+    "source_url": "https://raw.githubusercontent.com/mosgizy/IDeyOwe/6af88acac237b18444285c1ee878e459e9a17c9c/swagger.yaml",
+    "fetched_at": "2026-05-21T09:33:11.025637+00:00",
+    "content_hash": "22236429d57063406ca976cd7b067597861bb71f789b0e88803ce11cdd12cd9b",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Dept API",
+    "openapi_version": "openapi_3",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

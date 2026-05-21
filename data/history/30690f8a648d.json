@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "30690f8a648d",
+    "source_url": "https://raw.githubusercontent.com/gonzaloogv/GymPoint/60722e108d9c315673db46395fba9dfb647cd12a/backend/node/docs/openapi.yaml.backup",
+    "fetched_at": "2026-05-21T09:32:08.229628+00:00",
+    "content_hash": "2362c14d7b3be1777fb532911a08a08826d54ce9db95505567280b6d57d7c0aa",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "GymPoint API",
+    "openapi_version": "openapi_3",
+    "paths_count": 79,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b5912dc9a07d",
+    "source_url": "https://raw.githubusercontent.com/SriMathi-2705/SignSpell-API/a96298f82abdbc12bc4db7fa1e2423c12c765f66/swagger.yaml",
+    "fetched_at": "2026-05-21T09:33:04.211212+00:00",
+    "content_hash": "f458d4ab1c5f68bdee10d407eb7894a704f50439e7d95e8e6f0e618fb6fda31a",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "User Authentication API",
+    "openapi_version": "swagger_2",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

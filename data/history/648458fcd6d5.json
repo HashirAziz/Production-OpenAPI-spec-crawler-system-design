@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "648458fcd6d5",
+    "source_url": "https://raw.githubusercontent.com/5GZORRO/slice-manager/8c4758e4325ece7977b2d76ca5fbc4a1ad7d09e0/openapi.yaml",
+    "fetched_at": "2026-05-21T09:32:11.597453+00:00",
+    "content_hash": "41071536e88eb78a08418eef73cc6b2bfe44dc71ac161c23f3cfa84fd7ab96b5",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Slice Manager API",
+    "openapi_version": "openapi_3",
+    "paths_count": 54,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b93128eac8a1",
+    "source_url": "https://raw.githubusercontent.com/Lonero-Team/Decentralized-Internet/43de089d65ba1057faf49a8e5690e88c0eab0569/_APIS/swagger.json",
+    "fetched_at": "2026-05-21T09:33:35.525505+00:00",
+    "content_hash": "23a5774acd9e2f7998c0ac1aca6c77c77da7f5c2e3074cc434cfbdad641e1c03",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "reg-iot-api",
+    "openapi_version": "swagger_2",
+    "paths_count": 14,
+    "path_diff": null
+  }
+]

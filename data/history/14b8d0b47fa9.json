@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "14b8d0b47fa9",
+    "source_url": "https://raw.githubusercontent.com/santoshshinde2012/node-boilerplate/1f57b0197ad5143f92688fa6b24dacde52926cb1/swagger.json",
+    "fetched_at": "2026-05-21T09:33:43.868151+00:00",
+    "content_hash": "f0c662355bf73132822601ab565cbb157699ab390bfa2dfb948d78de4f344318",
+    "info_version": "2.1.0",
+    "status": "new",
+    "title": "Node Boilerplate",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

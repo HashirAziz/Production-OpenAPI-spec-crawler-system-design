@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "687ee07e6ab8",
+    "source_url": "https://raw.githubusercontent.com/couchbaselabs/try-cb-java/c80b85ee1eee34b3c29c4b44e61840459fb8f42e/swagger.json",
+    "fetched_at": "2026-05-21T09:33:35.816315+00:00",
+    "content_hash": "d0c056338cf1d879b52baa181c88ec869415ed99b8a41faf225fa2e0c4864cb8",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Travel Sample API",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

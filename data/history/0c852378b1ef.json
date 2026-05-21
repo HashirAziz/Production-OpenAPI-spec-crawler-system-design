@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0c852378b1ef",
+    "source_url": "https://raw.githubusercontent.com/lc2panda/StockAnal_Sys/bf20433460b3cb353d4fd2f672030da50fa13852/app/web/static/swagger.json",
+    "fetched_at": "2026-05-21T09:33:45.716200+00:00",
+    "content_hash": "218e07e0b1e710990deadc6014c73fc9b919a17d0f84dc50c5092ea50152e5c6",
+    "info_version": "2.1.0",
+    "status": "new",
+    "title": "股票智能分析系统 API",
+    "openapi_version": "swagger_2",
+    "paths_count": 17,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "08af552e75c9",
+    "source_url": "https://raw.githubusercontent.com/qxsch/ContosoHotel/157c5c0a601bcd4711c49770cba120939601cdd8/swagger.yaml",
+    "fetched_at": "2026-05-21T09:33:02.989804+00:00",
+    "content_hash": "1b5ab37c247386f99a95c61f54a824c01b556e2d6ecaaabc9d791ff2723a1195",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Contoso Hotel API",
+    "openapi_version": "openapi_3",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "55ff7c4e2a0e",
+    "source_url": "https://raw.githubusercontent.com/UNDP-Accelerator-Labs/sdgcommons-report-scrapper/bbcb3aeee34cadfca2e0f2e6ea18ab4de2a9398a/openapi.yaml",
+    "fetched_at": "2026-05-21T09:32:17.150809+00:00",
+    "content_hash": "b3cb7458bbfdef67dadefd541d4e5bdf88845c19f8f2396daf0ac65548c29f51",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "SDG Commons Reports Scraper API",
+    "openapi_version": "openapi_3",
+    "paths_count": 15,
+    "path_diff": null
+  }
+]

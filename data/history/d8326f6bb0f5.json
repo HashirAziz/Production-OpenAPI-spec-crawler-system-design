@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d8326f6bb0f5",
+    "source_url": "https://raw.githubusercontent.com/actiontech/dtle/d023f0400169c4edcd1879dec8ae5d55e9db7120/api/docs/swagger.json",
+    "fetched_at": "2026-05-21T09:33:34.160440+00:00",
+    "content_hash": "f42616d511c2f3f21cb249a1fdc6a824693794280719354de8096e7d22906cb5",
+    "info_version": "2.0",
+    "status": "new",
+    "title": "dtle API Docs",
+    "openapi_version": "swagger_2",
+    "paths_count": 53,
+    "path_diff": null
+  }
+]

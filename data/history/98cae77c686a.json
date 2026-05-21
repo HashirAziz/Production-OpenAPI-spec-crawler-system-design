@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "98cae77c686a",
+    "source_url": "https://raw.githubusercontent.com/jmartin82/mmock/533501331bccb71ade70b96ddf84a7916ed98391/UI/public/swagger.json",
+    "fetched_at": "2026-05-21T09:33:41.045893+00:00",
+    "content_hash": "f4e1ba7970dec2f343fbae8798520fded82766d0d9bede2e7be32d5754ac49e6",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "MMock",
+    "openapi_version": "swagger_2",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

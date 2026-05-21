@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "25403fc2c8a7",
+    "source_url": "https://raw.githubusercontent.com/ONSdigital/dp-cantabular-metadata-extractor-api/d23b1628e3b305adb85c2154bf5e98f62bc31cfe/swagger.yaml",
+    "fetched_at": "2026-05-21T09:33:00.412522+00:00",
+    "content_hash": "1e3ff6156b24e5c5564458b22d2bed2001026d102c4b76f0171c64cd6c57e44c",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "dp-cantabular-metadata-extractor-api",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

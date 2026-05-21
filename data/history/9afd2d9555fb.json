@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9afd2d9555fb",
+    "source_url": "https://raw.githubusercontent.com/rdorrani/PowerApps/5a96958e89695edebaf9d106926abca4ce16eb79/whisperswagger.json",
+    "fetched_at": "2026-05-21T09:33:46.026061+00:00",
+    "content_hash": "ec4dddd84f0424d1d404cbfea442805d0f7aa3ab4ff1b69bdd3df35080774ad1",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Whisper",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

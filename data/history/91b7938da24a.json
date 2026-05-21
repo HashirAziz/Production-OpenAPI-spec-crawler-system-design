@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "91b7938da24a",
+    "source_url": "https://raw.githubusercontent.com/ballesterbermudez/Proyecto-MiEcommerce-Grupo-7-Sprint2/52159afdec27c906e91c96e5aaab457581444bab/swagger.yaml",
+    "fetched_at": "2026-05-21T09:32:57.604902+00:00",
+    "content_hash": "6df7820514b0a6d6fdd163d09c584ccc6a1c06efac9882c672d25cf4f89aa9f4",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Mi Ecommerce",
+    "openapi_version": "openapi_3",
+    "paths_count": 13,
+    "path_diff": null
+  }
+]

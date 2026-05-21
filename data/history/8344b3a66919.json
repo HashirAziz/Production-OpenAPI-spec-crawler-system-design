@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8344b3a66919",
+    "source_url": "https://raw.githubusercontent.com/webmeshproj/webmesh-vdi/48ddf167907dd7d455779493263f854045fa55f6/ui/swagger.json",
+    "fetched_at": "2026-05-21T09:33:38.121585+00:00",
+    "content_hash": "df118dfae9cd08cef19224e8d60eafd125616fc083190a3be352b21a8d2c5ffa",
+    "info_version": null,
+    "status": "new",
+    "title": "kVDI API.",
+    "openapi_version": "swagger_2",
+    "paths_count": 26,
+    "path_diff": null
+  }
+]

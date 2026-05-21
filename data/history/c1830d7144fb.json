@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c1830d7144fb",
+    "source_url": "https://raw.githubusercontent.com/googleforgames/open-match/d781be1a3ce1b6b7fce495345b23256089f55de9/api/backend.swagger.json",
+    "fetched_at": "2026-05-21T09:33:22.324669+00:00",
+    "content_hash": "89441b150c956653e67a3370b02ca795a4cf215a4324932c4b6118fcbf22d186",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Backend",
+    "openapi_version": "swagger_2",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "85c75fea5c15",
+    "source_url": "https://raw.githubusercontent.com/Lambda-Network/RAG-AI-Backend/8a34ad7081aa0894a2af103f68deffb7243862b2/swagger.yaml",
+    "fetched_at": "2026-05-21T09:33:12.190614+00:00",
+    "content_hash": "cb50550f6bf1f77cece7c46582cb6a3b51c25808274be5aae1f5a07a96db3a5b",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "RAG AI Backend API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

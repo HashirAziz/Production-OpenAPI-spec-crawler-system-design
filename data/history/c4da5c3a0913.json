@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c4da5c3a0913",
+    "source_url": "https://raw.githubusercontent.com/adamwalach/openvpn-web-ui/075614837fd082481d3c29bf61aded7079b9f1e4/swagger/swagger.json",
+    "fetched_at": "2026-05-21T09:33:29.781806+00:00",
+    "content_hash": "ec457925cb1cf72c0ca14f350a526061f42a8052209b0860d1dfcb3a4f5d1d30",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "OpenVPN API",
+    "openapi_version": "swagger_2",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

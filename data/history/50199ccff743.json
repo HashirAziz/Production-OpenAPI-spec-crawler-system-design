@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "50199ccff743",
+    "source_url": "https://raw.githubusercontent.com/openml/OpenML/4db4685c2405c04244b5fc8e4ae43f8a7c997905/openapi/swagger.json",
+    "fetched_at": "2026-05-21T09:33:28.535018+00:00",
+    "content_hash": "083432fbf33fbc1c409a1a4b64cd017a72e021baa2612a08dd638179ecfd696f",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "OpenML API",
+    "openapi_version": "openapi_3",
+    "paths_count": 48,
+    "path_diff": null
+  }
+]

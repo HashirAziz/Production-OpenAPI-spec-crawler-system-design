@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "69cb8d9551a5",
+    "source_url": "https://raw.githubusercontent.com/ghsec/webHunt/5906edafccf0bad7c2535202125382484982a9e6/wordlists/swagger.json",
+    "fetched_at": "2026-05-21T09:33:44.776560+00:00",
+    "content_hash": "ed76889baf5dc54f79d250da1bff4ed8a9bbcef1f219afbf7bbd23686bcabc72",
+    "info_version": null,
+    "status": "new",
+    "title": "Example yaml.spec",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

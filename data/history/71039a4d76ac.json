@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "71039a4d76ac",
+    "source_url": "https://raw.githubusercontent.com/mlabs-haskell/TuxedoDapp/0160b433517a61aa249f40b8e684a93c0281441d/openapi.yaml",
+    "fetched_at": "2026-05-21T09:32:12.149089+00:00",
+    "content_hash": "e153130b3a53c1c4fb4c44ba9e2dfe52f47ac64b7243d9cfb8917f238707cafb",
+    "info_version": "0.0.2",
+    "status": "new",
+    "title": "WIP UI driven api",
+    "openapi_version": "openapi_3",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

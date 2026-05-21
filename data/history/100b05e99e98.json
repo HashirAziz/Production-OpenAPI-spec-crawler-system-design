@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "100b05e99e98",
+    "source_url": "https://raw.githubusercontent.com/e421083458/gin_scaffold/616fc31c04001c1412574fd6f6bd975195c1268a/docs/swagger.json",
+    "fetched_at": "2026-05-21T09:33:45.129858+00:00",
+    "content_hash": "b54bf05b8fa7c87985152e03d6327cff1e20cbc83ee98757e2b5e5e8cd4fe1ee",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

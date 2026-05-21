@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "70ef32261e9c",
+    "source_url": "https://raw.githubusercontent.com/iost-official/go-iost/74f50082a97a5a2e3768737dbcf5e40f4924d40c/rpc/pb/rpc.swagger.json",
+    "fetched_at": "2026-05-21T09:33:27.830033+00:00",
+    "content_hash": "689d69f84c7f793b3be033ecc8de9fd1e9a1cf5fc7edee27f64200551197d37d",
+    "info_version": "version not set",
+    "status": "new",
+    "title": "rpc/pb/rpc.proto",
+    "openapi_version": "swagger_2",
+    "paths_count": 29,
+    "path_diff": null
+  }
+]

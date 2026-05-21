@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "fb1f1d9fdee2",
+    "source_url": "https://raw.githubusercontent.com/BartSoj/API-Health-Checker/3460ef916e287f4d82ab975495e958feef1e3be1/api_specs/docs_openapi.json",
+    "fetched_at": "2026-05-21T09:32:39.832714+00:00",
+    "content_hash": "5f0a0342d83146444a81cdf311c89608a651f48bc664658f9826397fbe0ac5da",
+    "info_version": "v1",
+    "status": "new",
+    "title": "Google Docs API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

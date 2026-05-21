@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "421139742208",
+    "source_url": "https://raw.githubusercontent.com/Blockchair/ton-api/227a9348503ef3e12e15cdf351335b69f9a17a79/swagger.yaml",
+    "fetched_at": "2026-05-21T09:33:07.796190+00:00",
+    "content_hash": "1cedfab4277c91163c59a274ee1b2a4d1d110df2957602c95b8ec5a7ed3c9bf2",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "TON",
+    "openapi_version": "openapi_3",
+    "paths_count": 12,
+    "path_diff": null
+  }
+]

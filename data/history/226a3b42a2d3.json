@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "226a3b42a2d3",
+    "source_url": "https://raw.githubusercontent.com/jmagit/MOCKWebServer/aab848e2cf729b08e71cf465d0f692a1955b11c4/openapi.yaml",
+    "fetched_at": "2026-05-21T09:32:15.226493+00:00",
+    "content_hash": "37167d50a31ceb2896dc5f264a303614e0daaca17eb8b5edf396d553a43f1dbd",
+    "info_version": "2.0.0",
+    "status": "new",
+    "title": "MOCK Web Server",
+    "openapi_version": "openapi_3",
+    "paths_count": 28,
+    "path_diff": null
+  }
+]

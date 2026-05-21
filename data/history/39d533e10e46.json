@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "39d533e10e46",
+    "source_url": "https://raw.githubusercontent.com/fish-project/server-api-spec/425dbba033dcef10cca667f671093d74db1eac90/swagger.yaml",
+    "fetched_at": "2026-05-21T09:32:57.312020+00:00",
+    "content_hash": "9f1c0f9c9d10f410b49c5665547f2c4fdbe8f3b4e7f887fd4b0b32a2f0610a2a",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API Documentation",
+    "openapi_version": "openapi_3",
+    "paths_count": 12,
+    "path_diff": null
+  }
+]

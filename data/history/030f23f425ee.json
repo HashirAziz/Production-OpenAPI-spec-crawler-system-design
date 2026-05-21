@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "030f23f425ee",
+    "source_url": "https://raw.githubusercontent.com/aceberg/WatchYourLAN/ca9f644bccba41cdb3db952b828137fa53c2f640/backend/docs/swagger.json",
+    "fetched_at": "2026-05-21T09:33:22.980770+00:00",
+    "content_hash": "c205122a47c99954ccbcce80a040818720acc9a7673cc0eedb6f9b92ff1e5964",
+    "info_version": "0.1",
+    "status": "new",
+    "title": "WatchYourLAN API",
+    "openapi_version": "swagger_2",
+    "paths_count": 15,
+    "path_diff": null
+  }
+]

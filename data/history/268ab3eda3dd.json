@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "268ab3eda3dd",
+    "source_url": "https://raw.githubusercontent.com/BrunoDanielPF/page-swagger-UI/9e8dbf57cd5a6f6088ee35063ffe0536cfd6341f/swagger.yaml",
+    "fetched_at": "2026-05-21T09:33:08.925714+00:00",
+    "content_hash": "1505128f80d23596203829fe2b03ca441bf4a252bd873cb37c60d7f9f226b51e",
+    "info_version": "v0",
+    "status": "new",
+    "title": "OpenAPI definition",
+    "openapi_version": "openapi_3",
+    "paths_count": 19,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5008b6f8df46",
+    "source_url": "https://raw.githubusercontent.com/sigstore/fulcio/19a3f8e1d61826fe8fde99e60e8f080d727e408e/fulcio.swagger.json",
+    "fetched_at": "2026-05-21T09:33:34.341534+00:00",
+    "content_hash": "7d9d90fead974b2bdedd51343c4be3beab246e78fc755ad091d244c53eecdfd8",
+    "info_version": "2.0.0",
+    "status": "new",
+    "title": "Fulcio",
+    "openapi_version": "swagger_2",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

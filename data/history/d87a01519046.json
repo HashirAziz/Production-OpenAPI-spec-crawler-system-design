@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d87a01519046",
+    "source_url": "https://raw.githubusercontent.com/xxnuo/MTranServer/f5672a986b5bb935064fc74d1a7074fde7469daf/deprecated/go/internal/docs/swagger.json",
+    "fetched_at": "2026-05-21T09:33:32.180029+00:00",
+    "content_hash": "77bdf35f90a844ba6a5d64e59038d69bfab6a691adf2ff64d5a1c59fa5ba9319",
+    "info_version": "3.0.0",
+    "status": "new",
+    "title": "MTranServer API",
+    "openapi_version": "swagger_2",
+    "paths_count": 13,
+    "path_diff": null
+  }
+]

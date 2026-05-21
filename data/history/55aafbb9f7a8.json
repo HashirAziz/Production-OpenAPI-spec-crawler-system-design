@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "55aafbb9f7a8",
+    "source_url": "https://raw.githubusercontent.com/AmanS369/oyelabs-assignment/ddd73eadda2212e8d446b78fd461c9bd060b2699/swagger.yaml",
+    "fetched_at": "2026-05-21T09:33:12.354679+00:00",
+    "content_hash": "3f620ca13dfd571eca4e56c5bc097837a035ccb411c5045ad7c88310b87641a6",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "User API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

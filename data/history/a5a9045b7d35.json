@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a5a9045b7d35",
+    "source_url": "https://raw.githubusercontent.com/m0chan/BugBounty/7dd93ae8e47ba64778a2ba961fca4098912661f1/swagger.json",
+    "fetched_at": "2026-05-21T09:33:45.493281+00:00",
+    "content_hash": "87a2e873f31bed696563acbe6496a3217d5e4254eb8cc82848e74bf4a2a099fc",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Swagger Petstore",
+    "openapi_version": "swagger_2",
+    "paths_count": 14,
+    "path_diff": null
+  }
+]

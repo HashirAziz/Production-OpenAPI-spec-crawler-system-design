@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "76eac7f52084",
+    "source_url": "https://raw.githubusercontent.com/zincsearch/zincsearch/288ab7391649a228b6fe2811918c68bb7ab89adc/docs/swagger.json",
+    "fetched_at": "2026-05-21T09:33:20.520674+00:00",
+    "content_hash": "a8e4ef2644ff2b2b93e3222bf9ddc94413249560ab4c59e53ca9d9e75603a051",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Zinc Search engine API",
+    "openapi_version": "swagger_2",
+    "paths_count": 33,
+    "path_diff": null
+  }
+]

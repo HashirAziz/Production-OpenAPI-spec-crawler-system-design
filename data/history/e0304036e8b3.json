@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e0304036e8b3",
+    "source_url": "https://raw.githubusercontent.com/hivecloud-dev/internal-api.github.io/db99742c3fedaa39dd99cc73bf02ed46be0a53fd/ar/swagger.yaml",
+    "fetched_at": "2026-05-21T09:33:00.941873+00:00",
+    "content_hash": "10c2a998baf7aed16258b0426361014501803130205c5e18d92abc105207d041",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "AR API",
+    "openapi_version": "openapi_3",
+    "paths_count": 44,
+    "path_diff": null
+  }
+]

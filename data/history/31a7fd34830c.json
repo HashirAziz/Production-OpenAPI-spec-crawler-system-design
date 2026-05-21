@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "31a7fd34830c",
+    "source_url": "https://raw.githubusercontent.com/botxbyte/rabbitmq-flask-service/c5e0418e2dda29c5a1bccc2452e9e79d8c3be374/swagger.yaml",
+    "fetched_at": "2026-05-21T09:33:12.590732+00:00",
+    "content_hash": "f991189d354c0751f7ac5a53987e43d7a0a908a54dd472dd8b46dd4499693699",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "RabbitMQ Flask Service API",
+    "openapi_version": "openapi_3",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

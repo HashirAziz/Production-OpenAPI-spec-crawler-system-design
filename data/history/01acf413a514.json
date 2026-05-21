@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "01acf413a514",
+    "source_url": "https://raw.githubusercontent.com/zaigie/palworld-server-tool/a1e0079f830bc03f94e359b6f4a68ca2bd3b0187/docs/swagger.json",
+    "fetched_at": "2026-05-21T09:33:32.567269+00:00",
+    "content_hash": "225b44be8cec3d850bc40445c3d5598dfd8fd251c33b2556d9cf4d0df7f308b5",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "swagger_2",
+    "paths_count": 22,
+    "path_diff": null
+  }
+]

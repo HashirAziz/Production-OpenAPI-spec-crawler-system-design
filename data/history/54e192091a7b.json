@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "54e192091a7b",
+    "source_url": "https://raw.githubusercontent.com/microsoft/kernel-memory/94b69d340d6b2dec7bd30479927c36b9f8d4913f/archived/km-v1/swagger.json",
+    "fetched_at": "2026-05-21T09:33:25.154453+00:00",
+    "content_hash": "0c988a89a5084cf630c01f9aa72528c8436ec3dbe7cd922ec15984d7d41775b0",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Microsoft.KernelMemory.ServiceAssembly",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

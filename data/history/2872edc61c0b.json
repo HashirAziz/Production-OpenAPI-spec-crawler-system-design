@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2872edc61c0b",
+    "source_url": "https://raw.githubusercontent.com/PancrePal-xiaoyibao/PancrePal-xiaoyibao/71130c6bbbd06085d23b30b55360dfebef2c8ab1/openapi.json",
+    "fetched_at": "2026-05-21T09:32:45.226552+00:00",
+    "content_hash": "289a5ec9b9c384e49cb57a6f9b9da11b1d18a8795a318900116a8d28f0592406",
+    "info_version": "0.2.0",
+    "status": "new",
+    "title": "小胰宝智能助手平台",
+    "openapi_version": "openapi_3",
+    "paths_count": 22,
+    "path_diff": null
+  }
+]

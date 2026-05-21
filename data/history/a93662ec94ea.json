@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a93662ec94ea",
+    "source_url": "https://raw.githubusercontent.com/frain-dev/convoy/d2f6dfb6ff5344a7c7a1537be0c5dded037c06f4/docs/swagger.json",
+    "fetched_at": "2026-05-21T09:33:24.926219+00:00",
+    "content_hash": "44cc992501bacb6c799868f25e476e3c2a3159958cd0d9e01e93dcd8652d98bc",
+    "info_version": "26.3.5",
+    "status": "new",
+    "title": "Convoy API Reference",
+    "openapi_version": "swagger_2",
+    "paths_count": 44,
+    "path_diff": null
+  }
+]

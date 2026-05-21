@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c8d0f57996f6",
+    "source_url": "https://raw.githubusercontent.com/casvisor/casvisor/54c464d3c847898d4e28f29b4531920f05195cba/swagger/swagger.json",
+    "fetched_at": "2026-05-21T09:33:44.332148+00:00",
+    "content_hash": "f2d06d4cbedcec67b3e885ee8f1ed73065701c58c606837d79a6b4e8f361db04",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "swagger_2",
+    "paths_count": 32,
+    "path_diff": null
+  }
+]

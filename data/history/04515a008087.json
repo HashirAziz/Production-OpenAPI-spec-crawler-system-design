@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "04515a008087",
+    "source_url": "https://raw.githubusercontent.com/Istiaq-Fuad/job-search-manager/ae7cffbf4608025950ebedce5b947755f12c1e1b/swagger.yaml",
+    "fetched_at": "2026-05-21T09:32:58.194317+00:00",
+    "content_hash": "fad6389b3f88b56d408a0bc469312c36f1e2e0fb0ee64d17524ead8f7f8b9970",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "jobs-api",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

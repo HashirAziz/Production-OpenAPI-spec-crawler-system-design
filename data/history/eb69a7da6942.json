@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "eb69a7da6942",
+    "source_url": "https://raw.githubusercontent.com/camptocamp/terraboard/6f6b6b60f5f05defcf1792aca5278824305ca76e/docs/swagger.json",
+    "fetched_at": "2026-05-21T09:33:24.171540+00:00",
+    "content_hash": "7880fcb39dc50887a551fcb85845f1cccb0dd5c5bfdc28530a2fd93ff3bbba63",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Terraboard API",
+    "openapi_version": "swagger_2",
+    "paths_count": 16,
+    "path_diff": null
+  }
+]

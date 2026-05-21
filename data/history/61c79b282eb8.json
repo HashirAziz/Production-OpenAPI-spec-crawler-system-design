@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "61c79b282eb8",
+    "source_url": "https://raw.githubusercontent.com/LucasCerqueira1244/meet-simulation/0fecde75bece25a62a81c633c285323d223f1a95/swagger.yaml",
+    "fetched_at": "2026-05-21T09:32:57.837492+00:00",
+    "content_hash": "5a851b11b3c025e8bf7db64bd93dc8240a56e596acb7a93cd03a2acd610a606e",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API de Gerenciamento de Salas",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b49f576e8a38",
+    "source_url": "https://raw.githubusercontent.com/sipcapture/homer-app/587a4671a3918b593a80937a2202350b13df5de1/etc/swagger.json",
+    "fetched_at": "2026-05-21T09:33:37.662763+00:00",
+    "content_hash": "8b089db7394cdaa9ea138b6bf0407bf1028143fb7adad8d3ca183915770fdf9b",
+    "info_version": "1.1.2",
+    "status": "new",
+    "title": "Homer-App",
+    "openapi_version": "swagger_2",
+    "paths_count": 62,
+    "path_diff": null
+  }
+]

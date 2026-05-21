@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d79175b42aa8",
+    "source_url": "https://raw.githubusercontent.com/pagopa/pagopa-infra/f51438c19ef11332213729d0b89d0e98b5287ab1/src/core/api/node_forwarder_api/v1/_openapi.json.tpl",
+    "fetched_at": "2026-05-21T09:32:26.366201+00:00",
+    "content_hash": "1ed24307de4cd53473ce49bb9d0c27876f01cad2a0da27ac5219a27add1e4a6a",
+    "info_version": "0.0.1-1",
+    "status": "new",
+    "title": "Node Forwarder",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ffbc1a9c6015",
+    "source_url": "https://raw.githubusercontent.com/gofiber/recipes/ec5778a1502bcc667744ca1ef106134336ebd68d/swagger/docs/swagger.json",
+    "fetched_at": "2026-05-21T09:33:25.491404+00:00",
+    "content_hash": "74f56f105a4b00243b994676e7748d52e3e53018d9f8a6cd09fd894939c5fa7f",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Book App",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

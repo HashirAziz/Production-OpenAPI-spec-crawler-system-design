@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "52e36567d60d",
+    "source_url": "https://raw.githubusercontent.com/Kanishk1420/Game-library-service/c5957c30e02a43583674faddf489e4e8f5f0e69f/OpenAPI.yaml",
+    "fetched_at": "2026-05-21T09:32:12.907084+00:00",
+    "content_hash": "4078c9aaebde507e9f745765e2dad42fb84bf31a46d4044d6738f02a878da303",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Video Games API",
+    "openapi_version": "openapi_3",
+    "paths_count": 13,
+    "path_diff": null
+  }
+]

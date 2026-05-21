@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "10cc7c609ad1",
+    "source_url": "https://raw.githubusercontent.com/weissye/BpTestTell/5bb22693ef48f5204e2053e58a15a90cceb05eac/packs/7_suts/pharmacy/openapi.json.old",
+    "fetched_at": "2026-05-21T09:32:34.917257+00:00",
+    "content_hash": "e0a063a870b387a838c2589a74c21bad1668557470d0d444244fe47bc9790405",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "pharmacy SUT",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c945bdc84e10",
+    "source_url": "https://raw.githubusercontent.com/P4r1nc3/ClearBreath_Backend/8abb9694d81b5e48ff7dd59393b8f1d5997e2c7e/swagger.yaml",
+    "fetched_at": "2026-05-21T09:33:11.496316+00:00",
+    "content_hash": "31c2448b772f7b64ffb1727af496ec099016c441ae21c3074879bcc52044585f",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "ClearBreath API",
+    "openapi_version": "openapi_3",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

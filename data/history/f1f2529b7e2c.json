@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f1f2529b7e2c",
+    "source_url": "https://raw.githubusercontent.com/swaggo/swag/fa1d2c801b35b1ee6d7baa0187580eb898c6e79c/example/markdown/docs/swagger.json",
+    "fetched_at": "2026-05-21T09:33:21.543306+00:00",
+    "content_hash": "cd209162e104e994d2186949f9ff037a00c4c7b3f79a5dd98d9cb893a3bc4eea",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Swagger Example API",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "92d669f019ad",
+    "source_url": "https://raw.githubusercontent.com/influxdata/chronograf/5c06abac52104f4649026ce3c1c9af896db3137f/server/swagger.json",
+    "fetched_at": "2026-05-21T09:33:23.591304+00:00",
+    "content_hash": "733106c0d4d69e3290fdda8c8764ca189664c717877a5deedff61ec4aa0d6ab7",
+    "info_version": "1.11.2",
+    "status": "new",
+    "title": "Chronograf",
+    "openapi_version": "swagger_2",
+    "paths_count": 40,
+    "path_diff": null
+  }
+]

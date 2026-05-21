@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2ada1fa675d0",
+    "source_url": "https://raw.githubusercontent.com/project-zot/zot/08b26876daaeb5ebc138775f103586cb7aa475fd/swagger/swagger.json",
+    "fetched_at": "2026-05-21T09:33:30.062177+00:00",
+    "content_hash": "bf1094101156aeed944a6e4c32bb5e2cacdf20d567e19c359bb97fafd482c946",
+    "info_version": "v1.1.1",
+    "status": "new",
+    "title": "Open Container Initiative Distribution Specification",
+    "openapi_version": "swagger_2",
+    "paths_count": 15,
+    "path_diff": null
+  }
+]

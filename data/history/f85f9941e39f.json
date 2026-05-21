@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f85f9941e39f",
+    "source_url": "https://raw.githubusercontent.com/enzonotario/esjs-dolar-api/1d0cedc64c4c2d382dadebebdde7b741aa644181/docs/public/swagger.json",
+    "fetched_at": "2026-05-21T09:33:46.910587+00:00",
+    "content_hash": "0b00498389f116cc5eeca57ce57d5bc14a0a87d24fbada61e003a0630f27896d",
+    "info_version": "1.1.0",
+    "status": "new",
+    "title": "DolarApi.com",
+    "openapi_version": "openapi_3",
+    "paths_count": 22,
+    "path_diff": null
+  }
+]

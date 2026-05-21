@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "cce132648e90",
+    "source_url": "https://raw.githubusercontent.com/darrylyeo/deform-token-gated/069d5b8cb22ea88948410e102c02e8473039941f/src/lib/opensea/v2.openapi.json",
+    "fetched_at": "2026-05-21T09:32:41.246259+00:00",
+    "content_hash": "3d3a36ad250b7cf20bfa7368e7648fb8f14c0f02d545de3ea065f46e2fff7355",
+    "info_version": "2.0.0",
+    "status": "new",
+    "title": "OpenSea API",
+    "openapi_version": "openapi_3",
+    "paths_count": 25,
+    "path_diff": null
+  }
+]

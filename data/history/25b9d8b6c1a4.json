@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "25b9d8b6c1a4",
+    "source_url": "https://raw.githubusercontent.com/munt-dropjes/Aandelenspel/ccaa53649ae96ff9bfd295179d3b23ee0ef12b11/api/swagger.yaml",
+    "fetched_at": "2026-05-21T09:33:09.635476+00:00",
+    "content_hash": "1a8a764040b37dba59e7f373520f6216900cf5a44be454cb0b8634837d8db500",
+    "info_version": "1.4.0",
+    "status": "new",
+    "title": "Stock Market Game API",
+    "openapi_version": "openapi_3",
+    "paths_count": 16,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "51435a35d0f8",
+    "source_url": "https://raw.githubusercontent.com/daniel-juyeon-kim/archive/06059bb4eb6afe01063db39cac372ebb6b39049d/swagger.yaml",
+    "fetched_at": "2026-05-21T09:33:01.546102+00:00",
+    "content_hash": "5c8fc528adae016f376c9c04e30a21034d2ff7d55760bad7a250f8c50da2246c",
+    "info_version": "1.0.11",
+    "status": "new",
+    "title": "Api 타이틀 3.0",
+    "openapi_version": "openapi_3",
+    "paths_count": 13,
+    "path_diff": null
+  }
+]

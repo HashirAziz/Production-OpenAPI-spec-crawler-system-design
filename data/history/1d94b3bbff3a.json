@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1d94b3bbff3a",
+    "source_url": "https://raw.githubusercontent.com/openiap/opencore/c9e560b656cb14c7f82fc9ed1c44820acce43ea3/src/public/swagger.json",
+    "fetched_at": "2026-05-21T09:33:42.346413+00:00",
+    "content_hash": "b408fccf6c2f8a74d6a24a2733cf3a72c275bf2a8c5233d9b8b32e29aacf662f",
+    "info_version": "1.5.11.124",
+    "status": "new",
+    "title": "@openiap/core",
+    "openapi_version": "openapi_3",
+    "paths_count": 17,
+    "path_diff": null
+  }
+]

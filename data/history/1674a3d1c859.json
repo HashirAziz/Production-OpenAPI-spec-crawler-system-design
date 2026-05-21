@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1674a3d1c859",
+    "source_url": "https://raw.githubusercontent.com/sabajiVikas/ecommerce-store-backend/609b425ce6b1ed231fcfc95e5b7655ca093b0fb5/swagger.yaml",
+    "fetched_at": "2026-05-21T09:33:02.307003+00:00",
+    "content_hash": "9ab635d8694bdc2a4856cc67b31654f95feac1be0a4b133a91a05aaa4196c1e6",
+    "info_version": null,
+    "status": "new",
+    "title": "Ecommerce",
+    "openapi_version": "openapi_3",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

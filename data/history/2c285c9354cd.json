@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2c285c9354cd",
+    "source_url": "https://raw.githubusercontent.com/Baradavid/SprintDjango/5b8216758e3924ec909dd9812fe29119c5c7ab77/swagger.yaml",
+    "fetched_at": "2026-05-21T09:33:08.002380+00:00",
+    "content_hash": "9d3bf24da45509900c871c3c34f3db88068cb87f4aa98ed1eeda8acd8e0357ba",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API для хранения информации о перевалах",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

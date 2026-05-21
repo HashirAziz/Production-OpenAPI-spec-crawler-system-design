@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8cb5d1355350",
+    "source_url": "https://raw.githubusercontent.com/andreiflancanova/constructal_automate/eb581579ceaee4e45f86ac99f5b3ae57a0ea0d36/swagger.yaml",
+    "fetched_at": "2026-05-21T09:33:11.219186+00:00",
+    "content_hash": "7406357090623af63ddb61d8bcba0c107f6650f4e6a3d931319983cbc3b75c71",
+    "info_version": "v1",
+    "status": "new",
+    "title": "Constructal Automate",
+    "openapi_version": "swagger_2",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

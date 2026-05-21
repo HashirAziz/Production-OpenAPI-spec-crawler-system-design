@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e4a4beead374",
+    "source_url": "https://raw.githubusercontent.com/uber/aresdb/a8d2aedc6850b10a6cc9381ba780800290b2756d/api/ui/swagger/swagger.json",
+    "fetched_at": "2026-05-21T09:33:22.768687+00:00",
+    "content_hash": "d18a58e88958067563eeb50a0294a99e5b4beba97d8079752043eeda682c9744",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "provide the RESTful APIs to interact with AresDB.",
+    "openapi_version": "swagger_2",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

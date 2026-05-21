@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "647291ca521e",
+    "source_url": "https://raw.githubusercontent.com/andemosa/movie-list/7414226b5459d4ea8a9a6fbe3f38446f78aea04a/swagger.yaml",
+    "fetched_at": "2026-05-21T09:33:06.832928+00:00",
+    "content_hash": "337d1058a16a82ca1185c9b573f9a1ebe643a47ed4c3ce0831f1021e51fb1069",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Node.js Rest API  - OpenAPI 3.0",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

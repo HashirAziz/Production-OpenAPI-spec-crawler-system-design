@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "75ac7e620236",
+    "source_url": "https://raw.githubusercontent.com/projectshft/sunglasses-io/9b12c633d12e1d2996c953feaeb3aaf6c60f61a6/swagger.yaml",
+    "fetched_at": "2026-05-21T09:33:05.669608+00:00",
+    "content_hash": "3ff5ce5e209c6d98c0fa94189371cac5b9f9602bd4e592186ae79c879e407d4a",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "E-Commerce API",
+    "openapi_version": "swagger_2",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

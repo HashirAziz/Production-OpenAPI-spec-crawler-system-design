@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "7941a11b7b1b",
+    "source_url": "https://raw.githubusercontent.com/irshathcodes/e-commerce-api/8df98bbee215746c834b834657ce9c9480b00d1d/swagger.yaml",
+    "fetched_at": "2026-05-21T09:33:08.373827+00:00",
+    "content_hash": "738667615e592a6dc7cb8d02ef4228da4303c80148489b67a17e2f6c9a8e3bf2",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "E-Commerce-Api",
+    "openapi_version": "openapi_3",
+    "paths_count": 13,
+    "path_diff": null
+  }
+]

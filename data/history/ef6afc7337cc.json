@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ef6afc7337cc",
+    "source_url": "https://raw.githubusercontent.com/mxh77/monpetitroadtrip_server/845c967764c6ddea8d395ebb8a30813aca05c7d1/openapi.yaml.backup",
+    "fetched_at": "2026-05-21T09:32:09.710185+00:00",
+    "content_hash": "66038034104292611a53f84f8acae82e412bb5dd90deb9902ea308897c556cc0",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Mon Petit Roadtrip API",
+    "openapi_version": "openapi_3",
+    "paths_count": 31,
+    "path_diff": null
+  }
+]

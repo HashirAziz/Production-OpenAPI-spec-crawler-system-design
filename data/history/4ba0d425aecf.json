@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4ba0d425aecf",
+    "source_url": "https://raw.githubusercontent.com/krotik/eliasdb/88a1da66df9527aa97e8781dfc91cb9feb08125c/swagger.json",
+    "fetched_at": "2026-05-21T09:33:27.092533+00:00",
+    "content_hash": "e3fe0b642e126ff1c5c4fe37b4e9d8b865c10abd4749f71afffa7fd4aebe4816",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "EliasDB API",
+    "openapi_version": "swagger_2",
+    "paths_count": 26,
+    "path_diff": null
+  }
+]

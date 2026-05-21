@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "03be0685740b",
+    "source_url": "https://raw.githubusercontent.com/NikolaiT/Crawling-Infrastructure/daf0b3375bb279f99cce50d11384abea0d58a41f/master/src/swagger.json",
+    "fetched_at": "2026-05-21T09:33:41.949165+00:00",
+    "content_hash": "e9c029e0777ead93659c176631ed710589761829a29cb8654a7d6a8e074eb4a8",
+    "info_version": "1.0.1",
+    "status": "new",
+    "title": "Master Restful Api",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

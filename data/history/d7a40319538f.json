@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d7a40319538f",
+    "source_url": "https://raw.githubusercontent.com/furkant35/messaging_app/ef95f51d7ddd272ac5b7fe6374af028ac0ea2911/swagger.yaml",
+    "fetched_at": "2026-05-21T09:33:01.732257+00:00",
+    "content_hash": "23f4c2aec215da9475587ff12c11c841e5a5ed53da8e1fcba40db6e1d269e541",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Messaging App",
+    "openapi_version": "openapi_3",
+    "paths_count": 16,
+    "path_diff": null
+  }
+]

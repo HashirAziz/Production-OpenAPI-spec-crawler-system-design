@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2b36ccb15c65",
+    "source_url": "https://raw.githubusercontent.com/nicolatoscan/rememo-api/34672d607b3a4215c28a177a731ad02dc64f00c9/swagger.yaml",
+    "fetched_at": "2026-05-21T09:33:05.950021+00:00",
+    "content_hash": "50e1ac00689b0b61264f6bd823a33fe47fd2379c19020d6b55c49c01574e1a47",
+    "info_version": "2.0.0",
+    "status": "new",
+    "title": "Rememo API",
+    "openapi_version": "swagger_2",
+    "paths_count": 28,
+    "path_diff": null
+  }
+]

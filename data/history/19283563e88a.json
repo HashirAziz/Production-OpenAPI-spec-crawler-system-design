@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "19283563e88a",
+    "source_url": "https://raw.githubusercontent.com/Growstuff/growstuff/ee6d5cd84a7124a2d7882d64d0664fea02b968d2/swagger/v1/swagger.json",
+    "fetched_at": "2026-05-21T09:33:39.574033+00:00",
+    "content_hash": "6d0220e8e65bca1134ca216325877bcb6735d571e69f32a7c74c614c89b30fd1",
+    "info_version": "V1",
+    "status": "new",
+    "title": "API V1",
+    "openapi_version": "swagger_2",
+    "paths_count": 14,
+    "path_diff": null
+  }
+]

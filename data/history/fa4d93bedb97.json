@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "fa4d93bedb97",
+    "source_url": "https://raw.githubusercontent.com/go-programming-tour-book/blog-service/fc62a2672eb7ac8c5eb08ef1710e46a74bb19d90/docs/swagger.json",
+    "fetched_at": "2026-05-21T09:33:42.580675+00:00",
+    "content_hash": "88fcce39d5753948e395e0781dfb0d95df5950deb02495b577cf522f20a85fda",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "博客系统",
+    "openapi_version": "swagger_2",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

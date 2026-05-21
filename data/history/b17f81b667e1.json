@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b17f81b667e1",
+    "source_url": "https://raw.githubusercontent.com/bullteam/zeus-admin/203d4b03596412c9a58e553879066fc51f39c595/docs/swagger.json",
+    "fetched_at": "2026-05-21T09:33:32.958077+00:00",
+    "content_hash": "b9929a694ff9c5fd097eb7b2e9ba8bd2051b6f85dbe6c93e6c07364908254c3b",
+    "info_version": "V0.1",
+    "status": "new",
+    "title": "Zeus 宙斯权限后台 API",
+    "openapi_version": "swagger_2",
+    "paths_count": 33,
+    "path_diff": null
+  }
+]

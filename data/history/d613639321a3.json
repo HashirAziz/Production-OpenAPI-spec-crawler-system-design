@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d613639321a3",
+    "source_url": "https://raw.githubusercontent.com/stelligent/dromedary/09471c38e1e83ba135df718d84760453c0ffef6b/swagger.json",
+    "fetched_at": "2026-05-21T09:33:35.302827+00:00",
+    "content_hash": "c4945b6580659bf797176b328a68bd143b4422deeb523ad29a0a5c6e05ab28c5",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "cea8f73db0b3",
+    "source_url": "https://raw.githubusercontent.com/thevahidal/soul/371c69858b783099158fd58a236c2826385b0273/src/swagger/swagger.json",
+    "fetched_at": "2026-05-21T09:33:36.116528+00:00",
+    "content_hash": "2235eef706a4ac453f63ddf981d26408e17df2fdc7d050ffaa0f3820827cac4d",
+    "info_version": "0.8.1",
+    "status": "new",
+    "title": "Soul API",
+    "openapi_version": "swagger_2",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

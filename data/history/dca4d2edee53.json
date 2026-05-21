@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "dca4d2edee53",
+    "source_url": "https://raw.githubusercontent.com/jhu-605-702-scopes/API/8680b3347ab01d68f0f2cbee034841598ce422ce/swagger.yaml",
+    "fetched_at": "2026-05-21T09:33:07.018503+00:00",
+    "content_hash": "38167c551a675f8c8b578af1c700d1a02c932b7bc36ace1ebfeb1f99de0078e6",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Scopes",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

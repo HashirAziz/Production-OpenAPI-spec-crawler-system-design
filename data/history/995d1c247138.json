@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "995d1c247138",
+    "source_url": "https://raw.githubusercontent.com/0xfurai/peekaping/2d3aed39b1ac0a83d1e35f23c0a1e8e5bd82bdf7/apps/web/swagger.json",
+    "fetched_at": "2026-05-21T09:33:39.174493+00:00",
+    "content_hash": "74b314c2fbe84bcc0886fdf482d3c883dbc3e5a1e9eb336a1335f35788600428",
+    "info_version": null,
+    "status": "new",
+    "title": "Peekaping API",
+    "openapi_version": "swagger_2",
+    "paths_count": 34,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "41ddeed6366c",
+    "source_url": "https://raw.githubusercontent.com/immichFrame/ImmichFrame/8e94c69769cd538401d3018fd06e58deaf1ef13d/openApi/swagger.json",
+    "fetched_at": "2026-05-21T09:33:31.336176+00:00",
+    "content_hash": "c5aba5c768897e1e3d12ccf67f5a9ca4ee1d78a4abd08f4b72f813c1b0f66f53",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "ImmichFrame.WebApi",
+    "openapi_version": "openapi_3",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

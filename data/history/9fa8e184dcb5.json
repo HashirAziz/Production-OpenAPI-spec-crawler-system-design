@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9fa8e184dcb5",
+    "source_url": "https://raw.githubusercontent.com/AnbuMani27/CIF_API/43413cb606e1f49f47a36e2039feb053e734489c/swagger.yaml",
+    "fetched_at": "2026-05-21T09:33:04.407597+00:00",
+    "content_hash": "c0ef2699b8a6d6dd5fe6d4d0c42855dcdf2bad9122d5ad3542da0514af5c6ab0",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Borrowers API",
+    "openapi_version": "swagger_2",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

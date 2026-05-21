@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f5c9101b1795",
+    "source_url": "https://raw.githubusercontent.com/Cloxl/CursorPool_Client/8275e43a4fc49dfd01a5bee7515488470f1eadcb/swagger.json",
+    "fetched_at": "2026-05-21T09:33:41.711612+00:00",
+    "content_hash": "7272ff6ab46dc068f44b3b6d43d35c4addca41c7c28e061779aec0353bb5578b",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "CursorPool API",
+    "openapi_version": "openapi_3",
+    "paths_count": 14,
+    "path_diff": null
+  }
+]

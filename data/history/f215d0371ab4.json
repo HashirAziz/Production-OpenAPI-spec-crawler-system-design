@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f215d0371ab4",
+    "source_url": "https://raw.githubusercontent.com/klumhru/starlight-user/62777e401b6498efa0ffe8ea66f1bdf0efbc405e/swagger.yaml",
+    "fetched_at": "2026-05-21T09:32:59.611457+00:00",
+    "content_hash": "b0b5f649ca731d81287c7423934a8f413675fcd845e3e56dac0d3ccf05dbcbb6",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "User",
+    "openapi_version": "swagger_2",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

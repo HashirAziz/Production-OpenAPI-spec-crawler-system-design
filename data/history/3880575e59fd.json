@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3880575e59fd",
+    "source_url": "https://raw.githubusercontent.com/AleksK1NG/Go-Clean-Architecture-REST-API/4ffdf6a3d5cbc0a766c9849a5564ec32027b83e9/docs/swagger.json",
+    "fetched_at": "2026-05-21T09:33:46.686654+00:00",
+    "content_hash": "60f44034b6c3e8b7a4859fc3d3f90fdff4517a3c12cfc9af5c12b35c06a2a8f0",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Go Example REST API",
+    "openapi_version": "swagger_2",
+    "paths_count": 16,
+    "path_diff": null
+  }
+]

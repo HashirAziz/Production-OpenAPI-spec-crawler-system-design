@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2537558765ec",
+    "source_url": "https://raw.githubusercontent.com/CyferShepard/Jellystat/3a054d3e545208308adf064c4f0d73b8fd0ae1bb/backend/swagger.json",
+    "fetched_at": "2026-05-21T09:33:31.121346+00:00",
+    "content_hash": "d8481108b19d090cf30924df1c6ac5a6c0295e2ec11463c1376e9bb83e59a836",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Jellystat API Documentation",
+    "openapi_version": "swagger_2",
+    "paths_count": 80,
+    "path_diff": null
+  }
+]

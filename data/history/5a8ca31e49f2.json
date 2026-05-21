@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5a8ca31e49f2",
+    "source_url": "https://raw.githubusercontent.com/fieldryand/goflow/200fc5f9d6515bf4d382549de4ec16bad6405065/swagger.json",
+    "fetched_at": "2026-05-21T09:33:45.898193+00:00",
+    "content_hash": "42dd23b2f95c86ac1b46bd995ad27354c6f6bbbd2bea9a9c176ac074bfc02ed6",
+    "info_version": "2.0.0",
+    "status": "new",
+    "title": "Goflow API",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]
