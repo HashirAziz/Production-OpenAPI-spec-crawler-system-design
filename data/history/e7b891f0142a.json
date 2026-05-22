@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e7b891f0142a",
+    "source_url": "https://raw.githubusercontent.com/lmgaspa/Solana_Wallet_Generator/7a13f9e69740e9b4251fc77f13cbe1155144bb7f/swagger.json",
+    "fetched_at": "2026-05-22T08:56:22.321853+00:00",
+    "content_hash": "226abf4f73b51a753589429f721f89e2b4837ac33c752e79bf6a89f92c8c4ad1",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Diana Exchange API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

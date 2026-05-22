@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "97e1445a00d0",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/acf963b66a2139b19974030754ba1a548cd71617/apis/openapi/bouncify.io/main/1.0.0/openapi.json",
+    "fetched_at": "2026-05-22T08:55:49.103617+00:00",
+    "content_hash": "59e33fc8e134e8c88f44c99394ba405b8d1075f149f5722a8830d59781805be7",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Bouncify Email Verification API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

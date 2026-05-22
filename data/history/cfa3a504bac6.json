@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "cfa3a504bac6",
+    "source_url": "https://raw.githubusercontent.com/momonala/supersizeme/918fa60b8da54be2489fd5c255cce1137484b536/swagger.yaml",
+    "fetched_at": "2026-05-22T08:56:06.556340+00:00",
+    "content_hash": "d92f95b56faa504b0a3a4cd25ec8e00926caa877c84c8ec11f40a1ab435baaf3",
+    "info_version": "0.1",
+    "status": "new",
+    "title": "SuperSizeMe",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

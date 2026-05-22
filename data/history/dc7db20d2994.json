@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "dc7db20d2994",
+    "source_url": "https://raw.githubusercontent.com/vasrot/kairos/427690cf915084e42e75b1bc3225631fd8d5a867/openapi.yaml",
+    "fetched_at": "2026-05-22T08:55:24.508375+00:00",
+    "content_hash": "dad42e89f9a14fa07cc5d75e7195684703a7d0b22221eaf1af9c72d616d42284",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Image Tasks API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

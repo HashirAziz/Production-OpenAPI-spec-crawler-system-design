@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b8fd1dfea865",
+    "source_url": "https://raw.githubusercontent.com/juanduarte-byte/heroes_vs_villanos/cc944250e78899edb9b2ba96b49451f55ba5d6b7/swagger.json",
+    "fetched_at": "2026-05-22T08:56:28.146612+00:00",
+    "content_hash": "c031854876bd3d267401fd63e0dbe4df19a4bf44e486718f81e588c38902d6a1",
+    "info_version": "4.0.0",
+    "status": "new",
+    "title": "API Superhéroes - Sistema de Batallas por Equipos",
+    "openapi_version": "openapi_3",
+    "paths_count": 25,
+    "path_diff": null
+  }
+]

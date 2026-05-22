@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4d91e09146da",
+    "source_url": "https://raw.githubusercontent.com/SURFnet/eduhub-validator/526c716b6c8d054f8eddd887ceb98fef87cb199e/profiles/rio.openapi.json.license",
+    "fetched_at": "2026-05-22T08:55:31.685390+00:00",
+    "content_hash": "414a4bade3d4c071109c84244a3c406f90057c1128327862cc1781328b760f05",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "unknown",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

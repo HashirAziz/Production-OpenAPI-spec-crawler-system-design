@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e07917bc81e8",
+    "source_url": "https://raw.githubusercontent.com/johnstile/job_controller/83cbac1e7fdbf3b3e2d838a261fbcf84b8af6438/swagger.yaml",
+    "fetched_at": "2026-05-22T08:56:09.121522+00:00",
+    "content_hash": "bb2f8a166363038f1080a62d186d4533d70658b556dc7e799a12112fbae8d8dc",
+    "info_version": "V1.0.0",
+    "status": "new",
+    "title": "Job Controller",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

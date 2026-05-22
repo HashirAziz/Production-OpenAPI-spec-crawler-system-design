@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "971ed5c4b108",
+    "source_url": "https://raw.githubusercontent.com/Duyoofmp/userAuthAndFile/774bfb5506c98c45c3931eee91587767db3f6760/swagger.json",
+    "fetched_at": "2026-05-22T08:56:25.020661+00:00",
+    "content_hash": "1b0b0db9eafdfe49fe0730e5087099ae9f82c60b7c8f4fc9b641edca77fd879d",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Task 2",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

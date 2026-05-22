@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "502b32d3c54f",
+    "source_url": "https://raw.githubusercontent.com/jjakubec/flight-viewer-level3/6984fb75f82a423588b830f94d50cc80d32ab184/swagger.json",
+    "fetched_at": "2026-05-22T08:56:22.554069+00:00",
+    "content_hash": "3706af57e1efeeccdd5bc86ae513c822c8fe9c016bc5773b28f0b99d91f6ab77",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "FlightViewer API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

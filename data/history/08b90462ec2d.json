@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "08b90462ec2d",
+    "source_url": "https://raw.githubusercontent.com/dolphin-vr/watertracker-back/68bdae65a14aba12e09c37d4b0594998f6442d35/swagger.json",
+    "fetched_at": "2026-05-22T08:56:21.578541+00:00",
+    "content_hash": "292f687a0fc7eeac4ef1085620b46c6aa61f832c8ca0a418ce4760822a9b7a66",
+    "info_version": "1.0.3",
+    "status": "new",
+    "title": "Watertracker API",
+    "openapi_version": "openapi_3",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9bd40bff7607",
+    "source_url": "https://raw.githubusercontent.com/arthur-uzumaki/courses-api/ed0ef2e7ee0f216d2f610544b20c5da3af4f5cc8/swagger.json",
+    "fetched_at": "2026-05-22T08:56:25.330137+00:00",
+    "content_hash": "708a714be087aa5f1a57ee7e01b33f0aad8123417ec8ba098092f524a9159b05",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Courses-api",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

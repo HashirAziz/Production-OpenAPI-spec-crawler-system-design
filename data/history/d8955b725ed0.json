@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d8955b725ed0",
+    "source_url": "https://raw.githubusercontent.com/carloshendvpm/priceFinder_backend/6b0bd3e2ea72aa598691668e6a15645ead5fa1b5/swagger.json",
+    "fetched_at": "2026-05-22T08:56:19.969325+00:00",
+    "content_hash": "79e1f7707467c9ae8bf3c14d4e3f8e33aff3f28e063ace0db8e8180fed041293",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API Preços Mix",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

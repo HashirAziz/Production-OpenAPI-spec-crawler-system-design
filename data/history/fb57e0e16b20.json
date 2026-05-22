@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "fb57e0e16b20",
+    "source_url": "https://raw.githubusercontent.com/abhixsh/crosscult-storytelling-service/47def44ba51abf2f4be5986fb78c7369d6444b55/swagger.json",
+    "fetched_at": "2026-05-22T08:56:22.185123+00:00",
+    "content_hash": "9aea6cdad0ab3a58c967e556f861ae97755513ac716bae756f87c387ba660e77",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Storytelling API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

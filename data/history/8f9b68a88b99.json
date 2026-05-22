@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8f9b68a88b99",
+    "source_url": "https://raw.githubusercontent.com/DeividAlan/daily-diet-flask-api/0ebe23fb119e3f05a763aad7142f83d756e222f8/swagger.yaml",
+    "fetched_at": "2026-05-22T08:56:00.260133+00:00",
+    "content_hash": "de1750154207171540143efaedd4e9bf1e88aaf923a0daf90003b16f73f05987",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Daily Diet API",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

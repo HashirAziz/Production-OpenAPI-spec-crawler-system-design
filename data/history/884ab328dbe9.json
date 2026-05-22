@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "884ab328dbe9",
+    "source_url": "https://raw.githubusercontent.com/itsmethemojo/movie-pile/b990e5f778ac49dc24ef090685dca561a2c27b57/views/templates/swagger.json.erb",
+    "fetched_at": "2026-05-22T08:56:16.766291+00:00",
+    "content_hash": "da72d496de6a3e76d2b0bcf3da956974336d624154bcfee8dcbe024cd7647581",
+    "info_version": "<%= api['version'] %>",
+    "status": "new",
+    "title": "<%= api['title'] %>",
+    "openapi_version": "swagger_2",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

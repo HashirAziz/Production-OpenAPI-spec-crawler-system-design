@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "dda147c39177",
+    "source_url": "https://raw.githubusercontent.com/HafnerStefan/Verteilte-Systeme-Hafner/15698ab3a0b5df117d678c1290d731d122c0d8c6/openapi.yaml",
+    "fetched_at": "2026-05-22T08:55:26.067227+00:00",
+    "content_hash": "60d9a13abe5813af5adfdfeac97542fe31befe70972afafbafd5a03e959ef521",
+    "info_version": "1.0.0-SNAPSHOT",
+    "status": "new",
+    "title": "verteilte-systeme API",
+    "openapi_version": "openapi_3",
+    "paths_count": 13,
+    "path_diff": null
+  }
+]

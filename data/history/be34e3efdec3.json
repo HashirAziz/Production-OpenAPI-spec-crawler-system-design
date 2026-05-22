@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "be34e3efdec3",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/acf963b66a2139b19974030754ba1a548cd71617/apis/openapi/daniweb.com/main/4/openapi.json",
+    "fetched_at": "2026-05-22T08:55:42.643667+00:00",
+    "content_hash": "e955c5d7ab8663c75cbde169c1858a9a3fd996b1d4cbd30b247359267b592f0a",
+    "info_version": "4",
+    "status": "new",
+    "title": "DaniWeb Connect API",
+    "openapi_version": "openapi_3",
+    "paths_count": 51,
+    "path_diff": null
+  }
+]

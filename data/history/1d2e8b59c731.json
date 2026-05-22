@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1d2e8b59c731",
+    "source_url": "https://raw.githubusercontent.com/patylu001/libros-rest-api/c97b5c3c499521972274de861ec85a0ceb46864b/swagger.json",
+    "fetched_at": "2026-05-22T08:56:23.010872+00:00",
+    "content_hash": "a44cb2dd18600f806c712ae636acca2b1825985f1e792971f60a0c2937daeb3c",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Libros CRUD",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

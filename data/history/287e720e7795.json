@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "287e720e7795",
+    "source_url": "https://raw.githubusercontent.com/leonardohra/OpenAPI-analysis/55b672c2d68e1752dd250c59927a6a2e0a8c26f2/APIs/ably.io/1.1.0/openapi.yaml",
+    "fetched_at": "2026-05-22T08:55:21.696355+00:00",
+    "content_hash": "876764499538bb2b65854ce0669efd0be5c0f553f5229defe1f7e30a13b1da33",
+    "info_version": "1.1.0",
+    "status": "new",
+    "title": "Ably",
+    "openapi_version": "openapi_3",
+    "paths_count": 14,
+    "path_diff": null
+  }
+]

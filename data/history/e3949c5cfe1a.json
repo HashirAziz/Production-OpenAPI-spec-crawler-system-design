@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e3949c5cfe1a",
+    "source_url": "https://raw.githubusercontent.com/Ryftri/goforge/fe2b7188f3cc4e29a79b82159915493df5750b55/cmd/templates/openapi.yaml.tmpl",
+    "fetched_at": "2026-05-22T08:55:13.504536+00:00",
+    "content_hash": "c63d0fe1c2c9f27443a53cba83e11894e46a4889ae8a0191cfd70a437ab69ef5",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Generated API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

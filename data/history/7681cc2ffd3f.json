@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "7681cc2ffd3f",
+    "source_url": "https://raw.githubusercontent.com/hkirat/ai-trading-agent/b66fb5a2bba5b414b08a3c2f6f54cc3afe0d0a20/lighter-sdk-ts/openapi.json",
+    "fetched_at": "2026-05-22T08:55:47.444513+00:00",
+    "content_hash": "f34f8cc0ad60c4196364408c2779f80c0801c84184594194085c85322ab70aea",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "swagger_2",
+    "paths_count": 46,
+    "path_diff": null
+  }
+]

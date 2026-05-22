@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b9d16db201f8",
+    "source_url": "https://raw.githubusercontent.com/flvSantos15/nodejs-transfer-api/a8f005f170c56ee5510b3913a0dd8fb6b68f96fa/swagger.json",
+    "fetched_at": "2026-05-22T08:56:29.878264+00:00",
+    "content_hash": "0efaf90520633d8c984a24ca6f7b1718c49987ba0dc9a84855d558d5b7ecf453",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "FastPay API",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

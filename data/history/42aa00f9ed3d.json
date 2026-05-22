@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "42aa00f9ed3d",
+    "source_url": "https://raw.githubusercontent.com/IuliaPopoaca/Echipa-2-nodejs-backend/cfe0ffd07d2023dd894881fb727462eef41b370e/swagger.json",
+    "fetched_at": "2026-05-22T08:56:31.899504+00:00",
+    "content_hash": "d4c5c33fe119e55fa8b303f7cd3d400e23689d638ffcd56b7b95c0b059f80b98",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "Swagger test",
+    "openapi_version": "openapi_3",
+    "paths_count": 14,
+    "path_diff": null
+  }
+]

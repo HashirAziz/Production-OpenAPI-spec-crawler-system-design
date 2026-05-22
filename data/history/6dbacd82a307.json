@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6dbacd82a307",
+    "source_url": "https://raw.githubusercontent.com/yzy-song/cleanops/eb7c67cb16d6bda9db11fcf0ccf6edc0f2aba397/swagger.json",
+    "fetched_at": "2026-05-22T08:56:28.328449+00:00",
+    "content_hash": "d5fb2df3ed9e3d09ce0e5dd0faaa99ecdf65d02348eac0e95c51871910ab6278",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "CleanOps API",
+    "openapi_version": "openapi_3",
+    "paths_count": 28,
+    "path_diff": null
+  }
+]

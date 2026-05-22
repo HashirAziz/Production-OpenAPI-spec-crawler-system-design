@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3e464d6ff3f0",
+    "source_url": "https://raw.githubusercontent.com/nalissongm/nodejs-challenge-introducao-ao-SOLID/4854763887bd1809303953a2b92566e9fabdb10d/swagger.json",
+    "fetched_at": "2026-05-22T08:56:25.782730+00:00",
+    "content_hash": "ff0f02f1024d813cc1da1c451f1b6722d518d5704ad9c12134f32d18483f0794",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Introdução ao SOLID",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

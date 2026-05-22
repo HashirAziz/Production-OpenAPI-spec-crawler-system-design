@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a4c31750c0fe",
+    "source_url": "https://raw.githubusercontent.com/OpenReqEU/ri-orchestration-app/725e1aab83e539fc51f4d3e5f6355716bdce7631/swagger.yaml",
+    "fetched_at": "2026-05-22T08:55:57.521311+00:00",
+    "content_hash": "6254ab819dcad9faae941a943b01190b175ecc11d23cb407f9f955730764ff14",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "App Store Data orchestrator",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

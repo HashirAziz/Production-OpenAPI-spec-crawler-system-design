@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2102f7cdf42c",
+    "source_url": "https://raw.githubusercontent.com/valter-rmjr/api-gestao-obras/336d99e9963be5b05136818d5656b954123d855f/swagger.json",
+    "fetched_at": "2026-05-22T08:56:31.332357+00:00",
+    "content_hash": "77e668df58f7e4d93418658cbb0ca996260125ef033f5544200299246b3cf638",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API de Gestão de Obras",
+    "openapi_version": "openapi_3",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

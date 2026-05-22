@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "596b5b5b0b28",
+    "source_url": "https://raw.githubusercontent.com/hoangduc120/BE_Smoking-Cessation-Support-Platform/b839121bf3f33d5cdc57e7100122c2851876d93e/swagger.yaml",
+    "fetched_at": "2026-05-22T08:55:59.940606+00:00",
+    "content_hash": "2bcb06e169c5d7366b61c3018ead8658dec9fe4a392a8bec9f8febdf1f63e20c",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "QuitSmoke API by Hoàng Đức",
+    "openapi_version": "openapi_3",
+    "paths_count": 103,
+    "path_diff": null
+  }
+]

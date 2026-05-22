@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "93237a8834fe",
+    "source_url": "https://raw.githubusercontent.com/italoartista/hello-openapi/5449e93a99f30852f81de2c8a813cfc6c5941317/swagger.yaml",
+    "fetched_at": "2026-05-22T08:56:05.331065+00:00",
+    "content_hash": "ba106d67da8e72c55ad9fa35b92c1d9afe00203937ef9d0254f5113062d8f936",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API de Produtos, Pedidos e Usuários",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

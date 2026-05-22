@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e802cf9d803d",
+    "source_url": "https://raw.githubusercontent.com/eltatata/Reume/2567ee23e7bf819963d46927e855a54537cd2bea/swagger.json",
+    "fetched_at": "2026-05-22T08:56:30.727052+00:00",
+    "content_hash": "1b42557de238030f8b8d3c7c66ac7849cc7e1e71aa684b3cc0d11de442c64efb",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Reume - API Documentation",
+    "openapi_version": "openapi_3",
+    "paths_count": 13,
+    "path_diff": null
+  }
+]

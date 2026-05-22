@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "cb02c55055ff",
+    "source_url": "https://raw.githubusercontent.com/SurenAyer/genesis-server/50465aecd5b3e7ef811d5acc4cd6d4c3e2ca150e/swagger.json",
+    "fetched_at": "2026-05-22T08:56:19.711294+00:00",
+    "content_hash": "04f501b48044bbe5267474000ce5bde925e725fa0974c026cbf5f5cf39db0f54",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Documentation of Genesis Server",
+    "openapi_version": "openapi_3",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

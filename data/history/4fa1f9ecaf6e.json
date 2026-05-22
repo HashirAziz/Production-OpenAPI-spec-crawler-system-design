@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4fa1f9ecaf6e",
+    "source_url": "https://raw.githubusercontent.com/shubhamgrg04/runsync/5bb15cc92ce6e6e95763b42bbc20abd5ceb4b0c3/swagger.json",
+    "fetched_at": "2026-05-22T08:56:27.182906+00:00",
+    "content_hash": "d32eaabecfce9462978d9c8fc99b644527a6fcb5e7d1dd1e3fbafb6e4c7a9871",
+    "info_version": "1.2.0",
+    "status": "new",
+    "title": "RunSync Platform API",
+    "openapi_version": "openapi_3",
+    "paths_count": 13,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b5ad5811287b",
+    "source_url": "https://raw.githubusercontent.com/iamtaufik/challenge-chapter-5/8847987ccb7e810389af2c88934cfaff7e86073e/swagger.yaml",
+    "fetched_at": "2026-05-22T08:56:04.549801+00:00",
+    "content_hash": "01e86f095d8883b6ac492d07c9d71a3c6eefdc971a355b9a2810f0f4d7c04cf7",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Challenge Chapter 5 | Binar Academy",
+    "openapi_version": "openapi_3",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

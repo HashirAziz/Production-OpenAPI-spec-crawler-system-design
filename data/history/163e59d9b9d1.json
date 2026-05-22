@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "163e59d9b9d1",
+    "source_url": "https://raw.githubusercontent.com/DeDeimos/draw/d01291e40e8ed6f27f1abd85772ef10e603a5987/swagger.yaml",
+    "fetched_at": "2026-05-22T08:55:59.300288+00:00",
+    "content_hash": "6a58fd36c748603f3002e88abba6b7d7aea10eddbf4417123d9b2c641acedf86",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Application level WebSocket server API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

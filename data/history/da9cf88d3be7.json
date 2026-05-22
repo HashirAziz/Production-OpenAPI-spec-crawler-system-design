@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "da9cf88d3be7",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/acf963b66a2139b19974030754ba1a548cd71617/apis/openapi/watchful.li/main/1.0.0/meta/source/swagger.json",
+    "fetched_at": "2026-05-22T08:56:18.388047+00:00",
+    "content_hash": "465f6497dfd4faa90329d5962e11bdd3a266ee11edf5f37c89402e9edceeb2f7",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "watchful.li",
+    "openapi_version": "swagger_2",
+    "paths_count": 43,
+    "path_diff": null
+  }
+]

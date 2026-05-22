@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2de8043c522f",
+    "source_url": "https://raw.githubusercontent.com/the-promise-lab/front/22083319c73377967cbc0363a013437b68e5771d/swagger.json",
+    "fetched_at": "2026-05-22T08:56:21.233357+00:00",
+    "content_hash": "c68cd9b71d2f6ec77d8245cff4d41d0922eb550f84ec4e902a0aa6163bb904d9",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Backend API",
+    "openapi_version": "openapi_3",
+    "paths_count": 20,
+    "path_diff": null
+  }
+]

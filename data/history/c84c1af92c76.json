@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c84c1af92c76",
+    "source_url": "https://raw.githubusercontent.com/souravdas090300/SecureShop/c9834a80dee736f475d953305e756da2773bb217/swagger.json",
+    "fetched_at": "2026-05-22T08:56:24.028586+00:00",
+    "content_hash": "90a32e5df890c9f8bf3e7dc6298a2f0bf38fdf9e1c280a5a907652048fe142a2",
+    "info_version": "v1",
+    "status": "new",
+    "title": "SecureShop API",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

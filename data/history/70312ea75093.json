@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "70312ea75093",
+    "source_url": "https://raw.githubusercontent.com/Manuvis/squad-10-exmed/e86b989502d11d465c71c41ba75908fb7f3e7dd9/swagger.json",
+    "fetched_at": "2026-05-22T08:56:26.384281+00:00",
+    "content_hash": "f8cd8794686718fc5e561c3264fdede1335c1e0050cec872a4c8132cc316a8fe",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API do Sistema de Indicações da Exmed",
+    "openapi_version": "openapi_3",
+    "paths_count": 13,
+    "path_diff": null
+  }
+]

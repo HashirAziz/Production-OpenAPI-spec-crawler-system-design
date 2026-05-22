@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a1750d4e45d7",
+    "source_url": "https://raw.githubusercontent.com/alisson-moura/uai-food/98a1ce054cd34908d338b3994355495372299e32/swagger.json",
+    "fetched_at": "2026-05-22T08:56:23.901373+00:00",
+    "content_hash": "52a86047658262842c6f5e94ad2dd7fdd9e795aafdaaf753795723273cd49903",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Uai Food",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

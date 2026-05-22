@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5465dac77b03",
+    "source_url": "https://raw.githubusercontent.com/Aulia-S/test-backend-eigen/ec88f5f87e125064dc05d2539f2fbe90e3d598d5/swagger.json",
+    "fetched_at": "2026-05-22T08:56:27.700212+00:00",
+    "content_hash": "9cbe3ae1387b2a47c5dfe648c41d9ccbf0a44a01b0ec702295dfa987a6dbdc3a",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Library API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "66ba397c8dc5",
+    "source_url": "https://raw.githubusercontent.com/jayte054/assignment/1058e3aa5b1ac0ba5deef26a8e4cb209bd3d5efd/swagger.yaml",
+    "fetched_at": "2026-05-22T08:56:07.203063+00:00",
+    "content_hash": "e653495a8ec7e9edda7de8621d31a2a3ff718bb24227f79bd005056c7ac20cf5",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Assignment API",
+    "openapi_version": "swagger_2",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

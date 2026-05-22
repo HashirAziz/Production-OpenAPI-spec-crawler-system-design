@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9babcbe00fef",
+    "source_url": "https://raw.githubusercontent.com/omenking/cloud-resume-challenge/21df5e0a59df24c895ac1f288d0320917bd90926/gcp/openapi.yaml.tmpl",
+    "fetched_at": "2026-05-22T08:55:25.065865+00:00",
+    "content_hash": "3d5779aa832a930a2cf58be08232dd8284b71335ea74db15f3ec91c0d8a299a6",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "${TITLE}",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

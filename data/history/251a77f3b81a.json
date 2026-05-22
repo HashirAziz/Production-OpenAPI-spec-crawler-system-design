@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "251a77f3b81a",
+    "source_url": "https://raw.githubusercontent.com/Rene-Sackers/NswagPolymorphismTest/e05003e6ece93d9e346ca0a5ddb6b18a2fedc9ab/swagger.json",
+    "fetched_at": "2026-05-22T08:56:32.479212+00:00",
+    "content_hash": "8a4feb05f6477068cc57f52570cf6c909a0974764eecb442478fd8521a2261be",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "InheritanceExample, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

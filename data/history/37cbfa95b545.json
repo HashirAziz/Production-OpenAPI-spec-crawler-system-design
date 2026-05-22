@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "37cbfa95b545",
+    "source_url": "https://raw.githubusercontent.com/starlight173/mongo-sample/8ac50c7d74f5791fd2688ff0c50c9f027d35d05b/swagger.json",
+    "fetched_at": "2026-05-22T08:56:30.012709+00:00",
+    "content_hash": "d14c134ec5d4f4baee68702227388e77cb27ee9ed03d98f6ac823c3857c804d7",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "unknown",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

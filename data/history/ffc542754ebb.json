@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ffc542754ebb",
+    "source_url": "https://raw.githubusercontent.com/SahidJafar/24001143-SYNRGY7-sah-bcr-ch6/60e817986d9ff4f7bce9eb56e33252e338e907eb/swagger.json",
+    "fetched_at": "2026-05-22T08:56:23.540713+00:00",
+    "content_hash": "70323fd3a088bb6933f1269b12bc0ef573eae1f699cfc886c0444359818b172d",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Binar Car Rental API",
+    "openapi_version": "openapi_3",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

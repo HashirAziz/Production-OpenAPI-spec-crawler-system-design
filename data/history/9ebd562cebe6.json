@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9ebd562cebe6",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/acf963b66a2139b19974030754ba1a548cd71617/apis/openapi/canny.io/main/1.0.0/openapi.json",
+    "fetched_at": "2026-05-22T08:55:44.205006+00:00",
+    "content_hash": "0a0bde50ca6c28a7403738f1e59eae449e693024936edfc42e43111e3cbc2d8b",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Canny API",
+    "openapi_version": "openapi_3",
+    "paths_count": 38,
+    "path_diff": null
+  }
+]

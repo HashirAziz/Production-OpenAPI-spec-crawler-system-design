@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "dab78a9bf42b",
+    "source_url": "https://raw.githubusercontent.com/SJSURoboticsTeam/urc-mc_server-2021/f17880bcea77cac2a7430fec63e7ddeddd2bc204/swagger.json",
+    "fetched_at": "2026-05-22T08:56:21.402355+00:00",
+    "content_hash": "0232ac87eb9670e39276f56f669a1fbfa0ee7eabb011b8c9204072ac0a369fa0",
+    "info_version": "0.1.9",
+    "status": "new",
+    "title": "Mission Control Server",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

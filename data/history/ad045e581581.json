@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ad045e581581",
+    "source_url": "https://raw.githubusercontent.com/bayuik/car-management-api/8ddfb40b115f90cbcad11c4d7e162bedbb50eee8/swagger.yaml",
+    "fetched_at": "2026-05-22T08:56:10.425384+00:00",
+    "content_hash": "16a2700ed3758035c919f65fcb385a0651e9d23d1bca23ae1f23fac969dc8f02",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Car management API",
+    "openapi_version": "openapi_3",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

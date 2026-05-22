@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "dee386ce88f4",
+    "source_url": "https://raw.githubusercontent.com/ops-center/java/bcbbddac694993124c18aba131a580c2511bf678/kubernetes/swagger.json.unprocessed",
+    "fetched_at": "2026-05-22T08:56:17.383326+00:00",
+    "content_hash": "7cfaeeeebfb8a8b6fabfc288c4bc564356fa99790fd8f4743e3e1f841812eb97",
+    "info_version": "v0",
+    "status": "new",
+    "title": "stash-server",
+    "openapi_version": "swagger_2",
+    "paths_count": 37,
+    "path_diff": null
+  }
+]

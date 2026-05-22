@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2afff347af40",
+    "source_url": "https://raw.githubusercontent.com/Pranavstark8/calendar-booking-manager/3e733b04d78ac062e1afbd98eec7ac598c05da7d/swagger.json",
+    "fetched_at": "2026-05-22T08:56:28.852927+00:00",
+    "content_hash": "4330dc2ee55369c812701b44bbdb9eee6926ee7a3aebb6698fedb0a273588c64",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Calendar Booking API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

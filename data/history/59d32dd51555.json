@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "59d32dd51555",
+    "source_url": "https://raw.githubusercontent.com/Crispy-rw/Andela_AutoMart/d9b332e9907b1e8d327e845d28fd5dc398a6751e/swagger.json",
+    "fetched_at": "2026-05-22T08:56:20.656185+00:00",
+    "content_hash": "1d1a48277fa0c5a8d967db2fa1d640778765b6070f2647ebe7a9779dcec820fa",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Christian",
+    "openapi_version": "swagger_2",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "da7735637dc5",
+    "source_url": "https://raw.githubusercontent.com/mathieu-clnk/order-management-api/e4f4ec28ee37425c1126d6b31c620a47fbeaf3ba/swagger.json",
+    "fetched_at": "2026-05-22T08:56:28.499609+00:00",
+    "content_hash": "762ba227b95d9de53a068b80b38d113b0463899ee65fcd617611d543f08c7d58",
+    "info_version": "v1",
+    "status": "new",
+    "title": "Order Management Application",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

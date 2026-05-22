@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b1e383a250f1",
+    "source_url": "https://raw.githubusercontent.com/SMU-IS213-ESD/AeroSell/05de70521e5de8c9d5b22d91e570348cbce509d5/swagger.json",
+    "fetched_at": "2026-05-22T08:56:22.739884+00:00",
+    "content_hash": "b9a92e311669209a3c7be3dd5958923e8a2cbe930d7b67b245113327794f4cfb",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "AeroSell Unified API",
+    "openapi_version": "openapi_3",
+    "paths_count": 57,
+    "path_diff": null
+  }
+]

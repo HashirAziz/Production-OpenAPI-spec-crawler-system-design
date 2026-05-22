@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "25e6a4ce9eb6",
+    "source_url": "https://raw.githubusercontent.com/YagoFontoura/rinha-backend2023-q3/62356bb87707c81d80e217950419d76826356558/swagger.json",
+    "fetched_at": "2026-05-22T08:56:25.175856+00:00",
+    "content_hash": "7ba1a5cc2ede0f1018d995ac894fe813bfefdeb4f19c6462ba6024fa29368611",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "API Peoples - Rinha Backend2023 - Q3",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

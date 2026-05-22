@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ba17eeb8fce7",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/acf963b66a2139b19974030754ba1a548cd71617/apis/openapi/sendgrid.com/ips/1.0.0/openapi.json",
+    "fetched_at": "2026-05-22T08:55:48.970223+00:00",
+    "content_hash": "97ebe4b47f7e9fe87ddbb5d8acb2b9e76dc8cd5ffa4de6e3982d3f899a440018",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Twilio SendGrid IP Address API",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

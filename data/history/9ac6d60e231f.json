@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9ac6d60e231f",
+    "source_url": "https://raw.githubusercontent.com/RogerRezende/trabalhoFinalApi/5ceccfa9cc449922a0ffc2670911ed21282f4cdf/swagger.json",
+    "fetched_at": "2026-05-22T08:56:29.006217+00:00",
+    "content_hash": "23f34c0635a72729e6f459115b834530e93585a6d880c3fe71e948991c0b14b3",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API de Revistas em Quadrinhos",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

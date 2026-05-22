@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6371d5f893f4",
+    "source_url": "https://raw.githubusercontent.com/STACK-UP-3/champs-backend/191396f5c5720a394a5c9d447c8f1a08cc3bb45a/swagger.json",
+    "fetched_at": "2026-05-22T08:56:30.328738+00:00",
+    "content_hash": "ccda5253a4b75754a579f9a1d8c2b330bccd775c585d59096d20357aba490f31",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Barefoot Normads",
+    "openapi_version": "swagger_2",
+    "paths_count": 15,
+    "path_diff": null
+  }
+]

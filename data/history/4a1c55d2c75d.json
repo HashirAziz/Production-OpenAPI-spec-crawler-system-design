@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4a1c55d2c75d",
+    "source_url": "https://raw.githubusercontent.com/udovin/solve/e8b1cd88cf738128348ded141688bffb659d7c78/openapi.yaml",
+    "fetched_at": "2026-05-22T08:55:13.943919+00:00",
+    "content_hash": "bdfe0d4e7cc1295241e92f6b57504edd8cdf95b4345df6ca55fcb8ceaf197a26",
+    "info_version": "0.1.11",
+    "status": "new",
+    "title": "Solve API",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

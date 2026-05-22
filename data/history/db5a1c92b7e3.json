@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "db5a1c92b7e3",
+    "source_url": "https://raw.githubusercontent.com/DSotnikov/ghdemo/b04595a82c2b625008ebb35c3ab847111ca763de/swagger.json",
+    "fetched_at": "2026-05-22T08:56:25.464648+00:00",
+    "content_hash": "f248ffb20384c7a8206d2b62146f3bba8523c6936f3c2eadd8dcb4cc99d66f0c",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Swagger Petstore",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

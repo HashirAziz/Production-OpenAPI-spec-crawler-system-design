@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0a14486dd095",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/acf963b66a2139b19974030754ba1a548cd71617/apis/openapi/screenpi.pe/main/1.0.0/openapi.json",
+    "fetched_at": "2026-05-22T08:55:48.630356+00:00",
+    "content_hash": "c9845699620da38e3c917e200bb43f0ec1513a3d6cd0d1beb2d32afd858175d3",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Screenpipe API",
+    "openapi_version": "openapi_3",
+    "paths_count": 12,
+    "path_diff": null
+  }
+]

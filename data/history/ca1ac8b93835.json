@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ca1ac8b93835",
+    "source_url": "https://raw.githubusercontent.com/juniordev203/toeic-elearning-fe/badb31c3a393fdb2bea361aee625a409b86feb83/swagger.json",
+    "fetched_at": "2026-05-22T08:56:23.303401+00:00",
+    "content_hash": "1f119a788faf841806ef5c75601f1915323b255fbb038fcf33f6f43c885e16b0",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "TOEIC Dictation API",
+    "openapi_version": "openapi_3",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

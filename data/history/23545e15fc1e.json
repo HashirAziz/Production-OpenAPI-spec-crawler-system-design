@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "23545e15fc1e",
+    "source_url": "https://raw.githubusercontent.com/adammarquette/MarqSpec.Client.ProjectX/25b0a71f71c872dbf8f9c9d690b7ab0e6972e1a6/swagger.json",
+    "fetched_at": "2026-05-22T08:56:32.857644+00:00",
+    "content_hash": "f52a1db9a5ef5d909be4b0a641c2b3df5c8612819de1e50be90a71ef08e133f0",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "ProjectX Gateway API",
+    "openapi_version": "swagger_2",
+    "paths_count": 19,
+    "path_diff": null
+  }
+]

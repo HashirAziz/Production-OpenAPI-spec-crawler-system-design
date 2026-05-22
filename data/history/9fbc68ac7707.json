@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9fbc68ac7707",
+    "source_url": "https://raw.githubusercontent.com/elCorbacho/11.back.ev3/00e660ef62e900041d386de13b033809bc1d8c74/swagger.json",
+    "fetched_at": "2026-05-22T08:56:33.434491+00:00",
+    "content_hash": "6bacef02d63b15a0d914e506a3c1ab72198dd73ddd183eafc2240c537720b4dc",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Tu API RESTful (Solo GET)",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

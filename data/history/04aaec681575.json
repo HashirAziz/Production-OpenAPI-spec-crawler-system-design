@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "04aaec681575",
+    "source_url": "https://raw.githubusercontent.com/aditya8850/ecomm-api/d9bd5444f92bca11b98e93002de977ff5db24be3/swagger.json",
+    "fetched_at": "2026-05-22T08:56:24.365806+00:00",
+    "content_hash": "e070320668a1b782311d73591ede18e4c2a89cc13840d9db8e7bd967b8900031",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "E-commerce API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

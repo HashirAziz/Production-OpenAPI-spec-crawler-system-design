@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9931a77a84b8",
+    "source_url": "https://raw.githubusercontent.com/wangpengfei44/excel_tool/94bc296b3e2eb2b84540866ca71855b204765ba0/openapi.yaml%E2%80%8B%E2%80%8B",
+    "fetched_at": "2026-05-22T08:55:10.581076+00:00",
+    "content_hash": "509a2472e7dcc3ba717a29eb5846b6d08ca7da84241e0bdbc680c8f5e63db802",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "Excel转换工具",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

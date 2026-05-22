@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5afe75a99549",
+    "source_url": "https://raw.githubusercontent.com/tenclar/ignite-node-introducao-ao-SOLID/039667f0738282f0f9a75ff4331e80e31fdc4b42/swagger.json",
+    "fetched_at": "2026-05-22T08:56:22.884040+00:00",
+    "content_hash": "fe7b9d92a1fa06ba5777417e2048f6bbab1b75eda318cb416bd4a4000ee712ec",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "openapi_3",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

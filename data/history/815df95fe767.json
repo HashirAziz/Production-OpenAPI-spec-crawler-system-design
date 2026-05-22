@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "815df95fe767",
+    "source_url": "https://raw.githubusercontent.com/TransMux/CommunityBackend/38218f9dc6d9f5409ed7e10e79898ce4e4f2195d/Swagger.json",
+    "fetched_at": "2026-05-22T08:56:17.926049+00:00",
+    "content_hash": "986e84bfc1f1a8908973bd276589b7ba0eedc29a6b0e26c3bb348af66a314a15",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "AI Community",
+    "openapi_version": "openapi_3",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

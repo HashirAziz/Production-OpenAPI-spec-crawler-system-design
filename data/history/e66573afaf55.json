@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e66573afaf55",
+    "source_url": "https://raw.githubusercontent.com/CodeCraft-Solutions-DREAM-Lab/Back-End/a3e548080db212e94815c3875dcab911cedce31f/swagger.json",
+    "fetched_at": "2026-05-22T08:56:29.295255+00:00",
+    "content_hash": "1bd4b0ee103426881ade686861e2b93a4b048f1ee44dca43599a05a74d097218",
+    "info_version": "2.0.0",
+    "status": "new",
+    "title": "DREAM Lab API",
+    "openapi_version": "openapi_3",
+    "paths_count": 47,
+    "path_diff": null
+  }
+]

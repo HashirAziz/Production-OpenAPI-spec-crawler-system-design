@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "99fff2bfedce",
+    "source_url": "https://raw.githubusercontent.com/luizfelipe9627/api-products-cd/c5c3daac44b64d9a6760557467add6ed622c5195/swagger.json",
+    "fetched_at": "2026-05-22T08:56:20.168125+00:00",
+    "content_hash": "7c22d2a75a6101d57ac644174169858bea1a4431b52870e41ade5065f7611d59",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API Products CD",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

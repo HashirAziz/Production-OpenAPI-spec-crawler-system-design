@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5280dd1523a3",
+    "source_url": "https://raw.githubusercontent.com/SIMPLENIGHTDV/simplenight-api-doc/ec2a5914cab0f8c9c9ce04e73b96d72c9e3f4bbd/swagger.yaml",
+    "fetched_at": "2026-05-22T08:56:06.219627+00:00",
+    "content_hash": "b0ab5188da3fdb0ebdf9608881df4feed82b03944ee210afc4edae15bfc31749",
+    "info_version": "3.0",
+    "status": "new",
+    "title": "Simplenight API",
+    "openapi_version": "openapi_3",
+    "paths_count": 38,
+    "path_diff": null
+  }
+]

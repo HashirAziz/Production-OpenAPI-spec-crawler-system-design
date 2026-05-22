@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "989284312da8",
+    "source_url": "https://raw.githubusercontent.com/Ipanov7/deshortify-docs/839edf9138a7285d818c852a3174444c74d6c52b/openapi.yaml",
+    "fetched_at": "2026-05-22T08:55:26.246227+00:00",
+    "content_hash": "bde1898fd54e4766280eac8c870bc4bd3f29d5387009b0889ad0db4051267087",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "URL Deshortify",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

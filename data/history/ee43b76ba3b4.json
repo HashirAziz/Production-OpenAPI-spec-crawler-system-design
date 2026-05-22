@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ee43b76ba3b4",
+    "source_url": "https://raw.githubusercontent.com/Rya-Aki/sushi-commerce-back/dec6d6095c2f41db261bddbf94fa1a3f1412444b/swagger.json",
+    "fetched_at": "2026-05-22T08:56:30.175290+00:00",
+    "content_hash": "69deb647d1dfb1c7f584b156af0d5bab0fd23122e60034464486ab3f3ff5a221",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "sushi",
+    "openapi_version": "swagger_2",
+    "paths_count": 33,
+    "path_diff": null
+  }
+]

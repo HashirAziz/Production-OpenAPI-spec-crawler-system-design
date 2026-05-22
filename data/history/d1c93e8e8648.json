@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d1c93e8e8648",
+    "source_url": "https://raw.githubusercontent.com/Tivva34/Airbean-individuell/7d517b69c1ba501b9dcac82cb3b567c1d345f78b/swagger.yaml",
+    "fetched_at": "2026-05-22T08:56:05.009786+00:00",
+    "content_hash": "86c6f8933bdfffc7886ed3982e337525582784e225d25a6582cbd6f3fc371ace",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Airbean (Admin & Auth)",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

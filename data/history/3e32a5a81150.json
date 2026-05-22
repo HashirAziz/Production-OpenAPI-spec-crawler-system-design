@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3e32a5a81150",
+    "source_url": "https://raw.githubusercontent.com/HackTigers/studium-api/191c9ab7ac9457f204802d5f3ad934efca487f9a/swagger.json",
+    "fetched_at": "2026-05-22T08:56:33.301381+00:00",
+    "content_hash": "5b5661daea9e4c87089440071e36bbe8f82767d9c0a46d3f06f7420343d90c2a",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Studium API",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

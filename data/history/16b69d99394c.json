@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "16b69d99394c",
+    "source_url": "https://raw.githubusercontent.com/Rushi992145/User-Management-System/67de402375f059fac9e0deab072490a85587b3e4/swagger.json",
+    "fetched_at": "2026-05-22T08:56:30.492539+00:00",
+    "content_hash": "886d13ceae712924243e3cb57752ab99a89b7e1eef0b1c1aaec50d9f68037409",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "User Management System API",
+    "openapi_version": "openapi_3",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

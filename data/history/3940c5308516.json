@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3940c5308516",
+    "source_url": "https://raw.githubusercontent.com/HARDY8118/swmock/06dded45f284509c6116d6658b9ab506f630feff/swagger.json",
+    "fetched_at": "2026-05-22T08:56:20.302095+00:00",
+    "content_hash": "8aaa21d00ef773a643e5be7ad5ee277bb54fe088c752c47458851d80e1b7f08c",
+    "info_version": "0.1.9",
+    "status": "new",
+    "title": "Sample API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

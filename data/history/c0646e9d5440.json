@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c0646e9d5440",
+    "source_url": "https://raw.githubusercontent.com/Gaganrobin8831/stripeSubscription02/2e469fa0a1ab12a22270172870b59fafa681f3e2/swagger.yaml",
+    "fetched_at": "2026-05-22T08:56:11.190472+00:00",
+    "content_hash": "3924793d1a71269ff35426a801715531e4568d052bd352bcc43cc60cfb34d25b",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "StripeSubscriptionService",
+    "openapi_version": "openapi_3",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

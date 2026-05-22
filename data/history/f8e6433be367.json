@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f8e6433be367",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/acf963b66a2139b19974030754ba1a548cd71617/apis/openapi/freetv-app.com/main/v1/openapi.json",
+    "fetched_at": "2026-05-22T08:55:47.730176+00:00",
+    "content_hash": "7bffc06c0ad1fdef06aeb4e225f53b161d604e006650be9bc407194a55058cad",
+    "info_version": "v1",
+    "status": "new",
+    "title": "MixerBox FreecableTV",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

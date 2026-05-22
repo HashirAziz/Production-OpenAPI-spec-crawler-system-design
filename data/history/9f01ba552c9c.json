@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9f01ba552c9c",
+    "source_url": "https://raw.githubusercontent.com/fredsalv01/aws-node-express-api-project/4de65dcbab3b25ba42cfb9d9f0ad2bcd78f49804/swagger.yaml",
+    "fetched_at": "2026-05-22T08:56:00.738055+00:00",
+    "content_hash": "df7baa171af90ef0f5c43bb7e291436ec24a57585ae917ef3f311bb27c013c5d",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API de Star Wars",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

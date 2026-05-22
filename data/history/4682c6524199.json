@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4682c6524199",
+    "source_url": "https://raw.githubusercontent.com/DanielCasey96/netWorth/7567d49765a4184ae991b49798b54c01500ecada/swagger.yaml",
+    "fetched_at": "2026-05-22T08:56:03.992488+00:00",
+    "content_hash": "adbeff649122d99a9938e7c9d7c9ff385496382326dd8848ee88af67b1292ee6",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "CryptoDash API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

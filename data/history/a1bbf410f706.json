@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a1bbf410f706",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/acf963b66a2139b19974030754ba1a548cd71617/apis/openapi/opto22.com/pac/R1.0a/openapi.json",
+    "fetched_at": "2026-05-22T08:55:45.132337+00:00",
+    "content_hash": "8a30b27c15ba5fe2f1b2061efada1e4283c5bc3832b438e04302b15eefbe9672",
+    "info_version": "R1.0a",
+    "status": "new",
+    "title": "PAC Control REST API",
+    "openapi_version": "openapi_3",
+    "paths_count": 38,
+    "path_diff": null
+  }
+]

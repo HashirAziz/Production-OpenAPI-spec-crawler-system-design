@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b75b2b720c50",
+    "source_url": "https://raw.githubusercontent.com/RomainDanizel/tp-cloud/3789bfe7332d968c5422722088bf8c8913f3e75b/swagger.json",
+    "fetched_at": "2026-05-22T08:56:24.864460+00:00",
+    "content_hash": "74edbce08533e9d8b58a2e57006546776ab5c3cdf44a4b00d50aaa31a1ac4dd9",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Simple Inventory API",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

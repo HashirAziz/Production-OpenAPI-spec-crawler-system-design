@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "540c0b782bb4",
+    "source_url": "https://raw.githubusercontent.com/logos-storage/logos-storage-nim/1218a7edbebbccb6f0358b423944b0f6ada71f82/openapi.yaml",
+    "fetched_at": "2026-05-22T08:55:13.662375+00:00",
+    "content_hash": "93e6166489bc4d73667eb4d97d14a2722801b6f7275fee90c3b0ce0f6055c1be",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "Logos Storage API",
+    "openapi_version": "openapi_3",
+    "paths_count": 12,
+    "path_diff": null
+  }
+]

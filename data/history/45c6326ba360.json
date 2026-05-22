@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "45c6326ba360",
+    "source_url": "https://raw.githubusercontent.com/dotsy12/Resala-BackEnd-asp.net/d9a1d4a5f0136b9aab42976c4ccef9c442ec790e/swagger.json",
+    "fetched_at": "2026-05-22T08:56:26.172612+00:00",
+    "content_hash": "11f3ef24eba4a334775b0c1aaddbf4570fe377a64bf45525053be4be9a95eb31",
+    "info_version": "v1",
+    "status": "new",
+    "title": "رسالة الخيرية API",
+    "openapi_version": "openapi_3",
+    "paths_count": 28,
+    "path_diff": null
+  }
+]

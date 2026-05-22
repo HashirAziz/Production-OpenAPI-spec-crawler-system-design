@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "66cd663f3d60",
+    "source_url": "https://raw.githubusercontent.com/Odinachi/note-app-server/43af864529af3b1a5d150c0af44fef3a21af27ee/swagger.json",
+    "fetched_at": "2026-05-22T08:56:31.016530+00:00",
+    "content_hash": "6e14d816c51787d9b31eb25f9b8f7214d853b6b368755f18626d828f6cc1a87e",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Note App API",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

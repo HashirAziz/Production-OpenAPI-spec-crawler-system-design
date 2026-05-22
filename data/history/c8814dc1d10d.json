@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c8814dc1d10d",
+    "source_url": "https://raw.githubusercontent.com/rami-lengliz/all-the-project-/e6776b245b045bc0a028a89e748572002baa8124/swagger.json",
+    "fetched_at": "2026-05-22T08:56:32.166917+00:00",
+    "content_hash": "ed2b5926a356c445e6d352d23b5876d8dc2719e2a571a53a12face9a535c9830",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "RentEverything API",
+    "openapi_version": "openapi_3",
+    "paths_count": 56,
+    "path_diff": null
+  }
+]

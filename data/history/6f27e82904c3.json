@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6f27e82904c3",
+    "source_url": "https://raw.githubusercontent.com/carp-dk/health-workflow-interfaces/4f58fa9fd161b6218dc60c22d339bb82b4c00dfb/openapi.yaml",
+    "fetched_at": "2026-05-22T08:55:24.367005+00:00",
+    "content_hash": "d288cb5e8180578c827c9fcd613681ba5034411d33fddf4aae9236517491fc53",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Health Workflow Interfaces — Consumption API",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

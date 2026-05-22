@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "066d482cd712",
+    "source_url": "https://raw.githubusercontent.com/woobladoo/6GEI311-LABO3/b8c726050a0e5120799cf98f48650aa73abded24/openapi.yaml",
+    "fetched_at": "2026-05-22T08:55:24.151644+00:00",
+    "content_hash": "f1fa03324817d63b5b585eea8ee70baa1fce0654eee271aca75dc85c8d96f21c",
+    "info_version": "1.0.11",
+    "status": "new",
+    "title": "API de gestion de contenu des cours en ligne",
+    "openapi_version": "swagger_2",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

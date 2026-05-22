@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6161f3b22f48",
+    "source_url": "https://raw.githubusercontent.com/OlgaVysochanska/project-patron-b/3e341eb54afad2c6ad7ed153d54b3f0798e81aa8/swagger.json",
+    "fetched_at": "2026-05-22T08:56:24.731098+00:00",
+    "content_hash": "e87a091edc9d4f9e3b35714af6e32bf463ce329f9c7db939e3e4b4a80e4de89c",
+    "info_version": "2.0.2",
+    "status": "new",
+    "title": "Swagger for patron",
+    "openapi_version": "openapi_3",
+    "paths_count": 12,
+    "path_diff": null
+  }
+]

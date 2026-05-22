@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a4ccc1699c74",
+    "source_url": "https://raw.githubusercontent.com/FrancoVasquezFuentes/EVA3-Frontend/6a6d9c9b1381477040a383d0a93b7d43a7c96cc7/swagger.json",
+    "fetched_at": "2026-05-22T08:56:28.709792+00:00",
+    "content_hash": "913485e15b537cc8ecef0f6d24fd1e3405e11a4afee175246dcc9f02014a9f05",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Energy And Water",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

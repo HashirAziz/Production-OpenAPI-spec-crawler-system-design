@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "246c051d51e8",
+    "source_url": "https://raw.githubusercontent.com/BlackRoad-Studio/roadtemplates/4675e04434fa4c5b3717f818b159f5a9d69356f0/openapi.yaml",
+    "fetched_at": "2026-05-22T08:55:23.880131+00:00",
+    "content_hash": "e2b5ba00594a22b75ac075a737438eab53e6dd8b6b1ebcfc1f2309a9a3570f23",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Templates API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

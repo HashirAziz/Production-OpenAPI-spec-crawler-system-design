@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "bacc4eed49d0",
+    "source_url": "https://raw.githubusercontent.com/TheMicroservicesAgency/msa-json-patch/be0578e876d6cba4545d946dde812abd1966cd53/swagger.json",
+    "fetched_at": "2026-05-22T08:56:31.472825+00:00",
+    "content_hash": "adfb5f4cf1f28e9e18da3bdb6a560959a9ff2579210dad4840bce127102c38f6",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "MSA-JSON-PATCH",
+    "openapi_version": "swagger_2",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

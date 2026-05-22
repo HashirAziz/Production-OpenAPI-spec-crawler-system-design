@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8886c8caabf0",
+    "source_url": "https://raw.githubusercontent.com/leodqk/ExtractVideoTool/6d7e93823265777329440db9caf29ddaf642fbd7/swagger.yaml",
+    "fetched_at": "2026-05-22T08:56:04.841836+00:00",
+    "content_hash": "8a19acd7f071168728c101cfc73b526ebf4f3696923d8cd458dfeae139eb6334",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Video Processing API",
+    "openapi_version": "openapi_3",
+    "paths_count": 12,
+    "path_diff": null
+  }
+]

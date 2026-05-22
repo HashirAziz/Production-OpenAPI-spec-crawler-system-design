@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b3210673691a",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/acf963b66a2139b19974030754ba1a548cd71617/apis/openapi/az511.gov/main/1.0.0/openapi.json",
+    "fetched_at": "2026-05-22T08:55:45.305274+00:00",
+    "content_hash": "c96b2218814ed3dd87d995e5b92ed4705d50b57cac913a8a2f3c05a3b9fdaab8",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Arizona 511 API",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

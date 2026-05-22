@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f2f4e2c24521",
+    "source_url": "https://raw.githubusercontent.com/manifoldfinance/mev-freelay/a1d9a6879ea658bcb8381a728f7e06b054d66ecc/swagger.yaml",
+    "fetched_at": "2026-05-22T08:55:56.187830+00:00",
+    "content_hash": "08e02029ed3e5df4e2fe9ffd3b47829ee61586be85d37b14f9f2453e6e6b766d",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Freelay API",
+    "openapi_version": "swagger_2",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "7b8685afe86d",
+    "source_url": "https://raw.githubusercontent.com/mohamed-samir907/innoscripta-challenge/2ff75e7acfe8a442f0f5fb01f81e5134a186fe6c/swagger.json",
+    "fetched_at": "2026-05-22T08:56:24.209109+00:00",
+    "content_hash": "eb90a89bae2a027a126ce91c88b908b19021d5c527407feaab8224403491031c",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "News Aggregator API",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

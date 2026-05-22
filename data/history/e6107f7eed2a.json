@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e6107f7eed2a",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/acf963b66a2139b19974030754ba1a548cd71617/apis/openapi/googleapis.com/sts/v1/openapi.json",
+    "fetched_at": "2026-05-22T08:55:46.777302+00:00",
+    "content_hash": "be1145e235bf21f8cb00270cf5186e6f804cef25afc919fe13c5be9fa12b517e",
+    "info_version": "v1",
+    "status": "new",
+    "title": "Security Token Service API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

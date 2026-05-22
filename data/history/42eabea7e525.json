@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "42eabea7e525",
+    "source_url": "https://raw.githubusercontent.com/jonasbn/gh-pages-swagger-ui-experiment/420a0d18688c2d3080fff0ea7ddd2667ff44a1f3/swagger.json",
+    "fetched_at": "2026-05-22T08:56:20.978062+00:00",
+    "content_hash": "6419dfa411659779d68ba4c8897df27973f0bf3ef3654b698040246e6c674085",
+    "info_version": "1.0.7",
+    "status": "new",
+    "title": "My own local Swagger Petstore",
+    "openapi_version": "swagger_2",
+    "paths_count": 14,
+    "path_diff": null
+  }
+]

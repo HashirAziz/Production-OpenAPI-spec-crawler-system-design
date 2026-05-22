@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "bf5d9653643c",
+    "source_url": "https://raw.githubusercontent.com/Shafran123/nsbm-ipt-backend/2d300c3fa0a97c3f086dc067c567c6e3eb3f7f9b/swagger.json",
+    "fetched_at": "2026-05-22T08:56:20.507973+00:00",
+    "content_hash": "39df96c0e2a7df678f6d4849e987b30755940e35a7a65ef6ffc80cfd18f301ac",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "NSBM Industry Preparation Programme | API",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

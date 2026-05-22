@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "7b4771e853e3",
+    "source_url": "https://raw.githubusercontent.com/JHOWSEF/TarefaAWS/b1e929cbd6b31cfd74c876bc1bb8e02fc5f5adba/swagger.yaml",
+    "fetched_at": "2026-05-22T08:55:58.881015+00:00",
+    "content_hash": "7ccbad7ba5e4e7806e1b9b5638767f315e5bd317f8accd01841a0178a23dd16b",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Image Pipeline API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

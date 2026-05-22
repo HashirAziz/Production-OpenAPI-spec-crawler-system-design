@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "73489e5cf9ad",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/acf963b66a2139b19974030754ba1a548cd71617/apis/openapi/dev.to/chatgpt/v1/openapi.json",
+    "fetched_at": "2026-05-22T08:55:41.176193+00:00",
+    "content_hash": "fed32bc6a07b1b918cd5c0b3f774be189acf9b89261332717e32c1600e4af7ee",
+    "info_version": "v1",
+    "status": "new",
+    "title": "DEV Community",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

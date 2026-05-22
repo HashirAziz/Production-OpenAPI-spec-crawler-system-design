@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ed7be47a42a1",
+    "source_url": "https://raw.githubusercontent.com/jongan69/PrepAI/4dff922f5c58b33034b832cdbaeb48265708b155/swagger.json",
+    "fetched_at": "2026-05-22T08:56:27.559981+00:00",
+    "content_hash": "444246001c51ab972cd021d61167798c7b9b6b6c302b5362925f0eb3fbe86f4b",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "PrepAI API Documentation",
+    "openapi_version": "openapi_3",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

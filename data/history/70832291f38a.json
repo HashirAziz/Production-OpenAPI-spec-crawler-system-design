@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "70832291f38a",
+    "source_url": "https://raw.githubusercontent.com/holo-otaku/dst-backend/769b63a61757c02270d5c17417ced5dadf4f7803/swagger.yaml",
+    "fetched_at": "2026-05-22T08:56:08.974860+00:00",
+    "content_hash": "4c9c04277a59e30cadfdd42ba80878ce54bf7ec2340c558253f621b4d4470b17",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Login and Token Refresh API",
+    "openapi_version": "openapi_3",
+    "paths_count": 24,
+    "path_diff": null
+  }
+]

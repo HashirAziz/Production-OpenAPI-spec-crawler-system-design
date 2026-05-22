@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8b1822b81642",
+    "source_url": "https://raw.githubusercontent.com/pmchozas/termitup/0c3bf8ca1247a8586427d5dd143644ae0fe8089b/openapi.json",
+    "fetched_at": "2026-05-22T08:55:39.967210+00:00",
+    "content_hash": "e1dbb8cd3c8ad083a6a37b94df34b76efcc6c155765f4c56a61327cabd59da30",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "TermitUp",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

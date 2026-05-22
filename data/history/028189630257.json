@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "028189630257",
+    "source_url": "https://raw.githubusercontent.com/ph-hitachi/swagger-ui/7c7fbb690028bb17e43898d5fed67619f1e4269f/swagger.yaml",
+    "fetched_at": "2026-05-22T08:56:02.398421+00:00",
+    "content_hash": "8dca5a95f52dfc537f97daf649ec722d7ec2b28f92bc9e3e18b81c55589f7963",
+    "info_version": "2017-06-04T22:56:06+00:00",
+    "status": "new",
+    "title": "/qqq'\"><b style='x: expression(alert(1))'>",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

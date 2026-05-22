@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "72245cf0cdfe",
+    "source_url": "https://raw.githubusercontent.com/ChimfwembeMLF/control-plane/4b8b20594d79def0b4dc9da73da2ad907ea6b00b/swagger.json",
+    "fetched_at": "2026-05-22T08:56:29.715473+00:00",
+    "content_hash": "c185425ac2cc575aa142dedd19aa3bc0745ee192e1dc84ea3c4296391b78c3a7",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "Control Plane API",
+    "openapi_version": "openapi_3",
+    "paths_count": 42,
+    "path_diff": null
+  }
+]

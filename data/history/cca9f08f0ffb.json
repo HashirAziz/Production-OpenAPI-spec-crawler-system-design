@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "cca9f08f0ffb",
+    "source_url": "https://raw.githubusercontent.com/kbsa00/wordTermProject/a20bb4a810a8a9b5113faf3675dae48ce5096a32/swagger.json",
+    "fetched_at": "2026-05-22T08:56:25.633342+00:00",
+    "content_hash": "344c36a27e022e1cabe48fc26e412d40a63854b31f3ee0008da20d08edf73ca6",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API Documentation",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

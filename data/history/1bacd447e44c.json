@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1bacd447e44c",
+    "source_url": "https://raw.githubusercontent.com/microsoft/dotnetconf-studentzone/9ea9989b9222fe902ae40ce7f6db4fe9f242602a/2022/Using%20.NET%20Blazor%20to%20Build%20a%20Web%20App/openapi.json",
+    "fetched_at": "2026-05-22T08:55:39.101420+00:00",
+    "content_hash": "9af87e4fcf1267f882a3e61066095c1ed4396294260012c4ea26939e1e6b135f",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "OpenAPI Document on Azure Functions",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

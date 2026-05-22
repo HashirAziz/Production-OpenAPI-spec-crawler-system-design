@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "556db7beba11",
+    "source_url": "https://raw.githubusercontent.com/ymc9/zencloud-api-demo/453fd0f9e7342e26d7b499c0ee46ebf84bd180fe/swagger.yaml",
+    "fetched_at": "2026-05-22T08:56:10.742926+00:00",
+    "content_hash": "20b3318cfbe60bb74ccd2d3671a2f8572846f282985f071dd7b105bc8a3ded7c",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "ZenStack Generated API",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

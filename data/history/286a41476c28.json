@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "286a41476c28",
+    "source_url": "https://raw.githubusercontent.com/Santxszz/flexilease-autos/f40d433b202eff705642a1cfe184f204929e3643/swagger.json",
+    "fetched_at": "2026-05-22T08:56:27.356263+00:00",
+    "content_hash": "7c9d8e0ec4f869d5d6e22c73331a6138146ed719d3da35a6519222e5475de2a5",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "FlexiLease Autos API",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0737ffceffff",
+    "source_url": "https://raw.githubusercontent.com/datapartnership/ChamboMetadataTaggerFrontend/8ff357b55f6038c0b386e81ef5bafb51b068b2fc/swagger.json",
+    "fetched_at": "2026-05-22T08:56:33.091500+00:00",
+    "content_hash": "1fdfe177e15264fa37272d0c6968cac8c6464de58308a36328cc15764eb048e4",
+    "info_version": "v1",
+    "status": "new",
+    "title": "Metadata Tagging API",
+    "openapi_version": "openapi_3",
+    "paths_count": 37,
+    "path_diff": null
+  }
+]

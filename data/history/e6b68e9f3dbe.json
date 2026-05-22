@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e6b68e9f3dbe",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/acf963b66a2139b19974030754ba1a548cd71617/apis/openapi/opto22.com/groov/R4.2a/openapi.json",
+    "fetched_at": "2026-05-22T08:55:48.810703+00:00",
+    "content_hash": "a3cc51d05bfaee6c9d7ae53ca7859cb5f93301c7efab1ce19f8ec6860b04b1ce",
+    "info_version": "R4.2a",
+    "status": "new",
+    "title": "groov View Public API",
+    "openapi_version": "openapi_3",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

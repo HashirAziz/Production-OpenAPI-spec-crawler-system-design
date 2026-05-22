@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "10742775187b",
+    "source_url": "https://raw.githubusercontent.com/abhiraj-ku/Ecom-App/59a877c6f80c0ef5e91cc2c72eb47b79a262f953/swagger.yaml",
+    "fetched_at": "2026-05-22T08:56:09.964445+00:00",
+    "content_hash": "cb45becd993b6a4ff15abaa3036a4e135ca8c9c248e1f7a7815f28bcafddae4b",
+    "info_version": "1.1.0",
+    "status": "new",
+    "title": "Ecom store API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]
