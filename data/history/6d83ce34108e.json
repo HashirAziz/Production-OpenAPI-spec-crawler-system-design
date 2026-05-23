@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6d83ce34108e",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/acf963b66a2139b19974030754ba1a548cd71617/apis/openapi/omdbapi.com/main/1/openapi.json",
+    "fetched_at": "2026-05-23T08:13:10.995715+00:00",
+    "content_hash": "50effb554575160db65c6b52c0eb0e488f174136edda7c704f29c81d2dcb31a0",
+    "info_version": "1",
+    "status": "new",
+    "title": "OMDb",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

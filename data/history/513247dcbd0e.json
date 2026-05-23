@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "513247dcbd0e",
+    "source_url": "https://raw.githubusercontent.com/invernyx/smartcars-3-phpvms5-api/6052fea590ff8321c7f0eda330888e3fac5d3e45/openapi.json",
+    "fetched_at": "2026-05-23T08:13:10.790980+00:00",
+    "content_hash": "78f062a8454f65107b0993c7892c0a8a5676041b1274366f960155a12ec61927",
+    "info_version": "1.0.2",
+    "status": "new",
+    "title": "smartCARS 3 Public API",
+    "openapi_version": "openapi_3",
+    "paths_count": 20,
+    "path_diff": null
+  }
+]

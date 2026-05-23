@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "17c713e7f222",
+    "source_url": "https://raw.githubusercontent.com/dogstronauts/astrobook/79d6324c6ce2cf58722a5bfd219232015d50b149/openapi.json",
+    "fetched_at": "2026-05-23T08:13:23.885884+00:00",
+    "content_hash": "4b378df518f4f1bebd25c85902dda1d259424b996fb4c7ae325cbe42d1a83a87",
+    "info_version": "0.0.0",
+    "status": "new",
+    "title": "AstroBook",
+    "openapi_version": "openapi_3",
+    "paths_count": 13,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "eefded8caa74",
+    "source_url": "https://raw.githubusercontent.com/netcorelink/libchttpx/0a7ca8257608cad7dd3c98a747fe3108e6564c7d/swagger.json",
+    "fetched_at": "2026-05-23T08:14:11.663990+00:00",
+    "content_hash": "0fb0e6322ff835330453d81ae961f1f4bb69722a4372de705f8dc3cd1fc48034",
+    "info_version": "2.0.0",
+    "status": "new",
+    "title": "Example API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

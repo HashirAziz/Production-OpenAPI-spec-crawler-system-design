@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a3d8eb8668b0",
+    "source_url": "https://raw.githubusercontent.com/OsMax/dreamteam-water-server/8253b45d39ff2ae72429c55fe274b4a428e5477f/swagger.json",
+    "fetched_at": "2026-05-23T08:14:06.108372+00:00",
+    "content_hash": "5f0b80bb9f87e60f6033b28d3804c7c9bce2a445c52e3c658f2d9a4c49397fb2",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "Dreamteam water",
+    "openapi_version": "openapi_3",
+    "paths_count": 13,
+    "path_diff": null
+  }
+]

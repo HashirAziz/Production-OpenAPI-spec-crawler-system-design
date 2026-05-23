@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "15b787d78392",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/acf963b66a2139b19974030754ba1a548cd71617/apis/openapi/urlbox.io/main/v1/openapi.json",
+    "fetched_at": "2026-05-23T08:13:10.498807+00:00",
+    "content_hash": "2a4565f8c1e7551202adc0d7d5eb3524988d534b2d0ed6c9e004ae2ea2aeadcd",
+    "info_version": "v1",
+    "status": "new",
+    "title": "Urlbox API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

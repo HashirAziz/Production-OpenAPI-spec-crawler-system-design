@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d6318207dc50",
+    "source_url": "https://raw.githubusercontent.com/nmdp-bioinformatics/pyHML/26ece27d393d7fc193bf8929976cad8eb9fd8f07/swagger.yaml",
+    "fetched_at": "2026-05-23T08:13:50.446509+00:00",
+    "content_hash": "29b3a1effac558955975b03bf5ae08042e70f3f10c90d91fd3954209bbee502e",
+    "info_version": "0.0.4",
+    "status": "new",
+    "title": "Allele Calling Service",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

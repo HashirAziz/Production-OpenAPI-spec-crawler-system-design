@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e743d321fb0e",
+    "source_url": "https://raw.githubusercontent.com/OpenReqEU/similarity-detection/6d9b30a3d67cfaf3b12010311b4c4dbba102e74e/swagger.yaml",
+    "fetched_at": "2026-05-23T08:13:46.267428+00:00",
+    "content_hash": "ab1e753e983b6bf0e6a957cdef7a276cfde7062e46d0e8b5ff21e84149bade73",
+    "info_version": "3.3",
+    "status": "new",
+    "title": "SIMILARITY DETECTION COMPONENT",
+    "openapi_version": "swagger_2",
+    "paths_count": 20,
+    "path_diff": null
+  }
+]

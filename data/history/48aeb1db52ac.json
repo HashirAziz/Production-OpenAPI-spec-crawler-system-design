@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "48aeb1db52ac",
+    "source_url": "https://raw.githubusercontent.com/bcgov/Communication-Layer/9115b4b365e7de14fff9a23b74b73b9f2816a41a/swagger.json",
+    "fetched_at": "2026-05-23T08:14:17.786224+00:00",
+    "content_hash": "20a3c4463ed2ae33abe24180c53fe1522d04909e6269e3bf7514224e33ed705a",
+    "info_version": "1.1.0",
+    "status": "new",
+    "title": "FormFoundry API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

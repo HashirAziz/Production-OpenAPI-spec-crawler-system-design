@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ed05f42d2352",
+    "source_url": "https://raw.githubusercontent.com/butlerwang/golang_yaml_rest_api_server/72fd663eb49febf3562254efe10f263014a4f626/swagger.json",
+    "fetched_at": "2026-05-23T08:14:08.169682+00:00",
+    "content_hash": "f2f209ac7006274f10aedcc781228d8e1cb654b20ba11fb9a419eb920d73ba0b",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Golang SwaggerUI example",
+    "openapi_version": "swagger_2",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

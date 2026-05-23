@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b2a54da130b6",
+    "source_url": "https://raw.githubusercontent.com/wmetcalf/william-tells/43c553bbc090366fa9cc9ccad83cb2bb7f3f8120/openapi.yaml",
+    "fetched_at": "2026-05-23T08:12:49.807254+00:00",
+    "content_hash": "02d1364579245c4997652171cb8d0f454664b65022da9b1d50649dd780c3f9bb",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "William Tells QR Killer",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "326d50b365f7",
+    "source_url": "https://raw.githubusercontent.com/9bow/markitdown-api-fly-io/db716feef2a80c8a2334dc779859b5f035c964f9/openapi.yaml.template",
+    "fetched_at": "2026-05-23T08:12:47.901913+00:00",
+    "content_hash": "f335cb7f826505c21b60b8d32aa51c41666d5b1304e3a2706e6aefa68cb7caf9",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "MarkItDown API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

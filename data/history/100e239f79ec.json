@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "100e239f79ec",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/acf963b66a2139b19974030754ba1a548cd71617/apis/openapi/slmonitor.com/main/2.1/openapi.json",
+    "fetched_at": "2026-05-23T08:13:17.755379+00:00",
+    "content_hash": "72e4c0ef7e91f6a76645c5be6ed318e42ab1e09295759d20ae1a2431f9d54780",
+    "info_version": "2.1",
+    "status": "new",
+    "title": "SafetyLine",
+    "openapi_version": "openapi_3",
+    "paths_count": 19,
+    "path_diff": null
+  }
+]

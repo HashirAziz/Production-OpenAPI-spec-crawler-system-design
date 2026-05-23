@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5f9cc9416cd6",
+    "source_url": "https://raw.githubusercontent.com/AvronNet/dotnet-testcontainers-demo/059e2d87cedce77dbe3f189c90e6227008945db4/swagger.json",
+    "fetched_at": "2026-05-23T08:14:09.903871+00:00",
+    "content_hash": "303ce283b995169ed34391713254e551654706eeaa7933973ff97a6aff3b9e05",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Events.Api",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

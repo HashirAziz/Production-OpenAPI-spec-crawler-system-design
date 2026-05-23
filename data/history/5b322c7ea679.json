@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5b322c7ea679",
+    "source_url": "https://raw.githubusercontent.com/CommandShiftHQ/api-whisperer/273ecc22b2bde940995902bb5662b1460c057fe0/swagger.json",
+    "fetched_at": "2026-05-23T08:14:16.597132+00:00",
+    "content_hash": "03f6189ef51e357558fafd2bc1c3e2207f290da616f0b471a770d5b2cdd1430d",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "api-judge",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

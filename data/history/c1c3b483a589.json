@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c1c3b483a589",
+    "source_url": "https://raw.githubusercontent.com/gEoNNNN/REST-API/138e1fb1b1c803cf0f69956324938922aed0a697/swagger.yaml",
+    "fetched_at": "2026-05-23T08:13:40.459120+00:00",
+    "content_hash": "22f42cb29a24a369bfe99acc8ac27074e9affed91938642839ec980b239bc364",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Products API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "be21580bf240",
+    "source_url": "https://raw.githubusercontent.com/arr-atiq/test-server/84cc06c2cdba806f79cc247638a6cb659290eda5/swagger.yaml",
+    "fetched_at": "2026-05-23T08:13:44.528168+00:00",
+    "content_hash": "5c247406ca663c63846e509c84ee173553c3389059e589d1c78ba8e2dcce4d1a",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Dana Api Documentation",
+    "openapi_version": "swagger_2",
+    "paths_count": 49,
+    "path_diff": null
+  }
+]

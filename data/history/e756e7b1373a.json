@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e756e7b1373a",
+    "source_url": "https://raw.githubusercontent.com/abrahamcuenca/express-rest-starter/382f690643980e7348d0a6c0c5aa5c850fb2a9c4/swagger.json",
+    "fetched_at": "2026-05-23T08:14:13.486309+00:00",
+    "content_hash": "43f09c06d8acff37bfb2da0f9d03d665e089659f98fb1f439cb99631fca784a8",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Express REST starter",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

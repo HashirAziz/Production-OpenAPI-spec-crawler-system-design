@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6310031d3978",
+    "source_url": "https://raw.githubusercontent.com/Travis-Gray2194/tech-challenge-backend/9381f6c8f5f7ea6d9e3939ff7a34b83a528c44d1/swagger.json",
+    "fetched_at": "2026-05-23T08:14:09.320773+00:00",
+    "content_hash": "f132871f182d51fada75e8820c1a182c784d524764017f88dc17ebc1e1bdfa27",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Credit Card Validation API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

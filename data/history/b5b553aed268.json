@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b5b553aed268",
+    "source_url": "https://raw.githubusercontent.com/zhixuli0406/taiyuan-api/4a8e4f27e9fdfe02394652b279c58527bb67f8df/swagger.json",
+    "fetched_at": "2026-05-23T08:14:22.125295+00:00",
+    "content_hash": "e5a2910bf7a1f7aeb8a8d73e49e9b8a69f3351852177da0ed6ad583ec3859906",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Taiyuan API",
+    "openapi_version": "openapi_3",
+    "paths_count": 50,
+    "path_diff": null
+  }
+]

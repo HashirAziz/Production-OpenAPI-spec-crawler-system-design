@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "aa4114f97356",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/acf963b66a2139b19974030754ba1a548cd71617/apis/openapi/jokes.one/main/1.1/openapi.json",
+    "fetched_at": "2026-05-23T08:13:11.869035+00:00",
+    "content_hash": "7bc880d1041ecda39fc83e983c5d9b9176f0f0ace3621b7fb7ba31ee45c55204",
+    "info_version": "1.1",
+    "status": "new",
+    "title": "Jokes One API",
+    "openapi_version": "openapi_3",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

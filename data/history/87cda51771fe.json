@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "87cda51771fe",
+    "source_url": "https://raw.githubusercontent.com/FRRe-DS/2025-04-TPI/6fb58930286cad8e91055cbd04bcd694095ba0a5/openapi.yaml",
+    "fetched_at": "2026-05-23T08:12:49.372395+00:00",
+    "content_hash": "61afebec584360a1cc66e6f806f8b0d62ad2573820905fb0dc560afdb7669b68",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "E-commerce API Completa",
+    "openapi_version": "openapi_3",
+    "paths_count": 19,
+    "path_diff": null
+  }
+]

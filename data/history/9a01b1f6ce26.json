@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9a01b1f6ce26",
+    "source_url": "https://raw.githubusercontent.com/BuildTheEarth/main-bot/0e3bef52f47ca9cdd180edea47da1a20383f2931/swagger.json",
+    "fetched_at": "2026-05-23T08:14:15.318306+00:00",
+    "content_hash": "c9b04f635667ff73f4848683a91f320427a7ac1e75ebe2a03e57ac54cf2e0229",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Main Bot API",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

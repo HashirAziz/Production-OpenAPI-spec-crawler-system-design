@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "30a136b24f7f",
+    "source_url": "https://raw.githubusercontent.com/FitrahAliAkbar-Citiasia/Swagger-UI/91c651fad672b3bc2d2165dc3690f3b6a2029919/swagger.yaml",
+    "fetched_at": "2026-05-23T08:13:46.687419+00:00",
+    "content_hash": "ff77a6229b714d7a45f12aeb11f0aeba9726512610600e3c5d4d09e96463feae",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Dokumentasi API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

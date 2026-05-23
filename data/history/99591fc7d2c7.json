@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "99591fc7d2c7",
+    "source_url": "https://raw.githubusercontent.com/YoungMiGo123/dev-clean-code-ui/2ef8c9ea493103125048597abfdad1ec0d7b4b09/swagger.json",
+    "fetched_at": "2026-05-23T08:14:13.069097+00:00",
+    "content_hash": "ed266bb3f63a4f49ad8434eeb5f442004f2014e1997ef24fd5ff25f90a3e8911",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Clean-Code-Services",
+    "openapi_version": "openapi_3",
+    "paths_count": 14,
+    "path_diff": null
+  }
+]

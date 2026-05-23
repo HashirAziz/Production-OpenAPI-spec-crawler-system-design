@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "775ced8dc41d",
+    "source_url": "https://raw.githubusercontent.com/dcm4che/dicomweb/5981285fa25e2e80a17127c229e242c7e5c9d051/openapi.json",
+    "fetched_at": "2026-05-23T08:13:24.192118+00:00",
+    "content_hash": "873324880b5048ad4c0dc0c3162b4449d514c743543601d48d82e0b29232de2f",
+    "info_version": "2023a",
+    "status": "new",
+    "title": "DICOMweb",
+    "openapi_version": "openapi_3",
+    "paths_count": 39,
+    "path_diff": null
+  }
+]

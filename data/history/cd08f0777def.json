@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "cd08f0777def",
+    "source_url": "https://raw.githubusercontent.com/GaelSimon01/back-carte-interactive-babord/78fee33ae72a648006aaa65a30bacd6e9be1a128/swagger.json",
+    "fetched_at": "2026-05-23T08:14:18.632877+00:00",
+    "content_hash": "9ef30ed9d7065ab819bc3f0fab9037f8bec35278dde3876001c31e5502a8c3c8",
+    "info_version": "v1",
+    "status": "new",
+    "title": "Babord API",
+    "openapi_version": "swagger_2",
+    "paths_count": 13,
+    "path_diff": null
+  }
+]

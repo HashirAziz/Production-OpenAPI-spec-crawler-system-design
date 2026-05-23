@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e157b1358ce8",
+    "source_url": "https://raw.githubusercontent.com/ibpsa/project1-boptest/7c3c9035c67d2d6adcfcb865bec7860038c4a9d5/service/web/server/docs/openapi.yaml",
+    "fetched_at": "2026-05-23T08:12:30.082982+00:00",
+    "content_hash": "aa320f39e4d7431b6839cc0f8719cd2a049cc464c7531f4d875f2b812e59d918",
+    "info_version": "1.0.0-dev",
+    "status": "new",
+    "title": "BOPTEST Service API",
+    "openapi_version": "openapi_3",
+    "paths_count": 16,
+    "path_diff": null
+  }
+]

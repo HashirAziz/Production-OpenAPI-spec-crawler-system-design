@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5d02f463b469",
+    "source_url": "https://raw.githubusercontent.com/glowhard/qurex-backend/3f624251dfb8b460c365a3ef9428eb7aedaad521/swagger.json",
+    "fetched_at": "2026-05-23T08:14:14.174739+00:00",
+    "content_hash": "0e3eae7f9a065c198d418456d1145c2413adbb265a74c14dc2872b26c0e947cb",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Qurex API",
+    "openapi_version": "swagger_2",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

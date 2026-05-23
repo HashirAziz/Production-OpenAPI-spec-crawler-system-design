@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "dbe1d69e5bc2",
+    "source_url": "https://raw.githubusercontent.com/effective-energy/demo_wallet_api/6c2d150dc2d277e1905448999e05e183531d86ab/swagger.json",
+    "fetched_at": "2026-05-23T08:14:10.925834+00:00",
+    "content_hash": "81e0f89f0d02f29091abacf47041f101f1f1d6385ab7adc71afd7378c35f65d7",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Alehub demo wallet API",
+    "openapi_version": "swagger_2",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

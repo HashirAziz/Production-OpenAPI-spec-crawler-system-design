@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "108a36e1271c",
+    "source_url": "https://raw.githubusercontent.com/OurDayWeddingInvitation/OurDayWeddingInvitation_be/0531392f8fcc770959913e9d3910dfb8e62461db/swagger.json",
+    "fetched_at": "2026-05-23T08:14:20.997501+00:00",
+    "content_hash": "6352961b6b4c9db2495da8f82ed23d10c34fd3bab06ac2852fd8b2dd0f544f01",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "OurDay API Docs",
+    "openapi_version": "openapi_3",
+    "paths_count": 14,
+    "path_diff": null
+  }
+]

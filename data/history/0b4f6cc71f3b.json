@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0b4f6cc71f3b",
+    "source_url": "https://raw.githubusercontent.com/RenerPires/infoeste-blog-api/06c0e4b043eaf0c5d40daab7761488c51f157429/swagger.json",
+    "fetched_at": "2026-05-23T08:14:16.830594+00:00",
+    "content_hash": "c3c49a89d1932ccbe8b7694ba8768ea8c122d956c354c8eb78634a41ebe78058",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "Infoeste Blog API",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

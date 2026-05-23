@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5184cfde039e",
+    "source_url": "https://raw.githubusercontent.com/codesandbox/codesandbox-sdk/10f82664b5d0869e6d67e9610ae48b40cb560548/openapi.json",
+    "fetched_at": "2026-05-23T08:13:01.039429+00:00",
+    "content_hash": "91b7f6e75bdf8f8c0b494c6b2c57ed45ded1913cc1b5b14b49229260206bb16e",
+    "info_version": "2023-07-01",
+    "status": "new",
+    "title": "CodeSandbox API",
+    "openapi_version": "openapi_3",
+    "paths_count": 23,
+    "path_diff": null
+  }
+]

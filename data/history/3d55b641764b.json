@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3d55b641764b",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/acf963b66a2139b19974030754ba1a548cd71617/apis/openapi/veeqo.com/main/1.0.0/openapi.json",
+    "fetched_at": "2026-05-23T08:13:15.085791+00:00",
+    "content_hash": "240b4a5072106999eb39a9599ab481789b26717efe33621177ab4047d46ab91c",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Veeqo API",
+    "openapi_version": "openapi_3",
+    "paths_count": 23,
+    "path_diff": null
+  }
+]

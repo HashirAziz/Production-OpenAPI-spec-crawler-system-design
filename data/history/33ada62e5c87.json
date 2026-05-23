@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "33ada62e5c87",
+    "source_url": "https://raw.githubusercontent.com/RahhalaProject/Rahhala-Site/e7fa15919fb4373f799bddacc3f655e99fdf90ee/swagger.json",
+    "fetched_at": "2026-05-23T08:14:20.716382+00:00",
+    "content_hash": "c1a5fcbf0921a8c5eff8351a88002611c05330132b8d5b1abb89323843c4e75e",
+    "info_version": "1",
+    "status": "new",
+    "title": "Rahalah API v1",
+    "openapi_version": "openapi_3",
+    "paths_count": 48,
+    "path_diff": null
+  }
+]

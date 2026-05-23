@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ccb0cec6541f",
+    "source_url": "https://raw.githubusercontent.com/arunaengine/go-api/553451e9d73150cdece2fae94df32283552e77d3/openapiv2/apidocs.swagger.json",
+    "fetched_at": "2026-05-23T08:14:15.056843+00:00",
+    "content_hash": "d8a0fc25c009e05c2bc91f7d9538defd6504d0f12def4523230a421c8508a0fc",
+    "info_version": "2.0.2",
+    "status": "new",
+    "title": "Aruna Object Storage (AOS) REST API",
+    "openapi_version": "swagger_2",
+    "paths_count": 118,
+    "path_diff": null
+  }
+]

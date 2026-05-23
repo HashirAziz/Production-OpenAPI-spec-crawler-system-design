@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8fb705d3a99b",
+    "source_url": "https://raw.githubusercontent.com/bkawk/typescript-express-tsoa/e13fc325fec2fb9d51d2cae1ce3dcd08fa9dc23a/swagger.json",
+    "fetched_at": "2026-05-23T08:14:05.849999+00:00",
+    "content_hash": "7f6a8c6ee41fe52d170356c32ff1a2ceb063c75ea782c84601c59e9fbef758fe",
+    "info_version": "3.0.0",
+    "status": "new",
+    "title": "typescript-express",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

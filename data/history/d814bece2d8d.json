@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d814bece2d8d",
+    "source_url": "https://raw.githubusercontent.com/MarhyCZ/strv-go-newsletter/c465dda3068c1caf4ed62b0e2d5f3bd98a5f67d7/swagger.json",
+    "fetched_at": "2026-05-23T08:14:14.484319+00:00",
+    "content_hash": "2e17bdcdae1798d9fc39c572a71856678a273f3f57d3c74bae6d381c0358aaac",
+    "info_version": "v0.5.0",
+    "status": "new",
+    "title": "STRV-Go",
+    "openapi_version": "swagger_2",
+    "paths_count": 13,
+    "path_diff": null
+  }
+]

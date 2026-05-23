@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "15460c84ad65",
+    "source_url": "https://raw.githubusercontent.com/ZQCard/kbk-bff-admin/2d82dd8c6c60b96609cb1160cd9c79668bae1e5d/openapi.yaml",
+    "fetched_at": "2026-05-23T08:12:47.024899+00:00",
+    "content_hash": "5fc3857c3b4f18585348d3898687986a0bd8e84e833be5fb4b8a1092f6a07832",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "管理后台bff",
+    "openapi_version": "openapi_3",
+    "paths_count": 27,
+    "path_diff": null
+  }
+]

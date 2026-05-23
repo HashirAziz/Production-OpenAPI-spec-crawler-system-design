@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c8ae428a7998",
+    "source_url": "https://raw.githubusercontent.com/chopradish/BCMS-Server/5aa822a1a502281af53670ef18d70632147264a4/swagger.json",
+    "fetched_at": "2026-05-23T08:14:08.379188+00:00",
+    "content_hash": "feddc9fa44aca0a2cab5ea3b5ccf5ebc913b63be7d62d368fd853ec8685599b4",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

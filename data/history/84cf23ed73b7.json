@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "84cf23ed73b7",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/acf963b66a2139b19974030754ba1a548cd71617/apis/openapi/apache.org/qakka/v1/openapi.json",
+    "fetched_at": "2026-05-23T08:13:12.927633+00:00",
+    "content_hash": "0ba4dadc687a82e9a5effbdba8d4ecb095987ba08ac5a0bc0ea0296b80b6019f",
+    "info_version": "v1",
+    "status": "new",
+    "title": "Qakka",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

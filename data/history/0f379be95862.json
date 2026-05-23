@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0f379be95862",
+    "source_url": "https://raw.githubusercontent.com/VadymKolesov/taskpro_api/92797cc694353bd01e84e4cd7af0182a241e12e1/swagger.json",
+    "fetched_at": "2026-05-23T08:14:10.723911+00:00",
+    "content_hash": "a96f73a14da6f8ffeacbf844d52fcdb44fc87ea4f67fe591d3361d85bb136d9f",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "TaskPro API",
+    "openapi_version": "openapi_3",
+    "paths_count": 16,
+    "path_diff": null
+  }
+]

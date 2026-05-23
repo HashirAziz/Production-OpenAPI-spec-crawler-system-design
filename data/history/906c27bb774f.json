@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "906c27bb774f",
+    "source_url": "https://raw.githubusercontent.com/ga4gh/ga4gh-registry/5ebc1d0efa9d5b479eb62b372856a426425362b9/openapi.yaml",
+    "fetched_at": "2026-05-23T08:12:47.276196+00:00",
+    "content_hash": "1e7e8204014b801177bc5b9a03bcbc4eb4ba76b68a0940b3fb53eee411065ef8",
+    "info_version": "0.5.0",
+    "status": "new",
+    "title": "GA4GH Planet API",
+    "openapi_version": "openapi_3",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

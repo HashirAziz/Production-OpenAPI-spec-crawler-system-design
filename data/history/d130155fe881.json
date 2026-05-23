@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d130155fe881",
+    "source_url": "https://raw.githubusercontent.com/flaviojrdev/grid-motors-api/7466b959030dae246e9d514e830fe4bb2c747764/swagger.json",
+    "fetched_at": "2026-05-23T08:14:12.601069+00:00",
+    "content_hash": "33029a0e829314716fc7704bb170b3c2f28c449de6dd69c865d0d215a1ca5e9c",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Grid Motors API",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

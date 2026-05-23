@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "45a011e0a431",
+    "source_url": "https://raw.githubusercontent.com/MortezaFp/CryptoBasketBot/8687fafbf7f1e9d19f954f084fbb007ecd94047f/basicServices-swagger.json",
+    "fetched_at": "2026-05-23T08:14:05.643999+00:00",
+    "content_hash": "141e15f4a3f779a5a86c9a2ee4b82db5725fd7ab2a28b5c51eec350e373f59a8",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Spot",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

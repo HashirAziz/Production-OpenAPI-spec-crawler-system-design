@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "17ccf26a1c2d",
+    "source_url": "https://raw.githubusercontent.com/BartSoj/API-Health-Checker/3460ef916e287f4d82ab975495e958feef1e3be1/api_specs/sheets_openapi.json",
+    "fetched_at": "2026-05-23T08:13:23.247741+00:00",
+    "content_hash": "ac02b8944a49ddabc2352e6a7c0b0d8724bd42f1e77fd49f20924ebdf4fdf046",
+    "info_version": "v4",
+    "status": "new",
+    "title": "Google Sheets API",
+    "openapi_version": "openapi_3",
+    "paths_count": 16,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b007aecf5c15",
+    "source_url": "https://raw.githubusercontent.com/mcubico/api-py-flask-mongo/bc332291cc21de21bbb29a48fbe0b70e6cfee463/swagger.json",
+    "fetched_at": "2026-05-23T08:14:10.262580+00:00",
+    "content_hash": "bb1dfe40097836f8d86d8b3c6f8796c4c04a2d38fc7a3aea2d9ff6eb38d4d53b",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Cyber Security Risks API",
+    "openapi_version": "swagger_2",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

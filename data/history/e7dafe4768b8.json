@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e7dafe4768b8",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/acf963b66a2139b19974030754ba1a548cd71617/apis/openapi/n8n.io/main/1.1.1/openapi.json",
+    "fetched_at": "2026-05-23T08:13:09.832901+00:00",
+    "content_hash": "4b2fe3d302fd9f2f7670686d10ef62a8779e1e30094d807e92bae9317d1652bd",
+    "info_version": "1.1.1",
+    "status": "new",
+    "title": "n8n Public API",
+    "openapi_version": "openapi_3",
+    "paths_count": 25,
+    "path_diff": null
+  }
+]

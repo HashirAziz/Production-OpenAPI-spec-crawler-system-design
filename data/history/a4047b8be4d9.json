@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a4047b8be4d9",
+    "source_url": "https://raw.githubusercontent.com/ilyas-hallak/romm-ios-app/749a17cff142aaeab9a7fd453a4b73aaa62e5c7a/openapi.json",
+    "fetched_at": "2026-05-23T08:13:20.304952+00:00",
+    "content_hash": "187d3c185fcac734309e4d68346eed76f37381edffce28d8f2eb130e6e5d3b54",
+    "info_version": "4.1.4",
+    "status": "new",
+    "title": "RomM API",
+    "openapi_version": "openapi_3",
+    "paths_count": 59,
+    "path_diff": null
+  }
+]

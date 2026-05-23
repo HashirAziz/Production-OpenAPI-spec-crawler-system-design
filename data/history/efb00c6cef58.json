@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "efb00c6cef58",
+    "source_url": "https://raw.githubusercontent.com/samtheory/smart-irk/1792664c21d4a391bb753bba93233763312051f6/swagger.json",
+    "fetched_at": "2026-05-23T08:14:19.864805+00:00",
+    "content_hash": "30a386227021336e90b8cc194164e66afe4ac62ab4c309239954f7c199c3a8e0",
+    "info_version": "v1",
+    "status": "new",
+    "title": "مستندات API سامانه هوشمند پایانه‌ها - Smart",
+    "openapi_version": "openapi_3",
+    "paths_count": 70,
+    "path_diff": null
+  }
+]

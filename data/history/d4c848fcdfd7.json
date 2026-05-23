@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d4c848fcdfd7",
+    "source_url": "https://raw.githubusercontent.com/Emahfoodh/orch/be44a81ac79781f9a7d3fccbca1e495a65c0c608/swagger.yaml",
+    "fetched_at": "2026-05-23T08:13:41.325841+00:00",
+    "content_hash": "ca1c61cece63be90d970119711b979b400b4c6c7d1c99a373bf3c4a7cdc4a733",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "CRUD Master - Microservices API",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

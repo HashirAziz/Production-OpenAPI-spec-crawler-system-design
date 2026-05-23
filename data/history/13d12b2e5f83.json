@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "13d12b2e5f83",
+    "source_url": "https://raw.githubusercontent.com/atlp-rwanda/rca-phantom-team5-bn/607198be2e459cf15ab4220d85207ebb406e8ac2/swagger.json",
+    "fetched_at": "2026-05-23T08:14:08.613787+00:00",
+    "content_hash": "cbe824cab1e44e7892a926d6daeebad07267d0badaee0eeb7fa4c9bf4be1125e",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "PHANTOM ASSIGNMENT",
+    "openapi_version": "swagger_2",
+    "paths_count": 28,
+    "path_diff": null
+  }
+]

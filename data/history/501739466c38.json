@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "501739466c38",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/acf963b66a2139b19974030754ba1a548cd71617/apis/openapi/zoom.us/video-sdk/2/openapi.json",
+    "fetched_at": "2026-05-23T08:13:13.392126+00:00",
+    "content_hash": "e0de61ab2260531ddbdea6a5cb7f335d44a4e0ffe29cd80c580e452b5858a29c",
+    "info_version": "2",
+    "status": "new",
+    "title": "Video SDK",
+    "openapi_version": "openapi_3",
+    "paths_count": 26,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9c8e9a73ddd7",
+    "source_url": "https://raw.githubusercontent.com/yousefOsama-06/emotions-detector/7563a5dc47cb8e6d57f880cec340181f914c6442/swagger.yaml",
+    "fetched_at": "2026-05-23T08:13:53.455719+00:00",
+    "content_hash": "eaf9aeeeae1dd26117a8982568d3f3d65cb107639c421d63e7ff404fb6b83288",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Mood Tracker API",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

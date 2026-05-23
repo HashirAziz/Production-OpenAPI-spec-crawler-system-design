@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e1d457283d12",
+    "source_url": "https://raw.githubusercontent.com/opensupplyhub/os-hub-chrome-extension/923042b793c0988ff88b093aa406e63b5dc61a53/openapi.yaml",
+    "fetched_at": "2026-05-23T08:12:50.079033+00:00",
+    "content_hash": "e68c0e3fd72a5437cbef378051e18e736cdce5f595ed7796f764a57059146d29",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "OS Hub API Design - V1",
+    "openapi_version": "openapi_3",
+    "paths_count": 12,
+    "path_diff": null
+  }
+]

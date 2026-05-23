@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "68dd2a4c1490",
+    "source_url": "https://raw.githubusercontent.com/zeewaqar/product-complaints-api/26e11d0322865f4c2efcdf35043ea4ef06b6505d/swagger.json",
+    "fetched_at": "2026-05-23T08:14:11.872208+00:00",
+    "content_hash": "1f52acc2c9c8b7a168fe62be1fa8b5cb0ac7789da83e81b79debbcc7af450a46",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Product Complaints API",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

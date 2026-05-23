@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "fa9d1b3eab3b",
+    "source_url": "https://raw.githubusercontent.com/karanch577/Sneakerx-backend/ff538af5288a9a685fe59c4c3640e75e51f13c1f/swagger.yaml",
+    "fetched_at": "2026-05-23T08:13:39.846084+00:00",
+    "content_hash": "632bbfacb248218eb3eae74beac9d467a5377408f52a9bb63df90756fabe2ce0",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "Sneakers",
+    "openapi_version": "openapi_3",
+    "paths_count": 22,
+    "path_diff": null
+  }
+]

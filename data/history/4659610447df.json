@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4659610447df",
+    "source_url": "https://raw.githubusercontent.com/getwlad/mentora-me/3648b40ec460117544a0dab1e1a31126847ec721/swagger.json",
+    "fetched_at": "2026-05-23T08:14:08.877175+00:00",
+    "content_hash": "00b137dbbf6960ed05408f59f8b572f893fbf7d4bb03a197ea19b6b5083da992",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Mentora",
+    "openapi_version": "openapi_3",
+    "paths_count": 18,
+    "path_diff": null
+  }
+]

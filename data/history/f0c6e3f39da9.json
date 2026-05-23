@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f0c6e3f39da9",
+    "source_url": "https://raw.githubusercontent.com/Projeto-Extensao-INFNET/backend/4dbb65574c6e881708af75b5f74171ab8f48c6f6/swagger.json",
+    "fetched_at": "2026-05-23T08:14:20.080969+00:00",
+    "content_hash": "c999b2abcc0c21294b73277d6c24f9e641163b7a874d31a80f76340c4738ffb0",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API Projeto de Extensao",
+    "openapi_version": "openapi_3",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

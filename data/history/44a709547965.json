@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "44a709547965",
+    "source_url": "https://raw.githubusercontent.com/codestates/Fessport_Server/be20da6c2210474e25143f121a9c9bea27b1f0bd/swagger.yaml",
+    "fetched_at": "2026-05-23T08:13:49.317165+00:00",
+    "content_hash": "4fdc74bca7c9bbc9fff3d1715d01deaec5a13955ca3b968e72ab6de779a40ad0",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "unknown",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

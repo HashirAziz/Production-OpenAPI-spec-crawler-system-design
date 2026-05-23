@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "cf385433ded7",
+    "source_url": "https://raw.githubusercontent.com/readytowork-org/flutter_bloc_skeleton/324b40093be797719830877e1fba59536c79b32e/swagger.json",
+    "fetched_at": "2026-05-23T08:14:17.039824+00:00",
+    "content_hash": "d874ad03536c38f48eea6273da7e090771b9562f40667c7c818412d380cbb708",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "DummyJSON Todos API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

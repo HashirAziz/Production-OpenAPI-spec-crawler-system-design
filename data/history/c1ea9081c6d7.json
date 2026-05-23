@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c1ea9081c6d7",
+    "source_url": "https://raw.githubusercontent.com/Edcleryton/mentoria_testes_desafio_03/524cd26746ce982765ccee66f44a99dfade04d66/swagger.json",
+    "fetched_at": "2026-05-23T08:14:06.304979+00:00",
+    "content_hash": "4133003f0247eb6ba0cdaac77d4f531538abd2cdfd9c67d3b514899493d6e6df",
+    "info_version": "1.1.0",
+    "status": "new",
+    "title": "API Login de Usuários",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

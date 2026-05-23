@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a3596fce22d1",
+    "source_url": "https://raw.githubusercontent.com/feakin/fklang/952d762f5e4390cb61ab253bf637ae21ce841a54/fkl_parser/_fixtures/swagger.json",
+    "fetched_at": "2026-05-23T08:14:16.123742+00:00",
+    "content_hash": "31e239c7619307fcea4257b6f5470747117e50dc3693eed959b2f1a594ca5859",
+    "info_version": "1.0.6",
+    "status": "new",
+    "title": "Swagger Petstore",
+    "openapi_version": "swagger_2",
+    "paths_count": 14,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "210add6f4077",
+    "source_url": "https://raw.githubusercontent.com/Gravity-Tech/gravity-node-api/39d2334b248ee69da8387fffb02eadf7c242dee5/swagger.json",
+    "fetched_at": "2026-05-23T08:14:19.446785+00:00",
+    "content_hash": "a252c0d56aa36f63b6da4e95c6fd443a4fad9924d0133a154b00f936c8e435b8",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Gravity Node API.",
+    "openapi_version": "swagger_2",
+    "paths_count": 35,
+    "path_diff": null
+  }
+]

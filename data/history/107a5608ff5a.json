@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "107a5608ff5a",
+    "source_url": "https://raw.githubusercontent.com/KEEEENNNNYYYY/Formats-de-donn-es-textuels/7c9d9f103202f48bc2554856d84f0abf2f60ac15/template%20openAPI/openAPI.yaml",
+    "fetched_at": "2026-05-23T08:12:35.870556+00:00",
+    "content_hash": "2d18657da1bfc981bb98de158a6b8d1fbfb42f55ac208ca4099fa6e19d05c7f9",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "STD23006 - TD1",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

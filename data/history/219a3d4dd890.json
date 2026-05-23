@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "219a3d4dd890",
+    "source_url": "https://raw.githubusercontent.com/PollingInc/openpoll/e38c78170e93a1f530eaeaf833955cedf10690de/openapi.yaml",
+    "fetched_at": "2026-05-23T08:12:49.116782+00:00",
+    "content_hash": "0b28265a2b54eca5932c9c641b2ff95ebd48809b3561fb30cc43ad253e1cb1c5",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Polling API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

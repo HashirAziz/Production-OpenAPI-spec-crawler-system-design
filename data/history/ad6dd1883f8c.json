@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ad6dd1883f8c",
+    "source_url": "https://raw.githubusercontent.com/ntd1928/INT3505E_01_demo/df223c63cce24ae5cedf28f06b63902ccfc7dd82/openapi.yaml",
+    "fetched_at": "2026-05-23T08:12:52.665538+00:00",
+    "content_hash": "f3cc8c64d16cc9a0a18da5700def9b3ba8efe1f4d19d79383c04debeee1ed757",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Library Management API",
+    "openapi_version": "openapi_3",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

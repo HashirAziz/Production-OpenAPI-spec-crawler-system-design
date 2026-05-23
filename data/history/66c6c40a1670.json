@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "66c6c40a1670",
+    "source_url": "https://raw.githubusercontent.com/khulnasoft/plugins-quickstart/9df58e716b13074affa27c398f725a37907f88be/openapi.yaml",
+    "fetched_at": "2026-05-23T08:12:48.403371+00:00",
+    "content_hash": "a2e7cfdca8e54ba6d285d6085e7e3cd63b104e5b97eebab41aa8eb608b3d2585",
+    "info_version": "v1",
+    "status": "new",
+    "title": "TODO Plugin",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

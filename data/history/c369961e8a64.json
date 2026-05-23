@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c369961e8a64",
+    "source_url": "https://raw.githubusercontent.com/AnthonyGuerrero56/org-divisions-backend/4d10b572bebde5d6ac61d51fe721ae82e87c46f2/swagger.json",
+    "fetched_at": "2026-05-23T08:14:12.337906+00:00",
+    "content_hash": "3cc98934392289efe974f9b44866e0dad8b17df7b5e4b26a129c8eb79586796d",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Divisions API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

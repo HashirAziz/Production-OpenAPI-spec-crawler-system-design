@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "cd5624167575",
+    "source_url": "https://raw.githubusercontent.com/hevayo/restful-apim/e61eb6da7490c2b34682ad4268b2f5140e8bebd0/schema/swagger.json",
+    "fetched_at": "2026-05-23T08:14:15.882528+00:00",
+    "content_hash": "0669ab19d645e5f0a18a23b7f9f671c50128dfb3a0176df18d13fc8ea42aa427",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "unknown",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

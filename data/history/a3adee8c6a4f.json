@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a3adee8c6a4f",
+    "source_url": "https://raw.githubusercontent.com/guiblondeau/save-the-turtles/199c5ecbea514128c575169bd9771bbfddbfdde9/swagger.json",
+    "fetched_at": "2026-05-23T08:14:17.996237+00:00",
+    "content_hash": "066e5f343079fd651e055ef799c04ad8c2c508e974727b84f385f4d2926f5676",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Try in Client 2",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

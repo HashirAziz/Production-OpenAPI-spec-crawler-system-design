@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f960c5a204e1",
+    "source_url": "https://raw.githubusercontent.com/guntarion/whatsapp-api-master-chrishubert/8f291239a474faaab1930d24b4acb4c6afba1df4/swagger.json",
+    "fetched_at": "2026-05-23T08:14:05.007164+00:00",
+    "content_hash": "bfc55af540e704811347a591f2043261e559f0b71ed742c20adc861d0ff734ad",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "WhatsApp API",
+    "openapi_version": "openapi_3",
+    "paths_count": 87,
+    "path_diff": null
+  }
+]

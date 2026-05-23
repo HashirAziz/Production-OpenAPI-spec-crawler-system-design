@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c60b5c224b41",
+    "source_url": "https://raw.githubusercontent.com/sibaraku/todo-tdd/372554db7d8f8c1a22ea273956cf47dc93c95100/swagger.yaml",
+    "fetched_at": "2026-05-23T08:13:47.099802+00:00",
+    "content_hash": "ff44fc3adc8d93717bf5017b814e7a0c306b74802f1dcff1818017d9c8ed621f",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Todo API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "47444e897bf6",
+    "source_url": "https://raw.githubusercontent.com/andela/rivendell-ah/31c0cd81534389aacae101101c7bc0383584b30b/swagger.json",
+    "fetched_at": "2026-05-23T08:14:04.569394+00:00",
+    "content_hash": "3e55cd980e74938a78fcbeb00c4d3c1b74a0848866c663393249435ae2b48b0d",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Authors Haven",
+    "openapi_version": "swagger_2",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

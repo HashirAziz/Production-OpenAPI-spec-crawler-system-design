@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "bedda2c9edac",
+    "source_url": "https://raw.githubusercontent.com/juanmorales1301/analisis-practicas-back/a3c80b2227017ba0c89f7114203b764967382bfc/swagger.json",
+    "fetched_at": "2026-05-23T08:14:10.466549+00:00",
+    "content_hash": "8de2c31aa837786d3de4479f0bc4206e1a632132a9b3a69ca31a90af42c9b415",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API Practicas",
+    "openapi_version": "openapi_3",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

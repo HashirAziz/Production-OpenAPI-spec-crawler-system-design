@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "98d8d57d010a",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/acf963b66a2139b19974030754ba1a548cd71617/apis/openapi/wordnik.com/main/4.0/openapi.json",
+    "fetched_at": "2026-05-23T08:13:15.418502+00:00",
+    "content_hash": "a36dc194d5ad38ce435608fac21a37479d689d49f850894c848665ccfa93c117",
+    "info_version": "4.0",
+    "status": "new",
+    "title": "api.wordnik.com",
+    "openapi_version": "openapi_3",
+    "paths_count": 16,
+    "path_diff": null
+  }
+]

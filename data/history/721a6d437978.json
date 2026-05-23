@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "721a6d437978",
+    "source_url": "https://raw.githubusercontent.com/abhixsh/crosscult-auth-service/19cce63b9a7265e5e00bd160db95fb6ed058ce81/swagger.json",
+    "fetched_at": "2026-05-23T08:14:21.720182+00:00",
+    "content_hash": "58384c3a85d1dc9871da2014d8259ace610b56ca34fa5a0500eefed0461d7cdd",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "User and Admin CRUD API",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "33feda1843cc",
+    "source_url": "https://raw.githubusercontent.com/readmeio/readme-custom-login-demo/001096b0322be75ea91edffafa4ffe77db7fa6c6/openapi.json",
+    "fetched_at": "2026-05-23T08:13:13.622159+00:00",
+    "content_hash": "b6dc086b74d0b6465705167254f6fafebb60aea8ef3011eef0bf5e6a2af2b09f",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Server variables example",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

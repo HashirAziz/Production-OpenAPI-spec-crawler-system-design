@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "dec8febede22",
+    "source_url": "https://raw.githubusercontent.com/Protik111/my-blog-api/ab6f0e969df3c51ae12a931dcd3d19a3b617b78c/swagger.yaml",
+    "fetched_at": "2026-05-23T08:13:47.741900+00:00",
+    "content_hash": "f792c8c02451e097d67529d8f7e154fa073fec3ea3e63db5fa5716d31a6ccd45",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "FSArmy - My Blog API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

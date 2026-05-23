@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "507fd1b402c5",
+    "source_url": "https://raw.githubusercontent.com/squallcoder/COP4331_ContactManager/836ead25f7468204d5d679d9638a1712d4400bd7/swagger.json",
+    "fetched_at": "2026-05-23T08:14:11.121598+00:00",
+    "content_hash": "c71baefcd030cb11a301216a3217e108c6e090ed6c4754f0abf86349662e2d71",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Contact Manager App",
+    "openapi_version": "swagger_2",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "57ff39456118",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/acf963b66a2139b19974030754ba1a548cd71617/apis/openapi/idtbeyond.com/idtbeyond-api/1.1.7/meta/source/swagger.json",
+    "fetched_at": "2026-05-23T08:14:02.662669+00:00",
+    "content_hash": "120d0e4aa3c43f08bd94ed4fb42405866b678f66baff470ae53c30cccad90140",
+    "info_version": "1.1.7",
+    "status": "new",
+    "title": "Active Documentation for /v1",
+    "openapi_version": "swagger_2",
+    "paths_count": 15,
+    "path_diff": null
+  }
+]

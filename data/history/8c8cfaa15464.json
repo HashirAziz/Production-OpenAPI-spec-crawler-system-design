@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8c8cfaa15464",
+    "source_url": "https://raw.githubusercontent.com/alexisNorthcoders/webserver/7a83f76a3745a36a9c6fa1efa5e332c581e8e6de/swagger.yaml",
+    "fetched_at": "2026-05-23T08:13:41.563237+00:00",
+    "content_hash": "f639f6122f2b82245b2b3407cf1d0bd94e68871b3aa8b0a9178ae71b94fc87c4",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "My API",
+    "openapi_version": "openapi_3",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

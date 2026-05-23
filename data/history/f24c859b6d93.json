@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f24c859b6d93",
+    "source_url": "https://raw.githubusercontent.com/JSI-EuBusinessGraph/jsi-graph-based-analytics-api/9ae40b7ef05f47e391a388fd41a84673a0ffcc27/swagger.json",
+    "fetched_at": "2026-05-23T08:14:21.236764+00:00",
+    "content_hash": "4751b1ec278a8bc5de11d0030cb72cd294a6a7c91a761cc733d3d1c56c7418ed",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "JSI Graph Based Analytics",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

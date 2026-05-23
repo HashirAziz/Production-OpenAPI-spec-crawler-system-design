@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "aefc260f57ad",
+    "source_url": "https://raw.githubusercontent.com/AaronFabian/maze-conquest-api/5d2375675912d3760c73e7cd061e678343bc5ee5/openAPI.json",
+    "fetched_at": "2026-05-23T08:13:23.508146+00:00",
+    "content_hash": "a96a680875c694b1e7e2311724ab977b200e7d1184a65bcd0c6cd4ebedd0531d",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Maze Conquest RESTful API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

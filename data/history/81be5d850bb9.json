@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "81be5d850bb9",
+    "source_url": "https://raw.githubusercontent.com/sambacha/yearn-v2-schemas/bff0980bad9459f9b897acae93f2108de6f97f8d/swagger.json",
+    "fetched_at": "2026-05-23T08:14:12.127030+00:00",
+    "content_hash": "ef6af782d8430893ce8f64786be2c809291722935c772a923856ba52efa6e304",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "Manifold REST API",
+    "openapi_version": "openapi_3",
+    "paths_count": 18,
+    "path_diff": null
+  }
+]

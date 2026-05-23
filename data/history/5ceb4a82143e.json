@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5ceb4a82143e",
+    "source_url": "https://raw.githubusercontent.com/seifsheikhelarab/walletwatch-api/3b606f0704df81196cf3d09d67e9746da5e424c3/swagger.json",
+    "fetched_at": "2026-05-23T08:14:12.831283+00:00",
+    "content_hash": "2454dd04611457be98b6988f5701833528f274af1181a04320df83568c4bf593",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "WalletWatch API",
+    "openapi_version": "openapi_3",
+    "paths_count": 12,
+    "path_diff": null
+  }
+]

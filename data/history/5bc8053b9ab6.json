@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5bc8053b9ab6",
+    "source_url": "https://raw.githubusercontent.com/vwolfley/tools-collection-project/1e8a8af38a6d21ab2f4a0a32abe265272ba85bcd/swagger.json",
+    "fetched_at": "2026-05-23T08:14:09.108381+00:00",
+    "content_hash": "ae41e1baefbf0359c180c967d791ce762555ff8b6d70d68e12eccd43ca3b86b1",
+    "info_version": "1.2.0",
+    "status": "new",
+    "title": "Tools Collection Project API",
+    "openapi_version": "openapi_3",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

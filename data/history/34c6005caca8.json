@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "34c6005caca8",
+    "source_url": "https://raw.githubusercontent.com/Xciles/Assignment2/642f88cdc37818caac4ca9ef023f29e99d83a5dd/swagger.json",
+    "fetched_at": "2026-05-23T08:14:20.329212+00:00",
+    "content_hash": "556313a4709a0ebc80630bc9de0985fefaba60a8e3fb6b26fe5c6fe93f1cbc5c",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "My Title",
+    "openapi_version": "swagger_2",
+    "paths_count": 12,
+    "path_diff": null
+  }
+]

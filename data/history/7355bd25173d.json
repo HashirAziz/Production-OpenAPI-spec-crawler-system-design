@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "7355bd25173d",
+    "source_url": "https://raw.githubusercontent.com/hairmare/subnet-api/1ed1d05f0c96ae6244325ceacb3cf1fbab313dcc/app/views/swagger.json.twig",
+    "fetched_at": "2026-05-23T08:13:59.462037+00:00",
+    "content_hash": "9106277d7315f6ea1a3397295b557024f1048490f923d5e5650719f533ad7118",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "Subnet Information API",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

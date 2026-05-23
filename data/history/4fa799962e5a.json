@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4fa799962e5a",
+    "source_url": "https://raw.githubusercontent.com/pooooz/meetup-api/dbf0b7e5ced68c4e57623eb029305f4f9f20912c/swagger.yaml",
+    "fetched_at": "2026-05-23T08:13:47.492054+00:00",
+    "content_hash": "75df6b2036f5ddaadaa8f2bca5020b87ad9ec61fe01d2111f6324060c07eb1b6",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Meetup API",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

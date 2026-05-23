@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "98811d2ba619",
+    "source_url": "https://raw.githubusercontent.com/samuelayo/node_redis_crud/1d50eb5a2639901999db638f347c0d5b1f4fe109/swagger.yaml",
+    "fetched_at": "2026-05-23T08:13:44.743715+00:00",
+    "content_hash": "c52ec1e0c2d72a62be4c665e01f6374522ed2ca9f6fe0aad2b9591307039b6ee",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Movies Restful api",
+    "openapi_version": "swagger_2",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]
