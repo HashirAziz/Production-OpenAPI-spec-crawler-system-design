@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "cb71027a5d6d",
+    "source_url": "https://raw.githubusercontent.com/GYM-MATE-492/BACKEND/2e218e7a3feb9d537638d6b13e35a360ad7df8ad/docs/openapi.yaml.backup",
+    "fetched_at": "2026-05-24T08:24:26.108573+00:00",
+    "content_hash": "ddf0ab4215dfce01e3186dde31b06689b6ab304082dc87da1b4a0c1a04bda951",
+    "info_version": "2.0.0",
+    "status": "new",
+    "title": "GymMate Backend API",
+    "openapi_version": "openapi_3",
+    "paths_count": 29,
+    "path_diff": null
+  }
+]

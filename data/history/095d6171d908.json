@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "095d6171d908",
+    "source_url": "https://raw.githubusercontent.com/samchon/nestia-sdk-template/8cfb771ea2bdc1692ce256863a0ada49990214a8/swagger.json",
+    "fetched_at": "2026-05-24T08:25:57.673673+00:00",
+    "content_hash": "88ab1d8055e6f3b72285888680b39851462743f1fa082b0cf2fa365a289feb4b",
+    "info_version": "2.2.0",
+    "status": "new",
+    "title": "@samchon/bbs-backend",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4c0b584863e8",
+    "source_url": "https://raw.githubusercontent.com/Vitaly-Khvisevich/Node.js-GMP-Express-application/ad60f9aacf8a0b018333aef20353648640e1760c/swagger.yaml",
+    "fetched_at": "2026-05-24T08:25:37.809250+00:00",
+    "content_hash": "38c7db7cc9e1058c7962da4619fd554eeb684f0375cdd05f3798ed7b8c5252e1",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Node.js GMP Express application",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

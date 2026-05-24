@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5812f4b6a0b7",
+    "source_url": "https://raw.githubusercontent.com/cesardev31/Camila-shopping/4a2566918c110fd9ed2205dd6cb7937a5083c414/swagger.json",
+    "fetched_at": "2026-05-24T08:26:01.682044+00:00",
+    "content_hash": "29a29a8461c70127a05923352e43d38709940e043544e6540cf4712f9109cddb",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API de Camila Shopping",
+    "openapi_version": "openapi_3",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

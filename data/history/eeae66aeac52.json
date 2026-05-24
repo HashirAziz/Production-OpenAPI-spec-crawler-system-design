@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "eeae66aeac52",
+    "source_url": "https://raw.githubusercontent.com/TrentoCrowdAI/cga-api-spec/6fbf4ae467138acd8d5fb01ffadd330f80af285b/swagger.yaml",
+    "fetched_at": "2026-05-24T08:25:44.947461+00:00",
+    "content_hash": "9d103e05754e17b4b526c854941fbfbb67758b470fcb9172cdab70cf96246fac",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "CGA Survey",
+    "openapi_version": "swagger_2",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "dc831a6db647",
+    "source_url": "https://raw.githubusercontent.com/Uniswap/uniswapx-service/0fb57308f22f9d1a7223798aae6ea1c0eb123808/swagger.json",
+    "fetched_at": "2026-05-24T08:25:55.090042+00:00",
+    "content_hash": "5eeb39472f539ec413e5e558afa93715203f03af6ccf0ab23bd7cdc44baaef3e",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "UniswapX",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

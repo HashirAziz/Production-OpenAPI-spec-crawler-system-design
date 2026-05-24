@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "17373c706ab3",
+    "source_url": "https://raw.githubusercontent.com/FerAHMz/lab6/e5164b3be159de2145def4766cb6b217a26988f2/swagger.yaml",
+    "fetched_at": "2026-05-24T08:25:21.723528+00:00",
+    "content_hash": "b228e06da5f7e91cbb8ca2fa05bd9e8d3b5f6f25e711af4cbb7b5ea0cdaf5649",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "La Liga Tracker API",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "192274436ddb",
+    "source_url": "https://raw.githubusercontent.com/Amikua/Timeline/c8d2c1c1a87389c73f87063d2d5f7d0e659d7851/swagger.yaml",
+    "fetched_at": "2026-05-24T08:25:41.642843+00:00",
+    "content_hash": "54760a6dba6a33a0e66ca30ca1a3efc78c988df510661eb5ce1f4df6d0b146e0",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Project Events API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

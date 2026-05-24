@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d36fe6f78d10",
+    "source_url": "https://raw.githubusercontent.com/witalomelo/gcp-endpoint/246f294ec24712c898047012e8c35f6ec8a12d35/openapi.yaml",
+    "fetched_at": "2026-05-24T08:24:27.834917+00:00",
+    "content_hash": "bfaa347944665d0edd348f876b7bcf002a3f0c27807555479b6ab076824844a3",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Airport Codes",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

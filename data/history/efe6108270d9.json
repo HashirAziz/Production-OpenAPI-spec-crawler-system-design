@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "efe6108270d9",
+    "source_url": "https://raw.githubusercontent.com/memset0/pixhost/6eb083807278602b8ca9fda695aa7368c7a07d1b/openapi.yaml",
+    "fetched_at": "2026-05-24T08:24:27.356806+00:00",
+    "content_hash": "907bbe457d167fbb88f8cd3daa5b35ab48dc464186f2183f2edf0c2d32a4627c",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Pixhost Image Manager API",
+    "openapi_version": "openapi_3",
+    "paths_count": 25,
+    "path_diff": null
+  }
+]

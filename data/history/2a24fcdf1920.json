@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2a24fcdf1920",
+    "source_url": "https://raw.githubusercontent.com/mozarik/stoics-quote/f03027c20aea15b54a04e49a7a55a877966e4d54/swagger.yaml",
+    "fetched_at": "2026-05-24T08:25:28.625119+00:00",
+    "content_hash": "28488c662b1b8ce7c2d34be1c6ded9c80d454864a13674f4fbe6b2b0b3d4427e",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "List API for Stoics Quotes Mini Project Alterra",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

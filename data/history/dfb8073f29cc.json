@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "dfb8073f29cc",
+    "source_url": "https://raw.githubusercontent.com/kensin200111121/Teamgrow-Backend/a2ec2444b23c3311636ce35375fb8981d650d527/swagger.yaml",
+    "fetched_at": "2026-05-24T08:25:38.501513+00:00",
+    "content_hash": "794709c02a0eee1a1f934edf6b150dce12b38e869418762df6e034ceedef19c7",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "CRMGROW API",
+    "openapi_version": "openapi_3",
+    "paths_count": 15,
+    "path_diff": null
+  }
+]

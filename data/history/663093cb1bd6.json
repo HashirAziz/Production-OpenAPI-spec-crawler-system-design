@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "663093cb1bd6",
+    "source_url": "https://raw.githubusercontent.com/vicent-dev/notice-me/e4500e880e04ce780fd03fdd5a1e1408b0f78ae1/swagger.yaml",
+    "fetched_at": "2026-05-24T08:25:33.405874+00:00",
+    "content_hash": "fb5bd9db165a87e1e15adc1c86aad0ce78466a368f9eff8a788900be79401d3c",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Notice-Me Server API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

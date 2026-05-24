@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4c5551608f0c",
+    "source_url": "https://raw.githubusercontent.com/Gkemhcs/vikraya-ecommerce/30b07c1548210f8ffaef00352d0dcea565772aba/terraform/openapi.yaml.tpl",
+    "fetched_at": "2026-05-24T08:24:06.883351+00:00",
+    "content_hash": "3266b91219f22a6a11258614b67acfc45557421ced46327e1700a710837f9f15",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Langsearch Vertex AI Search API",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

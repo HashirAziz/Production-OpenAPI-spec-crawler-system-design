@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "68cb999e3ecb",
+    "source_url": "https://raw.githubusercontent.com/JOBREADYAIHUB/travaia-ai/2e23337c03aeef007968051a89fbbcfe49992492/travaia-ai/backend/api-gateway/openapi.yaml.backup",
+    "fetched_at": "2026-05-24T08:24:19.458677+00:00",
+    "content_hash": "d22ad9299b06160a6710f7828507405b81beed1017b717fbbbb2840db3cc6823",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Travaia API Gateway",
+    "openapi_version": "swagger_2",
+    "paths_count": 72,
+    "path_diff": null
+  }
+]

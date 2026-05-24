@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "08ed268dcd8a",
+    "source_url": "https://raw.githubusercontent.com/nlp4se/RE-Miner-Hub/2a638dff9e98fb4de6e3ba8e31ca877d96519ef5/swagger.yaml",
+    "fetched_at": "2026-05-24T08:25:45.641744+00:00",
+    "content_hash": "00a63a0a802e92df5ca942fc59b79bb9ae65498543bd2349d61a37a2f0693377",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "RE-Miner HUB",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "fec63f88d734",
+    "source_url": "https://raw.githubusercontent.com/danish498/Sprintify/b60ade4ea3077cebaecf1bc89789e3ce970c4dd2/swagger.json",
+    "fetched_at": "2026-05-24T08:26:13.766173+00:00",
+    "content_hash": "efa7e41ceab6da59a2297b93fd691a28e44e84cd8ee7c0634cc04fca0bda5857",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Smart Queue API",
+    "openapi_version": "openapi_3",
+    "paths_count": 17,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2b8c8d3c25a8",
+    "source_url": "https://raw.githubusercontent.com/eu-sec/continuous-auditing-api-spec/79334957c48f2d5d32c28976b3bf6e14aa687a48/swagger.yaml",
+    "fetched_at": "2026-05-24T08:25:28.967581+00:00",
+    "content_hash": "f4d0ecccf8e986e76aabb31da8dc58fff0244c0c8cf9f7e6df6931032f9fabb0",
+    "info_version": "1.0.8",
+    "status": "new",
+    "title": "EU-SEC CA API",
+    "openapi_version": "swagger_2",
+    "paths_count": 12,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e5401ac5ea1c",
+    "source_url": "https://raw.githubusercontent.com/CodenityOrg/helpet-API/176c70192496c92e41fffee7cbc1fe807aa715af/swagger.json",
+    "fetched_at": "2026-05-24T08:26:06.616119+00:00",
+    "content_hash": "8808617661f032f794db9afeede75522bce2b9477a28dfe7d34f6ebbef9b83db",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "Swagger Petstore",
+    "openapi_version": "swagger_2",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

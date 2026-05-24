@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "df9e08471fc6",
+    "source_url": "https://raw.githubusercontent.com/ThomasAlanCat/temp-jobs-api/c0afa7de3af7f80e7b32920002d27613676482af/swagger.yaml",
+    "fetched_at": "2026-05-24T08:25:36.981286+00:00",
+    "content_hash": "ee5cb5bcf9671ebed0f56a697a7ce38cf42125ea89755813d779e4021cec36dd",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Jobs API by ThomasAlan",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

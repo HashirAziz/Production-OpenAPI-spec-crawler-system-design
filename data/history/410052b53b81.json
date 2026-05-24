@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "410052b53b81",
+    "source_url": "https://raw.githubusercontent.com/KevinYang2229/photo-vault-backend/a4da87e239b248bc2851529bb0d430998878e83e/swagger.yaml",
+    "fetched_at": "2026-05-24T08:25:42.288746+00:00",
+    "content_hash": "ee976ed3aaeeb9446b78f295a68b07dd1ee392e4d4618932039243afbeaa1eea",
+    "info_version": "v1",
+    "status": "new",
+    "title": "Photo Vault API",
+    "openapi_version": "openapi_3",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

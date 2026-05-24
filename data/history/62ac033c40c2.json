@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "62ac033c40c2",
+    "source_url": "https://raw.githubusercontent.com/dev-msf/nxbsk_filestorage/315b451e19f43942e3d2c808380e045e8ed148cb/swagger.yaml",
+    "fetched_at": "2026-05-24T08:25:22.466985+00:00",
+    "content_hash": "89c7508d472bdc10996048c7e918897771e551a30bd3f4cb47aa35d59f0ca0c4",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Multi-Tenant Document Storage API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

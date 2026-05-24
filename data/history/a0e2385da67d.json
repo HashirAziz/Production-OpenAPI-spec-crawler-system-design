@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a0e2385da67d",
+    "source_url": "https://raw.githubusercontent.com/Arnv24505/Dummy-backend/e11018c369d68f7cd950dae84142c750b39b7346/swagger.yaml",
+    "fetched_at": "2026-05-24T08:25:43.275274+00:00",
+    "content_hash": "aaa4defcea63f58f9b01809a878e4919e4d6821b726eb5264300ef96f707e173",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Dummy Backend API",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

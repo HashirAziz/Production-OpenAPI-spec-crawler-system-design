@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1e6034e1225c",
+    "source_url": "https://raw.githubusercontent.com/ford-at-home/ourchants-website/1320e7a664035b5b8523c45ebd16f3d676d8b8f2/swagger.yaml",
+    "fetched_at": "2026-05-24T08:25:40.634874+00:00",
+    "content_hash": "06ca2baf469361efb6e3c12d552963233dd2955b8448646fb46e063ba2f05ee7",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "OurChants API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

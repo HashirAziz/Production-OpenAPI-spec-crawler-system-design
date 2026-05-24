@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e4a843061d52",
+    "source_url": "https://raw.githubusercontent.com/davidcp90/supershoes/cc911b3e14ce6308e54111bf0dbaaa51a9e31df5/swagger.yaml",
+    "fetched_at": "2026-05-24T08:25:30.716183+00:00",
+    "content_hash": "f87c0560ddd9c5538bc7c1a661fcdb00661e8ec2cc9a9080bdd02177818c3a0d",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "test",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

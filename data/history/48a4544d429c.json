@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "48a4544d429c",
+    "source_url": "https://raw.githubusercontent.com/jupiter-project/metis-api/aed51812818fabc44cf2cfbb5948ee5c03f89425/swagger.json",
+    "fetched_at": "2026-05-24T08:25:57.234667+00:00",
+    "content_hash": "b96f07e835cec324f1ca4dba0daab04bc045ae827de436cc6d25b2017d52146f",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Metis API",
+    "openapi_version": "swagger_2",
+    "paths_count": 23,
+    "path_diff": null
+  }
+]

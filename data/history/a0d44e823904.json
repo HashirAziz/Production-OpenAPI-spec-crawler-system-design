@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a0d44e823904",
+    "source_url": "https://raw.githubusercontent.com/OpenBanking-Brasil/api-teste-sensedia/1b82d5af99d79942bd7355411d0e652b46201ecd/swagger.yaml",
+    "fetched_at": "2026-05-24T08:25:37.460906+00:00",
+    "content_hash": "d74021809f11dc5c3d02c7a65f981ee707f219dd5c51d6e94b6527f285989da4",
+    "info_version": "2.0.0-rc.1",
+    "status": "new",
+    "title": "API de Testes da Sensedia",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6c36483d4b33",
+    "source_url": "https://raw.githubusercontent.com/gibr098/Tripplanner/cb5bcf7702f2eca04b9e17156a32249862b24342/swagger.json",
+    "fetched_at": "2026-05-24T08:26:11.400231+00:00",
+    "content_hash": "82bbde40b8faaf33520e5e39cc2da82f8573ee9d002b006aecefdc1aa934e816",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Triplanner",
+    "openapi_version": "swagger_2",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

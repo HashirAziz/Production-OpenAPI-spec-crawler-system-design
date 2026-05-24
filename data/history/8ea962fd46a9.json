@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8ea962fd46a9",
+    "source_url": "https://raw.githubusercontent.com/act-now/act-now-api/15f0b722fe7bdbc56964784b90e54579fadc18b9/swagger.yaml",
+    "fetched_at": "2026-05-24T08:25:25.463628+00:00",
+    "content_hash": "a602dca5866878c3215cb3ea894af2c626e6ad5e72ce6f24a3e48348ef1f0bd0",
+    "info_version": "0.0.0",
+    "status": "new",
+    "title": "Act Now",
+    "openapi_version": "swagger_2",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

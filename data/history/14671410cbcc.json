@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "14671410cbcc",
+    "source_url": "https://raw.githubusercontent.com/Pasindu0707/microservice_Assignment/86be878b7c38678acf0b3c03ad7e92828de44520/swagger.yaml",
+    "fetched_at": "2026-05-24T08:25:42.955456+00:00",
+    "content_hash": "c8f60c081f80d0c9f9f27e0d7f46dd1aa725dff55d1d45a785f50030ff842e83",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Auth Service API",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

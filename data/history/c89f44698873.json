@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c89f44698873",
+    "source_url": "https://raw.githubusercontent.com/lindseyrafalsky/Module3/250a5d6a31ddcec5eeef46555513d9af7ad9a56f/swagger.yaml",
+    "fetched_at": "2026-05-24T08:25:21.101678+00:00",
+    "content_hash": "a95dc85e9419b74f17c10c63b1a046f25354a25bb5068054ee87302f176ce3c8",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Finance API",
+    "openapi_version": "openapi_3",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

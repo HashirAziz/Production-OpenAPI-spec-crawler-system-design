@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9ecb84506c43",
+    "source_url": "https://raw.githubusercontent.com/GideonBature/Campus-Tut/cdda1b4d5dcacfc4452e470537ee22eb3bdc45e6/src/swagger.json.bak",
+    "fetched_at": "2026-05-24T08:25:54.578049+00:00",
+    "content_hash": "047e6c83a82f5f4b4726a1ae0a1f2155ff4f060029608a14c8bd73a5f0d23408",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "CampusTut API",
+    "openapi_version": "openapi_3",
+    "paths_count": 13,
+    "path_diff": null
+  }
+]

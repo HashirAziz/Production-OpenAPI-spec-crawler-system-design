@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8b27be0e8f75",
+    "source_url": "https://raw.githubusercontent.com/vicorandy/diary-app/80827c0202f97e777b5603636de2686194bc1480/swagger.yaml",
+    "fetched_at": "2026-05-24T08:25:43.611081+00:00",
+    "content_hash": "a496f95b7af27ef13440035759113eb829732ea299ce58c3d729d454ec9925ab",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Dairy-app",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

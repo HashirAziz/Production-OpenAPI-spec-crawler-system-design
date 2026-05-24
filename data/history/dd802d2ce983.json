@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "dd802d2ce983",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/5049410fbf2befcf08efe73a762751735b89b56d/apis/openapi/isbndb.com/main/1.0.1/meta/source/swagger.json",
+    "fetched_at": "2026-05-24T08:25:55.632042+00:00",
+    "content_hash": "ecc7c68c3388597cf1366cc1ae1099e395e7a161ee343416b0ec88e5a03d0dce",
+    "info_version": "1.0.1",
+    "status": "new",
+    "title": "ISBNdb API",
+    "openapi_version": "swagger_2",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

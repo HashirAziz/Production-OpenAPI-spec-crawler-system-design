@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "36e88bd50e8f",
+    "source_url": "https://raw.githubusercontent.com/obeone/firecrawl-ui/29fcda50b53923b62db258a07b91478596d15927/openapi.yaml",
+    "fetched_at": "2026-05-24T08:24:17.456261+00:00",
+    "content_hash": "5992101a9e4c5893e3536a10bde2e79700ef75535d5364c82289b20b4b62cc37",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Firecrawl API",
+    "openapi_version": "openapi_3",
+    "paths_count": 18,
+    "path_diff": null
+  }
+]

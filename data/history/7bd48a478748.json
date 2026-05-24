@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "7bd48a478748",
+    "source_url": "https://raw.githubusercontent.com/R3pic/typescript_db_programming/82e37126f6fa55f7ccf3ef87c2ca9c3275afe48d/swagger.yaml",
+    "fetched_at": "2026-05-24T08:25:39.196799+00:00",
+    "content_hash": "d2f01866f4b18a4f99da6e580ddf3743a841eb1ad9bfcb18770ed391cbfcfb96",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Entertainment API",
+    "openapi_version": "openapi_3",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "60d7d717aec6",
+    "source_url": "https://raw.githubusercontent.com/Avinash96-gthb/STEP-CMD-Backend/f3feedee653b9ccb40953e034e65a2c53fe165bb/swagger.json",
+    "fetched_at": "2026-05-24T08:26:05.256109+00:00",
+    "content_hash": "aa26106412febeed9f96c7dbca16e2338b5587e36579092bc156c1d97749b069",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Telehealth Platform API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

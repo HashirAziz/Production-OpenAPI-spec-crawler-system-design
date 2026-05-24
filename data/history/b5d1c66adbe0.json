@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b5d1c66adbe0",
+    "source_url": "https://raw.githubusercontent.com/renanlopescoder/rest-api-node/d57bfa25677f13e907a05a1b00f43896dff4976b/swagger.json",
+    "fetched_at": "2026-05-24T08:26:08.432503+00:00",
+    "content_hash": "560f9f5b71d4f786e009162eaf120afd453f0dc98d7469016740f5ff9e8a8dc8",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "unknown",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

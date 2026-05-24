@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d016f28fd033",
+    "source_url": "https://raw.githubusercontent.com/hostingabhi/E-COM-API/d880003ed679a3ae1679a9b1d172b327886f60b9/swagger.json(2.0).txt",
+    "fetched_at": "2026-05-24T08:26:09.766325+00:00",
+    "content_hash": "09705c0c827e3049f357e1fd606d83d5aa134db1ca677310afa2f2ed6fde1588",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "E-Commerce API",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "bbfcaafcb4b9",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/5049410fbf2befcf08efe73a762751735b89b56d/apis/openapi/clever.com/main/1.2.0/openapi.json",
+    "fetched_at": "2026-05-24T08:24:57.916426+00:00",
+    "content_hash": "d6bfdddec25321317efdf867cd89a0f9ba5751f63f73c45b08485a3e6af4cc68",
+    "info_version": "1.2.0",
+    "status": "new",
+    "title": "Data API",
+    "openapi_version": "openapi_3",
+    "paths_count": 44,
+    "path_diff": null
+  }
+]

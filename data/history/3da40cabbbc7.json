@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3da40cabbbc7",
+    "source_url": "https://raw.githubusercontent.com/youdescribe-sfsu/YouDescribeX-api/9f39149b9908b7ef687d6907a194d9f80ccb21fd/swagger.yaml",
+    "fetched_at": "2026-05-24T08:25:28.298550+00:00",
+    "content_hash": "27b8266b5bad3dcd95154fec01d40c9f964cdb3084264b1299d06e46385faf27",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "YDX-AI-Backend API",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

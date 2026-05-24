@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "dbc08404787b",
+    "source_url": "https://raw.githubusercontent.com/degoxec98/crazy-swapi-ms/db92f71f8d5c403db8e26ac80d29dd667173e249/swagger.yaml",
+    "fetched_at": "2026-05-24T08:25:35.159634+00:00",
+    "content_hash": "3cfc07f1e041e4f6a8d66b0aec78c08df26107e50ec2d755611b57f1cab520d5",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Crazy Swapi API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

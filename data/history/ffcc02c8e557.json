@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ffcc02c8e557",
+    "source_url": "https://raw.githubusercontent.com/InshutiSouvede/puresoul-backend/fa0c598465c8fe8681d324cd6237663dd6ae28e4/swagger.yaml",
+    "fetched_at": "2026-05-24T08:25:21.414404+00:00",
+    "content_hash": "49a028448f81f8563562352b6f019277c443d999665edf076f367d4cc1b95d51",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Puresoul backend Documentation",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

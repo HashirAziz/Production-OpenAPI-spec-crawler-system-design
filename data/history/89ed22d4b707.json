@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "89ed22d4b707",
+    "source_url": "https://raw.githubusercontent.com/DeathFull/RailRoad/ab3aa336fa5a508cf7b829ea1b435962b1dbf847/swagger.yaml",
+    "fetched_at": "2026-05-24T08:25:45.990721+00:00",
+    "content_hash": "58654b867c16c402fcb6f8be6291314492066c8b299650dc515d187ca76dd884",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Railroad API",
+    "openapi_version": "openapi_3",
+    "paths_count": 12,
+    "path_diff": null
+  }
+]

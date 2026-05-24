@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a63612688f87",
+    "source_url": "https://raw.githubusercontent.com/Bjarmah/ts-express-auth-api-1/6a850a6c73a85aebf9dd486d662e8ee101d215e6/swagger.yaml",
+    "fetched_at": "2026-05-24T08:25:20.780579+00:00",
+    "content_hash": "833b012988080595dcc49697b83c88b794fb2b8778819052a8b2aa060819a070",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "User Authentication and Authorization API",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

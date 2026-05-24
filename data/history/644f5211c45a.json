@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "644f5211c45a",
+    "source_url": "https://raw.githubusercontent.com/rewatiramansahu/nodejs-users-api/8b0250e07367979d1e5e1ad0bbfb210e380897b7/swagger.json",
+    "fetched_at": "2026-05-24T08:26:12.566914+00:00",
+    "content_hash": "684e7510d8a981bc33818ea1971c320be583861233c6386d158c37af6ac4ab9a",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

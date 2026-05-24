@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4a209dd01b0a",
+    "source_url": "https://raw.githubusercontent.com/verafes/jottify-node-express-app/8d0962b46de8b58da001293a181cb74f448f0af3/swagger.yaml",
+    "fetched_at": "2026-05-24T08:25:33.731469+00:00",
+    "content_hash": "8eb55ff5feef325d39545e52c5cb8ba7c2b0ec31755acab632df322052264120",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "CTD Story API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

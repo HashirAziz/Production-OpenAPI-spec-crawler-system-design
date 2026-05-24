@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "51e595c249be",
+    "source_url": "https://raw.githubusercontent.com/Markzeez/Swagger-UI/65cbea0cdde489875e922d7cea110072f334ff3c/swagger.yaml",
+    "fetched_at": "2026-05-24T08:25:41.953797+00:00",
+    "content_hash": "4f65bd52165ec64694053e722866f31d70bd9a64bbe71f953368256d729229be",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Sample API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

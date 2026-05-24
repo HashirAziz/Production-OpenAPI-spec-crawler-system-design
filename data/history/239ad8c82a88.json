@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "239ad8c82a88",
+    "source_url": "https://raw.githubusercontent.com/koropati/water-pulsa-be/32f02e19d785976454bccb16ed8ab64caa26ee44/swagger.json",
+    "fetched_at": "2026-05-24T08:26:04.303877+00:00",
+    "content_hash": "91219f70b5919db61fb0501f4b63951d828d76983f2b488fe8566dc73720d198",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Sipelayar API",
+    "openapi_version": "openapi_3",
+    "paths_count": 48,
+    "path_diff": null
+  }
+]

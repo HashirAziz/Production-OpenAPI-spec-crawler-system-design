@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ace11331a933",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/5049410fbf2befcf08efe73a762751735b89b56d/apis/openapi/voluum.com/main/1.0.0/openapi.json",
+    "fetched_at": "2026-05-24T08:25:00.742187+00:00",
+    "content_hash": "2d9980d2b77dd81dfbe6086214c3b6fdcbea722bda82de06695acc90a2039148",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Voluum API",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

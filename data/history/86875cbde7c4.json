@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "86875cbde7c4",
+    "source_url": "https://raw.githubusercontent.com/gate-computer/gate/80bdd1704a230ab33641c89fadbbfc3030923f11/openapi.yaml",
+    "fetched_at": "2026-05-24T08:24:21.586560+00:00",
+    "content_hash": "ed5375211e8420f6a8f1a0b5db584556edbd5b51e6f3392d497294246cd2d787",
+    "info_version": "0",
+    "status": "new",
+    "title": "Gate API",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

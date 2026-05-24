@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2a24792703c4",
+    "source_url": "https://raw.githubusercontent.com/jozso39/rohlik-mcp-server/53558e35738c8c03f6f7d31b96afafc4865c4826/swagger.yaml",
+    "fetched_at": "2026-05-24T08:25:34.842095+00:00",
+    "content_hash": "9d6347fe7f4ace70d0beb3cccf9e5e3caae2da911ebfde19f00017e607ff9c8f",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Shopping List MCP Server",
+    "openapi_version": "openapi_3",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

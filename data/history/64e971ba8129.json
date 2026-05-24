@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "64e971ba8129",
+    "source_url": "https://raw.githubusercontent.com/centralcordoba/githubworkflowB/2b6a7ef46e5967f24801aa8d1440aa3079946122/swagger.yaml",
+    "fetched_at": "2026-05-24T08:25:39.530318+00:00",
+    "content_hash": "b808c603b490a6092f1e5bdf3cbeef17475180afa783238ce7eae1a3e5a0ff20",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Incidents.Web",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

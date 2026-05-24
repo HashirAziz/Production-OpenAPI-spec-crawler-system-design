@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "541fb062b386",
+    "source_url": "https://raw.githubusercontent.com/team-yaza/mozi-server/85163da546c58ec8ffc02045f629fd57491b6afe/swagger.yaml",
+    "fetched_at": "2026-05-24T08:25:36.636513+00:00",
+    "content_hash": "fa0d5f07b2768e424fd3f135de714ae8c0a4003add5178d186e0f24f15d59d2d",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Mozi Server",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

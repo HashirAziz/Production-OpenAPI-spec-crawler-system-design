@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0aa55842c944",
+    "source_url": "https://raw.githubusercontent.com/nico-kunz/tubiblio-cached-api/f6213efc489320e23e149b92a03bcb199987518e/swagger.json",
+    "fetched_at": "2026-05-24T08:26:10.659439+00:00",
+    "content_hash": "c2918754ef282a2b5521c930807ddd25e16e439c5c580874a7f71df2c8a5a1b1",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Tubiblio Cache",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

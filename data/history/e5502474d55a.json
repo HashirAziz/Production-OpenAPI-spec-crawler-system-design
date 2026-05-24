@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e5502474d55a",
+    "source_url": "https://raw.githubusercontent.com/atlp-rwanda/tech-strikers-bn-backend/d4da75cbb0dd2d005b840c5dd629d98e05bb1b45/swagger.json",
+    "fetched_at": "2026-05-24T08:26:09.353558+00:00",
+    "content_hash": "8b26d21f7eaccb682c8d6de7ad6437b07912c2189e635c5ddc67c3e35f3781ff",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Barefoot Nomad",
+    "openapi_version": "swagger_2",
+    "paths_count": 29,
+    "path_diff": null
+  }
+]

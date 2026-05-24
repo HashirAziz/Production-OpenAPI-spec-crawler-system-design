@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c1f9fcb40391",
+    "source_url": "https://raw.githubusercontent.com/saitejay/NFT-MarketPlace-Backend/e5d265f5158118feef0b7f3993ed1debd226d516/swagger.json",
+    "fetched_at": "2026-05-24T08:26:07.119220+00:00",
+    "content_hash": "fab6000755d4cf91d4c271ed19a5d003cef0eeeb828cb64e915a70c9d2c019cb",
+    "info_version": "v1",
+    "status": "new",
+    "title": "Cryptotrades",
+    "openapi_version": "swagger_2",
+    "paths_count": 35,
+    "path_diff": null
+  }
+]

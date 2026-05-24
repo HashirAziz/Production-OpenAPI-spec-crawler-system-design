@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4bba990ffb5e",
+    "source_url": "https://raw.githubusercontent.com/ohollmen/linetboot/a08b7495c4096c6fa1c2bd87bb2ad0ea0bf3a231/swagger.yaml",
+    "fetched_at": "2026-05-24T08:25:43.929170+00:00",
+    "content_hash": "4a467662cfa2cd9765bd41e0ad748fb7f132989691cd56a6a416bb12c0c75a4e",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Linetboot API",
+    "openapi_version": "swagger_2",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

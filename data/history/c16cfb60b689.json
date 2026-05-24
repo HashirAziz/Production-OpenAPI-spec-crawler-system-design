@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c16cfb60b689",
+    "source_url": "https://raw.githubusercontent.com/sg-developer-portal/doc-portal-publisher-guide/e667079975761769acb4c818d39d53b7bad06f8b/swagger.json",
+    "fetched_at": "2026-05-24T08:26:06.399877+00:00",
+    "content_hash": "3d3a269d65c6a9978fda8b4f460250ef370da997df80d39c3984281dc8fe96fc",
+    "info_version": "1.0.3",
+    "status": "new",
+    "title": "Swagger Petstore",
+    "openapi_version": "swagger_2",
+    "paths_count": 14,
+    "path_diff": null
+  }
+]

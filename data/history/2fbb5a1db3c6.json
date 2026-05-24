@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2fbb5a1db3c6",
+    "source_url": "https://raw.githubusercontent.com/EsterGalati/VestibulandoBot2.0/cd348b2a089360e188bfa911663196041957f56c/swagger.json",
+    "fetched_at": "2026-05-24T08:26:04.514897+00:00",
+    "content_hash": "31786561db8ea3e16fa4a750597995f0d2bd246acff7874109791df213260d93",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Vestibulando API",
+    "openapi_version": "openapi_3",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

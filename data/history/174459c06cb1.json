@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "174459c06cb1",
+    "source_url": "https://raw.githubusercontent.com/min0625/openapi-viewer/5ffe9c4a03a9f4cea46195248d2614baf14b5cd9/swagger.json",
+    "fetched_at": "2026-05-24T08:26:01.885669+00:00",
+    "content_hash": "c6785cca75916652565ba89d3419ed08c43bc0542ae414836831ffa15e6891f0",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Sample API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

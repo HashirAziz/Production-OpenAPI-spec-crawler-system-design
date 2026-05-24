@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b99dcadc49d9",
+    "source_url": "https://raw.githubusercontent.com/aadog/fd/3ffe07c7c56fb2b72310ef5d376220fa9d586234/swagger.yaml",
+    "fetched_at": "2026-05-24T08:25:26.139800+00:00",
+    "content_hash": "685b658d49bf3385ad7b3c29ab56398ccd3538ca9805b3f2978b8e6892ca5040",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Http Rpc Api",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

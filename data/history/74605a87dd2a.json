@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "74605a87dd2a",
+    "source_url": "https://raw.githubusercontent.com/e-green/gpssystem/46bef508e7a85b13bf5ae8cc40af1cb8e11c9a7d/swagger.json",
+    "fetched_at": "2026-05-24T08:26:10.202467+00:00",
+    "content_hash": "057f32dbe9251c430c9bd6c046aee12dfbb33a48ebf1e3983e0359ba027a9261",
+    "info_version": "3.5",
+    "status": "new",
+    "title": "traccar",
+    "openapi_version": "swagger_2",
+    "paths_count": 12,
+    "path_diff": null
+  }
+]

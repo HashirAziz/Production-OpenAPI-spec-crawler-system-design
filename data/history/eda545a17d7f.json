@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "eda545a17d7f",
+    "source_url": "https://raw.githubusercontent.com/AdedamolaCoal/nodeTS-starter-template/65e6039fe244a16914a82c36191e371ccd4e6648/swagger.json",
+    "fetched_at": "2026-05-24T08:26:13.100932+00:00",
+    "content_hash": "4b8fa0f54a1436c318fb4d8ca4cc8a4d3ea62c7bd664180c0596b274d83302ec",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "NodeTS Auth API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

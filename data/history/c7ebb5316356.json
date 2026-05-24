@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c7ebb5316356",
+    "source_url": "https://raw.githubusercontent.com/BenjaminSere/betterdle-webapp/bda10d6902a45cf3914ddc547167cb91b919d33e/swagger.json",
+    "fetched_at": "2026-05-24T08:26:02.566610+00:00",
+    "content_hash": "ae4515241f2629668204e7eee8801acac5ba64da2a383872980ad0bba114f280",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "BetterDLE API",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

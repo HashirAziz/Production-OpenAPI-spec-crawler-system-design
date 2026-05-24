@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "725d6072c63a",
+    "source_url": "https://raw.githubusercontent.com/iopipe/dockerbot-serverless/97dea307e0ce1f63007a5f3ad562c71e05ee32c8/swagger.json",
+    "fetched_at": "2026-05-24T08:25:55.964012+00:00",
+    "content_hash": "958e3a726f9a4439e5fdf9a5468ea7ee5f8692d7c3415093124f5f695905466f",
+    "info_version": "2016-06-20T22:06:14Z",
+    "status": "new",
+    "title": "SlackbotDocker",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

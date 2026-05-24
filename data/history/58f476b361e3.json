@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "58f476b361e3",
+    "source_url": "https://raw.githubusercontent.com/fscaetano/rocketseat-python-flask/8fe7625d07576d45c1ba39c25298cfd2b5a5e345/openapi.yaml",
+    "fetched_at": "2026-05-24T08:24:27.652800+00:00",
+    "content_hash": "6d3912a196eebb5a8baecdea8d19822ced4007381f920132021744891f1b6a6a",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API de Gerenciamento de Tarefas",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

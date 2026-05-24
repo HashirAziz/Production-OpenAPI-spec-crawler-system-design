@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1b54f924c985",
+    "source_url": "https://raw.githubusercontent.com/marceloaraujodev/ecommerce-backend/137a3fd9742a590f075d4b70cd640b7d2d9ff144/swagger.yaml",
+    "fetched_at": "2026-05-24T08:25:26.782613+00:00",
+    "content_hash": "06f606ad402a699ce70d34a060bdf6da45b945bf6dda9603f8d269f426af09ba",
+    "info_version": "1.1.0",
+    "status": "new",
+    "title": "Ecommerce App store",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

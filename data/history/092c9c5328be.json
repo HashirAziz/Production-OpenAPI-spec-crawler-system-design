@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "092c9c5328be",
+    "source_url": "https://raw.githubusercontent.com/cesarvspr/go-api-begguinner-template/061673b88c7877331fff90bc1367cd6fbb9e2790/swagger.yaml",
+    "fetched_at": "2026-05-24T08:25:24.798522+00:00",
+    "content_hash": "d14569a407c74437778ba414342238ae7d14bc9b1ce2100eb7cb095ec8e0b70d",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "of Product API",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "7af8555732c9",
+    "source_url": "https://raw.githubusercontent.com/valdirsb/artemis/c47bf784d86f7cc5dadbfa87928875abb1957a34/internal/generators/templates/docs_swagger.json.tmpl",
+    "fetched_at": "2026-05-24T08:26:08.870643+00:00",
+    "content_hash": "1198da8493a5ab71d883a83aea688c56ba874adf3e3ab5128a58b2f44f157d11",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Artemis API",
+    "openapi_version": "swagger_2",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

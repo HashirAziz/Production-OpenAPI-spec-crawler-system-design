@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e5627e405e7f",
+    "source_url": "https://raw.githubusercontent.com/hugo-lanzafame/webservice-boat-api/f45c82b614226dbf5678a8e7fca0fe20440802da/swagger.json",
+    "fetched_at": "2026-05-24T08:26:14.590105+00:00",
+    "content_hash": "7bc91949e83761ab8545ca27fe0cd9a3106e59a39116c93ad67257037a29c4d7",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Fishing Trip API",
+    "openapi_version": "openapi_3",
+    "paths_count": 18,
+    "path_diff": null
+  }
+]

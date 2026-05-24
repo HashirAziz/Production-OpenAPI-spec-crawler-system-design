@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "7a979b2c9f94",
+    "source_url": "https://raw.githubusercontent.com/tayuanlogua/sistema-de-tareas/7a295a6c15eea1422b3c7c627579e64a391b040f/swagger.yaml",
+    "fetched_at": "2026-05-24T08:25:20.445192+00:00",
+    "content_hash": "c8d29f6b02aed7458c7542b723f1918e724a2492095ae48095c610ae4db402b5",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Task Management API",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

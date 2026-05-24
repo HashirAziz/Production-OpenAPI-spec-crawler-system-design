@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f806f2e99aa9",
+    "source_url": "https://raw.githubusercontent.com/tadeujeronimo/atvf-bea-it/96909aaa73434ebf72dfcdfb2a1e20c1c7e3d0af/swagger.json",
+    "fetched_at": "2026-05-24T08:26:01.462403+00:00",
+    "content_hash": "e09bba07170a13a8d0ad847e154160fb018489275da9e241ace2e22c116ffad0",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Marketing Place API",
+    "openapi_version": "openapi_3",
+    "paths_count": 24,
+    "path_diff": null
+  }
+]

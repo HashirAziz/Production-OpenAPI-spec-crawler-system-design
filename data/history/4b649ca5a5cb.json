@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4b649ca5a5cb",
+    "source_url": "https://raw.githubusercontent.com/juanda-ux/JuanDa_repository/9301bebd2e2df2cf825500e894430e47b95b801d/OpenAPI.yaml",
+    "fetched_at": "2026-05-24T08:24:23.877974+00:00",
+    "content_hash": "f37a9af410cd97bb31653d3e75c3e19040b0f7a1d47c92c87211bd3d1c992cbb",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "WebSmith Studio API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

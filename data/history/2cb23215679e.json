@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2cb23215679e",
+    "source_url": "https://raw.githubusercontent.com/Saim-Al-Ifran/horek-rokom-server/2ca1ed80335cd820b81b9f7b5bd62d08d6c069bd/swagger.yaml",
+    "fetched_at": "2026-05-24T08:25:27.135190+00:00",
+    "content_hash": "5f975b46b01bf274fae291603086dc1860dfffb73ac8dd1693b6baa8ab9bb463",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Horek-rokom API Documentation",
+    "openapi_version": "openapi_3",
+    "paths_count": 14,
+    "path_diff": null
+  }
+]

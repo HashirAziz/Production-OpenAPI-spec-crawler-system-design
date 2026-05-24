@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6bb02cc7c4e5",
+    "source_url": "https://raw.githubusercontent.com/matt-laird/command-proxy/5f9f6337e8e2b964aac616386c69a8d4e402be6e/swagger.yaml",
+    "fetched_at": "2026-05-24T08:25:30.389356+00:00",
+    "content_hash": "d40f79043180a5ba947ac6f53c2fd1220f28cf854777b282ef97679ea19dedce",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "unknown",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

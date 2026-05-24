@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "631a7534535a",
+    "source_url": "https://raw.githubusercontent.com/DimonONE/med-crm/77d60c3673e18d913706ae72c2500bfe2e60e87a/swagger.json",
+    "fetched_at": "2026-05-24T08:26:11.176380+00:00",
+    "content_hash": "a530a5bb552635c428375c516d393e9266eba96a755b51a16eb82263bda2838c",
+    "info_version": "0.1",
+    "status": "new",
+    "title": "Med CRM",
+    "openapi_version": "openapi_3",
+    "paths_count": 46,
+    "path_diff": null
+  }
+]

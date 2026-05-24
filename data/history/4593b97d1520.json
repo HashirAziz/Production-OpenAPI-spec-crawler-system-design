@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4593b97d1520",
+    "source_url": "https://raw.githubusercontent.com/spacerobots/quotee/a16f3e01066553d157b4b94143ddf26332cbc15d/swagger.json",
+    "fetched_at": "2026-05-24T08:25:58.199019+00:00",
+    "content_hash": "1afc5870b39af9dfaf7cdaf649ec46b37487379fcaf11f905baacd820739cf79",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Quotee API",
+    "openapi_version": "swagger_2",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

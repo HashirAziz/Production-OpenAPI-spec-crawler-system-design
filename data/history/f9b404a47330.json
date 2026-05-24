@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f9b404a47330",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/5049410fbf2befcf08efe73a762751735b89b56d/apis/openapi/scalr.io/main/1.0.0/openapi.json",
+    "fetched_at": "2026-05-24T08:24:54.095442+00:00",
+    "content_hash": "d933ac84fb0e908c33a64290d5a5074307e6cf2fb7d1f4c57967798867ecf00a",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Scalr API",
+    "openapi_version": "openapi_3",
+    "paths_count": 35,
+    "path_diff": null
+  }
+]

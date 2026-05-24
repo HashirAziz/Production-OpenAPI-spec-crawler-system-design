@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3d03b6a7efd8",
+    "source_url": "https://raw.githubusercontent.com/SamDw123/Cinema_Iot_Apps/672b8eb647aa2b70eadf1c2187e9a2c46083c1cc/swagger.yaml",
+    "fetched_at": "2026-05-24T08:25:22.145353+00:00",
+    "content_hash": "053d9063b6ff82aad3e900e2690285cf383751637d047f5e48cb871bf2670138",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Cinema API",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

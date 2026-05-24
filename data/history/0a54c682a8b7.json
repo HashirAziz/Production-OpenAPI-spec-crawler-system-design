@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0a54c682a8b7",
+    "source_url": "https://raw.githubusercontent.com/scaleoutsean/solidfire-wac-gateway/4b0368b07fe232d868bb12e8cc85cff812c17a5c/swagger.json",
+    "fetched_at": "2026-05-24T08:26:03.454965+00:00",
+    "content_hash": "a9f11b342c74e68d14372d2d363528311179c009487ceb0fc8ed2b736f4ee839",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "SolidFireGateway, Version=1.1.1.0, Culture=neutral, PublicKeyToken=null",
+    "openapi_version": "openapi_3",
+    "paths_count": 16,
+    "path_diff": null
+  }
+]

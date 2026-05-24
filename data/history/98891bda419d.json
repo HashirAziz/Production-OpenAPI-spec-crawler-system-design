@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "98891bda419d",
+    "source_url": "https://raw.githubusercontent.com/Paldom/swagger-multifile-example/99597d42a76d474a083fa20ecdbc29fcb5e4141c/swagger.yaml",
+    "fetched_at": "2026-05-24T08:25:32.192966+00:00",
+    "content_hash": "9b82a07f11aefd83a80dac386d342f36272fcdf33959cdff4b47f3598c5e0012",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "openapi_3",
+    "paths_count": 19,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "18c871eaa42b",
+    "source_url": "https://raw.githubusercontent.com/lcsferreira/gopa-node/267157e27df0fd88e4acf0a93bc9381b1c43d366/swagger.json",
+    "fetched_at": "2026-05-24T08:26:12.357845+00:00",
+    "content_hash": "6a2732f9b45db42d56ae0b869b5ff6b949cfaee6aba5e5ff2f1bfe27d0cd6bcd",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "GoPA! API",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

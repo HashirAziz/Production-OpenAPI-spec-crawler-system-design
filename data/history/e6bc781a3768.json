@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e6bc781a3768",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/5049410fbf2befcf08efe73a762751735b89b56d/apis/openapi/deputy.com/main/1.0.0/openapi.json",
+    "fetched_at": "2026-05-24T08:24:59.426043+00:00",
+    "content_hash": "16162bd8c050a20db2dceabde8273a69ac804ed8c3161f038904a27a04101b72",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Deputy API",
+    "openapi_version": "openapi_3",
+    "paths_count": 26,
+    "path_diff": null
+  }
+]

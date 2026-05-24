@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ff6ce41be829",
+    "source_url": "https://raw.githubusercontent.com/Eddy-hub19/souyummy_backend/266a926ec46ade8cf7d9e6dc0f6072e51589a73b/swagger.json",
+    "fetched_at": "2026-05-24T08:26:05.044346+00:00",
+    "content_hash": "82bb856f50d91a27a534881778b6c98c4b54318d74b99444fb5ab80038264987",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "So Yummy API documentation",
+    "openapi_version": "openapi_3",
+    "paths_count": 18,
+    "path_diff": null
+  }
+]

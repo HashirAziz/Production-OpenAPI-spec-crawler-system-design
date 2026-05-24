@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "822ed8cc5b4b",
+    "source_url": "https://raw.githubusercontent.com/lynnaloo/show-me-the-data/6c5f717e6139fde7b935279db6bdeb0f8287369f/swagger.json",
+    "fetched_at": "2026-05-24T08:26:06.842854+00:00",
+    "content_hash": "22484b734343dd871bccd06710a8f32bc4cace56acc500946dabbf02da33d3e2",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Petstore",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

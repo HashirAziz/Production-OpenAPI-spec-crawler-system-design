@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e34717bf5722",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/5049410fbf2befcf08efe73a762751735b89b56d/apis/openapi/visibot.app/main/1.0.0/openapi.json",
+    "fetched_at": "2026-05-24T08:25:03.416663+00:00",
+    "content_hash": "25c6eef0ffe7486a63e728c2c7f062542f20df451cd6e5a0c2b9d5713b71dce5",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Visibot API",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

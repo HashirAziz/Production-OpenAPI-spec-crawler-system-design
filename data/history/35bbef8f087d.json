@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "35bbef8f087d",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/5049410fbf2befcf08efe73a762751735b89b56d/apis/openapi/walmart.com/item/3.0.1/meta/source/swagger.json",
+    "fetched_at": "2026-05-24T08:25:56.196346+00:00",
+    "content_hash": "f0e2c2b20ce5563ba6b38bbc32fe37310573d49d24468f404e3389d4a7ead7cf",
+    "info_version": "3.0.1",
+    "status": "new",
+    "title": "Item API",
+    "openapi_version": "swagger_2",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

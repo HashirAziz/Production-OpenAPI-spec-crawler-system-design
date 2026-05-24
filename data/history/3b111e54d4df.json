@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3b111e54d4df",
+    "source_url": "https://raw.githubusercontent.com/valeno12/api-plazosFijos/2ebfb08b18a7e8d2559785d2d21f2c9ebf10f140/swagger.yaml",
+    "fetched_at": "2026-05-24T08:25:42.626796+00:00",
+    "content_hash": "14cd7cfe15c64f17d56258a67da4b52de7a6c7f09b2708c38aa33f2542210f59",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API de Gestión de Plazos Fijos",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

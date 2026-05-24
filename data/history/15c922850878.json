@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "15c922850878",
+    "source_url": "https://raw.githubusercontent.com/mohdishaq786/User_Profile_OAuth/aeeb183a8292681db5ef463e7ca917618a73f91f/swagger.yaml",
+    "fetched_at": "2026-05-24T08:25:40.959550+00:00",
+    "content_hash": "87092a2903b26f397e300a8c86649bd7b8d709e1970e13c56e649010efe7fe3c",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "User Profile Api",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]
