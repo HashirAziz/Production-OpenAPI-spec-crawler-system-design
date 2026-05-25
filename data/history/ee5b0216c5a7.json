@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ee5b0216c5a7",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/ffb93916a61ef0372e6769135ab04a6e38413f04/apis/openapi/toky.co/main/1.0.0/openapi.json",
+    "fetched_at": "2026-05-25T09:58:32.693866+00:00",
+    "content_hash": "7ac5c12b09a42e4b441de4396178dc1f1e8d939cfac4acc5cdad7416867ed660",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Toky API",
+    "openapi_version": "openapi_3",
+    "paths_count": 26,
+    "path_diff": null
+  }
+]

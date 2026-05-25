@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c61f787f53a0",
+    "source_url": "https://raw.githubusercontent.com/chertik77/TaskPro-backend/0dca190fedfbdaaae4ab6a1721eb5b7bb6dceac5/swagger.json",
+    "fetched_at": "2026-05-25T09:59:50.522304+00:00",
+    "content_hash": "4a16714267d852b1bb9874934053e7a46af631eb26c14a9bf584ed801201237c",
+    "info_version": "2.2.0",
+    "status": "new",
+    "title": "Task Pro API",
+    "openapi_version": "openapi_3",
+    "paths_count": 19,
+    "path_diff": null
+  }
+]

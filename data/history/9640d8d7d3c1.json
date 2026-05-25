@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9640d8d7d3c1",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/ffb93916a61ef0372e6769135ab04a6e38413f04/apis/openapi/elmah.io/main/v3/openapi.json",
+    "fetched_at": "2026-05-25T09:58:28.422186+00:00",
+    "content_hash": "550cd07540fb7734a6d95c5d99d332769b27e97422ad58bc5701a2396590def4",
+    "info_version": "v3",
+    "status": "new",
+    "title": "elmah.io API",
+    "openapi_version": "openapi_3",
+    "paths_count": 17,
+    "path_diff": null
+  }
+]

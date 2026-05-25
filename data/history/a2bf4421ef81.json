@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a2bf4421ef81",
+    "source_url": "https://raw.githubusercontent.com/khulnasoft/policy-engine/465a3181974d15310c32d8d5bb99a791073410ac/swagger.yaml",
+    "fetched_at": "2026-05-25T09:59:21.306389+00:00",
+    "content_hash": "816eab76deeb530ccd14f328993cf26463d95c3d1b60dd9179314dea81272526",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Policy Engine I/O Formats",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

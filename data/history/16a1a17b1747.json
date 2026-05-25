@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "16a1a17b1747",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/ffb93916a61ef0372e6769135ab04a6e38413f04/apis/openapi/mbus.local/main/0.3.5/openapi.json",
+    "fetched_at": "2026-05-25T09:58:43.879260+00:00",
+    "content_hash": "73f3214bb883728bff955ada9750a5e3116aec50957382e98444c44d52431941",
+    "info_version": "0.3.5",
+    "status": "new",
+    "title": "M-Bus HTTPD API",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

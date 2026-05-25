@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "82b4d5102b12",
+    "source_url": "https://raw.githubusercontent.com/jonesjacklewis/holidayBookingSystemFlask/a0cf34a80cf8a0bbf44afb63527cf24970ffc655/swagger.yaml",
+    "fetched_at": "2026-05-25T09:59:31.231967+00:00",
+    "content_hash": "2015daa41b2e114968f2a0a2819115da7d9470574a62ecff5f92b8cef3efa5b1",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Holiday Booking API",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

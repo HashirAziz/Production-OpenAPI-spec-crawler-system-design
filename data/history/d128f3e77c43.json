@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d128f3e77c43",
+    "source_url": "https://raw.githubusercontent.com/caleblanchard/LuminetDMX/bef414467ecee78838bf5033f7475ad6c92e3e4a/swagger.yaml",
+    "fetched_at": "2026-05-25T09:59:28.810594+00:00",
+    "content_hash": "4845d93e1de228d149cdb38df4216c8141a618ba64d70d58e50bb707cdabbaa5",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "LuminetDMX API",
+    "openapi_version": "openapi_3",
+    "paths_count": 13,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2e54f76ecab4",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/ffb93916a61ef0372e6769135ab04a6e38413f04/apis/openapi/placetel.de/main/2.0.0/openapi.json",
+    "fetched_at": "2026-05-25T09:58:49.059614+00:00",
+    "content_hash": "9b091bf9a4e175255e7869ef9b80d8ed2a8813a3d298e80bd5eb404fe0e49f86",
+    "info_version": "2.0.0",
+    "status": "new",
+    "title": "Placetel API",
+    "openapi_version": "openapi_3",
+    "paths_count": 74,
+    "path_diff": null
+  }
+]

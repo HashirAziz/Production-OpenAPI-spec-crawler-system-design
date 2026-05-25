@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f59a3a57f8c2",
+    "source_url": "https://raw.githubusercontent.com/Mouy-leng172/Autonomous-trading-Exness/6aacc22db1bf01b141b9a9dfb88412e4281c8b1c/pentagi/backend/pkg/server/docs/swagger.yaml",
+    "fetched_at": "2026-05-25T09:59:11.856771+00:00",
+    "content_hash": "4d2daeee9625db0e2cc36876fbea4787d3517c7690c64682319dc843ee958374",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "PentAGI Swagger API",
+    "openapi_version": "swagger_2",
+    "paths_count": 51,
+    "path_diff": null
+  }
+]

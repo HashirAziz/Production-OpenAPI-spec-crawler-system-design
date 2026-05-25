@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0a7f5798409f",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/ffb93916a61ef0372e6769135ab04a6e38413f04/apis/openapi/faceidentity-beta.azurewebsites.net/face-identity-api/1.0/meta/source/swagger.json",
+    "fetched_at": "2026-05-25T10:00:07.314074+00:00",
+    "content_hash": "7172c14480c242d87bf003a36fab576f634e0d530ce025155b6c678dadebd44d",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Api Documentation",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

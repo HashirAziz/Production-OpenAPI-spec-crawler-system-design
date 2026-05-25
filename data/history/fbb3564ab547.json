@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "fbb3564ab547",
+    "source_url": "https://raw.githubusercontent.com/lostyoru/OrgTel-Back-end/5e7e32f608c7ba2bef2b443e22eb75b925a1727a/swagger.json",
+    "fetched_at": "2026-05-25T10:00:08.208558+00:00",
+    "content_hash": "8f9cc68bdeb89638068b5113fe1bef46aaf5af3b4e0ef612380ad253949c51ea",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "REST API",
+    "openapi_version": "swagger_2",
+    "paths_count": 21,
+    "path_diff": null
+  }
+]

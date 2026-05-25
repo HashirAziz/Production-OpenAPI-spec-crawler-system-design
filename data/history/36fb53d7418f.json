@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "36fb53d7418f",
+    "source_url": "https://raw.githubusercontent.com/chukwuma619/fiberPayTrial/2ff6569e02cd9b9508ad5a50a1521dd7f77af0a5/openapi.yaml",
+    "fetched_at": "2026-05-25T09:57:58.092225+00:00",
+    "content_hash": "7f5d7a908bccccfbc7514d919ec6cb4ee1393728a71cc639c2391ff080eef2dd",
+    "info_version": "0.2.0",
+    "status": "new",
+    "title": "FiberPay API",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

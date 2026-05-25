@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "85c1a8352181",
+    "source_url": "https://raw.githubusercontent.com/MaksShu/Application_Programming_Project/e3691e5bed47d07b007f3ee76f550fa41e97943c/swagger.yaml",
+    "fetched_at": "2026-05-25T09:59:33.594838+00:00",
+    "content_hash": "b779b364d45dda336707606dde47b3068a410a174ba89f3f2e17358a19b546c3",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "OnineWallet",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "7d3808a6fedf",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/ffb93916a61ef0372e6769135ab04a6e38413f04/apis/openapi/usbank.com/main/2.0.0/openapi.json",
+    "fetched_at": "2026-05-25T09:58:45.179090+00:00",
+    "content_hash": "9272a2e71a702e6c2bfa251e4524d28f1b0d2de6cc1ab81c85985536f09f20e3",
+    "info_version": "2.0.0",
+    "status": "new",
+    "title": "U.S. Bank Developer API",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

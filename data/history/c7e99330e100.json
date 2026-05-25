@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c7e99330e100",
+    "source_url": "https://raw.githubusercontent.com/docup/docup-endpoint/dc73f614ac6086c7f6fa63d00822de6a9a5b11a5/openapi.yaml",
+    "fetched_at": "2026-05-25T09:57:59.577684+00:00",
+    "content_hash": "b6c12f7f5dc8574625e97dd36ff1c5893d05da73e997d4fd3c4afd9584411d0f",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Cloud Endpoints + App Engine",
+    "openapi_version": "swagger_2",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

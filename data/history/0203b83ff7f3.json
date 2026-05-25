@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0203b83ff7f3",
+    "source_url": "https://raw.githubusercontent.com/AceDZN/tt-gpt/40bf7b96ebc202f995fd71c4cc699610334132d3/openapi.yaml",
+    "fetched_at": "2026-05-25T09:57:57.830651+00:00",
+    "content_hash": "886a01a110dd30e43d1409823b3c35cdb004237ed6356bfb1ca0eb92e5847b99",
+    "info_version": "v1.1.0",
+    "status": "new",
+    "title": "TinyTap GameSmith Content Engine",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

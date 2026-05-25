@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9a7e12dea050",
+    "source_url": "https://raw.githubusercontent.com/FabiolaLutrario/BoxDeliveryBackend/271658714a37c00bb4b8be4f7ff04f406329dc0d/swagger.json",
+    "fetched_at": "2026-05-25T10:00:05.697683+00:00",
+    "content_hash": "24f7adc6323950d6bdb49bf79cfd526c5df2828bf2fdddc22670454d8a94eb80",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "App Box Delivery API",
+    "openapi_version": "openapi_3",
+    "paths_count": 14,
+    "path_diff": null
+  }
+]

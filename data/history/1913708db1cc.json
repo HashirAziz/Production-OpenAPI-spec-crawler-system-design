@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1913708db1cc",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/ffb93916a61ef0372e6769135ab04a6e38413f04/apis/openapi/bippybox.io/main/1.0.0/openapi.json",
+    "fetched_at": "2026-05-25T09:58:49.430878+00:00",
+    "content_hash": "3bef16b310b9a1d1b240b50073541a94eb3f1748a9af436bfd22d1c53711b24a",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "BippyBox API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

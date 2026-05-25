@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a789a6eeb559",
+    "source_url": "https://raw.githubusercontent.com/mariannabastos/Desafio-GamaXP/106235b080341c8191cf0188a09018299fb19fbd/swagger.json",
+    "fetched_at": "2026-05-25T10:00:14.842975+00:00",
+    "content_hash": "c8100ec096ec73bf137e43f2930fb7bbff52985cd134b047c5d17cc26e981d95",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "API do Projeto Gama XP",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

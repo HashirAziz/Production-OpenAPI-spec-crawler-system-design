@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "fc774b878cfb",
+    "source_url": "https://raw.githubusercontent.com/Ajang-Deng98/fullstack_assignment_group5/8d635f1e8e10822f71b9e3abcf50d5b0209f4354/swagger.yaml",
+    "fetched_at": "2026-05-25T09:59:28.424615+00:00",
+    "content_hash": "7edd8bf7dade3aec822dc828d74cfd12d249d6ab64cec4b5d466e7f6a39b1c08",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Music Playlist Manager API",
+    "openapi_version": "openapi_3",
+    "paths_count": 12,
+    "path_diff": null
+  }
+]

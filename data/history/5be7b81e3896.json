@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5be7b81e3896",
+    "source_url": "https://raw.githubusercontent.com/KennethTaipe06/MQTT-PYTHON/6d486795ffbc2765488e97f57524d13108fd9b3e/swagger.yaml",
+    "fetched_at": "2026-05-25T09:59:11.213813+00:00",
+    "content_hash": "77d901a921041d611b0e7cd2912cfec86517c15191f01b7c4455f403f2f8ae93",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Hello World API",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

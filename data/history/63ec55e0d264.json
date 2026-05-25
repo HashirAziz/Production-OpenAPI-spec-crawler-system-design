@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "63ec55e0d264",
+    "source_url": "https://raw.githubusercontent.com/osu-mist/academic-api/ea8e84834890741f1d25803c2ea8589ec83aea12/swagger.yaml",
+    "fetched_at": "2026-05-25T09:59:16.999468+00:00",
+    "content_hash": "06daa00e358663002e088e58c0d4120a8389b0263c62d937960342d3824ff63c",
+    "info_version": "1",
+    "status": "new",
+    "title": "Academic API",
+    "openapi_version": "swagger_2",
+    "paths_count": 13,
+    "path_diff": null
+  }
+]

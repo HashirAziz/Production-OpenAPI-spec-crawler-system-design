@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "fa4d94ba4e4e",
+    "source_url": "https://raw.githubusercontent.com/lucasmm96/message-manager-api/bcd2e5d2a6ab86957c4e84ab154ab460d7ee40b3/swagger.json",
+    "fetched_at": "2026-05-25T10:00:18.516939+00:00",
+    "content_hash": "31fdf1512f22a7f2c6c3c77161c80052b2aa013f067af11ebd074c970dbca2cd",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Message Manager API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

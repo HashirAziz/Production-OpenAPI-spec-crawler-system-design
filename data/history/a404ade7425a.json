@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a404ade7425a",
+    "source_url": "https://raw.githubusercontent.com/kuberkuber/front/ae7f76c55298828927769fa8ded2e7bc8b9e3c53/swagger.yaml",
+    "fetched_at": "2026-05-25T09:59:15.359592+00:00",
+    "content_hash": "cd144387087c933a0ab865f3dfbce501289a76e1537214366b3ef880d42b0d41",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "primality-test-swagger-example",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

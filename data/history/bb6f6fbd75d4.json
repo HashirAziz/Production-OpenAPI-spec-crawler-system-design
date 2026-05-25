@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "bb6f6fbd75d4",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/ffb93916a61ef0372e6769135ab04a6e38413f04/apis/openapi/setlist.fm/main/1.0/openapi.json",
+    "fetched_at": "2026-05-25T09:58:36.523870+00:00",
+    "content_hash": "1dc1a10e716f5ae43ca510519a532ee507fe585d568cc174049368bc49681b69",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "setlist.fm API",
+    "openapi_version": "openapi_3",
+    "paths_count": 15,
+    "path_diff": null
+  }
+]

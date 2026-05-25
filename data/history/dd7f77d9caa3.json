@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "dd7f77d9caa3",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/ffb93916a61ef0372e6769135ab04a6e38413f04/apis/openapi/newsapi.org/main/1.0.0/openapi.json",
+    "fetched_at": "2026-05-25T09:58:47.457694+00:00",
+    "content_hash": "625efae262834b2b47f7a8c7d15f1a9f46fa62b0c5a90c7f0ec16a03bfdf0477",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "News API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

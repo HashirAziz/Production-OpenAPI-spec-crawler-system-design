@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2fde67f26f91",
+    "source_url": "https://raw.githubusercontent.com/zaproxy/zap-api-docs/8d96ac52aa84d374ad97af034758cfe7e3010bcf/openapi.yaml",
+    "fetched_at": "2026-05-25T09:57:49.267930+00:00",
+    "content_hash": "bbb71f68ed4c7f01466bd8c9c94adbb63b57f0ceb666835b77d3dd0fe54fb087",
+    "info_version": "2.16.1",
+    "status": "new",
+    "title": "ZAP API",
+    "openapi_version": "openapi_3",
+    "paths_count": 735,
+    "path_diff": null
+  }
+]

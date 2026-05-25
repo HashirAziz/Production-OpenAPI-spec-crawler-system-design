@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "cf2fec1f9224",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/ffb93916a61ef0372e6769135ab04a6e38413f04/apis/openapi/verkada.com/main/1.0.0/openapi.json",
+    "fetched_at": "2026-05-25T09:58:48.271090+00:00",
+    "content_hash": "0b4050317bcd8e78f5285e2e6793f989c40b64a56981eb5b48a286ae7f9d1fee",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Verkada API",
+    "openapi_version": "openapi_3",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

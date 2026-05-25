@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0eaf4e913444",
+    "source_url": "https://raw.githubusercontent.com/fittner-project/fittner-web/41ad90d7c0ca6d1ce80b4b57237335c4bbe6de3e/swagger.json",
+    "fetched_at": "2026-05-25T09:59:56.176962+00:00",
+    "content_hash": "d413cda6da7d725f303f0c0d323d0a04113b2f7eb153b901c5873c0d04219031",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Fittner API",
+    "openapi_version": "openapi_3",
+    "paths_count": 53,
+    "path_diff": null
+  }
+]

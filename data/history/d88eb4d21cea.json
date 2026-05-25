@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d88eb4d21cea",
+    "source_url": "https://raw.githubusercontent.com/WomB0ComB0/cdn/c49c5f17bb889a63eb27e0c0d04fe0fb37180e9d/openapi.yaml",
+    "fetched_at": "2026-05-25T09:57:58.964043+00:00",
+    "content_hash": "3ed68602d5fcd2852293a30c0ae9840f704f349be0f88560504a1db9245c5ded",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "CDN Media API",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "fe6c0b678b31",
+    "source_url": "https://raw.githubusercontent.com/gabrielbuquer/starter-tcc/abc23cac8047630492f0ceb55a77703c37cbda95/swagger.yaml",
+    "fetched_at": "2026-05-25T09:59:36.292306+00:00",
+    "content_hash": "ff9d4d4f834bd4adb073b9225ee1ae482c18e58f2050e7cc4aff0161584b34a5",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Monetix",
+    "openapi_version": "openapi_3",
+    "paths_count": 13,
+    "path_diff": null
+  }
+]

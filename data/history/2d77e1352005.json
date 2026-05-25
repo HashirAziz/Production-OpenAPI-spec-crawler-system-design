@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2d77e1352005",
+    "source_url": "https://raw.githubusercontent.com/abdoelsaeed/Learning-Management-System-LMS-/19028e6f498d745b72f499513eb290f52ac6153e/swagger.yaml",
+    "fetched_at": "2026-05-25T09:59:14.198130+00:00",
+    "content_hash": "d564ce6e60f5a8be201dfefd5aea60162af6d5088eb118766b32f5e824441fdd",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "LMS Project API",
+    "openapi_version": "openapi_3",
+    "paths_count": 16,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c45cdf896788",
+    "source_url": "https://raw.githubusercontent.com/igorrsilvaaf/API_eventos_JavaScript/90b8d51cc85e0d791cb600c070d18e996a7b7a50/swagger.json",
+    "fetched_at": "2026-05-25T10:00:20.056297+00:00",
+    "content_hash": "7c6b471cc58e0d59fc44cbdfd9ba37c8c03c292ee79d6bd57260e4ae8e3b089c",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "E-commerce",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

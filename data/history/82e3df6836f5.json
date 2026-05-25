@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "82e3df6836f5",
+    "source_url": "https://raw.githubusercontent.com/Safan05/NasaBackend/8509a2817515976903fe2c1390689e4174ef7961/swagger.yaml",
+    "fetched_at": "2026-05-25T09:59:13.449186+00:00",
+    "content_hash": "492c66eb8ff948934dc596a86c7066a37a1ef076cea6c00c06462efcdc837781",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Nasa Backend API",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

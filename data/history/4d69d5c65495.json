@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4d69d5c65495",
+    "source_url": "https://raw.githubusercontent.com/bundesAPI/pegel-online-api/9c5885dc4ebee8cda3995ebe09a45c0a8a209672/openapi.yaml",
+    "fetched_at": "2026-05-25T09:57:55.018525+00:00",
+    "content_hash": "136a49861e9c614096d5678582c3c5145d1109e0d71f70fc4e081964e2964158",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Pegel-Online API",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

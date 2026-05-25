@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d48e18a38456",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/ffb93916a61ef0372e6769135ab04a6e38413f04/apis/openapi/authentiq.io/main/1.0/openapi.json",
+    "fetched_at": "2026-05-25T09:58:41.128281+00:00",
+    "content_hash": "f1a302e91aba7b479b519ecf372162e3804785f51553cf6564c81c2691de5096",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Authentiq Connect API",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

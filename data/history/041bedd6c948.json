@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "041bedd6c948",
+    "source_url": "https://raw.githubusercontent.com/aternosorg/php-curseforge-api/5482843cebf323c61b0e45bf5ebb7cb367c7c1ab/openapi.yaml",
+    "fetched_at": "2026-05-25T09:57:43.730086+00:00",
+    "content_hash": "eea1cd29e8c3afeed3501fa33152facc3a5e171db83b1c8ff92e816b89e1ab69",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "CurseForge API",
+    "openapi_version": "openapi_3",
+    "paths_count": 24,
+    "path_diff": null
+  }
+]

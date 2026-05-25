@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "621044c5e263",
+    "source_url": "https://raw.githubusercontent.com/formancehq/auth/775d86e1f91ad0fa864bce8e2491cb5293e7f16f/openapi.yaml",
+    "fetched_at": "2026-05-25T09:57:42.226888+00:00",
+    "content_hash": "5a76de769d14fcb2c95e15255b992005908a57b55a56812450717c6e9904251d",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "Auth API",
+    "openapi_version": "openapi_3",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c473e04fd10b",
+    "source_url": "https://raw.githubusercontent.com/michae1iv/logreact/3a893533b6dcf030fcad99ad144cc3422ce1ebac/swagger.yaml",
+    "fetched_at": "2026-05-25T09:59:15.741759+00:00",
+    "content_hash": "76332f246bcf7f29357567062cebabe475b7075171c594dda0e47dcc0ae317e9",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Logreact API",
+    "openapi_version": "openapi_3",
+    "paths_count": 15,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ab4848f81fa0",
+    "source_url": "https://raw.githubusercontent.com/tobq/porkbun-api-v3/29a9c2b8f4aa8464347cfb1aa0bda2c2cbba0841/openapi.yaml",
+    "fetched_at": "2026-05-25T09:57:58.723563+00:00",
+    "content_hash": "679fb428c8007b5c6eae222d186cd57c493c752f50c53cc3a493dd941a5b7416",
+    "info_version": "3.0-beta",
+    "status": "new",
+    "title": "Porkbun API",
+    "openapi_version": "openapi_3",
+    "paths_count": 17,
+    "path_diff": null
+  }
+]

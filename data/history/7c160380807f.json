@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "7c160380807f",
+    "source_url": "https://raw.githubusercontent.com/miss-sanjana/Notification-Service/a33e19e4536894aa9fb3369f4df80a12a35769e8/swagger.yaml",
+    "fetched_at": "2026-05-25T09:59:32.820837+00:00",
+    "content_hash": "4fe52870a66e960045e738b22b1c8996a78e8fa8025a3fde432343e59f5c82c2",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Notification Service API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

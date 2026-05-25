@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "036b8bff3a6f",
+    "source_url": "https://raw.githubusercontent.com/LOLA0786/Intent-Engine-Api/97e4c563b211d3c1b12909c59959c2b69ce27b54/openapi.yaml",
+    "fetched_at": "2026-05-25T09:57:53.737043+00:00",
+    "content_hash": "492c216b4187e70e5d06fc8b7a1ac3dd482c24d7bbb98338045197090e1d958e",
+    "info_version": "1.1.0",
+    "status": "new",
+    "title": "Intent Engine API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

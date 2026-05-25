@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "87b354516f37",
+    "source_url": "https://raw.githubusercontent.com/niranjangirhe/readableDatabase/6f061add678651baf7b9940a13b10cc698b38080/openapi.yaml",
+    "fetched_at": "2026-05-25T09:57:57.044563+00:00",
+    "content_hash": "8c9cc80dbafceb5b72cf68a1b32b051baa7b2a23f391ec785864542bd98fe6be",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Api gateway",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

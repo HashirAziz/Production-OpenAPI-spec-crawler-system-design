@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "27be03e6e01e",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/ffb93916a61ef0372e6769135ab04a6e38413f04/apis/openapi/beeminder.com/main/1.0/openapi.json",
+    "fetched_at": "2026-05-25T09:58:47.873005+00:00",
+    "content_hash": "46d55cad75d15b34122725646d2de7d23451901e4d0ff1e780804add094cbf70",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Beeminder",
+    "openapi_version": "openapi_3",
+    "paths_count": 12,
+    "path_diff": null
+  }
+]

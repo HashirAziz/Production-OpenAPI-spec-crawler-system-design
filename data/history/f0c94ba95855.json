@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f0c94ba95855",
+    "source_url": "https://raw.githubusercontent.com/idozarchi/realtime-coding-platform/a7618cb3fd3ecfa588ad7087cb1955e9350d9543/swagger.yaml",
+    "fetched_at": "2026-05-25T09:59:27.660424+00:00",
+    "content_hash": "ea06923162c715386e77e4f05699e748a77e306b7512f06ad522033bcd2c2064",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Real-time Coding Platform API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]
