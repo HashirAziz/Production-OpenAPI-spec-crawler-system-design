@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "fac2c3a34e88",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/802d3bac00c9d9ae24082e7ad69cd450630911cb/apis/openapi/lyft.com/main/1.0.0/openapi.json",
+    "fetched_at": "2026-05-26T09:44:56.006357+00:00",
+    "content_hash": "abc65e1584fec3d3a4504767213505544a79fa3eecdc13294df34af89c1f4f8d",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Lyft",
+    "openapi_version": "openapi_3",
+    "paths_count": 15,
+    "path_diff": null
+  }
+]

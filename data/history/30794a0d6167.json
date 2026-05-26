@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "30794a0d6167",
+    "source_url": "https://raw.githubusercontent.com/franklobsty25/inventory-system-api/a4d29fe2e6ee771a2019decbf7b1d544cb9883fd/swagger.json",
+    "fetched_at": "2026-05-26T09:45:58.016993+00:00",
+    "content_hash": "b79cd5950274c27fb6e5cc6816c5df04826782d3549513befd8135d60b3cc6bc",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "unknown",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

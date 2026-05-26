@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1e1aaa6b2cce",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/802d3bac00c9d9ae24082e7ad69cd450630911cb/apis/openapi/vlow.com.br/main/1.0.0/openapi.json",
+    "fetched_at": "2026-05-26T09:45:01.853968+00:00",
+    "content_hash": "f61419aebf4e90ca83648e1ba1c87705cedd03b3b9c62ac7f13b4554ddc50a6b",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Vlow API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

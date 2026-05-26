@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3fefa224a2e8",
+    "source_url": "https://raw.githubusercontent.com/donkomura/go-server/df4ec4c0c36edcb08518e4afcf2ac85bdfcd91fc/swagger.yaml",
+    "fetched_at": "2026-05-26T09:45:22.805969+00:00",
+    "content_hash": "d00a145acff717c2d857f34a378b8107b91bfdd65304d431a8f039e05599d5c1",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Swagger lob",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

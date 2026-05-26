@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "defad2447111",
+    "source_url": "https://raw.githubusercontent.com/black-06/jupyterhub-client/f78adddc13da485e327b700ee72e5b68f2de5ae1/swagger.yaml",
+    "fetched_at": "2026-05-26T09:45:27.805270+00:00",
+    "content_hash": "e65b72864995f1e146342cd07ff2f621f76498ab9ae830b0e8757a668f683edf",
+    "info_version": "4.0.0b2",
+    "status": "new",
+    "title": "JupyterHub",
+    "openapi_version": "openapi_3",
+    "paths_count": 23,
+    "path_diff": null
+  }
+]

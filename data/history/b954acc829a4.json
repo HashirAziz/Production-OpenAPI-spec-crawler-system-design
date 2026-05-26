@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b954acc829a4",
+    "source_url": "https://raw.githubusercontent.com/open-edge-platform/orch-metadata-broker/4349ae9f6549608b9eb168409b2c3dbbc270010a/api/spec/openapi.yaml.license",
+    "fetched_at": "2026-05-26T09:44:11.330540+00:00",
+    "content_hash": "048396b3b24f2b277aea41cbb07b06e3816976ec0657c97a0fcb155803908419",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "unknown",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

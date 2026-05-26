@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0a8b8793aff5",
+    "source_url": "https://raw.githubusercontent.com/fiap-soat-sst/vip-notification/94a3c8a01235efcb2249bd14868f5fecb60e95eb/swagger.json",
+    "fetched_at": "2026-05-26T09:45:47.833874+00:00",
+    "content_hash": "71f1d1baa026306875014d702ea19456a40042262e99ea02acead94a7381c68d",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "VIP Notification Service",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "568bb0c11845",
+    "source_url": "https://raw.githubusercontent.com/internetarchive/openlibrary-api/ad3c68646c9d2d91363b917d31aff855f3591a62/swagger.yaml",
+    "fetched_at": "2026-05-26T09:45:12.033519+00:00",
+    "content_hash": "f622eba72ca8a6c23fe1364a2f6a0f8116a7a397830bbc57d1a0c1353191faa0",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "Open Library API",
+    "openapi_version": "openapi_3",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

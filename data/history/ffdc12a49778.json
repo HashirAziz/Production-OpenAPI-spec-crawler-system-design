@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ffdc12a49778",
+    "source_url": "https://raw.githubusercontent.com/serhiibezuhlyi/weatherletter/c414821adaae041ea718ea1f5606650823e8104f/swagger.yaml",
+    "fetched_at": "2026-05-26T09:45:29.938115+00:00",
+    "content_hash": "cc22c830ebe7521114b75d43051ce4d773247b2051a7952303b86df3f294f710",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Weather Forecast API",
+    "openapi_version": "swagger_2",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

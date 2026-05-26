@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9cdf449311a8",
+    "source_url": "https://raw.githubusercontent.com/knightmax/dojo-architecture-hexagonale/aa0833428d7166b8e0e479b44341f8e66a2db80d/swagger.yaml",
+    "fetched_at": "2026-05-26T09:45:26.058180+00:00",
+    "content_hash": "094c526de847c7c0674e54c2a1c22de7300b8d2cc612bfb2a74872ba39f117a8",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Rescue Mission API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

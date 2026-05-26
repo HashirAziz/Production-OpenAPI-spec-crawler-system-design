@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d978ed3fb0e0",
+    "source_url": "https://raw.githubusercontent.com/cloudigrade/cloudigrade/53cb3042962667f08f2d9966f98a3d9551e9768e/openapi.json",
+    "fetched_at": "2026-05-26T09:45:03.140317+00:00",
+    "content_hash": "f4e1e6f51a838cb23e75b29553e01a8b9e9602fb73a7d228c2dabf47c5be6cda",
+    "info_version": null,
+    "status": "new",
+    "title": "Cloudigrade public API v2",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

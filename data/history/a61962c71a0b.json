@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a61962c71a0b",
+    "source_url": "https://raw.githubusercontent.com/fourhundredfour/vserver-cloud-documentation/91e8e4290cb65563fc09b2924cf274aab0507e55/swagger.yaml",
+    "fetched_at": "2026-05-26T09:45:22.616000+00:00",
+    "content_hash": "61279be47b97a90762f2b5e4f529ec9fabe9141e3765d19f39cd1f0053868e5f",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "vServer Cloud",
+    "openapi_version": "swagger_2",
+    "paths_count": 35,
+    "path_diff": null
+  }
+]

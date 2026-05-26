@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5e45c2f52ccf",
+    "source_url": "https://raw.githubusercontent.com/mswjs/source/2658716b0f3f96783bad392cbfb84326931749fe/openapi.json",
+    "fetched_at": "2026-05-26T09:45:04.446490+00:00",
+    "content_hash": "ca859fc17ce1056296594ab75a205e93c0445d046fa15f846d2cb80c723ab45f",
+    "info_version": "1.21.3",
+    "status": "new",
+    "title": "Komga API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

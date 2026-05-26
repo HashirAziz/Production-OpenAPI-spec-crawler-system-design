@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "71a429233c3c",
+    "source_url": "https://raw.githubusercontent.com/synergycp/scp-bm-pkg-rdns/faa426e92b8676cb7ffe551414fb536b3e351051/swagger.yaml",
+    "fetched_at": "2026-05-26T09:45:28.474490+00:00",
+    "content_hash": "ff08ce2aa9bf0fdad756a53574d7def7c6d167c0c1069561fcdd61dac9beed54",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "SynergyCP rDNS Package",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

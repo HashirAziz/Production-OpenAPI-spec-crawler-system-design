@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d5af231efaae",
+    "source_url": "https://raw.githubusercontent.com/prat1kz/Swagger-UI-XSS-Payloads/38188609d0475fe14c6a09a4d8deb30e43ed451b/swagger.yaml",
+    "fetched_at": "2026-05-26T09:45:29.070866+00:00",
+    "content_hash": "43a0916cd91ca01c71eab283f319e20bbb1cb48c2ce8d8d3e7c313a169bd11d4",
+    "info_version": null,
+    "status": "new",
+    "title": "Example yaml.spec",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

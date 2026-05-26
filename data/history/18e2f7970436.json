@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "18e2f7970436",
+    "source_url": "https://raw.githubusercontent.com/hatgit/forex-gpt/9c956cf89b7f2aba36dbf70639217a26757fb67a/openapi.yaml",
+    "fetched_at": "2026-05-26T09:44:24.129666+00:00",
+    "content_hash": "5486cc7343d346bb6e8849df5034eda64e4f49430067458e743130acf47ecece",
+    "info_version": "v1",
+    "status": "new",
+    "title": "Forex Rates powered by OpenAI",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

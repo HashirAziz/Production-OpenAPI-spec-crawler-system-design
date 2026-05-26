@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e1118c6f3efa",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/802d3bac00c9d9ae24082e7ad69cd450630911cb/apis/openapi/bexio.com/main/2.0/openapi.json",
+    "fetched_at": "2026-05-26T09:44:54.580345+00:00",
+    "content_hash": "cfc8d3c9b7236ca6dec23c45a5ddc43eb2441cd0e730e4c98eafa1ebf9bde291",
+    "info_version": "2.0",
+    "status": "new",
+    "title": "bexio API",
+    "openapi_version": "openapi_3",
+    "paths_count": 49,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0539905ac0f8",
+    "source_url": "https://raw.githubusercontent.com/guilherme-wallace/Intranet-Intervip/5fe3c0b2dc9c07c63574f6b714d0a4cf073b0f5c/swagger.json",
+    "fetched_at": "2026-05-26T09:45:56.133480+00:00",
+    "content_hash": "057f37e6be1ed414afb630a47a95cade3b2d1839d60a1ada545f5f6edf85413a",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Intervip API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

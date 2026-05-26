@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c4426bd0dca7",
+    "source_url": "https://raw.githubusercontent.com/bgervin/ithelpdesk_da_codex_atk/8c93d0351fb9f3ab63d0ac0c5ab13a7d2de3c10c/appPackage/apiSpecificationFile/openapi.yaml.original",
+    "fetched_at": "2026-05-26T09:44:20.359330+00:00",
+    "content_hash": "18f97e21e4bdef27ca9ff557e1f91b903a447511fd6671a761e5c32005880b8c",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "ServiceNow Incident API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

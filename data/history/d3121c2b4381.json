@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d3121c2b4381",
+    "source_url": "https://raw.githubusercontent.com/JuanSlaterT/InitGitHubActions/a683b53fdcff4e20a404c2519a286186a2baedd3/swagger.json",
+    "fetched_at": "2026-05-26T09:45:57.817593+00:00",
+    "content_hash": "53de5690c164c89a88d10c2514dc8d6b25287e58623d7aa8af0f3f67eee39c43",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Arquetipo Pokemon",
+    "openapi_version": "swagger_2",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

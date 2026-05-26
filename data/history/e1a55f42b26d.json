@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e1a55f42b26d",
+    "source_url": "https://raw.githubusercontent.com/maxkonyukh/Parcelmeadow/202da74fc3b5cb1aaedbff5faeea1dcf4f3266e1/swagger.yaml",
+    "fetched_at": "2026-05-26T09:45:15.579825+00:00",
+    "content_hash": "f873e69965ae82e1bf03b5ca06ee5743aad95ede96c6ad105b62a95386166b88",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "parcelmeadow API",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

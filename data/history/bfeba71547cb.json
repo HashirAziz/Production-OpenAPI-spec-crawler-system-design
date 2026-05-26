@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "bfeba71547cb",
+    "source_url": "https://raw.githubusercontent.com/annalemonbcn/cart_nodeJs/61dcf82c35b018d54a60ad826a9a3248d0d71445/swagger.yaml",
+    "fetched_at": "2026-05-26T09:45:23.724345+00:00",
+    "content_hash": "8bfb4cb7baf6c5523ea46ad043611ec66ab173b1f7e0850688792cfc45ba34ca",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Cart API",
+    "openapi_version": "openapi_3",
+    "paths_count": 20,
+    "path_diff": null
+  }
+]

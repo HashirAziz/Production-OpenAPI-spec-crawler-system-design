@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e1f84ef2ebd4",
+    "source_url": "https://raw.githubusercontent.com/Mistrymm7/AEC-Design-Technologist/3f93fc7676d435966daef46a1e133cfdbbed5f09/openapi.json",
+    "fetched_at": "2026-05-26T09:45:02.468370+00:00",
+    "content_hash": "18d2a4d32129de38283ca261135b7525169f3a02c154d96df865fde892bf2d15",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "FastAPI & Redoc Image Upload Example",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

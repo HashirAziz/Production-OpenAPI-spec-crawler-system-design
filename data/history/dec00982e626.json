@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "dec00982e626",
+    "source_url": "https://raw.githubusercontent.com/Naveen4703/sims/4a9ecfaf9187c3d270c2d3dd04e5d2836fc5045f/swagger.json",
+    "fetched_at": "2026-05-26T09:45:57.425512+00:00",
+    "content_hash": "1a37a6dcff60cecc14bbe4bd5a487a5f5bb7ff47f3c5537eddc9d4e54d6cbaa8",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Students Internship Management system",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

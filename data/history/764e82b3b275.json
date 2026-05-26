@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "764e82b3b275",
+    "source_url": "https://raw.githubusercontent.com/Ganeshscr2511/DigiPinTesting/df111004fdf7a8090ece8b3cbb35bfa8787e19aa/swagger.yaml",
+    "fetched_at": "2026-05-26T09:45:20.750170+00:00",
+    "content_hash": "4c427f86382ca6fc856f2e30fe845bc830bd056662abb725154d2f21a5b1e9f0",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "DIGIPIN API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

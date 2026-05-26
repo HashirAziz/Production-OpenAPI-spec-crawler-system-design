@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3bfbd77669d7",
+    "source_url": "https://raw.githubusercontent.com/elviejo79/todolist-swagger/2725b6f925c0d7898921872c5bc967c073b30778/swagger.yaml",
+    "fetched_at": "2026-05-26T09:45:30.515901+00:00",
+    "content_hash": "16d70047f7109ae404f8b3e9748acc104f0c9628a67df22c1a30655691aede3c",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "TodoList",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

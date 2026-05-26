@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3842d3382576",
+    "source_url": "https://raw.githubusercontent.com/DangerZombie/golang-echo-boilerplate/af97d4df14c5280c0b8cfb2e6e491a3563502b5a/swagger.yaml",
+    "fetched_at": "2026-05-26T09:45:25.332326+00:00",
+    "content_hash": "fa45ac82296564413e57baad86f2b10496ef6cecaa66aca840a57d04c3278eab",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Echo Boilerplate API:",
+    "openapi_version": "swagger_2",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

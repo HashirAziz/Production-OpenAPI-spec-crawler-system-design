@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "38be31e1320b",
+    "source_url": "https://raw.githubusercontent.com/MysticSnows/JobsAPI-NodeJS/e6b0da7723eda064d1f73b1cbdffcd1c816b2dc3/swagger.yaml",
+    "fetched_at": "2026-05-26T09:45:30.925641+00:00",
+    "content_hash": "67412e542135ad8573a179eaec889d172ab8852f8bcbe6cdcbaef674864cb9c9",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Jobs API",
+    "openapi_version": "swagger_2",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

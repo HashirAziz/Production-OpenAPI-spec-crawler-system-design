@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b6c764e63ea9",
+    "source_url": "https://raw.githubusercontent.com/Hotram89/P13_ArgentBank_APIbancaire/5e6c3f70d01a9fd1e4fc34520645778b03ad944d/swagger.yaml",
+    "fetched_at": "2026-05-26T09:45:29.653994+00:00",
+    "content_hash": "9ecf34809c85ed47f73d808a393a6c7df80f719925e91469af8788abcae2954a",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Bank Argent API documentation",
+    "openapi_version": "swagger_2",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

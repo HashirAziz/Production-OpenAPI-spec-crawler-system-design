@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a561af9eac37",
+    "source_url": "https://raw.githubusercontent.com/OlexiySPT/sai-deal-assistant-frontend/99be85a6247cf7ba8e052ea83e8ed1031b012de9/swagger.json",
+    "fetched_at": "2026-05-26T09:45:58.275916+00:00",
+    "content_hash": "da6ff3d4dc46d9a0ef5cef65ddb6fd9062f33d70637fb8d1a4abbf74cda5e666",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Sai.DealAssistant.WebApi",
+    "openapi_version": "openapi_3",
+    "paths_count": 22,
+    "path_diff": null
+  }
+]

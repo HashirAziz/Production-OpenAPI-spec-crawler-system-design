@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a0c9e717fc3b",
+    "source_url": "https://raw.githubusercontent.com/rajan25801/rulebook-Backend/85eb8f35b19a66ed97e75140a219a7c97d084df6/swagger.yaml",
+    "fetched_at": "2026-05-26T09:45:23.929858+00:00",
+    "content_hash": "ee080c3571acc804402117edd54f81fbc56c4dab884a71704259eb36b0f58a1a",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Rule Book API",
+    "openapi_version": "openapi_3",
+    "paths_count": 14,
+    "path_diff": null
+  }
+]

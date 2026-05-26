@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "fe523c2b3d1b",
+    "source_url": "https://raw.githubusercontent.com/jgruberf5/F5APIAprilChallenge/786bacb88662c64436cb0b2e50b8d3e4a9f72441/swagger.yaml",
+    "fetched_at": "2026-05-26T09:45:14.390030+00:00",
+    "content_hash": "01f43158d3986f644ef26622359a3432b7d6ddba198081cf94acfb542818618a",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "F5 April API Challenge!",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

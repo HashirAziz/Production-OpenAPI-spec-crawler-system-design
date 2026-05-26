@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "406f550bda06",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/802d3bac00c9d9ae24082e7ad69cd450630911cb/apis/openapi/shop.app/main/v1.1/openapi.json",
+    "fetched_at": "2026-05-26T09:44:54.291623+00:00",
+    "content_hash": "674a73b88514ff9e386cd0c6a5a438c154cf9b53253e679cd1d52600123c94f5",
+    "info_version": "v1.1",
+    "status": "new",
+    "title": "Shop",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

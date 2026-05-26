@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c0c4f351daa5",
+    "source_url": "https://raw.githubusercontent.com/wordaddict/create-api/b1a947d94d95253b729ad2852c2946ab37914bad/swagger.yaml",
+    "fetched_at": "2026-05-26T09:45:31.140881+00:00",
+    "content_hash": "3aa2cc6a4d4d9bcdd2cbc555f689d12c3b581751ea802e2f5f0b22a52dca4fdd",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Crash test rating",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

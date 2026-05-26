@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4d64c63080ff",
+    "source_url": "https://raw.githubusercontent.com/imnitish-dev/ts-server/df16fd2708c61889bf66a6f79a6b8a5d9535294a/swagger.yaml",
+    "fetched_at": "2026-05-26T09:45:16.186862+00:00",
+    "content_hash": "21482487899779995bf5bee62cff7523d44d6681b6a3dbca47cbfec3211c6adc",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "unknown",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

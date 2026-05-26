@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a23067707405",
+    "source_url": "https://raw.githubusercontent.com/harsh-chaudhary-compro/vue-boilerplate/f58bf414b01c4d10b5eb111d44277c2641787c0d/swagger.yaml",
+    "fetched_at": "2026-05-26T09:45:15.958327+00:00",
+    "content_hash": "4c7c721cf90c11e4837da103127a3618af65be98ae49fbde734ed16841e37f36",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Seed API",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

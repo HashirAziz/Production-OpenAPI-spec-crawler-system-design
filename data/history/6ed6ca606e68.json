@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6ed6ca606e68",
+    "source_url": "https://raw.githubusercontent.com/huma-engineering/huma-redoc/b1eb5f0874c8cd0841172e49e576883028f28126/demo/swagger.yaml",
+    "fetched_at": "2026-05-26T09:45:23.375928+00:00",
+    "content_hash": "59851da7216cff376fc0c7be10f2d1c79f3ba16df10dbd5c80b1ce68d3c8cea4",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Swagger Petstore",
+    "openapi_version": "swagger_2",
+    "paths_count": 14,
+    "path_diff": null
+  }
+]

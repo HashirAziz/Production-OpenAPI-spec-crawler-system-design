@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a5ac78312828",
+    "source_url": "https://raw.githubusercontent.com/Osama575/klusthertonBackend/d7578ee0e397179eb805f342fe2f3c314da7debb/swagger.yaml",
+    "fetched_at": "2026-05-26T09:45:25.101078+00:00",
+    "content_hash": "246a992e9d4631ee4f3c8e6d0a66f46d45f5448b54730830c42daa78f9c31c28",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Warehouse Co",
+    "openapi_version": "openapi_3",
+    "paths_count": 16,
+    "path_diff": null
+  }
+]

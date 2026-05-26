@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d1385c537971",
+    "source_url": "https://raw.githubusercontent.com/Valerijkk/code-win-mirea/73a3e16d5aea35a415c0c2682643bdadea819e9d/swagger.yaml",
+    "fetched_at": "2026-05-26T09:45:24.680993+00:00",
+    "content_hash": "71c5b591dc436e3a5fb8550483840b027c5972f0045a84d39f8ec515ebf409bb",
+    "info_version": "2.2",
+    "status": "new",
+    "title": "WarDiaryAI API",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

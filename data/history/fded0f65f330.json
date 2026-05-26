@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "fded0f65f330",
+    "source_url": "https://raw.githubusercontent.com/Guenzler/movie_api/699557b1e3bca2a30608ea428f1210c6e5d46018/swagger.yaml",
+    "fetched_at": "2026-05-26T09:45:27.546556+00:00",
+    "content_hash": "fc5b8847b794912e0b7f1d1facfacf3ecb2bb105388b8a6c67b12a8531cb27ae",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "unknown",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

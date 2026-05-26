@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8afb6ae540e0",
+    "source_url": "https://raw.githubusercontent.com/RaphaelVRossi/cred-generator/617dfb07f1441e23f02e2797ed83884e2c69adcf/swagger.yaml",
+    "fetched_at": "2026-05-26T09:45:16.370461+00:00",
+    "content_hash": "bb4473d6e4145f5c1a77b474c42885cec7cfc5a80db276ae7baa4080c493c8d7",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API de Gerenciamento de Eventos e Participantes",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ed659f75f5af",
+    "source_url": "https://raw.githubusercontent.com/abhin1509/tshirtstore/47d9ef088e9ccf708a8700b68dff563e60aaa912/swagger.yaml",
+    "fetched_at": "2026-05-26T09:45:26.330373+00:00",
+    "content_hash": "b4df4496732d8cc49317f786b08cd8a182eda4aabe065dfa107a274f1d731dc3",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Tshirt store api",
+    "openapi_version": "openapi_3",
+    "paths_count": 28,
+    "path_diff": null
+  }
+]

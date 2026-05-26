@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "72a217480b2d",
+    "source_url": "https://raw.githubusercontent.com/dzapeka/drink-master-rest-api/677f8ec63d6a7b6c7358e8cbeac2b79994bdd5a2/swagger.json",
+    "fetched_at": "2026-05-26T09:45:45.567136+00:00",
+    "content_hash": "5b4e49916d83421a6cfac3fc36f5f999042e76694c4f8fcc8ce401428481d53c",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Drink Master API",
+    "openapi_version": "openapi_3",
+    "paths_count": 19,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a281a3543cdd",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/802d3bac00c9d9ae24082e7ad69cd450630911cb/apis/openapi/cosmicjs.com/main/v3/openapi.json",
+    "fetched_at": "2026-05-26T09:44:57.263240+00:00",
+    "content_hash": "83437279dddd34f800996c9c0332789a06f87c8f9e22d2826379cd150796e904",
+    "info_version": "v3",
+    "status": "new",
+    "title": "Cosmic API",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

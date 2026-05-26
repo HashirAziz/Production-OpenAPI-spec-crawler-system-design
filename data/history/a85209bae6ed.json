@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a85209bae6ed",
+    "source_url": "https://raw.githubusercontent.com/AlexeyKrutyakov/mesto-project-plus/1ade1b33fe5927b8358cb96b6082dfb20baa6a8c/swagger.yaml",
+    "fetched_at": "2026-05-26T09:45:14.798780+00:00",
+    "content_hash": "d11e59335907682550c4b1859c2966ba848a43eb6f429fb04d9c5ad7671013c2",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "Mesto server",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

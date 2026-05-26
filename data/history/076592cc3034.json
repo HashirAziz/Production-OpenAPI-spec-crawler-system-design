@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "076592cc3034",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/802d3bac00c9d9ae24082e7ad69cd450630911cb/apis/openapi/envoice.in/main/v1/openapi.json",
+    "fetched_at": "2026-05-26T09:44:55.155247+00:00",
+    "content_hash": "2104d314f4fecb71e09144ce5238f918d8c1232cb760c8966d1e9f473ee1ed1c",
+    "info_version": "v1",
+    "status": "new",
+    "title": "API v1.0.0",
+    "openapi_version": "openapi_3",
+    "paths_count": 61,
+    "path_diff": null
+  }
+]

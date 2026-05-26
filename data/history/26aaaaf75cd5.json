@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "26aaaaf75cd5",
+    "source_url": "https://raw.githubusercontent.com/kptm-tools/kptm-docs/5eb43bf7a67ca06a78a2e3ae1da3f905f1a592e7/swagger.yaml",
+    "fetched_at": "2026-05-26T09:45:29.456206+00:00",
+    "content_hash": "fbb35d102fe9cae24a1f1218d67755a389cf40e746375c15ad4ed74061676e3b",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "kptm-tools",
+    "openapi_version": "swagger_2",
+    "paths_count": 25,
+    "path_diff": null
+  }
+]

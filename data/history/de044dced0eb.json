@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "de044dced0eb",
+    "source_url": "https://raw.githubusercontent.com/lamp-gg/open-api/1500074ddbf176933e6e93719ef816ce8a37d6fd/swagger.yaml",
+    "fetched_at": "2026-05-26T09:45:22.977637+00:00",
+    "content_hash": "4594d97f98c7ada7e2b0684643282ad4687b8eff05582aac53216011993fa784",
+    "info_version": "0.0.0",
+    "status": "new",
+    "title": "lamp.gg Open API",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]
