@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6bc9a693f621",
+    "source_url": "https://raw.githubusercontent.com/kebabmane/silo-rss/7cb87498466e21b0d94e422be34731b62471d9fc/openapi.yaml",
+    "fetched_at": "2026-05-27T09:38:31.702714+00:00",
+    "content_hash": "cf0d00bc8f063a33f503837eed7cc717a5dd42fc587889cd1312073526eb8e35",
+    "info_version": "1.1.0",
+    "status": "new",
+    "title": "Silo API",
+    "openapi_version": "openapi_3",
+    "paths_count": 21,
+    "path_diff": null
+  }
+]

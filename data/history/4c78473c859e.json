@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4c78473c859e",
+    "source_url": "https://raw.githubusercontent.com/DmytroHoloborodko/dary-application-cdp-training/1ace55a2466e78e42ce2b607a96a0d943f6f1989/swagger.yaml",
+    "fetched_at": "2026-05-27T09:39:23.450216+00:00",
+    "content_hash": "587ac0358c8c9746f38298c26e632fd43f7958a2976728bac8212f9d8faf78a5",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Posts API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

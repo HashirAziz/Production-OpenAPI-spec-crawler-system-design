@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "190565e00f8e",
+    "source_url": "https://raw.githubusercontent.com/Metatavu/famifarm-api-spec/03d779cff2d4b4c09611723186d475efa8d3e74d/swagger.yaml",
+    "fetched_at": "2026-05-27T09:39:11.156085+00:00",
+    "content_hash": "350e2ca86ee51b62b4f052b244113c32061accee6a6bed879826a77afed470a2",
+    "info_version": "2.0.0",
+    "status": "new",
+    "title": "Famifarm-API",
+    "openapi_version": "openapi_3",
+    "paths_count": 33,
+    "path_diff": null
+  }
+]

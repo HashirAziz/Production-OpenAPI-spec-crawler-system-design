@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a4c82e362877",
+    "source_url": "https://raw.githubusercontent.com/letscodehu/rucsokprovider/c2bd05569b3a38504724dde2b33f37fd9e621768/swagger.yaml",
+    "fetched_at": "2026-05-27T09:39:20.537397+00:00",
+    "content_hash": "12efd4a191a68fc3b30805d7c72ddea8c69d22a93de84249138a4cbc810cd1f8",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "RucsokProvider API",
+    "openapi_version": "swagger_2",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "acc830bc38a9",
+    "source_url": "https://raw.githubusercontent.com/SportsIT/laravel-assessment/d23895f9ccc9525883c0da00f360eac2e5edb229/openapi.yaml",
+    "fetched_at": "2026-05-27T09:38:31.906826+00:00",
+    "content_hash": "7c74c2c0641d6b60263eded3517c77f317c7b24c63e039f8579b7570d5d519c7",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "TODO API",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

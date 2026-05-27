@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ff391da50f9a",
+    "source_url": "https://raw.githubusercontent.com/vitor-fernandes/exploits/b6f73d688c23fc8128d9d68dc53d3308e039011d/swagger.json",
+    "fetched_at": "2026-05-27T09:39:51.806620+00:00",
+    "content_hash": "9f5c377da39b8170f8dde68c2137d105fb6011bbb5af82ae562c3c5f601df63c",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "SWAGGERR XSS",
+    "openapi_version": "swagger_2",
+    "paths_count": 14,
+    "path_diff": null
+  }
+]

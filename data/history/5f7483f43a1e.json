@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5f7483f43a1e",
+    "source_url": "https://raw.githubusercontent.com/alexandre-mendes/soat-fiap-user-application-ms/76352ca1bbaa50a84c641d4028ca30602367db31/swagger.yaml",
+    "fetched_at": "2026-05-27T09:39:20.744118+00:00",
+    "content_hash": "064b3fb3388e31cfbd1d3c956b341f8d608a7a8648bd7092bcd32b344e7ffd04",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API de Usuários",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

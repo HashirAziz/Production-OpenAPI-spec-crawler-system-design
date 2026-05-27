@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b2186c64ca70",
+    "source_url": "https://raw.githubusercontent.com/Revivify/achan/430e3e186c18c6355ca8134ca6f97549e71ca53c/swagger.yaml",
+    "fetched_at": "2026-05-27T09:39:21.338785+00:00",
+    "content_hash": "b9c3885c1f68166e721c3965e77d74737e300cf90adc528bd0a12fdef2aef0ba",
+    "info_version": "v1.0.0",
+    "status": "new",
+    "title": "Image Board API",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

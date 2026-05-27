@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "aee332cd44c6",
+    "source_url": "https://raw.githubusercontent.com/FujiwaraChoki/cowork-space-spring/1a1e6571a34e99b136a3608c234f73ab54c5a4b0/openapi.yaml",
+    "fetched_at": "2026-05-27T09:38:25.806571+00:00",
+    "content_hash": "a104389f78d7ed6050f797642c1895ff3d41347f20e5ffa52d072a4b8e21067c",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Ticketing and User Management API",
+    "openapi_version": "openapi_3",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

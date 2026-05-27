@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d8bd334b2fd8",
+    "source_url": "https://raw.githubusercontent.com/CPNV-ES/RIA2_rekognition_python/167624b6fcf5911f0644865c274bfdc597a038b0/swagger.yaml",
+    "fetched_at": "2026-05-27T09:39:18.978202+00:00",
+    "content_hash": "cbb5c89902fcaba08533534be1d9b82d3fec7287659905fdc145f27201237251",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "RIA2_rekognition_python",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "45bbc7bed8a8",
+    "source_url": "https://raw.githubusercontent.com/gude1/whatsapp-bot-nodeServer/5a770b94762ecc353fc2444bbf30142b520a3a6a/swagger.json",
+    "fetched_at": "2026-05-27T09:39:38.269521+00:00",
+    "content_hash": "39ab4f8e2cd7483f5403c6dbd1a16344531c58320beaf76aed5c5bca8ae5dc4c",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Whatsapp Bot Server API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

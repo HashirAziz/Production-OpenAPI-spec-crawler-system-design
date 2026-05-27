@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a5959bc964ce",
+    "source_url": "https://raw.githubusercontent.com/masoudyousefi1999/ame-tama-backend/cdf458007bc2f9bf3ed055ac5de2fd494aa023a4/swagger.json",
+    "fetched_at": "2026-05-27T09:39:42.882336+00:00",
+    "content_hash": "8523a192b13337bcc59260c8f897d60fbad77e94d23798452e026f1dae678846",
+    "info_version": "v1.0.0",
+    "status": "new",
+    "title": "API",
+    "openapi_version": "openapi_3",
+    "paths_count": 26,
+    "path_diff": null
+  }
+]

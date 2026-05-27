@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9e9b252be372",
+    "source_url": "https://raw.githubusercontent.com/yobong-rex/golang-api/625eddf7e5f12a832d34003ef97c9b5b45fe6ef0/swagger.yaml",
+    "fetched_at": "2026-05-27T09:39:11.811623+00:00",
+    "content_hash": "c15bba771678c9d9a9d5e86975684d9a907c4373f77dac901ab4a1ac1d598913",
+    "info_version": "2.3.2",
+    "status": "new",
+    "title": "Pakuwon BRI Smart Billing API",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6f69e357c323",
+    "source_url": "https://raw.githubusercontent.com/manutdmohit/Jobs-API-Backend-hosted/e28a2d803bebccd82dcc52fde4e3445a9af61575/swagger.yaml",
+    "fetched_at": "2026-05-27T09:39:09.746713+00:00",
+    "content_hash": "f6f748b7dabcf287deeb3214d98a0538d2afbe7bb43ec4e3775c6c22e10571dd",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Jobs-API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

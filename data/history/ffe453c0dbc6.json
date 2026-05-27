@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ffe453c0dbc6",
+    "source_url": "https://raw.githubusercontent.com/ramith/customer-api-python/16feae617e221ab5d58599a66c3856de8da3510d/openapi.yaml",
+    "fetched_at": "2026-05-27T09:38:26.804984+00:00",
+    "content_hash": "866a92047e6acec82a001663233eb41f64aaf224635c41a2d062470684fefed0",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Customer API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

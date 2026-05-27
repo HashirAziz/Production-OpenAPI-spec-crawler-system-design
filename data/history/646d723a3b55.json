@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "646d723a3b55",
+    "source_url": "https://raw.githubusercontent.com/mubashirzamir/ap-group-component/0ecaa7082bafbda3d240f73b52639612dee4aa57/swagger.yaml",
+    "fetched_at": "2026-05-27T09:39:18.198219+00:00",
+    "content_hash": "580f00047733e3673f46ffafafd9036e5252dad54235a4b7a7ab8aa84a53c8f7",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Smart City Microservice API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

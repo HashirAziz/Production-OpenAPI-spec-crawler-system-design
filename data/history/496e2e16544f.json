@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "496e2e16544f",
+    "source_url": "https://raw.githubusercontent.com/rajata07/api_ops_demo/81c8b6955273f1c206d32f587a938a0ad62fafaf/openapi.yaml",
+    "fetched_at": "2026-05-27T09:38:33.508318+00:00",
+    "content_hash": "629b6735baac64931b2a0023f8d39d5caaf16aa21aad21a8db5312b6092cafdb",
+    "info_version": "0.0.0",
+    "status": "new",
+    "title": "(title)",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c00c7b29a992",
+    "source_url": "https://raw.githubusercontent.com/yuma140902/j1rs-flask-backend/1815da3fe2907977e872f6d136c6afe5c628d5de/openapi.yaml",
+    "fetched_at": "2026-05-27T09:38:33.321104+00:00",
+    "content_hash": "193d9cc868a82c96cba069f8070aa9084cf34f6136fd79417fc587607055bd8a",
+    "info_version": "1.1.0",
+    "status": "new",
+    "title": "半自動センサー校正器「コウセイくん☆」Web API",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

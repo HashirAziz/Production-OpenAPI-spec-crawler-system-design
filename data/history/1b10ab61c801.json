@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1b10ab61c801",
+    "source_url": "https://raw.githubusercontent.com/aonoa/vben-admin/015d90a23668e409a1d888d903266a275e873984/openapi.yaml",
+    "fetched_at": "2026-05-27T09:38:26.435470+00:00",
+    "content_hash": "edeaf4452236f88fea622b0d23e522b4926f2e74eb3c3f430427fa4c72cd94c5",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": null,
+    "openapi_version": "openapi_3",
+    "paths_count": 44,
+    "path_diff": null
+  }
+]

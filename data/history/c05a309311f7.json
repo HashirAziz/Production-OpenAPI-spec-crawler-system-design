@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c05a309311f7",
+    "source_url": "https://raw.githubusercontent.com/edemsz/family-organiser-backend/03f0288a3f130d8e1743ad995f75c35c33e3c235/swagger.yaml",
+    "fetched_at": "2026-05-27T09:39:13.233355+00:00",
+    "content_hash": "b8f9c01071ed31208b1aabffa57b08ca0c1300fce06011c82af1f8836c31e557",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Api Documentation",
+    "openapi_version": "swagger_2",
+    "paths_count": 16,
+    "path_diff": null
+  }
+]

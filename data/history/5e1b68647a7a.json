@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5e1b68647a7a",
+    "source_url": "https://raw.githubusercontent.com/yuliakryveiko/Application_Programming/e45824fb089b7ba2d0d2c45ddb438c1f2f2ff653/swagger.yaml",
+    "fetched_at": "2026-05-27T09:39:16.548807+00:00",
+    "content_hash": "9f173089424b2180603e0c192979009c266ebe1e01b33864aa51e3cd1ef301b9",
+    "info_version": "1.0.11",
+    "status": "new",
+    "title": "Money Transfer",
+    "openapi_version": "openapi_3",
+    "paths_count": 12,
+    "path_diff": null
+  }
+]

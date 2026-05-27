@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5fba47a36ad0",
+    "source_url": "https://raw.githubusercontent.com/konippi/pokemon-remix/5ac719ffbd7e72dd1b28b748af20d72e92d47c65/openapi.yaml",
+    "fetched_at": "2026-05-27T09:38:32.649082+00:00",
+    "content_hash": "c3eb774137e3accfaf41bb988bce4db7703ad421bcea1c0854491594ffcb99d9",
+    "info_version": "2.7.0",
+    "status": "new",
+    "title": "PokéAPI",
+    "openapi_version": "openapi_3",
+    "paths_count": 97,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "758f811bb3dd",
+    "source_url": "https://raw.githubusercontent.com/ManoelMorais/GenieAPI/68977ca375861ebd278f0cb2c23763cf713cbfc5/swagger.yaml",
+    "fetched_at": "2026-05-27T09:39:18.753990+00:00",
+    "content_hash": "8d75c370f33628c9baabf58d391df77f7f5dbba5d29e19c91202114954edb489",
+    "info_version": "1.0.11",
+    "status": "new",
+    "title": "Swagger Bank - OpenAPI 3.0",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

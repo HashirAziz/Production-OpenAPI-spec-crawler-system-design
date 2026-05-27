@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "367d9cf7140d",
+    "source_url": "https://raw.githubusercontent.com/superorbital/cludo/3c2e68c7713f68eb886bdd1873c1e30e28e8aa09/swagger.yaml",
+    "fetched_at": "2026-05-27T09:39:15.586669+00:00",
+    "content_hash": "48c40af00605f3aa4f178f7a82882c59b3a6f96e29a61b8859709b4aac1510e5",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "cludod",
+    "openapi_version": "swagger_2",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

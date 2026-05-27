@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "38386d8dada3",
+    "source_url": "https://raw.githubusercontent.com/checkr/rbflagr/4f40ef45cb8fddb5b904df942ca64b03a0060024/swagger.yaml",
+    "fetched_at": "2026-05-27T09:39:20.015656+00:00",
+    "content_hash": "fbb51c287f2fb9ce94b03207ae4f56bf91b1c2dac96941c8d9dd02e1db218637",
+    "info_version": "1.1.12",
+    "status": "new",
+    "title": "Flagr",
+    "openapi_version": "swagger_2",
+    "paths_count": 21,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "64a517938056",
+    "source_url": "https://raw.githubusercontent.com/Shaking-Hands-Overseas/API/4ccaa18d76ed3a43ab0a4ba69529c58de2d84bb9/swagger.json",
+    "fetched_at": "2026-05-27T09:39:53.919298+00:00",
+    "content_hash": "d9eb7dec8dd4933d28e97c4f0ec4bae9d2c82e507a02141adacb53cae4a11149",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Shaking Hands Overseas API",
+    "openapi_version": "swagger_2",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

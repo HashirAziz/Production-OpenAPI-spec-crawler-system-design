@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e819535338ad",
+    "source_url": "https://raw.githubusercontent.com/wordaddict/API-project/6e92ff983230069b5903e37a258a5459170c821a/swagger.yaml",
+    "fetched_at": "2026-05-27T09:39:25.265650+00:00",
+    "content_hash": "3bba1e8de1183742e6b783ec421cccfb78ac15c420eb2786ad1128011191f8fc",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API test",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

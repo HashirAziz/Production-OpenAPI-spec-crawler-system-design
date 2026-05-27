@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f087135b3faa",
+    "source_url": "https://raw.githubusercontent.com/CaioMMA21/API-RESTful-controle-tarefas/7205a90cd31794c4fc0a06668026dec0a32099e6/swagger.yaml",
+    "fetched_at": "2026-05-27T09:39:27.818915+00:00",
+    "content_hash": "57a6038fa82e59f78e7e18a18a12e8eb6dd0a92940e2d944325c706af24fcbb4",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API de Controle de Tarefas",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

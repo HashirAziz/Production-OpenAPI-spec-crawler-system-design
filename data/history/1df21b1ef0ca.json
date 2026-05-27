@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1df21b1ef0ca",
+    "source_url": "https://raw.githubusercontent.com/Angel-ISO/CIS-CSHARP/d3e27f9896c593ba6952000358d3a03ba1077b71/swagger.yaml",
+    "fetched_at": "2026-05-27T09:39:16.980269+00:00",
+    "content_hash": "dfc053d9e7bbc5044e62fcd6fafeceb9dcc6d680e533b2bab380384f7766511b",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "CIS API",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

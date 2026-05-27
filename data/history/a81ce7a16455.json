@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a81ce7a16455",
+    "source_url": "https://raw.githubusercontent.com/xierongchuan/VanillaFlowTelegramBot/5d34490de75598b0ae81bc420535ff924117f821/swagger.json",
+    "fetched_at": "2026-05-27T09:39:45.729963+00:00",
+    "content_hash": "91e435aebfab88a6f3c9488fd101f39198780f40bb84514c69bf543d3f71aec3",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "TaskMate VanillaFlow Telegram Bot API",
+    "openapi_version": "openapi_3",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "289688786d20",
+    "source_url": "https://raw.githubusercontent.com/agung6544/swagger/5dc75f4bb9ff97f3a5f406d445af740d62791381/openapi.yaml",
+    "fetched_at": "2026-05-27T09:38:27.986845+00:00",
+    "content_hash": "e7e331e0fd7b9ac3fe7d7a1ed720dcc0246b27d74a215c6eb04a090b9f0ffe7a",
+    "info_version": "1.0.11",
+    "status": "new",
+    "title": "Dokumen API Peta Pedia",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ebf8d9ff349c",
+    "source_url": "https://raw.githubusercontent.com/IRISMeister/simple/2c3e3be63190fabca298e5590bd53f82fb1d94f5/swagger.yaml",
+    "fetched_at": "2026-05-27T09:39:09.101273+00:00",
+    "content_hash": "174ea58b59197eba7158f9d29d39005915dcee695d1a3b2210694e07a3cb8ed1",
+    "info_version": "0.1",
+    "status": "new",
+    "title": "myapp",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

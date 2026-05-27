@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0e17ec98c9b5",
+    "source_url": "https://raw.githubusercontent.com/Rutvikp501/Green-server/04e134509d5ebdcbdc899ee0c1b78907e55213ef/swagger.yaml",
+    "fetched_at": "2026-05-27T09:39:12.221137+00:00",
+    "content_hash": "479a7f0709a759bf14a3b6bb45f4fd163bede7b06d987c5cd482cc018bcafaa2",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Green Cart",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

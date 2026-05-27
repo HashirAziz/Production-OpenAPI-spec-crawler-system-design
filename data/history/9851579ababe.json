@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9851579ababe",
+    "source_url": "https://raw.githubusercontent.com/gistic/eventMonitoring/dd93f242d265ee5e9b6f2dc4e8cd851fbd062f50/swagger.yaml",
+    "fetched_at": "2026-05-27T09:39:26.269112+00:00",
+    "content_hash": "afd5db794a8b69531a6688ed26e8a352ced4061ee349f09cc39d2c2421ba28aa",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "TwitterBoard API",
+    "openapi_version": "swagger_2",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

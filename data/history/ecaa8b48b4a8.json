@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ecaa8b48b4a8",
+    "source_url": "https://raw.githubusercontent.com/iocanel/my-app2/7031bf3103cd1b0b2ba195379668456ddb09ad33/openapi.yaml",
+    "fetched_at": "2026-05-27T09:38:32.896064+00:00",
+    "content_hash": "c02b453499e9fc5ebc2e1b03a27aadc869f4d860348a0d7e4f322f0eb2b9ea17",
+    "info_version": "1.0-SNAPSHOT",
+    "status": "new",
+    "title": "my-app2 API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

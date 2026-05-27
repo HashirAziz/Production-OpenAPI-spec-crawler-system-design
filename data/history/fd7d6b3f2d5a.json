@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "fd7d6b3f2d5a",
+    "source_url": "https://raw.githubusercontent.com/capstone-entsh122/swagger-api-doc/ce81eb8ec3d367a1e01e195c5785fe3e37234c17/swagger.yaml",
+    "fetched_at": "2026-05-27T09:39:17.454808+00:00",
+    "content_hash": "2f968f577e4df9b2f25d0bf8cbdf82490906bc781021bf5b89636e3c010418ce",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "One-Stop Sport App API",
+    "openapi_version": "openapi_3",
+    "paths_count": 25,
+    "path_diff": null
+  }
+]

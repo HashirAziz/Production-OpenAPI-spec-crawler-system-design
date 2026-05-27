@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "7c98dcf0f918",
+    "source_url": "https://raw.githubusercontent.com/jocall3/james-burvel-ocallaghan-iii-typescript/a64f9c86c1f12fa7a01a8d58f500e9adf83764bc/txt/openapi.yaml.txt",
+    "fetched_at": "2026-05-27T09:38:18.196288+00:00",
+    "content_hash": "8445b7c326779013dcbfd446b9b80fdadca34f3ed6c6db735e58c7b7c1615613",
+    "info_version": null,
+    "status": "new",
+    "title": "Demo Bank API: The Quantum Core - Publisher Edition",
+    "openapi_version": "openapi_3",
+    "paths_count": 40,
+    "path_diff": null
+  }
+]

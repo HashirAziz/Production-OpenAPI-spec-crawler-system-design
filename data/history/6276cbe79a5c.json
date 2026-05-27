@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6276cbe79a5c",
+    "source_url": "https://raw.githubusercontent.com/CJAndrew84/PW-WSG-API/52d6942a6b43275c9a129cf667e497d43bac7011/swagger.yaml",
+    "fetched_at": "2026-05-27T09:39:26.739086+00:00",
+    "content_hash": "3a8e8eb523a58e85733d52cd3f38de86acb341cd782940afafce2f60cb937ec5",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "ProjectWise WSG APIs",
+    "openapi_version": "openapi_3",
+    "paths_count": 45,
+    "path_diff": null
+  }
+]

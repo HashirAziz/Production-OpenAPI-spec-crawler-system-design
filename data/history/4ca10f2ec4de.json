@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4ca10f2ec4de",
+    "source_url": "https://raw.githubusercontent.com/tchaudhry91/nagiosagg/4c61d8adcf5ab05d5a2c4f406e762460832aae63/swagger.yaml",
+    "fetched_at": "2026-05-27T09:39:27.581260+00:00",
+    "content_hash": "6cb33cdaed7733a3fd52693b8b974ea2121d0dcfab9d4602de42b8d2d040ea6b",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "Nagios Aggregator Service",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

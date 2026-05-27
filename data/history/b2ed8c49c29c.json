@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b2ed8c49c29c",
+    "source_url": "https://raw.githubusercontent.com/neverovski/nodejs-rest-api/24f637120d1aa011d3e9b8036fd1b7799958ffc0/swagger.yaml",
+    "fetched_at": "2026-05-27T09:39:07.670041+00:00",
+    "content_hash": "36ae9035aef89832686828f8f02e0929e23dbab6d1fed07be06fcde5ecaaee48",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "unknown",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

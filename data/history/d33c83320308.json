@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d33c83320308",
+    "source_url": "https://raw.githubusercontent.com/dret/lectures/a825d78abc06539a3affcd6d2d13b092ce059de8/api-days-new-york-2023/src/webhook-example-openapi.yaml",
+    "fetched_at": "2026-05-27T09:38:17.327348+00:00",
+    "content_hash": "f9301bd9c561f94b7745415ca501a76d5ad6cd2137286f732fd130e48ce720fb",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Webhook Example",
+    "openapi_version": "openapi_3",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

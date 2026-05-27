@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b39ecc0609cf",
+    "source_url": "https://raw.githubusercontent.com/SnehaShisNasty/proTask-BackEnd/6f6dd89b3cbb015f94aadfa78f8df9e613926a31/swagger.yaml",
+    "fetched_at": "2026-05-27T09:39:22.221636+00:00",
+    "content_hash": "570a5e397453ebf8d71641c293ef35e04b03468277f507adbeeaac7cc351f12c",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Task Pro Doc API",
+    "openapi_version": "openapi_3",
+    "paths_count": 16,
+    "path_diff": null
+  }
+]

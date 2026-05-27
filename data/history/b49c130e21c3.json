@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b49c130e21c3",
+    "source_url": "https://raw.githubusercontent.com/hypnotranz/Plugin/7e6a5ea23c2eeb47d53c79eb378dbd8c92c3d2aa/openapi.yaml",
+    "fetched_at": "2026-05-27T09:38:26.635662+00:00",
+    "content_hash": "707e6a07a4edeea867e0aca1e844e8a6d9b5590441ed74136ac1092ffd6dc224",
+    "info_version": "v1",
+    "status": "new",
+    "title": "Message Plugin",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

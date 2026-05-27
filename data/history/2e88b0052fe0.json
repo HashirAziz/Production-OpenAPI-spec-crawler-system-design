@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2e88b0052fe0",
+    "source_url": "https://raw.githubusercontent.com/aman8440/Truck-Management-System/278176aa9ee57a9fa156ecec032aab3d46f57bd2/swagger.json",
+    "fetched_at": "2026-05-27T09:39:41.130226+00:00",
+    "content_hash": "1601ff1ec38f6323fb0791e76ab0f18b91443fdde2a009b73505e4c526bd7a93",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Truck Management API",
+    "openapi_version": "openapi_3",
+    "paths_count": 20,
+    "path_diff": null
+  }
+]

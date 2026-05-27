@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5a4dfd02d2aa",
+    "source_url": "https://raw.githubusercontent.com/SergeyLys/personal-cab/1b7f5c68a49c9ecdba3a5fac0786d1bf25bf94de/swagger.yaml",
+    "fetched_at": "2026-05-27T09:39:14.939660+00:00",
+    "content_hash": "0370c065a73edeb21455b10e715b6c92ada06d272d9beeb0beab48b677c888cc",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "ВТБ Страхование",
+    "openapi_version": "swagger_2",
+    "paths_count": 18,
+    "path_diff": null
+  }
+]

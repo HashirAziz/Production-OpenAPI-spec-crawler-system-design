@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "034dfe8a9a64",
+    "source_url": "https://raw.githubusercontent.com/imevanc/tax-service/0fb7191a4d88bcab5489e38adc7cf08cd5a670ae/swagger.yaml",
+    "fetched_at": "2026-05-27T09:39:27.193565+00:00",
+    "content_hash": "e5719a70a33abdcf1d83387e24f6b1e743bfe9a774ff6fd6bbf19314094647a2",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Transaction API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

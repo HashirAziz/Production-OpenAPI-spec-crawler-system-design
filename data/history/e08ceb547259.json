@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e08ceb547259",
+    "source_url": "https://raw.githubusercontent.com/SecureElections/SecureElections/e2340efe8bfc5e4eb38734d00ae0a813fd5eccce/openapi.yaml",
+    "fetched_at": "2026-05-27T09:38:22.637063+00:00",
+    "content_hash": "ad22dcfe34fa86ba7cd7252f8a7857a1eaf3db9a734c7c52f00485dd4b51b1ce",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "SecureElections.software",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

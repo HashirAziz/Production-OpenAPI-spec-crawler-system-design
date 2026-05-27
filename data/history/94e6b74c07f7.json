@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "94e6b74c07f7",
+    "source_url": "https://raw.githubusercontent.com/redcatH/R.CodeGenerator/4ed37eeecb50388e99ebd3aa629ac97470288046/swagger.json",
+    "fetched_at": "2026-05-27T09:39:39.566457+00:00",
+    "content_hash": "f082ae41f90064e47eeae312e92dc91767c53b4ee5485560cc61e95cef91b109",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "unknown",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "7b6d26ac0f99",
+    "source_url": "https://raw.githubusercontent.com/stretchcloud/deepscrape/d661a39ca1d5e3a98acc4313b176a19c1952e692/swagger.yaml",
+    "fetched_at": "2026-05-27T09:39:10.799104+00:00",
+    "content_hash": "16f6887aa20dc246a9c5246c6ca0baffb1f3fe04f3b77341651e7833025db660",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Xerox Scraper API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

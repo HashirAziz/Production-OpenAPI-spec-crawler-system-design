@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "afbf50f7dea6",
+    "source_url": "https://raw.githubusercontent.com/Danatey/wallet-project-goit-back/1d5e09afb4091ada8bb18b4a2a223e4ec1a1f92c/swagger.json",
+    "fetched_at": "2026-05-27T09:39:46.513181+00:00",
+    "content_hash": "4d918eadd88d21b940f6cca9c24cc55a2e0bfee933e11ca31e97ec514e34ac4b",
+    "info_version": "2.3.1",
+    "status": "new",
+    "title": "Wallet API docs",
+    "openapi_version": "openapi_3",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

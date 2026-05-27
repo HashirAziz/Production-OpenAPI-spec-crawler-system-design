@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "25861bdd08ca",
+    "source_url": "https://raw.githubusercontent.com/AbanobRafik/Graduation/e1ff846aa2397b1e336fefa289eab5ec691f16b1/swagger.yaml",
+    "fetched_at": "2026-05-27T09:39:21.137541+00:00",
+    "content_hash": "29b9a4628d3ca4f269061492a17639890791f90334520f01388b5b2101db24d2",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Educational API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "01a15fdf3c3f",
+    "source_url": "https://raw.githubusercontent.com/USDOS/US-SPURS-FCU-OPENAPI/b0fd9add649bff5d30460642fea42f3af8a13ed0/swagger.json",
+    "fetched_at": "2026-05-27T09:39:44.402641+00:00",
+    "content_hash": "8e978a0e0cf62a1424a53c975be717c0fd51d6446bdb0c9923317009b371ad27",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "US DEPARTMENT OF SPURS FEDERAL CREDIT UNION API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

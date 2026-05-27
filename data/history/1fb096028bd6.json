@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1fb096028bd6",
+    "source_url": "https://raw.githubusercontent.com/fangege/game-snake-demo/dc33c74b9d49202812cbf899b52040d84c44329b/openapi.yaml",
+    "fetched_at": "2026-05-27T09:38:31.261048+00:00",
+    "content_hash": "e44926f1395f738540a6b6da0af8fe5df88c84eb2772d4f1772b6b91d3c90660",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Snake Game Demo API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

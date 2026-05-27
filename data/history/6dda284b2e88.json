@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6dda284b2e88",
+    "source_url": "https://raw.githubusercontent.com/gnarlyman/dbpractice/717d4e40330db914f40232b6d117126a19f40d28/swagger.yaml",
+    "fetched_at": "2026-05-27T09:39:24.100692+00:00",
+    "content_hash": "9f7a3f4c96ee46435c20a46a3974422efcd839039cf3cfd18f2865f62284b0fc",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "DB Practice",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

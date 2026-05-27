@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "94904e2ee9c1",
+    "source_url": "https://raw.githubusercontent.com/devgxrg/RoadVisionChatbotFrontendV2/517883d23c810e4083be1e50112536ea27f59ecc/openapi.json.2",
+    "fetched_at": "2026-05-27T09:38:42.683179+00:00",
+    "content_hash": "2f5c7fc060f9aff34f4fb9ee2de32136975dd81eab76f89f3a135cefb660a790",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "RAG Chatbot API",
+    "openapi_version": "openapi_3",
+    "paths_count": 50,
+    "path_diff": null
+  }
+]

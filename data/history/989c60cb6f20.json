@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "989c60cb6f20",
+    "source_url": "https://raw.githubusercontent.com/Anyanka2/pets-project-back/53f74dff9404905b9b282294e668718c6ed2aa10/swagger.json",
+    "fetched_at": "2026-05-27T09:39:41.983372+00:00",
+    "content_hash": "ab996408225af4ee285684173b8a4e1ec60d1685d82fd928d3152af873b94222",
+    "info_version": "0.1.15",
+    "status": "new",
+    "title": "Swagger for pets",
+    "openapi_version": "openapi_3",
+    "paths_count": 15,
+    "path_diff": null
+  }
+]

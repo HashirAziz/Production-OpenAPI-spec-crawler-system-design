@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a1117f4e72b2",
+    "source_url": "https://raw.githubusercontent.com/MinaNguyen17/BTL-Database/e62b443c3d42e5a8b8e4047dac1a898c651e13d2/swagger.yaml",
+    "fetched_at": "2026-05-27T09:39:21.660348+00:00",
+    "content_hash": "3fec24f7a468377ce2e8e4310213eefc850379b41a60cf2f002e7af73a42adf3",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API Documentation",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]
