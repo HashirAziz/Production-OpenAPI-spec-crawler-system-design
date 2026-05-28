@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e012e9e6b214",
+    "source_url": "https://raw.githubusercontent.com/WaveEdu/wave-edu/b005346a1e04ca86e686886481574ce05ac8cde3/swagger.yaml",
+    "fetched_at": "2026-05-28T09:56:02.329154+00:00",
+    "content_hash": "e414de42bd5430c3cb1eed5ee52f33a4d5b82dafe7d906aeb365ddb17734ac29",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Documentazione API",
+    "openapi_version": "swagger_2",
+    "paths_count": 15,
+    "path_diff": null
+  }
+]

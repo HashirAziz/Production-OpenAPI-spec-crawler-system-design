@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1ad2af2fafc9",
+    "source_url": "https://raw.githubusercontent.com/thevikas/freelancer-billing/623ee415f48bd62b12f205946f3ab6a0bbf3cc83/swagger.json",
+    "fetched_at": "2026-05-28T09:56:13.628415+00:00",
+    "content_hash": "ff01c93e1fe02d9721ba2fd971d0faed2121f870167b35f38b68003802059ddd",
+    "info_version": "1",
+    "status": "new",
+    "title": "Freelancer Billing API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

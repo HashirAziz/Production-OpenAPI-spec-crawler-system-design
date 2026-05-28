@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c44e289cd006",
+    "source_url": "https://raw.githubusercontent.com/daemonl/survey-api/8ffa6c4684b327f2ef2370818b0e9f1a7fc05189/swagger.yaml",
+    "fetched_at": "2026-05-28T09:55:50.482541+00:00",
+    "content_hash": "318c93dbf0c1f7a6f0b52f17de14f0902e5c41a7240c9e0fd8ae7673d552da4b",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Pet Survey",
+    "openapi_version": "swagger_2",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "18021f8c9cb5",
+    "source_url": "https://raw.githubusercontent.com/Romkin7/yelpcamp/d80e42303bc51d32a47abd331c006cf22709144b/swagger.json",
+    "fetched_at": "2026-05-28T09:56:20.263323+00:00",
+    "content_hash": "a6f892f156fb345f8f8e4469f19a86600083ed60f9258ae7f0c6ce927f36f2be",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "yelp-camp",
+    "openapi_version": "swagger_2",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

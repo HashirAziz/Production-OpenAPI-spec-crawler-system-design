@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9866f8d86289",
+    "source_url": "https://raw.githubusercontent.com/bEagle-Search-Application/beagle-backend/fda1f512e5f6edd8413542068a7afd679e44329d/openapi.yaml",
+    "fetched_at": "2026-05-28T09:54:58.806595+00:00",
+    "content_hash": "382ca0ebd6e3420bdaed4428549124139dffb533a63d89de91e82afab8b51d65",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Beagle API",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

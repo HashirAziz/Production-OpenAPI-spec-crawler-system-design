@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ee3287f7950e",
+    "source_url": "https://raw.githubusercontent.com/konfig-dev/suger-sdks/3316c393f7172a42bb49ba2b83771cfdbebd758f/swagger.json",
+    "fetched_at": "2026-05-28T09:56:20.769411+00:00",
+    "content_hash": "3c76f14050b55eb804acf26fc0b752dc0d1951bb38a2b6910a586ebe5d33f6cf",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Suger API",
+    "openapi_version": "swagger_2",
+    "paths_count": 44,
+    "path_diff": null
+  }
+]

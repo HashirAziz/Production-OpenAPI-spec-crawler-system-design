@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9d30d4e4aeff",
+    "source_url": "https://raw.githubusercontent.com/andmoredev/what-should-i-wear/3ae7eba4fea0a7c0d2fea9ce3577f5b9db1d3c2c/openapi.yaml",
+    "fetched_at": "2026-05-28T09:54:57.874749+00:00",
+    "content_hash": "beac258e808ced0d1e54f95ebd9a357c14cb615cc8eee5830081c8d7a9cdf2b0",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API Gateway with Cognito",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

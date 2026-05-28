@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ecdebe834e90",
+    "source_url": "https://raw.githubusercontent.com/BartSoj/API-Health-Checker/3460ef916e287f4d82ab975495e958feef1e3be1/api_specs/slides_openapi.json",
+    "fetched_at": "2026-05-28T09:55:23.731257+00:00",
+    "content_hash": "8cf2b6064490ec81d3b0cd8478d995005171e9f46c9e2b38e15bcb5964187265",
+    "info_version": "v1",
+    "status": "new",
+    "title": "Google Slides API",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

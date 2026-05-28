@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c1d743e32b67",
+    "source_url": "https://raw.githubusercontent.com/mccallofthewild/1inch-widget/54bb36a20737f322c55e7592b1e2698a270b7bef/swagger.json",
+    "fetched_at": "2026-05-28T09:56:29.885656+00:00",
+    "content_hash": "f093852c0c1ead15065c971a00512837348e6a21cb3e975279f22b9fe7222a3c",
+    "info_version": "2.0",
+    "status": "new",
+    "title": "1inch API",
+    "openapi_version": "swagger_2",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ce69d30a7124",
+    "source_url": "https://raw.githubusercontent.com/actions-marketplace-validations/salockhart_sync-swagger-postman-action/a1ef8807c9b5f3cb4380efd86748d52b9133e638/swagger.yaml",
+    "fetched_at": "2026-05-28T09:56:00.803657+00:00",
+    "content_hash": "2121f4dd0b066a4ca2a29981a51b867a569936398155760e456d7df722ab94b2",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Swagger Petstore",
+    "openapi_version": "swagger_2",
+    "paths_count": 14,
+    "path_diff": null
+  }
+]

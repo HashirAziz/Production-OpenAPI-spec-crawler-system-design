@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e0b5c7a8a1d8",
+    "source_url": "https://raw.githubusercontent.com/vkovalchuk-sps/sps_test_project/319550e8a290339fd8726e7aa719ee6db823791f/openapi.yaml",
+    "fetched_at": "2026-05-28T09:54:58.069681+00:00",
+    "content_hash": "67ebc80a1ce017af8043e6bec4ea81d14d27432a655034438f6034899e7ac851",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Link Document Rules — SPS / Transformation Designer API",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

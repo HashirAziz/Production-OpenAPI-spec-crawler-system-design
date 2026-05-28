@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "fdcb624a61d9",
+    "source_url": "https://raw.githubusercontent.com/veg/web-datamonkey/5dbfa4aee4e2a3f3dae0a332fad09956675ad24f/openapi.yaml",
+    "fetched_at": "2026-05-28T09:55:00.907897+00:00",
+    "content_hash": "ee6c8c5130dbb654282dde04af9beaea0dc503dc006b712e96d30d497497997a",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Datamonkey API",
+    "openapi_version": "openapi_3",
+    "paths_count": 24,
+    "path_diff": null
+  }
+]

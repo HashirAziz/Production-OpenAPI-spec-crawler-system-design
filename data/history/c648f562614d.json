@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c648f562614d",
+    "source_url": "https://raw.githubusercontent.com/AllisonPaula/techs/78ff09d42eb7119c388e0f57851da8fb314c79c1/openapi.yaml",
+    "fetched_at": "2026-05-28T09:54:54.584178+00:00",
+    "content_hash": "6710ce6362157911729607405c7dc64d6e09c69b18e99c2954d8f4c734c18986",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Tech Test 2025 API",
+    "openapi_version": "openapi_3",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5b0358c4274e",
+    "source_url": "https://raw.githubusercontent.com/Hillink/Hillink/3b20c3274b809a15b9f8165787dd24b108e217b5/openapi.yaml",
+    "fetched_at": "2026-05-28T09:55:01.174576+00:00",
+    "content_hash": "fd668f97804cb6792dc3dd0e8ae8ae130e83a5496eb248f3d7a4cc4034cf0c0d",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "HILLink API",
+    "openapi_version": "openapi_3",
+    "paths_count": 30,
+    "path_diff": null
+  }
+]

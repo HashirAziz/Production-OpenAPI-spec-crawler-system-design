@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4a4c28e2d6c8",
+    "source_url": "https://raw.githubusercontent.com/felipesbcabral/projeto-integrado-backend/3e077354e9ace57e6851bc0500afb5c48cea092c/swagger.json",
+    "fetched_at": "2026-05-28T09:56:25.543069+00:00",
+    "content_hash": "72a2ecbf72abd4c5520b4ee6fd066774d6de12acc7b37344d3379da21071c4b7",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "Wallets Manager",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

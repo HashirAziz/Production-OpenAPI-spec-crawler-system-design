@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "46397ed48c4d",
+    "source_url": "https://raw.githubusercontent.com/SheepCreativeSoftware/survey-api/115ce431ec6c19c3455e4c6a91741764a8b04fb4/swagger.yaml",
+    "fetched_at": "2026-05-28T09:55:58.964247+00:00",
+    "content_hash": "914ac1efc5ce7ac918d64a039ed0a6d523868c6122d28feffb58e6b7b76cf534",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Survey API",
+    "openapi_version": "openapi_3",
+    "paths_count": 12,
+    "path_diff": null
+  }
+]

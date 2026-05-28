@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "00d2d52025ff",
+    "source_url": "https://raw.githubusercontent.com/skurt23/nodejs-boilerplate/a782a88e31f57f0c5ceb3ac0b856048006b281b2/swagger.yaml",
+    "fetched_at": "2026-05-28T09:55:57.603926+00:00",
+    "content_hash": "45201d19ef8c0d14a89eaf48512500cdcc389c1e2b317bd1d2cf093b0db73007",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "NodeJS Boilerplate",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

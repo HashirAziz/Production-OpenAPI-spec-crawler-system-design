@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9b871bd06734",
+    "source_url": "https://raw.githubusercontent.com/umr-ds/mesa_dna_sim/dd3940773e3630d607b9425bb8f7b649abba2221/swagger.json",
+    "fetched_at": "2026-05-28T09:56:29.240461+00:00",
+    "content_hash": "182127761b672885db0e6e93f69c8e600e18e706ab62aa6dace2aa6b87c61d5d",
+    "info_version": "1.2.3",
+    "status": "new",
+    "title": "MESA DNA Simulator",
+    "openapi_version": "swagger_2",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "542525f4c672",
+    "source_url": "https://raw.githubusercontent.com/calanimagealpha/medea/77ae0e813b7437e468c6df0463abb8a87b4f5c31/swagger.json",
+    "fetched_at": "2026-05-28T09:56:28.323215+00:00",
+    "content_hash": "2cddfb1b25e7f23c0f5ba3693c8ac3215d27858ff9bd3775919c35b190b04296",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "Medea API",
+    "openapi_version": "swagger_2",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

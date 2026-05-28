@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f3e4e60ee6e0",
+    "source_url": "https://raw.githubusercontent.com/runesatsdev/Tatum-connect/d6b62901874bda60805348d1d974c0c5fd3652f3/swagger.json",
+    "fetched_at": "2026-05-28T09:56:26.442847+00:00",
+    "content_hash": "a25229d5262e46a4c1ac55777ee21d136645e4e637922e258468c5625ab4caac",
+    "info_version": "1.0.2",
+    "status": "new",
+    "title": "Tatum Middleware API",
+    "openapi_version": "swagger_2",
+    "paths_count": 44,
+    "path_diff": null
+  }
+]

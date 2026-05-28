@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f5d792f36cf1",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/86be07dfe0c35ec2b0c08b725d42d9e10b6d281e/apis/openapi/mercedes-benz.com/mercedes-benz-image-api/1.0/meta/source/swagger.json",
+    "fetched_at": "2026-05-28T09:56:12.230263+00:00",
+    "content_hash": "32030978e3def9f3db4665a8676c3657a11b5cf08ba8856f8b81e85ccf85be13",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Vehicle Image",
+    "openapi_version": "swagger_2",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

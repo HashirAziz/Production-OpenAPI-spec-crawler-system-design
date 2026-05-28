@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d3c35084d465",
+    "source_url": "https://raw.githubusercontent.com/magandrez/pkg-info-srv/1787a5432dee9d9b4cd85542808fe07431ef0321/swagger.json",
+    "fetched_at": "2026-05-28T09:56:16.174424+00:00",
+    "content_hash": "02458d193c9881ae6ee3c97102b26aba751afca7ed12fd367ccc4e69862dbc9e",
+    "info_version": "0.4",
+    "status": "new",
+    "title": "pkg-info-srv",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

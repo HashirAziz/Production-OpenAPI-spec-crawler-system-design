@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "958cf9c56419",
+    "source_url": "https://raw.githubusercontent.com/babydjac/AI-Help/85ba36c595ce3573093f2474b41fd39fa7f4ba80/openapi.yaml",
+    "fetched_at": "2026-05-28T09:55:04.315979+00:00",
+    "content_hash": "4ece0902d316f3198207116052d680f92b7b0d430c3362606a960180fdc3770a",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "xAI Grok API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

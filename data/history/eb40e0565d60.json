@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "eb40e0565d60",
+    "source_url": "https://raw.githubusercontent.com/robertocemeri/lufthansa-project/85d090954791224bead598de1975daca006de96b/openapi.yaml",
+    "fetched_at": "2026-05-28T09:54:58.980794+00:00",
+    "content_hash": "20f65a4dd0b0e61728a07c9aac12d3cd6b742edaa84f4d386ddb26a52d7dcce7",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "URL Shortener API",
+    "openapi_version": "openapi_3",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

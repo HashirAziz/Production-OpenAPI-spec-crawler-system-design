@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a57a63fef4dc",
+    "source_url": "https://raw.githubusercontent.com/erinburba/hpc_bootcamp_website/b11f3fe1c814c64d0f3d512d1a80b23d10f97ef0/openapi.yaml",
+    "fetched_at": "2026-05-28T09:54:50.505864+00:00",
+    "content_hash": "d769c2bfc6ecbed14d06e38d3a0871b6752be38a85d875f842f63bf3ea36c016",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Endpoints Example",
+    "openapi_version": "swagger_2",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

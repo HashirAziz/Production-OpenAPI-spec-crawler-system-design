@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4d5e8c1bb780",
+    "source_url": "https://raw.githubusercontent.com/Bope142/express-typescript-prisma-starter/459f518c37ae682edf28012ac837c082914a2a43/swagger.yaml",
+    "fetched_at": "2026-05-28T09:55:59.131886+00:00",
+    "content_hash": "c336e5fa6a09a1bdb961f966b93294038c7c8bdf591dcc7add7054ea8de574f1",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "unknown",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

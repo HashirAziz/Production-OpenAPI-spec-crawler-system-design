@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "fff6eba6e25d",
+    "source_url": "https://raw.githubusercontent.com/michael7736/dpa_gen/6c9975e11108d9a1f06b7a07bda65d33394eebd9/openapi.yaml",
+    "fetched_at": "2026-05-28T09:54:57.241237+00:00",
+    "content_hash": "003c105ea8946a73dc8c34ef3be7202945a8746506179734c8de1ed3575340dc",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "DPA Next API",
+    "openapi_version": "openapi_3",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "92363337d178",
+    "source_url": "https://raw.githubusercontent.com/KevinH2810/car-listing/342737814ea7358ed5c082bb987d7719f3c3580a/swagger.json",
+    "fetched_at": "2026-05-28T09:56:17.989840+00:00",
+    "content_hash": "5765fc71d280ef646385ac1239f88e9c64e4d17538c858a28c5a3f6a45fae649",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Tasks API",
+    "openapi_version": "swagger_2",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

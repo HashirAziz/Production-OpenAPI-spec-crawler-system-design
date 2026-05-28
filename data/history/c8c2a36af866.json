@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c8c2a36af866",
+    "source_url": "https://raw.githubusercontent.com/cmditch/servant-practice2/85055a1d3c8f77152750472c5bab7d1f031790ff/swagger.json",
+    "fetched_at": "2026-05-28T09:56:21.386472+00:00",
+    "content_hash": "8eb3036b2eab90e3c5c7cafeadb42ed1f0f2dcc19685341b2c00907e4879bbd4",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Servant/Swagger Test Api",
+    "openapi_version": "swagger_2",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

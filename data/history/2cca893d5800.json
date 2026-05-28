@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2cca893d5800",
+    "source_url": "https://raw.githubusercontent.com/wistefan/data-generator-opentrip/26f3bcc25a36ca32075013534097f9072fb68a4d/swagger.yaml",
+    "fetched_at": "2026-05-28T09:56:01.741566+00:00",
+    "content_hash": "45a8fa177c0472806fdf0ba45a6c10f664707a3be847777fb231586d4c977d23",
+    "info_version": "4.1.2",
+    "status": "new",
+    "title": "Open Trip Model",
+    "openapi_version": "swagger_2",
+    "paths_count": 22,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "02b446435ce4",
+    "source_url": "https://raw.githubusercontent.com/RanyTB/Bacheloroppgave2020_Backend/bcf9dda9301e4c81ede8ce8d46117c11d470fe6f/swagger.yaml",
+    "fetched_at": "2026-05-28T09:55:54.517478+00:00",
+    "content_hash": "1b34fca67733b9f9b97c05ff8a486b1a667d3cd04821f7d3334e9ec0348c02a1",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Loan-app API",
+    "openapi_version": "openapi_3",
+    "paths_count": 12,
+    "path_diff": null
+  }
+]

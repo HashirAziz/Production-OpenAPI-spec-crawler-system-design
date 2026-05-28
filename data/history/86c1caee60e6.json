@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "86c1caee60e6",
+    "source_url": "https://raw.githubusercontent.com/narasimhareddyprostack/react-all/ee8ec9eb4308d718d6334db011a157c690a44fe6/dashboard/swagger.json",
+    "fetched_at": "2026-05-28T09:56:16.711255+00:00",
+    "content_hash": "4ce2775ad4e174b608f941cd1a15de63347469c706b567b806dab3262edd77f4",
+    "info_version": "__version__",
+    "status": "new",
+    "title": null,
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

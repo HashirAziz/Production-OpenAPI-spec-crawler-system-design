@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1a0a46c90b25",
+    "source_url": "https://raw.githubusercontent.com/fredabila/oahl/44398733986866494c72cb63bb63a1a8a5904615/openapi.yaml",
+    "fetched_at": "2026-05-28T09:55:05.699669+00:00",
+    "content_hash": "d8b79f1250652e718c9baf1e5a77ca41bdbb8676e8e7565b06436e7778a04559",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Open Agent Hardware Layer (OAHL) API",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8b81cc4816ac",
+    "source_url": "https://raw.githubusercontent.com/Trax-air/traxair-api-test/e7ccc2fa8a9d81187ebd8a95405b987e4fb9bcf2/swagger.json",
+    "fetched_at": "2026-05-28T09:56:25.352473+00:00",
+    "content_hash": "e7172fd46fe8c1d43c037b9cbed964110fc0303c579a55fa74149a79e14fa52f",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "TraxAir Test API",
+    "openapi_version": "swagger_2",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

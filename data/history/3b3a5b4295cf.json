@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3b3a5b4295cf",
+    "source_url": "https://raw.githubusercontent.com/lornajane/flask-planets-and-webhooks/b137903f4a30123d4edeba41857f91afbd9cf552/openapi.yaml",
+    "fetched_at": "2026-05-28T09:55:03.498418+00:00",
+    "content_hash": "23ea7467c6c349e20b3d4e5de91ee9bc11affabd2523221d544fb68d29e9c9d5",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "Planets and Webhooks Demo API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

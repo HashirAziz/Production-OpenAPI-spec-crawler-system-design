@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3c913bee20e8",
+    "source_url": "https://raw.githubusercontent.com/kyawzaymoore/node-rest-shop/15fd3447be3626b814c7706f333800608ef4ac7f/swagger.json",
+    "fetched_at": "2026-05-28T09:56:25.719361+00:00",
+    "content_hash": "786ec6b61abd05040e3de96dc5c20e75599985b2bce39a9138026cdd70071bbb",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Node Rest Shop API",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

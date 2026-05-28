@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "05eae4574628",
+    "source_url": "https://raw.githubusercontent.com/martinfou/ealifecycle/456c9c46b8e105e1334371e92f5cb09ebf3376f5/openapi.yaml",
+    "fetched_at": "2026-05-28T09:54:58.574495+00:00",
+    "content_hash": "1b98ff9c9232cefcfd42343320cc51991746007725099f1a989770da7bfb7343",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "EALifecycle API",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3c7cdbca99e7",
+    "source_url": "https://raw.githubusercontent.com/spkane/todo-for-terraform/3f659d6ac8c610d04ba1a4a3fca80d4e40f8ad59/swagger.yaml",
+    "fetched_at": "2026-05-28T09:55:51.533109+00:00",
+    "content_hash": "75c6c7d1515062178800a47b80dcbbaa43f5006cad5d459fbe981974ec428ad4",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "A To Do list application",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

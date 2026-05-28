@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "cc69d0546769",
+    "source_url": "https://raw.githubusercontent.com/DiegoRos/Virtual-Stock-Trading-Sim/508de2eb465c846c98329c0272b42eb19e787480/swagger.yaml",
+    "fetched_at": "2026-05-28T09:56:00.188835+00:00",
+    "content_hash": "e5fc1c41781d5229b86757c92cccdf9d4380e62846f3e17fa6b42499912a6af7",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Trading Simulator API",
+    "openapi_version": "openapi_3",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "90bc7ce74c95",
+    "source_url": "https://raw.githubusercontent.com/ksred/remember-me-mcp/72c118f364f4a234e78b990346df5efdae01cd28/docs/swagger.yaml",
+    "fetched_at": "2026-05-28T09:55:58.204021+00:00",
+    "content_hash": "a422711ca22ed0ee1ecf616f242e28569759679b2225fe361354754599c6d274",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Remember Me MCP API",
+    "openapi_version": "swagger_2",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "44f21280ce40",
+    "source_url": "https://raw.githubusercontent.com/AJEETX/readifyapi/c82af00dc65fffabfaf1c4fadcd33cc961024139/swagger.json",
+    "fetched_at": "2026-05-28T09:56:23.620094+00:00",
+    "content_hash": "03dae204705adbbe48438bc52eec3b20d0e8af967c96122ae28718de1dad85b1",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "swagger_2",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

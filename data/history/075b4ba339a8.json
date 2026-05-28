@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "075b4ba339a8",
+    "source_url": "https://raw.githubusercontent.com/kecewka/springcore/c11b91939dd596b886886e55c2e08d76e921317d/openapi.yaml",
+    "fetched_at": "2026-05-28T09:54:57.664264+00:00",
+    "content_hash": "f12c57878ea803cf124e01a068270d619172c10e001cc4271677ae4242ba267f",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Gym Application API",
+    "openapi_version": "openapi_3",
+    "paths_count": 13,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c4012cebc6ec",
+    "source_url": "https://raw.githubusercontent.com/IShowStyles/Software-Engineering-School-Genesis/65a1d49a4fdffbfde2bd84a62678a12f1a082a30/openapi.yaml",
+    "fetched_at": "2026-05-28T09:54:59.262060+00:00",
+    "content_hash": "b7110bcde70f954e73582a905fe875d85709b7d9849a778aa30c01a14a4dc824",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "GitHub Release Notifier API",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

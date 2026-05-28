@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2064eae02ee7",
+    "source_url": "https://raw.githubusercontent.com/valadas/NukeToolGenerationDemo/2a52e902d54ad3fb7029d0436e83a0bde7a96ccd/swagger.json",
+    "fetched_at": "2026-05-28T09:56:23.015122+00:00",
+    "content_hash": "77b0f5b8f37d54899d892515a0269f5aab819875f2bc8ae6cbb530996c5e4374",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Swagger specification",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

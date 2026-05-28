@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "764f4df09b84",
+    "source_url": "https://raw.githubusercontent.com/AbdelhakBarouk/E-COMMERCE-API/42aee850f8581578746e0b1e735f633ee1e8fd5b/swagger.yaml",
+    "fetched_at": "2026-05-28T09:55:53.833956+00:00",
+    "content_hash": "9b46c0b4dc7e1fa670c4631cd354176332dadb78e50335be294068972c77e054",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Ecommerce-API",
+    "openapi_version": "openapi_3",
+    "paths_count": 19,
+    "path_diff": null
+  }
+]

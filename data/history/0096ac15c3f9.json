@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0096ac15c3f9",
+    "source_url": "https://raw.githubusercontent.com/ifeora-emeka/rust_bucket/ef71b1709e8d5213a5c72cf697f711c6d9e4c96d/openapi.yaml",
+    "fetched_at": "2026-05-28T09:54:55.675501+00:00",
+    "content_hash": "509bc05d093949a2739ff5551a14632dab9e3126016b52995cecb1d4d36b4361",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "Rust Bucket - Task Management API",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6962f8c3ef88",
+    "source_url": "https://raw.githubusercontent.com/miguelgaudio/fucrea-ws/b64d726b6ba9e8e7d0c8c3f92e728ce1c8a6fca4/swagger.yaml",
+    "fetched_at": "2026-05-28T09:56:00.005627+00:00",
+    "content_hash": "8d8a5624d3f01188fe50f1749364767f577566a791cf08940496169cc5650851",
+    "info_version": "1",
+    "status": "new",
+    "title": "fucrea",
+    "openapi_version": "swagger_2",
+    "paths_count": 49,
+    "path_diff": null
+  }
+]

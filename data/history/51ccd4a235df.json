@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "51ccd4a235df",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/86be07dfe0c35ec2b0c08b725d42d9e10b6d281e/apis/openapi/npr.org/authorization/2/meta/source/swagger.json",
+    "fetched_at": "2026-05-28T09:56:28.779522+00:00",
+    "content_hash": "92e5e9de02d70e3f833492faf0b8febdcd84cf1206126ba8c8d3ad116e5cfadb",
+    "info_version": "2",
+    "status": "new",
+    "title": "NPR Authorization Service",
+    "openapi_version": "swagger_2",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

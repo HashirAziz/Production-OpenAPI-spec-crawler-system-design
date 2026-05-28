@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "94a9aa4b3502",
+    "source_url": "https://raw.githubusercontent.com/rafifmulia/go-moneytory-fiber/cf2ae1f3318c85ff75e3594f808e77a727881028/openapi.yaml",
+    "fetched_at": "2026-05-28T09:55:04.172807+00:00",
+    "content_hash": "564d1dc43df6a6f8e02b3c71eefa3f771897e58c353aa275da0fdd71254d724b",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Moneytory API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

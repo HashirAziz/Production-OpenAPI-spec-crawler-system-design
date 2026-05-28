@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "22576dec0bd2",
+    "source_url": "https://raw.githubusercontent.com/eliona-smart-building-assistant/loriot-io-app/da091dd01b066df52226d9c81b3a690e9a3ea916/openapi.yaml",
+    "fetched_at": "2026-05-28T09:54:52.580441+00:00",
+    "content_hash": "241c42d849b9b1df191e9400c82154483df43434a493e564f0ceb542e644c6cf",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Loriot.io app API",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

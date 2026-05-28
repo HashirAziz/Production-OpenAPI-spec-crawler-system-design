@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "7b0adb7e0fb4",
+    "source_url": "https://raw.githubusercontent.com/lmgaspa/solana_wallet_generator_public_nodejs/6747e46e2740d15a8f9412789c19632252e0d383/swagger.json",
+    "fetched_at": "2026-05-28T09:56:26.797112+00:00",
+    "content_hash": "545e50ac5059b6869c083f627b1af7ac73c68c85f063a12e7e6c67f60a0a31f3",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Solana Wallet API",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

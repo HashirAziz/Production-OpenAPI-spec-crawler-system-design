@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d99e64c03705",
+    "source_url": "https://raw.githubusercontent.com/ChrisWohlert/BadmintonRanking/88c8424d24776805820786023a367491d0dc9653/swagger.json",
+    "fetched_at": "2026-05-28T09:56:27.508187+00:00",
+    "content_hash": "1f2db7ca6474ffe3526d5c45c41cedc286146a2822492f945127b1ac3739f90f",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "swagger_2",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

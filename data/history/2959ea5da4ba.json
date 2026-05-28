@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2959ea5da4ba",
+    "source_url": "https://raw.githubusercontent.com/ryy/rails-cloud-spanner/7e4674c8a3bd94ba481bda1cd3ada8beb9f56f91/openapi.yaml",
+    "fetched_at": "2026-05-28T09:54:54.821052+00:00",
+    "content_hash": "fe7315a8d3adbc761c33d252a0f4b509d5d8702d9df165a8581e707ca1672d88",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

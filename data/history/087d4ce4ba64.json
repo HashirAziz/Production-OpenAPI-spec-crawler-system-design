@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "087d4ce4ba64",
+    "source_url": "https://raw.githubusercontent.com/qing0git/ECE461-project-part2/d5a64f05555f84b7990ef4f065e33a7e1f0f5695/frontend/openapi.yaml",
+    "fetched_at": "2026-05-28T09:55:03.714927+00:00",
+    "content_hash": "a5edc81fa26ee0a20e0dbe4684a926ae6c28dca2cfcc99974e01df2899077e46",
+    "info_version": "2.3.5",
+    "status": "new",
+    "title": "ECE 461 - Spring 2023 - Project 2",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

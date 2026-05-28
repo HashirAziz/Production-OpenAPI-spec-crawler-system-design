@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "64e8a92fc5b7",
+    "source_url": "https://raw.githubusercontent.com/mehuled/razorpay-go/2aff80d272dfa7e7449e6d73a1e1ad81011a53e7/api/swagger.yaml",
+    "fetched_at": "2026-05-28T09:55:49.703963+00:00",
+    "content_hash": "c66cfe2d7674556c7faa98a13bcb10649f145ada790f190d6524cfed32909777",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "Razorpay APIs - OpenAPI 3.0",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "44546281a6cc",
+    "source_url": "https://raw.githubusercontent.com/lightsparkdev/umaaas-api/1092c0a9bf6ce2fe5cc61f0cdb7e63583046a016/openapi.yaml",
+    "fetched_at": "2026-05-28T09:55:02.219362+00:00",
+    "content_hash": "2e2b5ba6d69b27fc52ad61e02a00cc467d6d3c16597910483a39c99074703984",
+    "info_version": "2025-05-15",
+    "status": "new",
+    "title": "UMA as a Service (UMAaaS) API",
+    "openapi_version": "openapi_3",
+    "paths_count": 24,
+    "path_diff": null
+  }
+]

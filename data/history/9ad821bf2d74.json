@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9ad821bf2d74",
+    "source_url": "https://raw.githubusercontent.com/Trevodorax/i-cant-make-music/76761aa432c3941d05a5486fc00c16a1c9b26c27/openapi.yaml",
+    "fetched_at": "2026-05-28T09:54:57.414519+00:00",
+    "content_hash": "6b92574404684af7780bd8deca9f5f1cf8e18a4e330227b5137e3414dcd4fa78",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "I Can't Make Music API",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

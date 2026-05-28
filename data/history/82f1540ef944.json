@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "82f1540ef944",
+    "source_url": "https://raw.githubusercontent.com/autonomous-technology/Sahmik-API-doc/9530666ae8a4f9d588d01ea8b962cb678e932829/swagger.json",
+    "fetched_at": "2026-05-28T09:56:23.961076+00:00",
+    "content_hash": "ae74e138cc68fa819a189d21ce6f595b1895fe18545cd57c5256fd2568fc6304",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Sahmik Api Documentation",
+    "openapi_version": "swagger_2",
+    "paths_count": 24,
+    "path_diff": null
+  }
+]

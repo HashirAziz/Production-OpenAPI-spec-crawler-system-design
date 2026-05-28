@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "25104248e4bf",
+    "source_url": "https://raw.githubusercontent.com/renatseyfetdinov/examples-unit-of-measurement/4a8c01cdd4e26642fbe57e6f97321702be3bf458/openapi.yaml",
+    "fetched_at": "2026-05-28T09:55:00.512160+00:00",
+    "content_hash": "b238bf526506794890001e20f0bebd671c079f6c096eeee480501f40d566401d",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Unit of Measurement API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

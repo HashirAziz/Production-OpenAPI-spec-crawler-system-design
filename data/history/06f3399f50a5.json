@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "06f3399f50a5",
+    "source_url": "https://raw.githubusercontent.com/MelisaGulsan/product-catalog-project/7e8b348f7e94d2d5642707e517289b5ff8b83439/swagger.json",
+    "fetched_at": "2026-05-28T09:56:18.821539+00:00",
+    "content_hash": "140f826a9b0cbcfaadf3151e12919ba91db3656e5f31511173b98c70c0cb95ec",
+    "info_version": "1.0.6",
+    "status": "new",
+    "title": "Swagger Petstore",
+    "openapi_version": "swagger_2",
+    "paths_count": 14,
+    "path_diff": null
+  }
+]

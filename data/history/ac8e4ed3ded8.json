@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ac8e4ed3ded8",
+    "source_url": "https://raw.githubusercontent.com/quanticmatch/api-specs/e9bc6c6955f2edeed41d319ed43877be0b0d6c2b/swagger.yaml",
+    "fetched_at": "2026-05-28T09:55:58.689926+00:00",
+    "content_hash": "ca48a54172a4d65c4a5197b69eb9bce911b8e83da001fd689ef24096d27b6b06",
+    "info_version": "1.0.11",
+    "status": "new",
+    "title": "Quantic Match API",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

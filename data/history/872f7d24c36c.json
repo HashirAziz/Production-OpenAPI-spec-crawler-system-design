@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "872f7d24c36c",
+    "source_url": "https://raw.githubusercontent.com/drummonds/photoprism-go-api/c31b251ca4a61cd2ad222bfcfb9b55f900b68d0d/swagger.json",
+    "fetched_at": "2026-05-28T09:56:23.383562+00:00",
+    "content_hash": "cf28fc7ff7a0c9ec934c7cf92813e0a14254fa3281cde48ce3844fc7303298dc",
+    "info_version": "v1",
+    "status": "new",
+    "title": "PhotoPrism API",
+    "openapi_version": "swagger_2",
+    "paths_count": 50,
+    "path_diff": null
+  }
+]

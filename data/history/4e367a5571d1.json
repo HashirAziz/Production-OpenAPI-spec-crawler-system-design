@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4e367a5571d1",
+    "source_url": "https://raw.githubusercontent.com/nguyenphuocducminh06-lang/SEBTplatform/5536ccfd84ea6bf78ab5f17685bb9f871e2693b6/openapi.yaml",
+    "fetched_at": "2026-05-28T09:54:54.410325+00:00",
+    "content_hash": "d0ec24855373cea8debf90214786d05c1794d228999defd105be06d0cae0b883",
+    "info_version": "1.1.0",
+    "status": "new",
+    "title": "SEBT_platform API",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "075db9720a10",
+    "source_url": "https://raw.githubusercontent.com/igorrzinho/api-todolist/a6c996b8e16d610facc740df828c929a2c0af2a3/openapi.yaml",
+    "fetched_at": "2026-05-28T09:54:56.472913+00:00",
+    "content_hash": "d1dd3999c074b7e4694c08ade8d7daf39c5bd3d521fa97b1ac93d53a0c4acaae",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "api to do list",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "04fec989af8d",
+    "source_url": "https://raw.githubusercontent.com/alonbraun/gpt-analytics-api/78349e56e833ab0c0ae3b2248ff337dba977c386/openapi.yaml",
+    "fetched_at": "2026-05-28T09:54:56.269875+00:00",
+    "content_hash": "fb3aff64497c3fdbfd9ce4b012e855ad46a9e5d0afd17a5b6df82ef10daa2bfe",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "GA4 Traffic API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

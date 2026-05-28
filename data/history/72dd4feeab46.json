@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "72dd4feeab46",
+    "source_url": "https://raw.githubusercontent.com/vbhjckfd/timetable-api-node/1f5dc661f43c4cf1443b951a40b5edb69bd55aba/openapi.yaml",
+    "fetched_at": "2026-05-28T09:55:05.052228+00:00",
+    "content_hash": "cefc554b12cdffb64facfa77a42680363cfeb61ec40c67c944cc2585e4cba5a1",
+    "info_version": "1.1.0",
+    "status": "new",
+    "title": "Lviv Public Transport API",
+    "openapi_version": "openapi_3",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

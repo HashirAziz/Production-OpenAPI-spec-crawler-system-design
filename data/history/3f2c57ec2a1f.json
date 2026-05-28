@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3f2c57ec2a1f",
+    "source_url": "https://raw.githubusercontent.com/Rodrigocambraia14/PetCare.API/0dd64dd54004ecc9825d90a495814b87c1509e16/swagger.json",
+    "fetched_at": "2026-05-28T09:56:27.704706+00:00",
+    "content_hash": "4d6f0f7bca59fb13ac32e652baa651649abbebf924d7f88abdfe46ef3cea9b6c",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "petCare API",
+    "openapi_version": "swagger_2",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

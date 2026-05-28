@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "7a6ff9384587",
+    "source_url": "https://raw.githubusercontent.com/20212C-Taller2/apigateway/9b5483e5e9d9463acc3bd139edb446f5ec13311b/swagger.json",
+    "fetched_at": "2026-05-28T09:56:14.957483+00:00",
+    "content_hash": "13c42ef3f409ba2fa50361527d0a462f50cc516f797b891701c9a528f308ccc3",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API Gateway for the Ubademy app",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

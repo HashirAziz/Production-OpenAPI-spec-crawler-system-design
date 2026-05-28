@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "79f895dc9d70",
+    "source_url": "https://raw.githubusercontent.com/johnnyjclin/banking-system-mock/5e054112b375da8458f2639e13d4c390051e495d/openapi.yaml",
+    "fetched_at": "2026-05-28T09:54:55.910325+00:00",
+    "content_hash": "1a2d1b1554fa3be6fcec4a86ec8d8876705f936d6bc3ba6764b2794bbdf31cd8",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Banking System API",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c4f2364f73f1",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/86be07dfe0c35ec2b0c08b725d42d9e10b6d281e/apis/openapi/o2.cz/mobility/1.2.0/meta/source/swagger.json",
+    "fetched_at": "2026-05-28T09:56:28.087064+00:00",
+    "content_hash": "20789e4e0ea9b88ad1f9ea2102f5dbd0ae13d7b6543ce47a4821f107e1cdd708",
+    "info_version": "1.2.0",
+    "status": "new",
+    "title": "Mobility API",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

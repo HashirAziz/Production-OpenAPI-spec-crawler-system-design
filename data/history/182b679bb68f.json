@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "182b679bb68f",
+    "source_url": "https://raw.githubusercontent.com/shivaq/shortlink/3729c5c98fa055f77513c6c4d6029a96cfaef0ed/openapi.yaml",
+    "fetched_at": "2026-05-28T09:54:56.091629+00:00",
+    "content_hash": "8711f775af9de2a790eea471e60b9e210598baaa92146a08934ff000a3908c69",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Shortlink API",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

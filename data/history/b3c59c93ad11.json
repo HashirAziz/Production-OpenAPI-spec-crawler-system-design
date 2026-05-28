@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b3c59c93ad11",
+    "source_url": "https://raw.githubusercontent.com/anadi1210/MeritBankApp/20047d7a1b26889888b846a67fb0c54c9523af25/openapi.yaml",
+    "fetched_at": "2026-05-28T09:55:03.936423+00:00",
+    "content_hash": "d34bb188d6a7b05636a1d2e0b93b53cfd0cd608873fcea2bd4051d4db11b8f77",
+    "info_version": "v1",
+    "status": "new",
+    "title": "OpenAPI definition",
+    "openapi_version": "openapi_3",
+    "paths_count": 13,
+    "path_diff": null
+  }
+]

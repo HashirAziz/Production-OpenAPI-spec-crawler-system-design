@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "01d4c5b7d246",
+    "source_url": "https://raw.githubusercontent.com/edward93/img-editor-api/29030a538bfcb77e3071443e708cf3daf017ce63/swagger.json",
+    "fetched_at": "2026-05-28T09:56:24.433004+00:00",
+    "content_hash": "695c85cd4d3a60ee1f5c12c418cb3ef94a46f00552872c953d2c5ddeb914afe9",
+    "info_version": "v2",
+    "status": "new",
+    "title": "Api Documentation",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

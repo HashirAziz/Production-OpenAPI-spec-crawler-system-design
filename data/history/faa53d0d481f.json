@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "faa53d0d481f",
+    "source_url": "https://raw.githubusercontent.com/mohanasundaramn/fastify-api-template/c03ac8e602193b61e30d817ad6c10f1ad88fa5cc/openapi.yaml",
+    "fetched_at": "2026-05-28T09:54:59.784786+00:00",
+    "content_hash": "411a50e766e66c3ebf3a33ec9d2fdef8904f2ecf29dca37aadedf28eae89463b",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Fastify API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

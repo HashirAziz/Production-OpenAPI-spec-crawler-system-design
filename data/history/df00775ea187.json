@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "df00775ea187",
+    "source_url": "https://raw.githubusercontent.com/carlosmontesdeocae321-oss/taller-motos-backend/ed4e225fed2c85c290f4d9210752c14a92251ad4/openapi.yaml",
+    "fetched_at": "2026-05-28T09:54:59.631822+00:00",
+    "content_hash": "92f7303c96922a1787289e1a3b440d0260f8cdb35b130a1dafe5858ec3f3bcd5",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "Taller de Motos Moreira API",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

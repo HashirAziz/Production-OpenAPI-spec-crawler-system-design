@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "137e0503b2d9",
+    "source_url": "https://raw.githubusercontent.com/DianeHipolito/PRIN144-Final-Exam/55331df5c8ec6863f77f75e1b969c92b4e1b6b37/swagger.yaml",
+    "fetched_at": "2026-05-28T09:55:54.295691+00:00",
+    "content_hash": "42fdeef574512f1623e20f1a47acb33d49f1d0a4a073ae0fc60584a5c9b986e5",
+    "info_version": "Version: 1.0",
+    "status": "new",
+    "title": "PRIN144-Final-Exam: Diane Hipolito",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

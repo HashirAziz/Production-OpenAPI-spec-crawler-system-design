@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "431402a5303f",
+    "source_url": "https://raw.githubusercontent.com/allisterb/flubber/e1789b5997204ee734e47efeef64e9b61ff8b064/swagger.json",
+    "fetched_at": "2026-05-28T09:56:20.938170+00:00",
+    "content_hash": "1a63bee1116ee1dc2e1f3425c68e6a06b950d839dc746e82603d73c17d018204",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "Flubber API",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

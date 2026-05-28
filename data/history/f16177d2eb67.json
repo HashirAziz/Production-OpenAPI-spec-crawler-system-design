@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f16177d2eb67",
+    "source_url": "https://raw.githubusercontent.com/TitlePage/Analytics-API/04558d566133cd7c28624191a64bfe72a3e832ba/swagger.yaml",
+    "fetched_at": "2026-05-28T09:56:02.041576+00:00",
+    "content_hash": "5c14b51445ef0d8207b409adbaf6e706ed0a0c2752b864ee04ea45075b45c478",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "Analystics Integration API",
+    "openapi_version": "swagger_2",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

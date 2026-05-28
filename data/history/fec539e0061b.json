@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "fec539e0061b",
+    "source_url": "https://raw.githubusercontent.com/andreibalasanov/detect/649c2a116634c64c1e08d1eb180b18abcf88b86d/openapi.yaml",
+    "fetched_at": "2026-05-28T09:54:55.313187+00:00",
+    "content_hash": "f44a20c74b30d2d33ccd67ed310a48f73e70cdc738121a94420540214f6874cf",
+    "info_version": "2.0.11",
+    "status": "new",
+    "title": "Face Detector",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

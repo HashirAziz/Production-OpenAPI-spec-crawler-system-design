@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b91f6f04bcc5",
+    "source_url": "https://raw.githubusercontent.com/AleGutiMendo/rimac-technical-challenge/2d99b5bd07b2a88a8af305efa5cb62615c49738b/openapi.yaml",
+    "fetched_at": "2026-05-28T09:54:59.430420+00:00",
+    "content_hash": "190fee22ee87451b1d29aac2b4231fcdbf7b1320a031ed69c47ecfcb2e22194b",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Rimac Technical Challenge API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

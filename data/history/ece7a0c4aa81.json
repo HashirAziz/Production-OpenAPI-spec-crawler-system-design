@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ece7a0c4aa81",
+    "source_url": "https://raw.githubusercontent.com/joanamaia03/LBAW-PlayersGambit/037f4a0e013bf4c235cb216a44eba57925a301dc/openapi.yaml",
+    "fetched_at": "2026-05-28T09:54:55.089650+00:00",
+    "content_hash": "d33169490a086777f6da27051cec1a9d757e0324c6f5ea004cb1c246ae3ce2ba",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Players Gambit Web API",
+    "openapi_version": "openapi_3",
+    "paths_count": 15,
+    "path_diff": null
+  }
+]

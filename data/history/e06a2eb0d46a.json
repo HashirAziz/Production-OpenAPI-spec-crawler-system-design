@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e06a2eb0d46a",
+    "source_url": "https://raw.githubusercontent.com/ayush1420/shopkart/5c276dc3c14412457532a21e8371e0c6b5aed8dd/openapi.yaml",
+    "fetched_at": "2026-05-28T09:54:55.494288+00:00",
+    "content_hash": "348415f4556344893d4b875c9fa2fe4fd2e6aad8c94b881c370ff618c4ab56e8",
+    "info_version": "1.0.11",
+    "status": "new",
+    "title": "Swagger Petstore - OpenAPI 3.0",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c9cc8c90eb6a",
+    "source_url": "https://raw.githubusercontent.com/anmacagno/rack-app/5170c0ea035f0089964fb62223c7160630239c5f/openapi.yaml",
+    "fetched_at": "2026-05-28T09:54:59.958977+00:00",
+    "content_hash": "20a908cb6490cf7f472fe8210cf250b744d881c4f539bcba568421b530afaa4e",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "RackApp API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

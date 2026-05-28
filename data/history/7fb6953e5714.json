@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "7fb6953e5714",
+    "source_url": "https://raw.githubusercontent.com/prada-blades/diplom/8d54b43c5624c96e0d8414d0530b5e4985b740af/openapi.yaml",
+    "fetched_at": "2026-05-28T09:54:54.183660+00:00",
+    "content_hash": "d2c4270b789663c3331ccbb5d59c2b80992e8142449a190e4a976fd7f0b1c256",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Corporate Resource Booking API",
+    "openapi_version": "openapi_3",
+    "paths_count": 14,
+    "path_diff": null
+  }
+]

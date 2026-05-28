@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f59eeca3c332",
+    "source_url": "https://raw.githubusercontent.com/chamomil/Url-Counter-Service/1b5a82e5a6fed1ae703a4ed02cc83ab49b362fd3/openapi.yaml",
+    "fetched_at": "2026-05-28T09:55:00.171388+00:00",
+    "content_hash": "8f6df27218adbd6801b1d038234ec98ee553e5a2f281a67fc20f458b3888bcd3",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Url counter",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

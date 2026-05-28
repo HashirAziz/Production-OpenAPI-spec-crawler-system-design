@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "37951013d458",
+    "source_url": "https://raw.githubusercontent.com/cypherfunk-dev/API-Back-Laravel/52e5a48cb160feaf770a500cba66c72c3a548137/swagger.yaml",
+    "fetched_at": "2026-05-28T09:55:50.683099+00:00",
+    "content_hash": "bdee299bb7e5a63382cd636b54f18dcdd64e271cf3ec636a8ef7f96d75c5b16c",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API Tejidos Artesanales",
+    "openapi_version": "swagger_2",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

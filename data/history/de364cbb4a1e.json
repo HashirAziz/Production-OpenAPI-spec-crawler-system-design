@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "de364cbb4a1e",
+    "source_url": "https://raw.githubusercontent.com/kafkaesque-io/pulsar-beam-swagger/6a7e6e20334dbdb58a5b5a7c91f4b50ba1d2d71e/swagger.yaml",
+    "fetched_at": "2026-05-28T09:55:50.294953+00:00",
+    "content_hash": "bfea5eccea519d7f6218a29867431a67407a7cee833c56562f4e4e304b483097",
+    "info_version": "0.2.0",
+    "status": "new",
+    "title": "Pulsar Beam",
+    "openapi_version": "swagger_2",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

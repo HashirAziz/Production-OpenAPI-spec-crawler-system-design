@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f768114fa07c",
+    "source_url": "https://raw.githubusercontent.com/TXC/parkingsystem/650539ccca02cfb3028b2d646f4ae419c6a85c2d/openapi.yaml",
+    "fetched_at": "2026-05-28T09:54:57.013852+00:00",
+    "content_hash": "5239633869aa30315fc3e4bfd3a1fe7056fddaead6999d7271e34cfa5e2df434",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Parking System",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

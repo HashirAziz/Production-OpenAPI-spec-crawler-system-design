@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "972c9afe41f7",
+    "source_url": "https://raw.githubusercontent.com/David-ssnd/RayZ/daf2a4da96a69e776896bb349b1db19f846852d2/openapi.yaml",
+    "fetched_at": "2026-05-28T09:54:53.963360+00:00",
+    "content_hash": "cae96feace0dfc7df2cbd7fd1d5ded72ec6b63c45a2de8d2ff99807f5bec9f77",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "RayZ Laser Tag API",
+    "openapi_version": "openapi_3",
+    "paths_count": 13,
+    "path_diff": null
+  }
+]

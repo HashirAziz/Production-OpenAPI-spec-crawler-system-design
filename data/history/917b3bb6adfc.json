@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "917b3bb6adfc",
+    "source_url": "https://raw.githubusercontent.com/artem4567815/NewsFeed/a10f238d522bb1c2c4106462467979d743c850d8/openapi.yaml",
+    "fetched_at": "2026-05-28T09:54:52.162539+00:00",
+    "content_hash": "f1a899ccf503b9e06179c1b125764649cd91c31b8a64bf4dd9fbfaff8318ad8d",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "School News Feed API",
+    "openapi_version": "openapi_3",
+    "paths_count": 22,
+    "path_diff": null
+  }
+]

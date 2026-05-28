@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "27886dc2db45",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/86be07dfe0c35ec2b0c08b725d42d9e10b6d281e/apis/openapi/synq.fm/main/1.9.1/meta/source/swagger.json",
+    "fetched_at": "2026-05-28T09:56:15.488087+00:00",
+    "content_hash": "e50599d0984570fafaea85748a5663c67cf22ee196c9e4d55426c79743f8bcff",
+    "info_version": "1.9.1",
+    "status": "new",
+    "title": "SYNQ Video",
+    "openapi_version": "swagger_2",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

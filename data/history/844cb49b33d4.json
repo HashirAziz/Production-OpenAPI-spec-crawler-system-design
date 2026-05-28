@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "844cb49b33d4",
+    "source_url": "https://raw.githubusercontent.com/tingly-dev/tingly-box/2feab7919648a8513ee355656c3d4ccc5874ac86/openapi.json",
+    "fetched_at": "2026-05-28T09:55:31.803865+00:00",
+    "content_hash": "2a4becb132ac670aace8c67697cb4c3f473ebcc797c0a4195ce1f5a688c2761a",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Tingly Box API",
+    "openapi_version": "openapi_3",
+    "paths_count": 108,
+    "path_diff": null
+  }
+]

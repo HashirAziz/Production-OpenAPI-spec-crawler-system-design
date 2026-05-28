@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5dc04bfd8dc2",
+    "source_url": "https://raw.githubusercontent.com/dhimant-j1/utara_backend/38973c587b15f57d374982c50a0b767e0fd9612b/swagger.yaml",
+    "fetched_at": "2026-05-28T09:55:53.617900+00:00",
+    "content_hash": "4a82a0c7cba806936d1212daae0f5a6095bc6bc891b5c50d42c0e99afcb79ed9",
+    "info_version": "2.1.0",
+    "status": "new",
+    "title": "Utara Backend API",
+    "openapi_version": "openapi_3",
+    "paths_count": 34,
+    "path_diff": null
+  }
+]
