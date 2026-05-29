@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1de3debdf3cf",
+    "source_url": "https://raw.githubusercontent.com/Daaaiii/movieflixapi/8f39452a94414b0659bd6f5787d7737dd396ca35/swagger.json",
+    "fetched_at": "2026-05-29T09:46:09.603775+00:00",
+    "content_hash": "a28a25c796d716a3e2f60a17d0028dcd6def707f42084febf67b92f362f288dd",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "MovieFlix - API de Filmes",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

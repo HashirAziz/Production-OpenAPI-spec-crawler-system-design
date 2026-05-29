@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6a839d982b44",
+    "source_url": "https://raw.githubusercontent.com/pagopa/pagopa-infra/3b19caaebd19837c6fd5297206822d77dfbd6ed7/src/core/api/donations/v1/_openapi.json.tpl",
+    "fetched_at": "2026-05-29T09:45:20.893235+00:00",
+    "content_hash": "18c88a40e4024668d26893a17ede6b03c4d615551418129cd5eb2d1c7cefb9f5",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Ukraine donations",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

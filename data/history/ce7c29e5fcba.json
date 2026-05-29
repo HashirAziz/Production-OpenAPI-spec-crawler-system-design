@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ce7c29e5fcba",
+    "source_url": "https://raw.githubusercontent.com/serafy0/email-validation/5022a1bb5829c0f1d911c189a491d3c758bcf470/swagger.yaml",
+    "fetched_at": "2026-05-29T09:45:46.910396+00:00",
+    "content_hash": "7b8560083941913b41916a243e52479481618931e597b8edb8b8814f02509c1b",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Email validation",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

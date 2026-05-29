@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "75546b5af3cc",
+    "source_url": "https://raw.githubusercontent.com/52North/eventing-rest-api/8b3e3cc467b6654758e6c439eacb2a2d13a762e3/swagger.yaml",
+    "fetched_at": "2026-05-29T09:45:37.548487+00:00",
+    "content_hash": "bc20a5f6fa1dd66c40e055a7a8a1e8c8db13bf6008c639c23456fed18c29c166",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "PubSub Eventing REST Service",
+    "openapi_version": "swagger_2",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "456750e7c6c5",
+    "source_url": "https://raw.githubusercontent.com/ronny/ptvapi/4d931bcfab42518f11646d508aa3fabd2b05bbc7/swagger.json",
+    "fetched_at": "2026-05-29T09:46:19.563319+00:00",
+    "content_hash": "f3c30e3d04daab310a9d9fb4f8ee59ca5f62b7e51735e37e692b854cea01e3de",
+    "info_version": "v3",
+    "status": "new",
+    "title": "PTV Timetable API - Version 3",
+    "openapi_version": "swagger_2",
+    "paths_count": 25,
+    "path_diff": null
+  }
+]

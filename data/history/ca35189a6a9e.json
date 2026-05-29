@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ca35189a6a9e",
+    "source_url": "https://raw.githubusercontent.com/gkswjdzz/gpt-2-evaluate/74b778d6db49f7661f73946576771bdf61aacd42/swagger.yaml",
+    "fetched_at": "2026-05-29T09:45:44.210905+00:00",
+    "content_hash": "16c1b23247d84b076d76227a755a5883075a6a2346135a3a0a2b77ee2a84c3a0",
+    "info_version": "0.1",
+    "status": "new",
+    "title": "gpt-2-evaluate",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

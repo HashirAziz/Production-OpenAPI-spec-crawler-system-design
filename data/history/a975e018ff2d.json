@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a975e018ff2d",
+    "source_url": "https://raw.githubusercontent.com/vickova/FarmSwift-Api/8e9d1c67e2e26d32bc93586b94046ac76d34b935/swagger.yaml",
+    "fetched_at": "2026-05-29T09:45:39.524478+00:00",
+    "content_hash": "2b1718422dad984bed260b03400e861787211f72f40d27794e8c75165db090d9",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "FarmSwift API",
+    "openapi_version": "openapi_3",
+    "paths_count": 16,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4821a4db6cb6",
+    "source_url": "https://raw.githubusercontent.com/noia-network/noia-node/b7365b4c41beb4a26217fe29c5c19bfc2b5fb9fe/swagger.json",
+    "fetched_at": "2026-05-29T09:46:09.839065+00:00",
+    "content_hash": "d7763b3d3cc51b5a9e725a41d674555c4116f32742be6b059450752f9f62f903",
+    "info_version": "0.0.0",
+    "status": "new",
+    "title": "Node API",
+    "openapi_version": "swagger_2",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

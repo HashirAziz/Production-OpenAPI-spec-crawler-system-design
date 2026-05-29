@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "192404ab4ff7",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/86be07dfe0c35ec2b0c08b725d42d9e10b6d281e/apis/openapi/o2.cz/socio-demo-api/1.2.0/meta/source/swagger.json",
+    "fetched_at": "2026-05-29T09:46:25.285620+00:00",
+    "content_hash": "685309ff6149d1f19e218db4a2ac5c4e5b621efaf0a1be7129986ce7ef639870",
+    "info_version": "1.2.0",
+    "status": "new",
+    "title": "Socio-demo API",
+    "openapi_version": "swagger_2",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

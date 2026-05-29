@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e2e4bc87e4ad",
+    "source_url": "https://raw.githubusercontent.com/guessit-io/guessit-rest/740e4a2617e50d3734d1e9487624dd51090c83fd/swagger.yaml",
+    "fetched_at": "2026-05-29T09:45:52.905503+00:00",
+    "content_hash": "7d60eebafc8f13b0deebf1e2cf453d785bf70981cace853e5d27c3bb67a8a606",
+    "info_version": "2.1.0",
+    "status": "new",
+    "title": "GuessIt 2 API",
+    "openapi_version": "swagger_2",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

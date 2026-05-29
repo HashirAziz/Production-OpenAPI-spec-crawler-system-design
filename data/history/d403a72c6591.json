@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d403a72c6591",
+    "source_url": "https://raw.githubusercontent.com/SaathvikNS/FuzzX/d84dbd5fb123b5c5abb29d1ad864ac0adeb7866e/swagger.json",
+    "fetched_at": "2026-05-29T09:46:23.296114+00:00",
+    "content_hash": "ee779e05a6fb417d904aa0dbc57869f3d11142aa8d147996e922cc6b56adde55",
+    "info_version": "1.0.7",
+    "status": "new",
+    "title": "Swagger Petstore",
+    "openapi_version": "swagger_2",
+    "paths_count": 14,
+    "path_diff": null
+  }
+]

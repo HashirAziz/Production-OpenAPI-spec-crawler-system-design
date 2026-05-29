@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f3906d42d3ec",
+    "source_url": "https://raw.githubusercontent.com/Noahxel/EpiPlace/9ed6a17a02a6ab0f7b0b20e94a204bea486ec099/terraform/openapi.yaml.tpl",
+    "fetched_at": "2026-05-29T09:44:53.852815+00:00",
+    "content_hash": "d36d91ade84bd50f43efbcc1a56e221fa52958b77273cb0520c48b3d79ef4939",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "EpiPlace API Gateway",
+    "openapi_version": "swagger_2",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

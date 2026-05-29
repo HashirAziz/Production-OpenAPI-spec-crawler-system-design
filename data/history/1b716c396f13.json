@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1b716c396f13",
+    "source_url": "https://raw.githubusercontent.com/jeleel4u/insurance-policy-api/fbb85e1502e6ceac2c1b12c0a9da2dc708d96cbe/swagger.yaml",
+    "fetched_at": "2026-05-29T09:45:53.147361+00:00",
+    "content_hash": "ebc4e662025d3e44c96700cbb8a3fe7ade3bbe30aac9448908fdc16371236670",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Insure API",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

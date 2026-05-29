@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8ea66b345405",
+    "source_url": "https://raw.githubusercontent.com/vincentvanderweele/swagger-todo-mvc/5af36a915c7682a7ff413c43b902603546eb9a1f/swagger.yaml",
+    "fetched_at": "2026-05-29T09:45:38.051730+00:00",
+    "content_hash": "801e27738b260344e910671c5d3ff50125051bb2be1538cb87a4c52861b6fda9",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Todo API",
+    "openapi_version": "swagger_2",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c1301c6c49a2",
+    "source_url": "https://raw.githubusercontent.com/NarvaezSKY/EgresadosAPE-BackEnd/d69a0dc841bdaa6e64126fe862f1b68521144303/swagger.yaml",
+    "fetched_at": "2026-05-29T09:45:49.340405+00:00",
+    "content_hash": "c83864d7359cffe7b142829ab9a969d8919de234aed97f317291dd258dde578f",
+    "info_version": "1.1.0",
+    "status": "new",
+    "title": "API PilAPEBack",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

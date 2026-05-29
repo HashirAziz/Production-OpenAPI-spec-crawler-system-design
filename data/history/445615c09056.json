@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "445615c09056",
+    "source_url": "https://raw.githubusercontent.com/ajupov/api-client-gen/9b54b35a391d0e9d9d564f26bac33596098be51e/swagger.json",
+    "fetched_at": "2026-05-29T09:46:07.922268+00:00",
+    "content_hash": "30922cb2a435ee3bc5dfd25bfd99d43d7b7c24c5664958ed8fcd4752fd636a6a",
+    "info_version": "1.3.3",
+    "status": "new",
+    "title": "Crm.Apps",
+    "openapi_version": "openapi_3",
+    "paths_count": 189,
+    "path_diff": null
+  }
+]

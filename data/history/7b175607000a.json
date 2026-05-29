@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "7b175607000a",
+    "source_url": "https://raw.githubusercontent.com/SagarPrasad/swagger/e0fedd3a7a2fa97808198a8bf5dd2f326080c94a/swagger.yaml",
+    "fetched_at": "2026-05-29T09:45:55.059864+00:00",
+    "content_hash": "d69ca898082c0e96615e0844ed837b23cade3fdee76910dc2257a19043ea2343",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "FRMS Order Manage APIs - OpenAPI 3.0",
+    "openapi_version": "openapi_3",
+    "paths_count": 12,
+    "path_diff": null
+  }
+]

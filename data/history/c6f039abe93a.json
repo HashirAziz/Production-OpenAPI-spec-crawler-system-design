@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c6f039abe93a",
+    "source_url": "https://raw.githubusercontent.com/Pethum-Jeewantha/gpt-connect/badebc2865559ddad7d877ea0bbdea55be5a554f/swagger.json",
+    "fetched_at": "2026-05-29T09:46:16.593947+00:00",
+    "content_hash": "88326f0b5d07a2b3c50d56c42917352d6ce33df4adde8b9eff6f4160897e4c42",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "GPT API Documentation",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

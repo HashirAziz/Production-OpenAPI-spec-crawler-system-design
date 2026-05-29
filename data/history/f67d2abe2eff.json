@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f67d2abe2eff",
+    "source_url": "https://raw.githubusercontent.com/saminahbab/media-group-test/23a162a998590e8755d015bce34266d207815ad8/swagger.yaml",
+    "fetched_at": "2026-05-29T09:45:46.706431+00:00",
+    "content_hash": "69647ae31b3fa17786b95fe6a15c3c165654736d3f4d3b4a51fe096a5e67ab61",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Spotify Song Service API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

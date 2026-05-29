@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8babf035c750",
+    "source_url": "https://raw.githubusercontent.com/MyRealChoco/checkmate_swagger_api/b57cd476d11362d15c12729a222f742fded3c860/swagger.yaml",
+    "fetched_at": "2026-05-29T09:45:51.652095+00:00",
+    "content_hash": "ca0723a0909d12288120088c4a899b2f0387fb4bcf5c16aba5813f51e11f6789",
+    "info_version": "v0",
+    "status": "new",
+    "title": "OpenAPI definition",
+    "openapi_version": "openapi_3",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

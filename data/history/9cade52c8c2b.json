@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9cade52c8c2b",
+    "source_url": "https://raw.githubusercontent.com/kumahq/kuma-counter-demo/6de16727a5ba0f08b23fa40c997f3b3f8972c4a0/openapi.yaml",
+    "fetched_at": "2026-05-29T09:44:36.492066+00:00",
+    "content_hash": "41328549050967596fb10562f5c97a79e77d492059ecad8f4061bdb8c696a067",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Counter and Zone API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

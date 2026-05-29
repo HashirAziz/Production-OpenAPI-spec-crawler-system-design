@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "cbf247c20dd4",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/86be07dfe0c35ec2b0c08b725d42d9e10b6d281e/apis/openapi/Sonarr/main/3.0.0/openapi.json",
+    "fetched_at": "2026-05-29T09:45:28.892501+00:00",
+    "content_hash": "93c892273ad6dd44302d5aa0812ba7a196dcf3507779f4f9a84c64d3ec11b6f5",
+    "info_version": "3.0.0",
+    "status": "new",
+    "title": "Sonarr",
+    "openapi_version": "openapi_3",
+    "paths_count": 162,
+    "path_diff": null
+  }
+]

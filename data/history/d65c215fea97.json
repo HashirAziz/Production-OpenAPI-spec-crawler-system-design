@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d65c215fea97",
+    "source_url": "https://raw.githubusercontent.com/SahidAyala/academlo-recipes/2ee1828de5d30943d4c9fa21c3277f065347e820/swagger.json",
+    "fetched_at": "2026-05-29T09:46:16.874868+00:00",
+    "content_hash": "118c4f2bf64f6920378666c88a73007f220b09f2ef9783c90e8c959bc1b8e2d1",
+    "info_version": "1.0.6",
+    "status": "new",
+    "title": "Swagger Petstore",
+    "openapi_version": "swagger_2",
+    "paths_count": 14,
+    "path_diff": null
+  }
+]

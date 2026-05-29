@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f1e9b9bbbab9",
+    "source_url": "https://raw.githubusercontent.com/feeduvl/uvl-storage-concepts/04bef141a1fc8c0b392d77273a88275edd273cb2/swagger.yaml",
+    "fetched_at": "2026-05-29T09:45:49.525400+00:00",
+    "content_hash": "03bd1c6ff746695a3bfb60403077eb4c71226182ba460b834dda9111ef6c573d",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "This API is the database interface for datasets and run results.",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

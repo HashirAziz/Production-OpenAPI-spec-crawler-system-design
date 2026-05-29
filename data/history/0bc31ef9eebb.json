@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0bc31ef9eebb",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/86be07dfe0c35ec2b0c08b725d42d9e10b6d281e/apis/openapi/walmart.com/order/3.0.1/meta/source/swagger.json",
+    "fetched_at": "2026-05-29T09:46:24.395026+00:00",
+    "content_hash": "ca777d2f99a6b56ec45d666014ca6472acde95cd4714ee2abdc9e8f38d2685b4",
+    "info_version": "3.0.1",
+    "status": "new",
+    "title": "Orders API",
+    "openapi_version": "swagger_2",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

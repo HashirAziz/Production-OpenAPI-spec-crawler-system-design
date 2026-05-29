@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1c1907900261",
+    "source_url": "https://raw.githubusercontent.com/txrxcode/expess-typescript-mongo-starter/bacb3c2945d9e9143e656c7baec5a0895a8f6c57/swagger.yaml",
+    "fetched_at": "2026-05-29T09:45:49.737858+00:00",
+    "content_hash": "e7754428f0240a79daf938f305421033e8bdacd95df5dd49c53a8f2ff27fd7b6",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "unknown",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

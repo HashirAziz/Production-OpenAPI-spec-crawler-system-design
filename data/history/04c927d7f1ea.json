@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "04c927d7f1ea",
+    "source_url": "https://raw.githubusercontent.com/faiqsohail/DevsMake/03e9467fd7068f77c797704e5cf4b5e46393bc64/swagger.yaml",
+    "fetched_at": "2026-05-29T09:45:53.906172+00:00",
+    "content_hash": "a1264ae279a8e732e0345d81008a123a5891420a236638f92d7f0e32d0efed2e",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "DevsMake",
+    "openapi_version": "swagger_2",
+    "paths_count": 12,
+    "path_diff": null
+  }
+]

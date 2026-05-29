@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f46495528918",
+    "source_url": "https://raw.githubusercontent.com/kontext-security/agent-browser/14db7babc0bc2347a4fb2e77995bcc4e0af7010e/openapi.yaml",
+    "fetched_at": "2026-05-29T09:44:39.957850+00:00",
+    "content_hash": "758a6b5cd8d98b9d52a1522bc76d5b6d8cd062d758b3fc80b16a70851120856f",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Agent Browser API",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

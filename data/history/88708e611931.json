@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "88708e611931",
+    "source_url": "https://raw.githubusercontent.com/must-obed/testCL/51686b12d7692354186965c748e7707b74ca95a9/swagger.yaml",
+    "fetched_at": "2026-05-29T09:45:45.449953+00:00",
+    "content_hash": "6f7688b4bc07b482d587d4f2a0739d5858b41ff228b40ca162cd31f1a77cc759",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "CargoLand",
+    "openapi_version": "openapi_3",
+    "paths_count": 15,
+    "path_diff": null
+  }
+]

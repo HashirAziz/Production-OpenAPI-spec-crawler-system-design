@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a5c6c39cd8dd",
+    "source_url": "https://raw.githubusercontent.com/wmrohan/game-talk/a38813d7aec17c18dbcaae52affd20312eb5b2fd/swagger.yaml",
+    "fetched_at": "2026-05-29T09:45:42.782713+00:00",
+    "content_hash": "29318be49cb1acd7f8463e05f331e3e0929f1b4913de185c637e481629e9f3e5",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "GameTalk OpenAPI Specification",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

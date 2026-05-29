@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6c9a2b7bd1d3",
+    "source_url": "https://raw.githubusercontent.com/DiegoVictor/functional-api/1bd29017181613b0d103ec17e57b17552bf866e4/swagger.json",
+    "fetched_at": "2026-05-29T09:46:06.436984+00:00",
+    "content_hash": "6819193c857e2e5e3cf941072ac2e900320bed923c5955128814ae92b563ea8f",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Functional API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9de17ca68f44",
+    "source_url": "https://raw.githubusercontent.com/AlexHolly/godot-rest-server/688795fba27846bb88b22c7fde12c725a608f99c/swagger.json",
+    "fetched_at": "2026-05-29T09:46:25.097304+00:00",
+    "content_hash": "2e068094cda8c751373bc306bf5ffb596ee570f9c40744909d7ded51012ea1fe",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "Names Service",
+    "openapi_version": "swagger_2",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

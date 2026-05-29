@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0533d9054a95",
+    "source_url": "https://raw.githubusercontent.com/rbrown29/Jobs-API/db3fab343bc855bbfc77ab762822f6a659e92230/swagger.yaml",
+    "fetched_at": "2026-05-29T09:45:46.016339+00:00",
+    "content_hash": "8d095f2eb7e31ce83499f8e84cf1386f50cb4bb81f7041a55783e2dec8d38819",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Jobs API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

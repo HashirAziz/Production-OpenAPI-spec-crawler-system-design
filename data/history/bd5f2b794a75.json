@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "bd5f2b794a75",
+    "source_url": "https://raw.githubusercontent.com/HoangKhiem3k/shop-be/9e83d63739f035940016817f13ef40ee97cd6dea/swagger.yaml",
+    "fetched_at": "2026-05-29T09:45:48.309861+00:00",
+    "content_hash": "6394303135af1f716f184cff32a51f4fff7de0a0df7c113f86ecd6d10c4c3817",
+    "info_version": "1.0.11",
+    "status": "new",
+    "title": "Swagger API Course FE",
+    "openapi_version": "openapi_3",
+    "paths_count": 71,
+    "path_diff": null
+  }
+]

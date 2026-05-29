@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d44a891bf73a",
+    "source_url": "https://raw.githubusercontent.com/columbia-it/django-jsonapi-training/9c209dc3996ff1ee3b559adcedaf750ec8105bd3/docs/schemas/aws_openapi.json.removed",
+    "fetched_at": "2026-05-29T09:45:08.004718+00:00",
+    "content_hash": "227f100931a62a88e6787d57452117757f7fc2abb34ceb51f759fec62859bb8a",
+    "info_version": "0.2.4",
+    "status": "new",
+    "title": "myapp",
+    "openapi_version": "openapi_3",
+    "paths_count": 18,
+    "path_diff": null
+  }
+]

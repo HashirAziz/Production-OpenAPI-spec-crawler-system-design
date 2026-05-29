@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "39730ac32a4f",
+    "source_url": "https://raw.githubusercontent.com/mshowaikhat/url-shortener-infra/05e30e27da00fb0ae1eca9b654969a469933132c/modules/api_gateway/openapi.yaml.tpl",
+    "fetched_at": "2026-05-29T09:44:53.657172+00:00",
+    "content_hash": "16a4c92b9e976c306007b026a35614b0f9247a3c70a4f14cfdb8a6ebb302f69f",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "${api_id}",
+    "openapi_version": "swagger_2",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

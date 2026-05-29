@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c815f1d2a602",
+    "source_url": "https://raw.githubusercontent.com/codesciousness/e-commerce-app/dd9f46f5b1b42f9d736861a49a244aac05e056fe/swagger.yaml",
+    "fetched_at": "2026-05-29T09:45:55.719005+00:00",
+    "content_hash": "504941a1e9535383bb0d2ede85621d7a751dcfe1083f953f32bb867c04a17770",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "E-commerce Store App",
+    "openapi_version": "swagger_2",
+    "paths_count": 14,
+    "path_diff": null
+  }
+]

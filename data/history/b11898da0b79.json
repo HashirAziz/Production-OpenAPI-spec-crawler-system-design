@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b11898da0b79",
+    "source_url": "https://raw.githubusercontent.com/mahadiocsidio/challange_chap5/2fe21b97bc708dc49087cf00202c179fc9b1e15e/swagger.yaml",
+    "fetched_at": "2026-05-29T09:45:55.957762+00:00",
+    "content_hash": "81e8de8883250d3b67ba557cb86be69e62a878e341b4339ae4ae1e202aa80632",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Basic Banking Systems",
+    "openapi_version": "openapi_3",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

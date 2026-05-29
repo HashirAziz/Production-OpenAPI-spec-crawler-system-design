@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "cec8fc8eeee6",
+    "source_url": "https://raw.githubusercontent.com/longzoho/doc-mine/f8b498698c0a769ccc4e0818db8d4bcbb235044a/swagger.yaml",
+    "fetched_at": "2026-05-29T09:45:40.633480+00:00",
+    "content_hash": "7ea8c1e9f0a897754f822573c1eac13d0fcbdee2e054c224fec8d98a86f99ede",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Doc mining API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "7a6bf3e4f481",
+    "source_url": "https://raw.githubusercontent.com/jvillane/aws-sam-lambda-jest-unit-test/70de3a8d3b2df53a68e6bdc3d8aa41d6efc08783/openapi.yaml",
+    "fetched_at": "2026-05-29T09:44:45.183829+00:00",
+    "content_hash": "86e7fcbc79768ca8545db4ef96141491b28b897a427573d0fe4b435e68fd261b",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Api Mocker",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c4e11510425e",
+    "source_url": "https://raw.githubusercontent.com/ezeisraeljohn/task_creation/c7f1d4643350ebc771493d081957379b8456ba81/swagger.yaml",
+    "fetched_at": "2026-05-29T09:45:38.274462+00:00",
+    "content_hash": "2c9cfe30597fc36862873509ec55294ad97c2641e32b657190d1484406d0fcd2",
+    "info_version": "v1",
+    "status": "new",
+    "title": "Task Creation API",
+    "openapi_version": "swagger_2",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

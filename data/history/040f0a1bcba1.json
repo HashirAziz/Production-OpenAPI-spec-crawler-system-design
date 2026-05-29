@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "040f0a1bcba1",
+    "source_url": "https://raw.githubusercontent.com/rohit-lakhanpal/azure-api-mgt-resources/114a5f427ebb98bb57f2978d9f91f39117e786ee/swagger.json",
+    "fetched_at": "2026-05-29T09:46:25.806070+00:00",
+    "content_hash": "f0e2584e7e5c36946c781f0e2c907ba17cf9d0a05523a2286dce186b97aa94de",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Yo Blog",
+    "openapi_version": "swagger_2",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

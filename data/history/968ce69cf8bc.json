@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "968ce69cf8bc",
+    "source_url": "https://raw.githubusercontent.com/jeanchabanol/integration-donnees/b5053416e62ccd98f2f1a80de79cf66d366c4bf5/swagger.json",
+    "fetched_at": "2026-05-29T09:46:18.345215+00:00",
+    "content_hash": "5961577a397b247e9397570298e550d22030c483cb293ef559fd4a8d49ad1f34",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "ELECTIONS PRESIDENTIELLES 2017",
+    "openapi_version": "swagger_2",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

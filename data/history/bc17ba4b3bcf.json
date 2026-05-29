@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "bc17ba4b3bcf",
+    "source_url": "https://raw.githubusercontent.com/autherity/design-develop-assessment-process/19e2339dbfcd98426f7ce454e9507ab431dd8182/swagger.yaml",
+    "fetched_at": "2026-05-29T09:45:50.581576+00:00",
+    "content_hash": "c3c273a27d034830b28e97493b5d2fb9479b398329ed207710d350c927006388",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "EY Assessment Api Definition",
+    "openapi_version": "openapi_3",
+    "paths_count": 20,
+    "path_diff": null
+  }
+]

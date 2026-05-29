@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0b076ac84ffc",
+    "source_url": "https://raw.githubusercontent.com/eryph-org/ruby-client/16df82de6db4207faec4412de445944261cb0ef4/swagger.json",
+    "fetched_at": "2026-05-29T09:46:11.319380+00:00",
+    "content_hash": "adcbd514a0953e5b8480e0ed2dc16bcfd4eaf0177af8167175dd61026b37f29d",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Compute Api",
+    "openapi_version": "openapi_3",
+    "paths_count": 23,
+    "path_diff": null
+  }
+]

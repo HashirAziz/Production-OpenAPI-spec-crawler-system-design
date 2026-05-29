@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "302618bc5b8b",
+    "source_url": "https://raw.githubusercontent.com/BrookeTaylor/bcrs/c7b43c1520526f681be8b45e41b96e6fea60a201/swagger.json",
+    "fetched_at": "2026-05-29T09:46:09.243627+00:00",
+    "content_hash": "1aeeba8150cc26c3654cb2b08b999e3dbb47c1052eb999a72fb8a62100bd30f3",
+    "info_version": "5.3.0",
+    "status": "new",
+    "title": "Hufflepuff Bob's Computer Repair Shop API for Group 2",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

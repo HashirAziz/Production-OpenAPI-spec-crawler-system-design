@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0631f859c373",
+    "source_url": "https://raw.githubusercontent.com/AdityaGoyal11/SIERRA-Investments/4563c4b5ae91b5f9cf9d845ac260505aec337f14/swagger.yaml",
+    "fetched_at": "2026-05-29T09:45:50.336777+00:00",
+    "content_hash": "96ea02c4e322304cbc110a8211544ab3b9e69e12baeb6d1f517168fd2c5f77ad",
+    "info_version": "3.2.1",
+    "status": "new",
+    "title": "SIERRA ESG Data Service",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

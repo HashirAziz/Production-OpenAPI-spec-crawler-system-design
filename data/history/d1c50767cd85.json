@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d1c50767cd85",
+    "source_url": "https://raw.githubusercontent.com/Juned-the-programmer/banas-api/8b139b3652de0e49721045dca751edf389019853/swagger.yaml",
+    "fetched_at": "2026-05-29T09:45:56.407242+00:00",
+    "content_hash": "c65c0349bf8cc461369abc6d5e84e4da410ffe9651ddba4ee69f3b492da80ec9",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Banas API",
+    "openapi_version": "openapi_3",
+    "paths_count": 31,
+    "path_diff": null
+  }
+]

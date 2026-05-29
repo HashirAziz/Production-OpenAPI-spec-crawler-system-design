@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9e744c4ff887",
+    "source_url": "https://raw.githubusercontent.com/AleBal-A/avito-tech-backend-bootcamp-assignment-2024/9de1cd2fdfc064d6dee95de5aa6524910fe5cf1e/internal/lib/swagger.yaml",
+    "fetched_at": "2026-05-29T09:45:52.455920+00:00",
+    "content_hash": "e7d17ec2c726384f2a97a31b78fb245942d96348672895b8b12f7e4150b6750a",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Тестовое задание для отбора на Backend Bootcamp",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

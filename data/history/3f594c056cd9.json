@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3f594c056cd9",
+    "source_url": "https://raw.githubusercontent.com/LbovAE/MLOPS/ebb61b9ab81818802b1189bb0e0642904a52a680/swagger.yaml",
+    "fetched_at": "2026-05-29T09:45:44.960291+00:00",
+    "content_hash": "b9a6f72f3123b12cf60d3ec1397713b3bf088a8ec46940bfade144ce7db1b0df",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Model Service API",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9ba91b891e89",
+    "source_url": "https://raw.githubusercontent.com/pagopa/cstar-infrastructure/daacf2f059da7602637d7273cf7bbe865ea68aae/src/core/api/azureblob/internal.openapi.json",
+    "fetched_at": "2026-05-29T09:45:05.125129+00:00",
+    "content_hash": "777ff81d2eab7229946bc0aa431204f919d54b8c6bce62d3341b94a5e2b8fd5c",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Blob Storage Internal",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

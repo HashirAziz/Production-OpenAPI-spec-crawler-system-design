@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "fe93538ff38a",
+    "source_url": "https://raw.githubusercontent.com/HelenZalizniuk/product-api/1234d6890f1b93f4c24b165bff55ad3eb4ac017c/swagger.yaml",
+    "fetched_at": "2026-05-29T09:45:42.365186+00:00",
+    "content_hash": "0902bae4fd8b25c68c2cad37ee1de59c83c6d5fdfa198bc0918595c26a5a0a63",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "of Product API",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

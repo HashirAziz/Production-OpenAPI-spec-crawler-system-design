@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "bf0577bf3470",
+    "source_url": "https://raw.githubusercontent.com/INMD1/skyline-apiserver-extenstion/920cc32882281292ce1ee4d294dfc6889dfd5ba7/swagger.json",
+    "fetched_at": "2026-05-29T09:46:13.901412+00:00",
+    "content_hash": "8966c7b3598d9f2dff3071744a78575345ea49d2605498916975ff6ba6505357",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "Skyline API",
+    "openapi_version": "openapi_3",
+    "paths_count": 22,
+    "path_diff": null
+  }
+]

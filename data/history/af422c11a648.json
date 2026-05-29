@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "af422c11a648",
+    "source_url": "https://raw.githubusercontent.com/ang-of/rekrutacja-php/01a8ca26027167bb0d4efb975c7b7332264c5665/swagger.yaml",
+    "fetched_at": "2026-05-29T09:45:48.909280+00:00",
+    "content_hash": "c295a1c70679780277241f9d64bfec265adcab5695bd23fdbad3b37f8992f756",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Rekrutacja-php API",
+    "openapi_version": "openapi_3",
+    "paths_count": 18,
+    "path_diff": null
+  }
+]

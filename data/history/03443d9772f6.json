@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "03443d9772f6",
+    "source_url": "https://raw.githubusercontent.com/bhumikanilesh/api-explorer-pipeline/fb4be55f82d77a0aeaad3cc933ff26ec35e0b4a9/data/raw/openbanking.org.uk_event-notifications-openapi.json",
+    "fetched_at": "2026-05-29T09:45:21.750655+00:00",
+    "content_hash": "3bb8997fff4ad062debd7c86662a99c108ffee3a8c42e6dfa3a95e4e38818d84",
+    "info_version": "3.1.7",
+    "status": "new",
+    "title": "Event Notification API Specification - TPP Endpoints",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

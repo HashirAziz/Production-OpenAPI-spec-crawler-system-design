@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8eef99bf44d6",
+    "source_url": "https://raw.githubusercontent.com/Silva-Filho/harpiatech-api-contacts/e6de51561767f1b54d8f18a885be27a2d7fe9fee/swagger.json",
+    "fetched_at": "2026-05-29T09:46:12.064191+00:00",
+    "content_hash": "672fdca2b286f7c4f76120c1232ec91af26f04607fedbf1e80a4a1713f5d6011",
+    "info_version": null,
+    "status": "new",
+    "title": "Agenda de Contatos",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "36090e77521f",
+    "source_url": "https://raw.githubusercontent.com/emmaimade/e-commerce-api/076738fb890b16ebd10106d5c285a71b8f3fa54e/swagger.yaml",
+    "fetched_at": "2026-05-29T09:45:46.312430+00:00",
+    "content_hash": "4839653dcb6dbb6f594225d40e3dcc622f5f1c198e5069774654cdd56cc2696b",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "E-Commerce API",
+    "openapi_version": "openapi_3",
+    "paths_count": 30,
+    "path_diff": null
+  }
+]

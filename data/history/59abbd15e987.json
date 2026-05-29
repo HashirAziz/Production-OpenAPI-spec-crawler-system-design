@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "59abbd15e987",
+    "source_url": "https://raw.githubusercontent.com/RasmusKoit/IALBServerOPS-API/5177bf51be01f4d48e4513b90c5fe2653f7fa8ef/swagger.yaml",
+    "fetched_at": "2026-05-29T09:45:51.024863+00:00",
+    "content_hash": "d59530bf9295c29e61192add0fa3770a98d90350a7c4f5d205d5d754ad54e79f",
+    "info_version": "0.1",
+    "status": "new",
+    "title": "IALB Server Ops",
+    "openapi_version": "openapi_3",
+    "paths_count": 19,
+    "path_diff": null
+  }
+]

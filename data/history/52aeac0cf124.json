@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "52aeac0cf124",
+    "source_url": "https://raw.githubusercontent.com/mohamed-elhaimer/fermata/7976f73d8006e4fc135aeb50531476fa08c4a55d/swagger.yaml",
+    "fetched_at": "2026-05-29T09:45:43.632005+00:00",
+    "content_hash": "3e64a39866e9e4a0174fd7972c19891ac8a9601996b101a28a7b1a09c4cc4f7c",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "FERMATA - Wishlist Service API",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

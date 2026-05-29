@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "921a2157eb16",
+    "source_url": "https://raw.githubusercontent.com/khellwan/D-C2PA/625a9cfa02fec28c1cefb03c2a9ecb53a69b4e37/swagger.yaml",
+    "fetched_at": "2026-05-29T09:45:43.831509+00:00",
+    "content_hash": "fb8549091897fdc3d9b6959ea421b9187ec51aa424a8cae65ee8e9d8df4dfc7e",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "C2PA API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

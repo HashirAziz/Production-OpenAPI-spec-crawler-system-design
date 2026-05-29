@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4a93f2bc7bc7",
+    "source_url": "https://raw.githubusercontent.com/Dev-Arxs/Backend-LeyendasEcuador/f01a3d9adad4a49ef2724862a02a3b4c09ad487b/swagger.json",
+    "fetched_at": "2026-05-29T09:46:14.554830+00:00",
+    "content_hash": "7c3b393dc5f9985ffb2d919534d355a5da0079d4769b22d1123cf2dd89b126f0",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API de Gestión de Rankings de Cantuña y Padre Almeida",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

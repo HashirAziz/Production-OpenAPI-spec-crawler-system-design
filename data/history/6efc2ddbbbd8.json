@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6efc2ddbbbd8",
+    "source_url": "https://raw.githubusercontent.com/bhumikanilesh/api-explorer-pipeline/fb4be55f82d77a0aeaad3cc933ff26ec35e0b4a9/data/raw/azure.com_EnterpriseKnowledgeGraph-EnterpriseKnowledgeGraphSwagger.json",
+    "fetched_at": "2026-05-29T09:46:23.921811+00:00",
+    "content_hash": "2691315224cc9073d274216843f2be40dc3eea785bd01b33c1dc669e351138d9",
+    "info_version": "2018-12-03",
+    "status": "new",
+    "title": "Azure Enterprise Knowledge Graph Service",
+    "openapi_version": "swagger_2",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

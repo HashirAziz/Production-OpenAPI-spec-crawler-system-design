@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8c9ec171eda9",
+    "source_url": "https://raw.githubusercontent.com/hungcqa23/book_management_api/175948136c01a3a6c71312c3f04cb72c17328ba4/swagger.yaml",
+    "fetched_at": "2026-05-29T09:45:56.668065+00:00",
+    "content_hash": "e661cb331e25089be6c4a4db3d414219ca434dd2ce97375ae8e00c142da5fe80",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Library Management - OpenAPI 3.0",
+    "openapi_version": "openapi_3",
+    "paths_count": 21,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "42e09c173c13",
+    "source_url": "https://raw.githubusercontent.com/LincolXimenes/pastelaria-pdv/abaf38f9652f6715b1517a2b6bd29caae1b582d3/swagger.yaml",
+    "fetched_at": "2026-05-29T09:45:44.424610+00:00",
+    "content_hash": "e160cb5881596068c9c149c30a37015d9a60189712052d1e7a8f73d151b5850b",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API Pastelaria PDV",
+    "openapi_version": "openapi_3",
+    "paths_count": 16,
+    "path_diff": null
+  }
+]
