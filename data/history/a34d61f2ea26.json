@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a34d61f2ea26",
+    "source_url": "https://raw.githubusercontent.com/soumyadip007/Blockchain-based-Transcript-Management-System-BITS-Dissertation/059a12b531ea9a651b2545038d9f5fd1dc2d6a17/openapi.yaml",
+    "fetched_at": "2026-05-30T08:23:18.210154+00:00",
+    "content_hash": "2a5105a8b0b435bc5c58f69ed12007a24da048d488d264c5ae647886bc5c586d",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Blockchain Transcript Management API",
+    "openapi_version": "openapi_3",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

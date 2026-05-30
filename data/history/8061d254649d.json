@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8061d254649d",
+    "source_url": "https://raw.githubusercontent.com/allenheltondev/discord-community-summarizer/587ae002ed39324478f778d739cf883dae57b5a2/openapi.yaml",
+    "fetched_at": "2026-05-30T08:23:14.188706+00:00",
+    "content_hash": "bf73a2662ba90fb9858575bea0ab9fc30d69766f0351fcf181621ad1ef80d73a",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Community Summary API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

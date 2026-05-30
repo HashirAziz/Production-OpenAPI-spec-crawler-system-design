@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1b136dbc5165",
+    "source_url": "https://raw.githubusercontent.com/sheikhBasit/carRentalBackend/bd382fbd5643e93635c34544232a1057841d3f9d/swagger.yaml",
+    "fetched_at": "2026-05-30T08:23:49.363549+00:00",
+    "content_hash": "e03f25ae048c168a80c664fdaa4f05991c8f12500bbb20254fddf88d054a45f4",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Car Rental System API",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d6fa1fe987f4",
+    "source_url": "https://raw.githubusercontent.com/samalpartha/incident-war-room/9b22434f01321012f0b3d792d5114f3bce05200a/openapi.yaml",
+    "fetched_at": "2026-05-30T08:23:14.042027+00:00",
+    "content_hash": "bd2c756c3f426716e51999b1817f24e77f94d4bf9661930e454910b7083c49d9",
+    "info_version": "2.1.0",
+    "status": "new",
+    "title": "Incident War Room API",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

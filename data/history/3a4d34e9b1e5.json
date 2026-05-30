@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3a4d34e9b1e5",
+    "source_url": "https://raw.githubusercontent.com/AjaxRu/angles_detection/86846dfa932435736fb0148e65536a527182d92a/swagger.yaml",
+    "fetched_at": "2026-05-30T08:23:51.454813+00:00",
+    "content_hash": "77aa9ca3773a71d6a3446bf6b49e49f338ac6d2c4f950bf1d336e0cd3dcc29a1",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Angles Detection API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

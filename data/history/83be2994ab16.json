@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "83be2994ab16",
+    "source_url": "https://raw.githubusercontent.com/devs-cassiano/rails-rbac-demo/89b9d6e4376913f9b2829dcf489cb1969ec5312d/swagger.yaml",
+    "fetched_at": "2026-05-30T08:23:54.130984+00:00",
+    "content_hash": "5a37004dce9a5fa0abc02aa5803a1256905108b25389f3c9c6d3086c9e13b50e",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Rails RBAC Demo API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

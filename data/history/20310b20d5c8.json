@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "20310b20d5c8",
+    "source_url": "https://raw.githubusercontent.com/prateekbadjatya/node-Job-Api/1122033ae350b66b189fc0d677617e03b31a7324/swagger.yaml",
+    "fetched_at": "2026-05-30T08:23:55.283340+00:00",
+    "content_hash": "072fca0862c0b1f7dbbf943cd480bca815ff42d2b339a30ce20a55b2829dff8f",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "JOB-API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

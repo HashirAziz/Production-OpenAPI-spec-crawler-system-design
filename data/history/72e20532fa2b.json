@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "72e20532fa2b",
+    "source_url": "https://raw.githubusercontent.com/geostreams/geostreams/80988ae221c302bad073dc5641f9dd7c5e04c1b2/swagger.yaml",
+    "fetched_at": "2026-05-30T08:23:50.178039+00:00",
+    "content_hash": "f4098a653b7c4acf27e3a34866eb0b10dd0be763130bec016a40ddf5eff1beda",
+    "info_version": "3.0.0-beta.5",
+    "status": "new",
+    "title": "Geostreams API",
+    "openapi_version": "openapi_3",
+    "paths_count": 27,
+    "path_diff": null
+  }
+]

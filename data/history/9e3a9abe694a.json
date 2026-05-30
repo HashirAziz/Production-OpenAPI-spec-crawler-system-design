@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9e3a9abe694a",
+    "source_url": "https://raw.githubusercontent.com/klai365631/WebsiteBackend/741c5ed34275420528c0a00ea2d6028e30494e85/openapi.yaml",
+    "fetched_at": "2026-05-30T08:23:17.683750+00:00",
+    "content_hash": "b00e753e6a90680350e07c92596146416bdbc6d21f3f73a53a825a77f37c0520",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "API Documentation",
+    "openapi_version": "openapi_3",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "769a76c4e003",
+    "source_url": "https://raw.githubusercontent.com/shooterbot/Avito-Challenge/735dacbf54159110e8de3ff8439d3b436e9407b3/swagger.yaml",
+    "fetched_at": "2026-05-30T08:23:54.931329+00:00",
+    "content_hash": "0e864ede26bcf15aa4dc71c72b5ca7e2cf74e5e111f9b6c218d0ead78f15c496",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Avito challenge - OpenAPI 3.0",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "47aaba5f3b25",
+    "source_url": "https://raw.githubusercontent.com/Kryst-Investments-LLC/finnexusai/2dea4f83bea7029aab6afa55fdd5d0bfcb583132/swagger.yaml",
+    "fetched_at": "2026-05-30T08:23:52.919690+00:00",
+    "content_hash": "e9d1cac3be44b1103ac03fb8b6e9bcd79e8b879c7e75dd0fcba573b2d6ba59cd",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "FinAI Nexus API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

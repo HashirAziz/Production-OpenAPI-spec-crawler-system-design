@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e0dfe573e604",
+    "source_url": "https://raw.githubusercontent.com/kamauwashington/trie-structure/aaab37eeae774d1af033fb8afeeedb6e9262e1e0/swagger.yaml",
+    "fetched_at": "2026-05-30T08:23:52.078374+00:00",
+    "content_hash": "0fd2f5d3c493de6fc5d14b195d4f14b3e961c949eb647104ac051fdd22386e7e",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "NodeJS Trie Structure Implementation",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

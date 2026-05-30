@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "27055bc5daac",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/4b5abcf48af62a5d4d3b16c8c5c0706523bde38d/apis/openapi/googleapis.com/dns/v1/openapi.json",
+    "fetched_at": "2026-05-30T08:23:40.190983+00:00",
+    "content_hash": "c6308f0a1e579c9aea15dd156cf6fd867000e90c259264f14b6d88e286661776",
+    "info_version": "v1",
+    "status": "new",
+    "title": "Cloud DNS API",
+    "openapi_version": "openapi_3",
+    "paths_count": 20,
+    "path_diff": null
+  }
+]

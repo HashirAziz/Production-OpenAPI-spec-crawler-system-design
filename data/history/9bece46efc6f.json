@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9bece46efc6f",
+    "source_url": "https://raw.githubusercontent.com/emrecolak-23/nestjs-ecommerce-be-example/392c3b5beb26f824d489d54d350d9f97c10c87d6/openApi.json",
+    "fetched_at": "2026-05-30T08:23:35.782118+00:00",
+    "content_hash": "ce438e3549f8f8c326c643dced9d7243e9ce7d38ffb05194eecd9d269e1f9708",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Ecommerce API",
+    "openapi_version": "openapi_3",
+    "paths_count": 48,
+    "path_diff": null
+  }
+]

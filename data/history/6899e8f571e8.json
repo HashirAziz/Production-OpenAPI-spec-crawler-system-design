@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6899e8f571e8",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/4b5abcf48af62a5d4d3b16c8c5c0706523bde38d/apis/openapi/nativeads.com/main/1.0.0/meta/source/swagger.json",
+    "fetched_at": "2026-05-30T08:24:22.904465+00:00",
+    "content_hash": "625a2eb25b022a48fde22d8d856c642a92d3d3cc6b4bbbec54bbf75f40a77802",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Native Ads Publisher API",
+    "openapi_version": "swagger_2",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

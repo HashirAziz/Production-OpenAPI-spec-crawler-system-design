@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1489ccf92590",
+    "source_url": "https://raw.githubusercontent.com/Construsoft-Group/cscampus-enroll/29bbb8482b838ee69d568a56a6a7b6a6586b7e40/swagger.yaml",
+    "fetched_at": "2026-05-30T08:24:01.043455+00:00",
+    "content_hash": "d0a51b7e9663e9191989cba4c6be1967ddff97c58dd9fda646b02e906c538404",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Moodle Enrollment Management API",
+    "openapi_version": "openapi_3",
+    "paths_count": 20,
+    "path_diff": null
+  }
+]

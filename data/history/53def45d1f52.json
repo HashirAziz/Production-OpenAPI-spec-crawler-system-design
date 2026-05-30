@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "53def45d1f52",
+    "source_url": "https://raw.githubusercontent.com/woleet/woleet.id-server/511094076675a75a65ed3a1df3af5efb88d4cab1/swagger.yaml",
+    "fetched_at": "2026-05-30T08:23:59.413760+00:00",
+    "content_hash": "432a791cf1eeaf061dd5cce1100c3bdb73badcc7edeb37986b891bcc0caac47d",
+    "info_version": "1.2.8",
+    "status": "new",
+    "title": "Woleet.ID Server",
+    "openapi_version": "openapi_3",
+    "paths_count": 27,
+    "path_diff": null
+  }
+]

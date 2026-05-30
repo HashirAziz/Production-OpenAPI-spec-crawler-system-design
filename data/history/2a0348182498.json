@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2a0348182498",
+    "source_url": "https://raw.githubusercontent.com/varfish-org/viguno/716f4f008941e1688010cebd4ac00a5cd425eab6/openapi.yaml",
+    "fetched_at": "2026-05-30T08:23:13.473515+00:00",
+    "content_hash": "7928b9ccb1b7ec1939ab80a74315a8475ce418a51db0b79c5bf2258d6d55d8d8",
+    "info_version": "0.3.2",
+    "status": "new",
+    "title": "viguno",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

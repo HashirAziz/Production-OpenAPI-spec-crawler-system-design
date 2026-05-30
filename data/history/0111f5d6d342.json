@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0111f5d6d342",
+    "source_url": "https://raw.githubusercontent.com/laiquesantana/laravel-example-ai/58addcf68c05782add48ac4b05f6670fd6aa6d72/swagger.yaml",
+    "fetched_at": "2026-05-30T08:24:01.193103+00:00",
+    "content_hash": "93d096ca69d20e654519d301c397f1c2b02fcbee4d8b8f12a8c14167597ecc75",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Chat API",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

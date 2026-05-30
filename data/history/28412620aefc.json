@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "28412620aefc",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/4b5abcf48af62a5d4d3b16c8c5c0706523bde38d/apis/openapi/tyk.com/main/1.9/openapi.json",
+    "fetched_at": "2026-05-30T08:23:36.000070+00:00",
+    "content_hash": "0afda6fcf4587bb30ac5bd72d83506b0407d554a789fbc2f9c6f9ede48120342",
+    "info_version": "1.9",
+    "status": "new",
+    "title": "Gateway REST API",
+    "openapi_version": "openapi_3",
+    "paths_count": 13,
+    "path_diff": null
+  }
+]

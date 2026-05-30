@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "bb0bac994bd7",
+    "source_url": "https://raw.githubusercontent.com/scottwinkler/go-minecraft/28d3d76918c978520aa65420ab2453368a9ffb13/openapi.yaml",
+    "fetched_at": "2026-05-30T08:23:17.507094+00:00",
+    "content_hash": "36b79d7ecac5ec75accc684f9e59eb4d55027650492f9124862400fd21bdec97",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Swagger Minecraft",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

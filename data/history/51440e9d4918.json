@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "51440e9d4918",
+    "source_url": "https://raw.githubusercontent.com/andreadinca98/HUBusivi/6cf1a339080bef3dc79f96778b4773d09cc2c9f7/swagger.yaml",
+    "fetched_at": "2026-05-30T08:23:50.354381+00:00",
+    "content_hash": "5cf96af980244da3509e0c39c4a524d1f1f56d4ab4dabfb543854a56c2270d03",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "HUBusivi",
+    "openapi_version": "swagger_2",
+    "paths_count": 16,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1b29e34e4384",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/4b5abcf48af62a5d4d3b16c8c5c0706523bde38d/apis/openapi/parliament.uk/now/v1/openapi.json",
+    "fetched_at": "2026-05-30T08:23:38.543128+00:00",
+    "content_hash": "2c4712d6baec1afd97631aae521aa74f202fcfce20628032a4688ca22d645f3a",
+    "info_version": "v1",
+    "status": "new",
+    "title": "Annunciator content API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

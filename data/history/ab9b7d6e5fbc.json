@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ab9b7d6e5fbc",
+    "source_url": "https://raw.githubusercontent.com/Tiwathia/india-rescue-scraper/0cffb3fe851234d19584d709ad189517570bf47a/static/openapi.yaml.txt",
+    "fetched_at": "2026-05-30T08:23:08.546728+00:00",
+    "content_hash": "fc5ab24ec8d9a8ac5afb27f3e508807084c8914b5d30bf5e1775140cd2920c0b",
+    "info_version": "1.1.0",
+    "status": "new",
+    "title": "India Rescue Scraper API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1f89f35d7b50",
+    "source_url": "https://raw.githubusercontent.com/Kong/KongAir/f1a952e2284227e7470d6bda803026c55ab047ec/flight-data/flights/openapi.yaml",
+    "fetched_at": "2026-05-30T08:23:18.073223+00:00",
+    "content_hash": "7c637036080543f5a03a48b42d13f4b313b0058a56dbeed926154f8f4c17f591",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "Flights Service",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

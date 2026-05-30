@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a3ae91c605b5",
+    "source_url": "https://raw.githubusercontent.com/FAenX/DevC_capstone_project_backend/4589fe9a8aed808ecbf66c79b1018ec4aa8b0099/swagger.yaml",
+    "fetched_at": "2026-05-30T08:24:00.474682+00:00",
+    "content_hash": "b64fecc7c485500a766deb53e65c8e81a55167377bb4fbfffbf8188e217c793c",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "unknown",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

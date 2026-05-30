@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f1d18453e2d9",
+    "source_url": "https://raw.githubusercontent.com/rajeevramani/product-api/c028f05f80d75c732c5f20f6ddb548e2b4b7903d/swagger.yaml",
+    "fetched_at": "2026-05-30T08:23:50.630588+00:00",
+    "content_hash": "f32df0a036d87a77ff0cea8bc17411effa8a52bcfe32776f24381406f467fdb8",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "of Product API",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "470f26b10b51",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/4b5abcf48af62a5d4d3b16c8c5c0706523bde38d/apis/openapi/import.io/rss/1.0/openapi.json",
+    "fetched_at": "2026-05-30T08:23:36.410703+00:00",
+    "content_hash": "43a0a2da90942d793944d0da0a5fc8abf92cfe29d70f9191aa7c3e464319aa37",
+    "info_version": "1.0",
+    "status": "new",
+    "title": null,
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

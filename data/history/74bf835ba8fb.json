@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "74bf835ba8fb",
+    "source_url": "https://raw.githubusercontent.com/jalgraves/socks5-reverse-proxy/acbaf7d26b68ad48fff6303626407f73d810db64/swagger.yaml",
+    "fetched_at": "2026-05-30T08:23:57.465489+00:00",
+    "content_hash": "61ecf1496cd9c1fec97af9156c22615ee9c367e1ec3260e9500b7c3d884e1023",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "socks5-reverse-proxy",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

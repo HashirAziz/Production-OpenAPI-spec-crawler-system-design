@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a146110d6421",
+    "source_url": "https://raw.githubusercontent.com/senurabhawantha/NTC-bus-tracking-api/8ea7ed059a8299097e11ea2bae1b5eedfe669a24/openapi.yaml",
+    "fetched_at": "2026-05-30T08:23:17.089823+00:00",
+    "content_hash": "d04aa36a8a58fcf849a948ff899a3c324eefa645ac374e8d4374e4d681da69e3",
+    "info_version": "2.0.0",
+    "status": "new",
+    "title": "NTC Real-Time Bus Tracking API",
+    "openapi_version": "openapi_3",
+    "paths_count": 20,
+    "path_diff": null
+  }
+]

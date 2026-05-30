@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3f12e605e1aa",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/4b5abcf48af62a5d4d3b16c8c5c0706523bde38d/apis/openapi/vocadb.net/main/1.0/openapi.json",
+    "fetched_at": "2026-05-30T08:23:38.072120+00:00",
+    "content_hash": "824a2fd78fa6cfaba5c4397608b93a063af88dd717a2757785fbc132ff723cc0",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "VocaDbWeb",
+    "openapi_version": "openapi_3",
+    "paths_count": 100,
+    "path_diff": null
+  }
+]

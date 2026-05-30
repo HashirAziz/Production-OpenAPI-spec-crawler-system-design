@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "59861ff92e6e",
+    "source_url": "https://raw.githubusercontent.com/astrokachi/blog/c4e284bf56be3519389b5529d733091faec3f07d/swagger.yaml",
+    "fetched_at": "2026-05-30T08:24:01.879524+00:00",
+    "content_hash": "dee6f40f349306c57b54107b8bbe53b9756ec7d779ab6d7cf03a792fe0ce4680",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "BLOG_API",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

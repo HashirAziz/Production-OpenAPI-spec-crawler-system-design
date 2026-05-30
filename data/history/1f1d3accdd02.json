@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1f1d3accdd02",
+    "source_url": "https://raw.githubusercontent.com/dolefir/weathereader/56e5d620025ced507591f098d5ae5943815803c3/swagger.yaml",
+    "fetched_at": "2026-05-30T08:23:58.974128+00:00",
+    "content_hash": "f6ccd703ff67a966f52e8b28507cc42ea62d0e0d1340ff8fb44fbd7962ca0f99",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "API",
+    "openapi_version": "swagger_2",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

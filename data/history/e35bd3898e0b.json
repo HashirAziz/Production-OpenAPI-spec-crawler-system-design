@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e35bd3898e0b",
+    "source_url": "https://raw.githubusercontent.com/matdelan/hrnet/6a1fbb7162149f9afe9e9ccf559e08adab1cee21/swagger.yaml",
+    "fetched_at": "2026-05-30T08:23:47.727226+00:00",
+    "content_hash": "7a639c69cddd8c9d9d2176b6299c1644a269a32c3035c96343c28aa54f158d38",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Hrnet employee API",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

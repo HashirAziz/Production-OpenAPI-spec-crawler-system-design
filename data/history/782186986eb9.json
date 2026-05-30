@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "782186986eb9",
+    "source_url": "https://raw.githubusercontent.com/zhuzhiou/javava/81b072bc105882048be2a52d86f6da982d80b291/swagger.yaml",
+    "fetched_at": "2026-05-30T08:23:52.253619+00:00",
+    "content_hash": "6f7e28e6c97a28fb58cec72b60ab2d30fb6b5d460805bef6b39d553b8bb7d1c7",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "加一联荫接口文档",
+    "openapi_version": "swagger_2",
+    "paths_count": 15,
+    "path_diff": null
+  }
+]

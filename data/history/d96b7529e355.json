@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d96b7529e355",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/4b5abcf48af62a5d4d3b16c8c5c0706523bde38d/apis/openapi/benetics.io/main/0.1.0/openapi.json",
+    "fetched_at": "2026-05-30T08:23:40.778415+00:00",
+    "content_hash": "844bc6a5ad6e44a3fb763a2c06449121b77148e1a9ee6fd04e787182b2e77e3d",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "Benetics API",
+    "openapi_version": "openapi_3",
+    "paths_count": 24,
+    "path_diff": null
+  }
+]

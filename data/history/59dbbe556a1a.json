@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "59dbbe556a1a",
+    "source_url": "https://raw.githubusercontent.com/wenceslasjb/dossier-tracker-api/0772335dc9db411e982796d46f98db94b395892b/swagger.yaml",
+    "fetched_at": "2026-05-30T08:23:55.766239+00:00",
+    "content_hash": "6ea88ac31a928bad8a0b4ef9c0b43f46c24e0eae02394c28fa778ceba621733f",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Dossier Tracking API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

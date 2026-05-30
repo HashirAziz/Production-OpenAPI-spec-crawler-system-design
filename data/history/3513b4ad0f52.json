@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3513b4ad0f52",
+    "source_url": "https://raw.githubusercontent.com/Arif-Devs/apartment-management/56414ce9b3b53687e24dc7f6428d1eb138dada9b/swagger.yaml",
+    "fetched_at": "2026-05-30T08:24:00.329889+00:00",
+    "content_hash": "a9a718c3a905890e066d88e5a39e499a9ce98d99e27d341304bde9e0123e1c89",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Apartment-management-system",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

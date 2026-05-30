@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5f68ae2ded61",
+    "source_url": "https://raw.githubusercontent.com/Mystekerinos/p13/5ed81e0b5e790830ba8811a83cc7c44548931770/swagger.yaml",
+    "fetched_at": "2026-05-30T08:23:55.434203+00:00",
+    "content_hash": "8496227999f12084c15044ce1aff3ef4de4c444212f0705245290cf6dd81e009",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API de Transactions Client",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

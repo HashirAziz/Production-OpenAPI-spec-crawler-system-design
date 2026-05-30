@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0b0b4f092a25",
+    "source_url": "https://raw.githubusercontent.com/Asset03/magistr-backend/9296bb381a4a8418de46a187087b9d558a67022f/swagger.yaml",
+    "fetched_at": "2026-05-30T08:23:53.986021+00:00",
+    "content_hash": "eb2d96eb11d26b5a15f1e09b9d3827258029406cee303bc9b5baea6d4a4ad5ed",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Scientific Publications API",
+    "openapi_version": "openapi_3",
+    "paths_count": 67,
+    "path_diff": null
+  }
+]

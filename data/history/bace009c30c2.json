@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "bace009c30c2",
+    "source_url": "https://raw.githubusercontent.com/spacecomputer-io/orbitport/7784684fb8a7d5665f5cd0de65af4bbd8d2c27d9/swagger.yaml",
+    "fetched_at": "2026-05-30T08:23:51.151273+00:00",
+    "content_hash": "03e2490384046fb8d11d90c20ce42f19a8dfd97376d134643c8a71fe6d3c0db6",
+    "info_version": "0.2.0",
+    "status": "new",
+    "title": "OrbitPort API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

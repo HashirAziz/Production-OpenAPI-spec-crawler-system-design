@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3656aa746bc9",
+    "source_url": "https://raw.githubusercontent.com/himanshu077/prisma-crud-node/0bb2721f7ce3d3f1b0a6b395eb522102fb4b6a99/swagger.yaml",
+    "fetched_at": "2026-05-30T08:23:55.611896+00:00",
+    "content_hash": "ef385553c30a9c6e533f666e3f85348b52fed8aba46bbf0ffcfa183d61c5ca26",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Product Management API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

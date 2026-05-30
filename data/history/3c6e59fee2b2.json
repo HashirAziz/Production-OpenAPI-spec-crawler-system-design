@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3c6e59fee2b2",
+    "source_url": "https://raw.githubusercontent.com/Shibu-Patil/robo/e3588ee1b955ee49ea55a8e806ede432b10678f1/swagger.yaml",
+    "fetched_at": "2026-05-30T08:23:49.215172+00:00",
+    "content_hash": "f9158bf1c8058bafa5ad08ee368fb6c5972a2364d91086e79b240801b91a593f",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Logistics API",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

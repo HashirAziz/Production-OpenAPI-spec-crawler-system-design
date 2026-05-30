@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "11fd08a527c4",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/4b5abcf48af62a5d4d3b16c8c5c0706523bde38d/apis/openapi/pims.io/main/1.0/meta/source/swagger.json",
+    "fetched_at": "2026-05-30T08:24:08.949911+00:00",
+    "content_hash": "1a62bcccff20a8dedbe5c30b634b52b353b59f735b728a515bb32e198b75ca08",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Pims",
+    "openapi_version": "swagger_2",
+    "paths_count": 28,
+    "path_diff": null
+  }
+]

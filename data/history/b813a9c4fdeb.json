@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b813a9c4fdeb",
+    "source_url": "https://raw.githubusercontent.com/lovegold120221-dot/llm.eburon.ai/53b86fd6e152f51400d1780feab30f4bfa52c77e/swagger.yaml",
+    "fetched_at": "2026-05-30T08:23:53.257776+00:00",
+    "content_hash": "ddf5f83e6185b1761ab17edaf77b6c3f5bafe1165c2f9267850aaa0f2e784878",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Ollama API",
+    "openapi_version": "openapi_3",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

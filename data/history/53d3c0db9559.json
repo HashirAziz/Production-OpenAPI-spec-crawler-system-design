@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "53d3c0db9559",
+    "source_url": "https://raw.githubusercontent.com/jkuemerle/heist-engine/1e75c9485b5129d5708a073ec0cc516e0efa1dcb/swagger.yaml",
+    "fetched_at": "2026-05-30T08:23:58.280874+00:00",
+    "content_hash": "ae7d7a527f2eeacbbd5adc309e2c9c03ad2bf1efce7c4e6e1cafa2c4ff662d8d",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Heist Engine",
+    "openapi_version": "swagger_2",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

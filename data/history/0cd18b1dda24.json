@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0cd18b1dda24",
+    "source_url": "https://raw.githubusercontent.com/christiangeissler/driftapi/88337e4ef70efe133dff121b5c2c388a606c14bd/openapi.json",
+    "fetched_at": "2026-05-30T08:23:36.877280+00:00",
+    "content_hash": "7d3d490376a7566cba95bacfb2acaec2825b1a25f764ea7a7ba52b23b28bcc2b",
+    "info_version": "1.4.13",
+    "status": "new",
+    "title": "driftapi reference implementation",
+    "openapi_version": "openapi_3",
+    "paths_count": 14,
+    "path_diff": null
+  }
+]

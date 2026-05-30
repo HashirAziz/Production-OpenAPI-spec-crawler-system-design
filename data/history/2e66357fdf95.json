@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2e66357fdf95",
+    "source_url": "https://raw.githubusercontent.com/averrows/apis/bb807fb87f21546539d02e545a90603b1c34545e/swagger.yaml",
+    "fetched_at": "2026-05-30T08:23:50.491284+00:00",
+    "content_hash": "7601f21a8253c6ec5c96d7d147b8f84a28f33a27170475bd1eba1ea4bf94ad4f",
+    "info_version": "0.1",
+    "status": "new",
+    "title": "Product Api:",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

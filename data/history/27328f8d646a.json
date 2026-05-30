@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "27328f8d646a",
+    "source_url": "https://raw.githubusercontent.com/ishaangulati8/gpu-serverless-inference/09f2e86ccb2651cd8665d20929c9964c5ff4887e/swagger.yaml",
+    "fetched_at": "2026-05-30T08:23:57.326678+00:00",
+    "content_hash": "1f4f37321fbaa3757e4bf1d4785ddc2adb2896ae852aac6dbdb6e7cd32142f14",
+    "info_version": null,
+    "status": "new",
+    "title": "gpu-serverless-inference",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2da8860fb435",
+    "source_url": "https://raw.githubusercontent.com/srijoy-paul/buyMeOnline-backend/21537f2a2c0a5cb644c5ce25a5b04857e295acd6/swagger.yaml",
+    "fetched_at": "2026-05-30T08:24:01.342892+00:00",
+    "content_hash": "d85803a15dc33273749cbd8d618bc51bbc1919dd4b197957968126107d9d0e5f",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "buyMeOnline - photo/video store api",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

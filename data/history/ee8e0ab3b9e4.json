@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ee8e0ab3b9e4",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/4b5abcf48af62a5d4d3b16c8c5c0706523bde38d/apis/openapi/talon.one/main/1.0.0/openapi.json",
+    "fetched_at": "2026-05-30T08:23:38.691868+00:00",
+    "content_hash": "41ac221f05459a81a6d0c041b3aa812de5d8dc622edf63767acde9f34b904c40",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Talon.One Integration API",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

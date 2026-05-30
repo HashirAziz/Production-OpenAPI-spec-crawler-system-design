@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "bd42dc5dfe1a",
+    "source_url": "https://raw.githubusercontent.com/gedsss/MATIA-API/f783846e10b219d362a91e0a8d17e8b07e3fd457/swagger.yaml",
+    "fetched_at": "2026-05-30T08:24:01.478125+00:00",
+    "content_hash": "5e49f692e188ca0a16cd57a122ce228f91c2b2ff83d246e3c10e229ab18074d5",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API do Tribunal Eclesiástico",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

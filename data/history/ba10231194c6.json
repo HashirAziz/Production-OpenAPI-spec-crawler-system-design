@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ba10231194c6",
+    "source_url": "https://raw.githubusercontent.com/lalala-0/PPO_BMSTU/baeb62d151e655add121f9b410f9edbf976105c3/swagger.yaml",
+    "fetched_at": "2026-05-30T08:23:52.780367+00:00",
+    "content_hash": "3dd3c641d2608d3c59b807d4a4887f274aa0f87aa660968e85df19ccbe609165",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Rating API",
+    "openapi_version": "openapi_3",
+    "paths_count": 19,
+    "path_diff": null
+  }
+]

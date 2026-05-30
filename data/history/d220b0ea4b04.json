@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d220b0ea4b04",
+    "source_url": "https://raw.githubusercontent.com/jessjenkins/axon-service/f387e96835886bbddfd86d3978f9befb7384ceb4/swagger.yaml",
+    "fetched_at": "2026-05-30T08:23:46.950316+00:00",
+    "content_hash": "99f4afabdcdfa60c261ef7226f5efa6ba3834047cea1df882158cd061b8eaf3b",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "axon service",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

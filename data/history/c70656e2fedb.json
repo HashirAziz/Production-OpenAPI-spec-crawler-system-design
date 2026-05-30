@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c70656e2fedb",
+    "source_url": "https://raw.githubusercontent.com/eunicetsai/auth_api/25d6666f2cf004277e338d910dd05e72d0a3f045/swagger.yaml",
+    "fetched_at": "2026-05-30T08:23:53.500101+00:00",
+    "content_hash": "3f9cd884ea27845fe04d2e5de1e1e6923aabbed79c39c33213207fbf85b8ce72",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "User API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b3065e7e6b21",
+    "source_url": "https://raw.githubusercontent.com/dimaserbenyuk/API-Gateway/a3fb989249082aa49954e7e7333d34e93f892f3d/openapi.yaml",
+    "fetched_at": "2026-05-30T08:23:13.899925+00:00",
+    "content_hash": "e6218230ce58ac84a0ba188b034a0a75745e5e599d94374031cd1e5a2e5533d2",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Go TODO API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

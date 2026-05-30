@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "afd92d7020dd",
+    "source_url": "https://raw.githubusercontent.com/RazzM13/aws-redirector-microservice/215b00b539a019612d321d29665bbd9f7f240776/swagger.yaml",
+    "fetched_at": "2026-05-30T08:23:58.124106+00:00",
+    "content_hash": "a44593f46d94421d49a52d864de4116a603a7c06f4aed23a69ed8b36cbc52fe3",
+    "info_version": "0.1.1",
+    "status": "new",
+    "title": "URL Redirector microservice",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

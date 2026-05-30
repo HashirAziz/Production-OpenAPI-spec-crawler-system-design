@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "18bba6d0857f",
+    "source_url": "https://raw.githubusercontent.com/hubbyesim/apidocs/2b1ea44c4bf83911ac02ea0504b05ecf404d1578/swagger.yaml",
+    "fetched_at": "2026-05-30T08:24:01.717546+00:00",
+    "content_hash": "18499c456fe95dcfc631b2101e49b353404db298ab44190f264e76222b110f94",
+    "info_version": "1.1.0",
+    "status": "new",
+    "title": "Hubby API",
+    "openapi_version": "openapi_3",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

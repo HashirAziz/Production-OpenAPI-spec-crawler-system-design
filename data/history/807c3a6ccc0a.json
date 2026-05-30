@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "807c3a6ccc0a",
+    "source_url": "https://raw.githubusercontent.com/Ginger-Automation/Ginger/218bdaa007df787d15dbb7c2531868a2cf82ace5/Ginger/GingerAutoPilotTest/TestResources/Swagger/petstore_swagger.json",
+    "fetched_at": "2026-05-30T08:24:13.335874+00:00",
+    "content_hash": "f9d258318a542f24710707cf0044416347e252f607302cd37cb5693ed65b9a0f",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Swagger Petstore",
+    "openapi_version": "swagger_2",
+    "paths_count": 14,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "da143987c222",
+    "source_url": "https://raw.githubusercontent.com/pelegadmi/cyber-bullying-server/90a8fbf6240250cbc4f19f74b119008fdeea47ec/swagger.yaml",
+    "fetched_at": "2026-05-30T08:23:46.807646+00:00",
+    "content_hash": "935e4be9c66285587efaee5c21e9b9850e94ede8f23dff37ab16e7209a15124c",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "unknown",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "abb0fd2eb411",
+    "source_url": "https://raw.githubusercontent.com/City-of-Mikkeli/restful-ptv-spec/9e3bfdaa1427608a920dbebf70607430dc06468a/swagger.yaml",
+    "fetched_at": "2026-05-30T08:23:59.983140+00:00",
+    "content_hash": "fc7d05907b5ead2a130eb8b98fb191813e994cce4b79fc5e887464062dd910e3",
+    "info_version": "v1",
+    "status": "new",
+    "title": "RESTful PTV",
+    "openapi_version": "swagger_2",
+    "paths_count": 18,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1d331e12c14c",
+    "source_url": "https://raw.githubusercontent.com/DevilsTear/moralis-go-client/5fbf6d71f1246795377d6a472b2b0ba863f39a29/swagger.yaml",
+    "fetched_at": "2026-05-30T08:23:54.651730+00:00",
+    "content_hash": "78620bb96db767063cda219a1372cf39f7dcd225e92b34e8611e08bd3c45bda6",
+    "info_version": "2",
+    "status": "new",
+    "title": "Moralis API",
+    "openapi_version": "openapi_3",
+    "paths_count": 39,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0ddb14eeadd7",
+    "source_url": "https://raw.githubusercontent.com/sarveshpro/ghl/18c92a59fa70593251db590ba11d6d34a35a6715/swagger.yaml",
+    "fetched_at": "2026-05-30T08:23:54.792109+00:00",
+    "content_hash": "30f13988ca277cabfcbee65afdcb72d442540830436c1f80bfe4fe602ed7492c",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "unknown",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

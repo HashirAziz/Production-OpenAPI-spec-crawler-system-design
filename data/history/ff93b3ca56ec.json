@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ff93b3ca56ec",
+    "source_url": "https://raw.githubusercontent.com/mrmechazilla/POSTALSERVICE-FRONTEND/48151a577c46145306dba782b1f5d1f37bb18ad1/openapi.yaml",
+    "fetched_at": "2026-05-30T08:23:16.741197+00:00",
+    "content_hash": "2bc3e882dddaf58bdcfb0204ee69e2e66fe996abc361a51850c825cc74acd50d",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "Swagger VIBE - OpenAPI 3.1",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]
