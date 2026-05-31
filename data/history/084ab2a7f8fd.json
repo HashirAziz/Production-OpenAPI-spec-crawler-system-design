@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "084ab2a7f8fd",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/504582d31dc52ff470619088f586fc9a6246e848/apis/openapi/axesso.de/main/1.0.0/openapi.json",
+    "fetched_at": "2026-05-31T08:39:50.981420+00:00",
+    "content_hash": "1daddd6a8b4dc185c31cda711e167464286ca059c4cf1ea4ec4b50bae4f9c741",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Axesso Api",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

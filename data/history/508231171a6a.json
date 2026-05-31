@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "508231171a6a",
+    "source_url": "https://raw.githubusercontent.com/codenation-dev/squad-4-ad-nodejs-kroton-1/ab7684814785b13db9e54a16c6774323f1956e6d/swagger.json",
+    "fetched_at": "2026-05-31T08:40:28.117495+00:00",
+    "content_hash": "aa2250f3bdbe39c5670efea5775ae6b2f03b5fd358729eee141ec3a50c7df501",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Squad 4 - Codenation NodeJS",
+    "openapi_version": "swagger_2",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

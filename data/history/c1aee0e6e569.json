@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c1aee0e6e569",
+    "source_url": "https://raw.githubusercontent.com/valerykalashnikov/go-swagger-examples/a36b85bedc8af4e857d7560c9383d065a6292ebd/swagger.json",
+    "fetched_at": "2026-05-31T08:40:22.563104+00:00",
+    "content_hash": "57219ef622f34cb200de6ede30b74313c1330b89bf63ddb28786a4c1d447c00f",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "go-swagger examples.",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

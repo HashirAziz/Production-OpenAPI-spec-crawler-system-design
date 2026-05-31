@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c46f94cfec32",
+    "source_url": "https://raw.githubusercontent.com/Portkey-AI/models/c6619d50901e75e894bd7e0aac72bb744faa5533/openapi.yaml",
+    "fetched_at": "2026-05-31T08:39:20.585635+00:00",
+    "content_hash": "ed9fbdada6018b0c1a1bd2757a525b1db29c5e4edf86447eab3c53fd20242ec6",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Portkey Models API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

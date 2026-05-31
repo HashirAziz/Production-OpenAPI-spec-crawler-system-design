@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9b97e255584d",
+    "source_url": "https://raw.githubusercontent.com/anuradhabhosale93/node-basics/79c7f39f3d956de70bb650bc3b35eabb83c78e23/swagger.json",
+    "fetched_at": "2026-05-31T08:40:23.695931+00:00",
+    "content_hash": "2f30c5603a80401f247d82fa44f6489a745cdb8c28005b3ed30a4fd667761c05",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "SignUp/Login APIs",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

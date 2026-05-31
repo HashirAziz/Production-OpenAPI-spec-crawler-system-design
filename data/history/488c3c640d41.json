@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "488c3c640d41",
+    "source_url": "https://raw.githubusercontent.com/sieteunoseis/docker-cucm-sql/e176fc683ea69ff78faad556a2a7d4a60ed9fd16/swagger.json",
+    "fetched_at": "2026-05-31T08:40:25.095150+00:00",
+    "content_hash": "806c9d2609b6048a0b1ee373a689e7bbc4a18a9c7691b8126503d0f4772c1c41",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "unknown",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

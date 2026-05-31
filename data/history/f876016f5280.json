@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f876016f5280",
+    "source_url": "https://raw.githubusercontent.com/Nirhoshan/docs-assistant-bot/0004ad465e6acafc2052db47361bd2b91e0cc5cd/openapi.yaml",
+    "fetched_at": "2026-05-31T08:39:29.487047+00:00",
+    "content_hash": "49d6b01f34c9208066ed1f0ca5b49795ef8bfd77540b0bf9a074a95cd36ede95",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "Docs Assistant",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "eea50cf711a5",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/504582d31dc52ff470619088f586fc9a6246e848/apis/openapi/tradematic.com/main/1.0.2/meta/source/swagger.json",
+    "fetched_at": "2026-05-31T08:40:35.813388+00:00",
+    "content_hash": "1261e9146056ebb3966d75a56346b5d01da267d48d6c7d5c3ef9e30e8708740d",
+    "info_version": "1.0.2",
+    "status": "new",
+    "title": "Tradematic Cloud API",
+    "openapi_version": "swagger_2",
+    "paths_count": 58,
+    "path_diff": null
+  }
+]

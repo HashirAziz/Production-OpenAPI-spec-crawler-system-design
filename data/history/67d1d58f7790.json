@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "67d1d58f7790",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/504582d31dc52ff470619088f586fc9a6246e848/apis/openapi/obono.at/main/1.4.0.0/openapi.json",
+    "fetched_at": "2026-05-31T08:39:51.651316+00:00",
+    "content_hash": "b5a3516fd116fe4663ba2723e7c21e52893ffe9542bb85f173a5041867116795",
+    "info_version": "1.4.0.0",
+    "status": "new",
+    "title": "obono RKSV API",
+    "openapi_version": "openapi_3",
+    "paths_count": 17,
+    "path_diff": null
+  }
+]

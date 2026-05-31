@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "7877dac421d8",
+    "source_url": "https://raw.githubusercontent.com/Abivet-Development/bloodwork-backend/9fb8e698fc55ac982f837eb0e014b450107fd3cc/openapi.yaml",
+    "fetched_at": "2026-05-31T08:39:27.874813+00:00",
+    "content_hash": "edd537448d3e7a9fa0eb4d0ba7fe5685f87adddaa6d3fe7e7c59c6e849072675",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Veterinary Bloodwork Analysis API",
+    "openapi_version": "openapi_3",
+    "paths_count": 18,
+    "path_diff": null
+  }
+]

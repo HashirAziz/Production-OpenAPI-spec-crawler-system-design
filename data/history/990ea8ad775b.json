@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "990ea8ad775b",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/504582d31dc52ff470619088f586fc9a6246e848/apis/openapi/4cdn.org/main/1.0.0/openapi.json",
+    "fetched_at": "2026-05-31T08:39:49.886014+00:00",
+    "content_hash": "ef865fc103ebcd9ac57b1abb3a397dbb7df54e463e7e1807794aaf5ea1f817f1",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "4chan API",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

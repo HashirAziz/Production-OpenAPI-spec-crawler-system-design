@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "673b6f821795",
+    "source_url": "https://raw.githubusercontent.com/fhk/globeloc/db0cd0e9815cca938fd10e57a7c92641fe50487a/swagger.json",
+    "fetched_at": "2026-05-31T08:40:28.785308+00:00",
+    "content_hash": "fd2bec9aef3820bd28e67ae4311bac08ad40ce428ccb57d1f948693928c507c1",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "Globeloc API",
+    "openapi_version": "swagger_2",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

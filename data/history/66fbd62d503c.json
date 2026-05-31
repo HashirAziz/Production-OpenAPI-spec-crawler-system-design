@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "66fbd62d503c",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/504582d31dc52ff470619088f586fc9a6246e848/apis/openapi/spinbot.net/main/1.0/openapi.json",
+    "fetched_at": "2026-05-31T08:39:50.683009+00:00",
+    "content_hash": "4de78bd980891992fb4c375b6e477bec68df2395610aac8884b31e24ecea8e15",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Article Rewriter and Article Extractor API",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

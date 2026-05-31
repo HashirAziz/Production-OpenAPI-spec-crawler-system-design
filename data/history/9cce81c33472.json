@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9cce81c33472",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/504582d31dc52ff470619088f586fc9a6246e848/apis/openapi/1nceapi/main/v1/meta/source/swagger.json",
+    "fetched_at": "2026-05-31T08:40:36.987091+00:00",
+    "content_hash": "7b5a3df760c72ea649b60942344f38885734eb564ff851b677c3aeee5036b8f2",
+    "info_version": "v1",
+    "status": "new",
+    "title": "1NCE API",
+    "openapi_version": "swagger_2",
+    "paths_count": 19,
+    "path_diff": null
+  }
+]

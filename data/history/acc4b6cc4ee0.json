@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "acc4b6cc4ee0",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/504582d31dc52ff470619088f586fc9a6246e848/apis/openapi/mercedes-benz.com/mercedes-benz-dealer-api/1.0/meta/source/swagger.json",
+    "fetched_at": "2026-05-31T08:40:22.408840+00:00",
+    "content_hash": "3e6126c670278c84612c331f2d804e3a7fd69a9f70955009d4a85d909dc365f9",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Dealer",
+    "openapi_version": "swagger_2",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

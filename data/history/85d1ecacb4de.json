@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "85d1ecacb4de",
+    "source_url": "https://raw.githubusercontent.com/gridgentoo/kiali/c6b945e7a4ecb07f5f0505e1a056b51cb1bc8db0/swagger.json",
+    "fetched_at": "2026-05-31T08:40:30.860523+00:00",
+    "content_hash": "8c06a4787ece43837932d699ee93ecf099a5d449647a287226fb8d46f0361f5f",
+    "info_version": "_",
+    "status": "new",
+    "title": "Kiali",
+    "openapi_version": "swagger_2",
+    "paths_count": 66,
+    "path_diff": null
+  }
+]

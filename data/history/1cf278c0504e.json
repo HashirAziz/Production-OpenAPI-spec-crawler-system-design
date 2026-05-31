@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1cf278c0504e",
+    "source_url": "https://raw.githubusercontent.com/almcaffee/geo-server/2075987af491157ee0a165863371ba83730b22de/swagger.json",
+    "fetched_at": "2026-05-31T08:40:26.478029+00:00",
+    "content_hash": "a36c9d29f329cc5b5ca2d0cc32915a5140c6f4fc9f74e4b98c0035e27f0b0816",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Blue Sky API",
+    "openapi_version": "swagger_2",
+    "paths_count": 15,
+    "path_diff": null
+  }
+]

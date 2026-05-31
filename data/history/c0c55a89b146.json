@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c0c55a89b146",
+    "source_url": "https://raw.githubusercontent.com/Cray-HPE/bos/889a207f887df4b103627fde623c5e576602ca96/api/openapi.yaml.in",
+    "fetched_at": "2026-05-31T08:39:20.983908+00:00",
+    "content_hash": "0bda63106650b57be29568eb1e8d316699d7bd1679e5bfe3a0016666517591dc",
+    "info_version": "0.0.0-api",
+    "status": "new",
+    "title": "Boot Orchestration Service",
+    "openapi_version": "openapi_3",
+    "paths_count": 15,
+    "path_diff": null
+  }
+]

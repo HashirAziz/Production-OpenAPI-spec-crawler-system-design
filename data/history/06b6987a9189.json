@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "06b6987a9189",
+    "source_url": "https://raw.githubusercontent.com/AndriiBeznosov/kapusta-project-back/5556eaf2b15e6be0f566a77121fdeaead2c444aa/swagger.json",
+    "fetched_at": "2026-05-31T08:40:28.492588+00:00",
+    "content_hash": "67d7f4c1f50b9ab3072c29f6e7f7b6bdb32f00408e0c22387fb1d1e688e7773b",
+    "info_version": "1.0.1",
+    "status": "new",
+    "title": "kapusta-project",
+    "openapi_version": "openapi_3",
+    "paths_count": 19,
+    "path_diff": null
+  }
+]

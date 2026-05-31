@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "035dff81b6cc",
+    "source_url": "https://raw.githubusercontent.com/adshao/ordinals-indexer/2404aaa95a9ddea064485c2d76beb68cc7182a8e/openapi.yaml",
+    "fetched_at": "2026-05-31T08:39:28.557655+00:00",
+    "content_hash": "1643723dd70db55edf228a51b126957fd5287dca22e9bb1e1c71fc7f7043a196",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": null,
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

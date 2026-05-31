@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c5713ef26139",
+    "source_url": "https://raw.githubusercontent.com/WH-5/user-service/42f0a9086f6ed548d81515c367c689a055396b61/openapi.yaml",
+    "fetched_at": "2026-05-31T08:39:29.931060+00:00",
+    "content_hash": "ea1f6d246d80eeb18811b722b2ded08a2169dba8043f2953ae7a0d877335bfeb",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "User API",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

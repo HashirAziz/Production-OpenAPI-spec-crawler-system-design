@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0b2d291c8f14",
+    "source_url": "https://raw.githubusercontent.com/pedrosarkis/pedroReading/b15f78594ecf0b52411b0891b833ee329a17d7fd/swagger.json",
+    "fetched_at": "2026-05-31T08:40:37.151087+00:00",
+    "content_hash": "6dbbb96db543d0bf974443c1185397d8b3c738641289cbefedd21adcfe6e234b",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Book club api",
+    "openapi_version": "swagger_2",
+    "paths_count": 19,
+    "path_diff": null
+  }
+]

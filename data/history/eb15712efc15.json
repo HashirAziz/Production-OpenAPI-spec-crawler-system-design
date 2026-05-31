@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "eb15712efc15",
+    "source_url": "https://raw.githubusercontent.com/LCY2013/grpc-cloud/0a5ad78080cabb5b32bc2027d2977684d7843d2d/proto/grafeas/v1/swagger/grafeas.swagger.json",
+    "fetched_at": "2026-05-31T08:40:21.505159+00:00",
+    "content_hash": "77771566b537ebddb9b3b03bb5507143525d2b05d6c17da00dc20009cf9fe170",
+    "info_version": "version not set",
+    "status": "new",
+    "title": "grafeas.proto",
+    "openapi_version": "swagger_2",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

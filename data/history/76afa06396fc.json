@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "76afa06396fc",
+    "source_url": "https://raw.githubusercontent.com/karolhas/idle-clans-hub/0e4a6e7c5a3fed71fbc4b636cb357da9ec9a6d5b/swagger.json",
+    "fetched_at": "2026-05-31T08:40:22.898167+00:00",
+    "content_hash": "1aabc2f080ab82f701cae58a30631208265806be96cea8beb01e2d3ad014ca7c",
+    "info_version": "v1",
+    "status": "new",
+    "title": "IdleClansLeaderboardsService",
+    "openapi_version": "openapi_3",
+    "paths_count": 26,
+    "path_diff": null
+  }
+]

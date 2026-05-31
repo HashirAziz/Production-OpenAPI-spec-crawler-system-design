@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a24d98027632",
+    "source_url": "https://raw.githubusercontent.com/sassoftware/sas-score-mcp-serverjs/90f85f4eb5221221ffefc0c72707df0e21682b8b/openApi.json",
+    "fetched_at": "2026-05-31T08:39:46.253128+00:00",
+    "content_hash": "a06d49a6b3d976bb600f281370039dc21e652f1f467a803888d6c018a3e45f1c",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "SAS Viya Sample MCP Server API",
+    "openapi_version": "swagger_2",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

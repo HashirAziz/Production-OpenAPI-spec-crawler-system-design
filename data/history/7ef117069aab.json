@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "7ef117069aab",
+    "source_url": "https://raw.githubusercontent.com/NisanthanNanthakumar/swagger-prototype/fb25dfd9277f98118b9cd2e365d6f5b16142466a/swagger.json",
+    "fetched_at": "2026-05-31T08:40:24.829217+00:00",
+    "content_hash": "a1af82e91a67520d1046da86ad2bae935c79af844464d931b689b64fc7551dec",
+    "info_version": "1.0.5",
+    "status": "new",
+    "title": "API Reference",
+    "openapi_version": "swagger_2",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

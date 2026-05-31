@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "68a6b5b87c83",
+    "source_url": "https://raw.githubusercontent.com/Shinichi-Nakagawa/sample-restful-openai/b0c595ea1632ee5bba14c2d067dfc44f808fe75b/openapi.yaml",
+    "fetched_at": "2026-05-31T08:39:27.689231+00:00",
+    "content_hash": "b470b855a9f2cd24adfe7705a38db4c343557c576a80fb68c8704d9c7b4c2ad5",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "FastAPI",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

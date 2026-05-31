@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "367ade607db8",
+    "source_url": "https://raw.githubusercontent.com/CarlosSoares123/Gerenciamento_Senhas_Corporativas/33d8990382518fd08f2ba38fbde961988bb47ef1/swagger.json",
+    "fetched_at": "2026-05-31T08:40:23.069527+00:00",
+    "content_hash": "dffe44e6aec56ddf1e111c60fa32baa7cbf5f023ff28c4cf15e3a0a5cf694134",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Gerenciamento de Senhas",
+    "openapi_version": "openapi_3",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

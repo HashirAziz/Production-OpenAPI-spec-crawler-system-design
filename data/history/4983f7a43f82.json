@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4983f7a43f82",
+    "source_url": "https://raw.githubusercontent.com/logos-storage/logos-storage-js/a12da5cca34a7209e30589c9148a9f0cb6d3cbd1/openapi.yaml",
+    "fetched_at": "2026-05-31T08:39:25.753294+00:00",
+    "content_hash": "094125b5e05a9a231d8416fc6c6c071ba62fe32a0d8c71ad01a530079388cd0b",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "Codex API",
+    "openapi_version": "openapi_3",
+    "paths_count": 19,
+    "path_diff": null
+  }
+]
