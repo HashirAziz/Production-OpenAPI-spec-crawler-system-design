@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "25a9925c5a10",
+    "source_url": "https://raw.githubusercontent.com/S2-group/UPISAS/63d7b6606fc04c447cfa9957339e07be5c053757/openapi.yaml",
+    "fetched_at": "2026-06-01T11:23:20.793800+00:00",
+    "content_hash": "eab78f6fffbb519ec498f272f3fa18d6ed34dc88a7d0c06ed64a73ed0eb4184d",
+    "info_version": "1.0.11",
+    "status": "new",
+    "title": "UPISAS",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "24e8beaf2647",
+    "source_url": "https://raw.githubusercontent.com/GeeseHacks/scanner.geesehacks.com/d24d5b920ac3646fada3065f99e1f2319aa65b0d/swagger.yaml",
+    "fetched_at": "2026-06-01T11:24:33.674710+00:00",
+    "content_hash": "a58b5ba4a0ee3fcf341b5edaeb7f2b5df3098855629dcdbcf014128799e949ff",
+    "info_version": "1.1.0",
+    "status": "new",
+    "title": "Registration Portal API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

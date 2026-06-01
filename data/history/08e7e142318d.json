@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "08e7e142318d",
+    "source_url": "https://raw.githubusercontent.com/direktiv-apps/ansible/e47facebaf23ca2870b52c094e4cf4df2717c4b3/swagger.yaml",
+    "fetched_at": "2026-06-01T11:24:29.856836+00:00",
+    "content_hash": "2d3c77ea0053abe39cd3894e9335c810a6928ae9484632f6947efa8f93e80ef0",
+    "info_version": "1.1",
+    "status": "new",
+    "title": "ansible",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

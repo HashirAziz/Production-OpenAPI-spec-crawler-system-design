@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "195dbc9df815",
+    "source_url": "https://raw.githubusercontent.com/giaulaptrinh/Twitter_API/fd8f26f0877ac7af3f329a6e633ff7d0f74456c5/swagger.yaml",
+    "fetched_at": "2026-06-01T11:24:24.483365+00:00",
+    "content_hash": "08f2c99afbb6a7eadd165a2e723ce8c1dfd652a4eb391b9999259603601cee35",
+    "info_version": "1.0.11",
+    "status": "new",
+    "title": "Twitter Clone Typescript -2025",
+    "openapi_version": "openapi_3",
+    "paths_count": 13,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "397c317a1ba1",
+    "source_url": "https://raw.githubusercontent.com/Mihir611/blue_angel_backend/d11b5cbffbe65ace7c6e3891b01a04fb101ba282/swagger.yaml",
+    "fetched_at": "2026-06-01T11:24:28.697561+00:00",
+    "content_hash": "fa15db6c823e16818b246cd8cf312d4650c52d86f73555bab363577f399388db",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Auth API",
+    "openapi_version": "openapi_3",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

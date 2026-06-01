@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0e8900490b00",
+    "source_url": "https://raw.githubusercontent.com/Saivyshnavi123/Web-Based-Library-Management-System/e19c76573710f834f4f2786a07aa22142e1f6279/backend/swagger.yaml",
+    "fetched_at": "2026-06-01T11:24:22.791516+00:00",
+    "content_hash": "3e0f906d8747c0cd0c5ae1e34e47d90749431b231527e7fecfdb7627efa81039",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Library Management API",
+    "openapi_version": "swagger_2",
+    "paths_count": 12,
+    "path_diff": null
+  }
+]

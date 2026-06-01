@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "04c0941d7ab9",
+    "source_url": "https://raw.githubusercontent.com/ManoharNaidu/SocialApp/50a04c51267259ac44280c3d48245f4b7dab4bb6/swagger.yaml",
+    "fetched_at": "2026-06-01T11:24:31.448015+00:00",
+    "content_hash": "bb4d09cd8f98a53bcb70553434347a65d1d3be07840659b30e1d130bea6dc13a",
+    "info_version": "1.0.1",
+    "status": "new",
+    "title": "Social App",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

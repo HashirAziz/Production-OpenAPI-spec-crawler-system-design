@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "bc42a9aa94ca",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/7619f7e364299a124407b2fc75168d20666a1bea/apis/openapi/clutch.com/main/1.0.0/openapi.json",
+    "fetched_at": "2026-06-01T11:24:05.428967+00:00",
+    "content_hash": "1b4de1de2b862ffe327f56604a9ad5241bee9847f87ec2204abb8c7e24d0bc1b",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Clutch API",
+    "openapi_version": "openapi_3",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

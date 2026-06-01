@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ce43c189b085",
+    "source_url": "https://raw.githubusercontent.com/carona-jr/fullstack-challenge/2c90060a0d75ed652bf9fb39c8ea3449c9f4ce42/backend/swagger.json",
+    "fetched_at": "2026-06-01T11:25:06.436547+00:00",
+    "content_hash": "f0c66743e2d190025c5aecf85b735e954c225ca73ac8fbf63e4105b86993aa13",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Coodesh Fullstack Challenge",
+    "openapi_version": "swagger_2",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

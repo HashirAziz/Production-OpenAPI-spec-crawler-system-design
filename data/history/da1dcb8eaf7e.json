@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "da1dcb8eaf7e",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/7619f7e364299a124407b2fc75168d20666a1bea/apis/openapi/uspto.gov/bdss/1.0.0/openapi.json",
+    "fetched_at": "2026-06-01T11:24:03.947701+00:00",
+    "content_hash": "049ca501efef3358cac9b99519663d58f05d87f7e2de70e91f90123ab3df7a58",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Bulk Data Storage System Services",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

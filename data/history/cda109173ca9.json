@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "cda109173ca9",
+    "source_url": "https://raw.githubusercontent.com/chiniun/pt/a58c9fe7d1f88e7e4cf51cb7a0fdb3f63c0bf9a9/openapi.yaml",
+    "fetched_at": "2026-06-01T11:23:35.391863+00:00",
+    "content_hash": "c5b6fcd7d28e1cd7198f45de9f2d2f5d1ecdd9283a432c1ff83a1a97d8f51342",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": null,
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

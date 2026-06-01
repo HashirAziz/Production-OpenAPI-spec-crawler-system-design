@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "7fd5ab29ed9e",
+    "source_url": "https://raw.githubusercontent.com/mahenderstreamline/ivtswagger/860d6d58a6121a59199b9ecf440ec1b45ebf53b4/swagger.yaml",
+    "fetched_at": "2026-06-01T11:24:30.602903+00:00",
+    "content_hash": "0f823ca04dae0ef087745a22949360942f20a662c630333c9e3ee6354b4b356e",
+    "info_version": "v1",
+    "status": "new",
+    "title": "IVT API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

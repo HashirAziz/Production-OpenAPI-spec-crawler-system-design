@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "178aed0651b6",
+    "source_url": "https://raw.githubusercontent.com/calaldees/frameworks_and_languages_module/c1696ad53df75f1a04dd6619d44db005fc9d59bc/openapi.yaml",
+    "fetched_at": "2026-06-01T11:23:34.075446+00:00",
+    "content_hash": "d0bdbdcf5dfb9d3e28965ce95d7d8d6e5163b9edf87b8fde54f7835adb26ac20",
+    "info_version": "0.1",
+    "status": "new",
+    "title": "FreeCycle",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

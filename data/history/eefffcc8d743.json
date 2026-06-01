@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "eefffcc8d743",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/7619f7e364299a124407b2fc75168d20666a1bea/apis/openapi/cisco.com/main/0.0.3/meta/source/swagger.json",
+    "fetched_at": "2026-06-01T11:25:03.079852+00:00",
+    "content_hash": "63af0eae440f518aef368b2b97ea432ec6adc76ffce10faa5eeed2768bd2c547",
+    "info_version": "0.0.3",
+    "status": "new",
+    "title": "Cisco PSIRT openVuln API",
+    "openapi_version": "swagger_2",
+    "paths_count": 19,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "808f8a1efe50",
+    "source_url": "https://raw.githubusercontent.com/Element84/swoop/742815dd7f2ec94566895fb211a6f95a01bad87e/openapi.yaml",
+    "fetched_at": "2026-06-01T11:23:17.598447+00:00",
+    "content_hash": "8a643aa01fe3527e1de620ecfde8075e1e6f90c0e168e97c77c8b8ae4838f818",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "swoop-api",
+    "openapi_version": "openapi_3",
+    "paths_count": 16,
+    "path_diff": null
+  }
+]

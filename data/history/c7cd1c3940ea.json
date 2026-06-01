@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c7cd1c3940ea",
+    "source_url": "https://raw.githubusercontent.com/pdxfixit/hostdb-server/b1a7f80a55b6bc883229d90c49fab401bc0729e1/openapi.yaml",
+    "fetched_at": "2026-06-01T11:23:35.705426+00:00",
+    "content_hash": "d08344dba3d23d366b0e2d322937fa3017e8a799c803eb92d4092926efe049f7",
+    "info_version": "0.3.2",
+    "status": "new",
+    "title": "HostDB",
+    "openapi_version": "openapi_3",
+    "paths_count": 13,
+    "path_diff": null
+  }
+]

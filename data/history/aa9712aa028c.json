@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "aa9712aa028c",
+    "source_url": "https://raw.githubusercontent.com/javiertlopez/idlemux/d97ea91a6affe6c720f332a351cc4d922dc9ed66/openapi.yaml",
+    "fetched_at": "2026-06-01T11:23:34.961466+00:00",
+    "content_hash": "992e9c9b42aa42cb16fa225d1bd833913362f517ad6bfba8790aad7db07b2b84",
+    "info_version": "0.7.0",
+    "status": "new",
+    "title": "idlemux library",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ff5d228dc371",
+    "source_url": "https://raw.githubusercontent.com/enVolt/train-schedule-bot/5028495a6882e94744f0ff06445905b4656549f4/ldbws-swagger.json",
+    "fetched_at": "2026-06-01T11:25:03.739610+00:00",
+    "content_hash": "20e561bef576733a47b7af3b3ec15f0666da9805a50b1ad7c21249ca4bc06792",
+    "info_version": "v1",
+    "status": "new",
+    "title": "LDBWebService",
+    "openapi_version": "swagger_2",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

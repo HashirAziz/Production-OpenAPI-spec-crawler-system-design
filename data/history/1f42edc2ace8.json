@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1f42edc2ace8",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/7619f7e364299a124407b2fc75168d20666a1bea/apis/openapi/epa.gov/main/2019.10.15/meta/source/swagger.json",
+    "fetched_at": "2026-06-01T11:25:04.306504+00:00",
+    "content_hash": "e201cbe9f3e67fe378f569c2d012d6a9226611cbb7e79d49a43dda33df29948c",
+    "info_version": "2019.10.15",
+    "status": "new",
+    "title": "U.S. EPA Enforcement and Compliance History Online (ECHO) - Clean Air Act",
+    "openapi_version": "swagger_2",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

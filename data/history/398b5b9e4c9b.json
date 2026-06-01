@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "398b5b9e4c9b",
+    "source_url": "https://raw.githubusercontent.com/riteshbenjwal/ecommerce-backend/05a6cd5eb4fb33701f6d799f06a3d7eb5899fdbc/swagger.yaml",
+    "fetched_at": "2026-06-01T11:24:23.506734+00:00",
+    "content_hash": "ac40d120f590a0990e604137df8bf93e63e526291e6641fe4b492b3af47a6a88",
+    "info_version": "1.1.0",
+    "status": "new",
+    "title": "Tshirt store API",
+    "openapi_version": "openapi_3",
+    "paths_count": 28,
+    "path_diff": null
+  }
+]

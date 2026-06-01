@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1798f610f347",
+    "source_url": "https://raw.githubusercontent.com/watcharaphat/test-openapi/33c01b7e4a708948370888a8034d5d4a6c4d104f/swagger.yaml",
+    "fetched_at": "2026-06-01T11:24:23.693445+00:00",
+    "content_hash": "b4323daa0a50d1206cce617505c9aa178fe9142b5f88656ffca08c5b7aefb982",
+    "info_version": "1",
+    "status": "new",
+    "title": "OTP",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

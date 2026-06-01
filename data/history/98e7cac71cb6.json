@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "98e7cac71cb6",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/7619f7e364299a124407b2fc75168d20666a1bea/apis/openapi/zapier.com/nla/1.0.0/openapi.json",
+    "fetched_at": "2026-06-01T11:24:04.160069+00:00",
+    "content_hash": "43097212e63f0f1a69e4ceb08da47fa78dde5320e53e29c4800d6bcad6e68e3c",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Zapier AI Actions API",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

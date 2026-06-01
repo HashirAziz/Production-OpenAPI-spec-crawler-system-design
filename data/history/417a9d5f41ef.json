@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "417a9d5f41ef",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/7619f7e364299a124407b2fc75168d20666a1bea/apis/openapi/swaggerhub.faa/asws/1.1.0/meta/source/swagger.json",
+    "fetched_at": "2026-06-01T11:25:05.666378+00:00",
+    "content_hash": "81a0dc339ec646b1bf890b566a2215feeae560102d372326fdcefed2c864c222",
+    "info_version": "1.1.0",
+    "status": "new",
+    "title": "Airport Status Web Service",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

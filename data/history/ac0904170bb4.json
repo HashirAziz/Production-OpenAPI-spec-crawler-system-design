@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ac0904170bb4",
+    "source_url": "https://raw.githubusercontent.com/dnj/web-shot/802fb25f31c7ba47387fe06e5802214b322d982b/openapi.yaml",
+    "fetched_at": "2026-06-01T11:23:35.163493+00:00",
+    "content_hash": "c453545801d5c9ed8c6e6aabb3b983a92f124c666e35dd88f0dc1378950e1a06",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Web-Shot API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

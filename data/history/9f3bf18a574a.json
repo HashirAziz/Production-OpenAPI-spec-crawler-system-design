@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9f3bf18a574a",
+    "source_url": "https://raw.githubusercontent.com/Mentalys-App/API-Artikel-dan-Makanan/781e10948b19d790fbbeda3e64667cd58fc2170e/swagger.yaml",
+    "fetched_at": "2026-06-01T11:24:35.053283+00:00",
+    "content_hash": "f75a5b51f8ba22df43f9d9b862cd65776001854dc62cbb1c317f0af4efa53952",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Mentalys Article API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

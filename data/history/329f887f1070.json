@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "329f887f1070",
+    "source_url": "https://raw.githubusercontent.com/tig-foundation/tig-monorepo/703bd8ea3fa6038f8fa64f9201b6fa94c2c64306/swagger.yaml",
+    "fetched_at": "2026-06-01T11:24:20.644199+00:00",
+    "content_hash": "4c20b89cfdc4fe4eeef8e072c8de9e1e73b259cfccb4ee47686d346dc24230eb",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "The Innovation Game API",
+    "openapi_version": "openapi_3",
+    "paths_count": 21,
+    "path_diff": null
+  }
+]

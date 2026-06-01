@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "38dea9517dd8",
+    "source_url": "https://raw.githubusercontent.com/aaninu/swagger-example/5c3bb43360fa6d4979c54eff0b780b8cf3440982/swagger.yaml",
+    "fetched_at": "2026-06-01T11:24:20.109383+00:00",
+    "content_hash": "8b577eed55317b145b65376811b751ba9723f216d54f52cd8b897a154aab9d82",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Swagger Imagini",
+    "openapi_version": "swagger_2",
+    "paths_count": 14,
+    "path_diff": null
+  }
+]
