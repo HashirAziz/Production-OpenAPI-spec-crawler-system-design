@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "bed50149fdd0",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/79d2f5d0406b75d393bd5ea6ba1698e58553c765/apis/openapi/onsched.com/utility/v1/openapi.json",
+    "fetched_at": "2026-06-02T10:16:05.807623+00:00",
+    "content_hash": "04fea4a5e263657401ae7138b817681f9538c49c4bfb3b87fcf9b37a05c571b7",
+    "info_version": "v1",
+    "status": "new",
+    "title": "OnSched API Utility",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

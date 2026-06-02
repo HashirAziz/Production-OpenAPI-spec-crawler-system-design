@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "503c28956ebd",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/79d2f5d0406b75d393bd5ea6ba1698e58553c765/apis/openapi/mercedes-benz.com/mercedes-benz-diagnostics-api/1.0/meta/source/swagger.json",
+    "fetched_at": "2026-06-02T10:16:55.744213+00:00",
+    "content_hash": "4c56e5f59eb85ebe4788bb0f264ad7bfe4c9eb7af8f58689d3a4bcfeee82b24f",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Remote Diagnostic Support",
+    "openapi_version": "swagger_2",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

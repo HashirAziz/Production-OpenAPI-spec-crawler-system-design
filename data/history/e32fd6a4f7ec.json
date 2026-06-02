@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e32fd6a4f7ec",
+    "source_url": "https://raw.githubusercontent.com/Fleser11/Registrar-Rules-Backend/f84240b4cf881e5b466eda23454be6aca42c0857/swagger.yaml",
+    "fetched_at": "2026-06-02T10:16:27.263341+00:00",
+    "content_hash": "d850bfdd3e07b1827fbedf9ab8110743aa7f93f6c0f8123c0a4fcf7c7e6c18a3",
+    "info_version": "0.1.9",
+    "status": "new",
+    "title": "Registrar Backend API",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "bbd383156d49",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/79d2f5d0406b75d393bd5ea6ba1698e58553c765/apis/openapi/pendo.io/main/1.0.0/meta/source/swagger.json",
+    "fetched_at": "2026-06-02T10:17:13.364686+00:00",
+    "content_hash": "e5c15f1696eabb74796d83b272817efaec7df1f940ea65501f59efd4474d741a",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Pendo Feedback API",
+    "openapi_version": "swagger_2",
+    "paths_count": 19,
+    "path_diff": null
+  }
+]

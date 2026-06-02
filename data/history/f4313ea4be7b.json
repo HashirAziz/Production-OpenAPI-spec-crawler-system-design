@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f4313ea4be7b",
+    "source_url": "https://raw.githubusercontent.com/aws-solutions-library-samples/guidance-for-iso20022-messaging-workflows-on-aws/e6c55d11fd1a01e75b78d7897be36c69fa26b8cc/iac.src/api_gateway_rest/swagger.json.tftpl",
+    "fetched_at": "2026-06-02T10:16:47.206382+00:00",
+    "content_hash": "4c331df0667f3786bf29655d1d5ddb5ef9fbdea71797b4b1ad5d39f631ee67d7",
+    "info_version": "${version}",
+    "status": "new",
+    "title": "${title}",
+    "openapi_version": "swagger_2",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

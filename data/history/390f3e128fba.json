@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "390f3e128fba",
+    "source_url": "https://raw.githubusercontent.com/eshoyuan/SmartArtGuide/38d6bf6c0621c55ae2e38257cc3a37f3577ef3ed/swagger.yaml",
+    "fetched_at": "2026-06-02T10:16:34.336735+00:00",
+    "content_hash": "5a41107c29af08100ed3f9d8f8a02cfc80b5f66cd98822f5c260c0baf28479f3",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "SmartArtGuide API",
+    "openapi_version": "swagger_2",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

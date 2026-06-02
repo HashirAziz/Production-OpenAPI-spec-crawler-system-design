@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f463f1297d5c",
+    "source_url": "https://raw.githubusercontent.com/eliona-smart-building-assistant/device-simulator-app/77cce303dc543ac671934393dd7a5ae50bf3015b/openapi.yaml",
+    "fetched_at": "2026-06-02T10:15:25.919935+00:00",
+    "content_hash": "8e56ee0885226758c5a2730d54bbe918c091f12dfc14e88d0b4a5f2047b70fea",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Device Simulator app API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

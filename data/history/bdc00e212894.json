@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "bdc00e212894",
+    "source_url": "https://raw.githubusercontent.com/MediFlow-EMR/mediflow-dev/3a06a4d47f733e6a16102bccd7ca32121b762480/swagger.yaml",
+    "fetched_at": "2026-06-02T10:16:38.641047+00:00",
+    "content_hash": "0bb836d447ee94a8d0205ffa034582e2b8481fe01af133d5c34b319d113607e8",
+    "info_version": "1.1.0",
+    "status": "new",
+    "title": "MediFlow EMR API",
+    "openapi_version": "openapi_3",
+    "paths_count": 31,
+    "path_diff": null
+  }
+]

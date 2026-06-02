@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "83458628026f",
+    "source_url": "https://raw.githubusercontent.com/gammamatrix/playground-cms-api/625affc57fda53ffe3b63b701220eb8146b8063c/openapi.yaml",
+    "fetched_at": "2026-06-02T10:15:26.773584+00:00",
+    "content_hash": "12a9d99d376c92832be588dad1dc1bc056f632575ab002f5494aaf38becd4606",
+    "info_version": "74.0.0",
+    "status": "new",
+    "title": "Playground CMS API",
+    "openapi_version": "openapi_3",
+    "paths_count": 18,
+    "path_diff": null
+  }
+]

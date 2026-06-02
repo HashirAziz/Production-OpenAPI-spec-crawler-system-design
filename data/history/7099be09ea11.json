@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "7099be09ea11",
+    "source_url": "https://raw.githubusercontent.com/olha-hoshko/truck-app/cbba84a8216cb623ae43ab12519c9ec39f394e23/openapi.yaml",
+    "fetched_at": "2026-06-02T10:15:22.934051+00:00",
+    "content_hash": "47cfced9120a09b684cc4cdd35c31c8a6f646c186cc22472e457eeae5ed0faff",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "LAB FE NodeJS HW #3",
+    "openapi_version": "swagger_2",
+    "paths_count": 14,
+    "path_diff": null
+  }
+]

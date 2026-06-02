@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2e4538367c3e",
+    "source_url": "https://raw.githubusercontent.com/shukla-pranjal/AgriProject/a99af6e31722493b6762ee8712e033f223af209d/swagger.json",
+    "fetched_at": "2026-06-02T10:17:00.778719+00:00",
+    "content_hash": "947c5a81fde458ada16b47ff0bf12253c6c677efb9bda76042b1d34d883b7360",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Farm Management API",
+    "openapi_version": "openapi_3",
+    "paths_count": 107,
+    "path_diff": null
+  }
+]

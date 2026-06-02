@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e35dfff9f851",
+    "source_url": "https://raw.githubusercontent.com/22f1000288/soft-engg-project-sep-2025-se-SEP-team_6/76992f5e6387d69391d4b2ad9a2438fb34ba8b32/openapi.yaml",
+    "fetched_at": "2026-06-02T10:15:26.289349+00:00",
+    "content_hash": "ff74d89c7a07ac715ffefcff4c817196fb3eb1f216c78179a9f23d97fe9b360b",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "TalentForm HRMS API",
+    "openapi_version": "openapi_3",
+    "paths_count": 18,
+    "path_diff": null
+  }
+]

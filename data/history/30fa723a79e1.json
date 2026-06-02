@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "30fa723a79e1",
+    "source_url": "https://raw.githubusercontent.com/qidigital/apidoc-coinway-io/3b8b42ce3a7800a6ede415d92868c2cc66aa93c6/swagger.yaml",
+    "fetched_at": "2026-06-02T10:16:38.979644+00:00",
+    "content_hash": "84efd9f07f8b118e2fa477f7c931efdce3e5fc2e910c2bd57babe42e1537ac7c",
+    "info_version": "1.0.11",
+    "status": "new",
+    "title": "Coinway Integration API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

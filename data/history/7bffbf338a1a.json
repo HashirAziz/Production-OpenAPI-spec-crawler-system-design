@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "7bffbf338a1a",
+    "source_url": "https://raw.githubusercontent.com/iamniklas/lio-core/158cd902a55bb1b0e8461e718c2a495b5fbd698c/swagger.yaml",
+    "fetched_at": "2026-06-02T10:16:38.187648+00:00",
+    "content_hash": "3c7163bb68166ae35156c1ef4427266022df840505234f72489c2e3c4622a27a",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Swagger LIO",
+    "openapi_version": "swagger_2",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

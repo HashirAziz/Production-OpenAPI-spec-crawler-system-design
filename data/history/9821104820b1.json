@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9821104820b1",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/79d2f5d0406b75d393bd5ea6ba1698e58553c765/apis/openapi/hubhopper.com/main/v5/openapi.json",
+    "fetched_at": "2026-06-02T10:16:04.438536+00:00",
+    "content_hash": "905fe17e685e476db35b9b3360fd5d90f997a464f49343da956e9c7bf5efd0f4",
+    "info_version": "v5",
+    "status": "new",
+    "title": "Hubhopper Partner Integration API(s) - Production",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

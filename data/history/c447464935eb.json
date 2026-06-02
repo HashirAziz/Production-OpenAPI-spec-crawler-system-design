@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c447464935eb",
+    "source_url": "https://raw.githubusercontent.com/greenpeace/global-ggw-api-test/39655ed3c4456a82dc5cd8a08db890e986bb1056/swagger.yaml",
+    "fetched_at": "2026-06-02T10:16:26.258441+00:00",
+    "content_hash": "5b5aabfdee57235d58e082d70586ee8bbc61e0bdbd94a5e0e909ad7365be0891",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Greenwire Public API",
+    "openapi_version": "swagger_2",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

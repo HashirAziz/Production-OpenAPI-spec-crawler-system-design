@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "334c7fbf3293",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/79d2f5d0406b75d393bd5ea6ba1698e58553c765/apis/openapi/spectrocoin.com/main/1.0.0/meta/source/swagger.json",
+    "fetched_at": "2026-06-02T10:16:53.321553+00:00",
+    "content_hash": "e06be48a35fe3c3a824c8f1ec3c3ac9beef26c5500f2a9c6e5ac18fdc1ba8d2e",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "SpectroCoin Merchant",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

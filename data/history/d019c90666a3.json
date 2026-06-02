@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d019c90666a3",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/79d2f5d0406b75d393bd5ea6ba1698e58553c765/apis/openapi/googleapis.com/iam/v1/openapi.json",
+    "fetched_at": "2026-06-02T10:16:05.015456+00:00",
+    "content_hash": "4e439e4cb61dcb5d950c4d929c6828ff840f8cc8ef7f7a6f9f822a0ccc5c1217",
+    "info_version": "v1",
+    "status": "new",
+    "title": "Identity and Access Management (IAM) API",
+    "openapi_version": "openapi_3",
+    "paths_count": 30,
+    "path_diff": null
+  }
+]

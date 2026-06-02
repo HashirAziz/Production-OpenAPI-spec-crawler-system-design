@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3e8ef602d6ca",
+    "source_url": "https://raw.githubusercontent.com/marwendona/ReactNative_Project-Maynooth/e7f8bbe1501ebdd910f7160ee78d8abf0bd09b2c/swagger.json",
+    "fetched_at": "2026-06-02T10:17:15.448493+00:00",
+    "content_hash": "8a3e49a083d3929eb54611c230cdee4ca8072651085832e690dcaee1ede339e6",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Serverless API",
+    "openapi_version": "openapi_3",
+    "paths_count": 54,
+    "path_diff": null
+  }
+]

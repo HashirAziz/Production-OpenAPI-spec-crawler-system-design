@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d55924d764df",
+    "source_url": "https://raw.githubusercontent.com/HayesYu/go_kratos_bubble/df1cdea29dd3ab1d7a88ac6dbb633d36fb50ea9d/openapi.yaml",
+    "fetched_at": "2026-06-02T10:15:13.989595+00:00",
+    "content_hash": "3b6640c03e301996b62a3857c8f08431ee82a9ab6a1f951ac397ce5d45dcfec0",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "Todo API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

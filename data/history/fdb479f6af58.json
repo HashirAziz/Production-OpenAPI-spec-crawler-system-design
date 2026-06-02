@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "fdb479f6af58",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/79d2f5d0406b75d393bd5ea6ba1698e58553c765/apis/openapi/lyzr.ai/main/2.0.0/openapi.json",
+    "fetched_at": "2026-06-02T10:15:59.233363+00:00",
+    "content_hash": "83e689ae38d00514774a6a05a81267f29c2d6d96b4e266b17f0fd6305654ccc0",
+    "info_version": "2.0.0",
+    "status": "new",
+    "title": "Lyzr Agent API",
+    "openapi_version": "openapi_3",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

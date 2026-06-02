@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b036e922bd26",
+    "source_url": "https://raw.githubusercontent.com/sonu27/api-sonurai-com/85cba5b3f45324f686568210b663fa6b3cc3cf87/openapi.yaml",
+    "fetched_at": "2026-06-02T10:15:25.098225+00:00",
+    "content_hash": "564d966979f4f6b733bbc91b219498cd5170d6d11aaaad8a412d65e87daa2eb6",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "Bing Wallpapers API",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

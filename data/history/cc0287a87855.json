@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "cc0287a87855",
+    "source_url": "https://raw.githubusercontent.com/speakeasy-sdks/golx_pets/f3e1b41457064ddd8d1a5eb167e6495bf8dbf9bb/openapi.yaml",
+    "fetched_at": "2026-06-02T10:15:25.412007+00:00",
+    "content_hash": "4d844e9b987efa960be1fe05a885a3dd2b5e9ce450e6a0fa09c42ffcde98c87b",
+    "info_version": "1.0.17",
+    "status": "new",
+    "title": "Swagger Petstore - OpenAPI 3.0",
+    "openapi_version": "openapi_3",
+    "paths_count": 13,
+    "path_diff": null
+  }
+]

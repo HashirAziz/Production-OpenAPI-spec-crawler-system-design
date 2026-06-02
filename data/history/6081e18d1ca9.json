@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6081e18d1ca9",
+    "source_url": "https://raw.githubusercontent.com/theguriev/service-authorization/2766c19bbf90ad679d67749936a45bc85245768c/swagger.json",
+    "fetched_at": "2026-06-02T10:17:11.904470+00:00",
+    "content_hash": "ba2086210ca545ea1d35da9c48a8f2e14c8ae5727923f55c2cb3e73b04fc6e34",
+    "info_version": null,
+    "status": "new",
+    "title": "Nitro Server Routes",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

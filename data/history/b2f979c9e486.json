@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b2f979c9e486",
+    "source_url": "https://raw.githubusercontent.com/gaabrielmadeira/API-Imobiliaria/fce544a30d3d561787fb15dff29b2f98339d9243/swagger.json",
+    "fetched_at": "2026-06-02T10:17:18.743079+00:00",
+    "content_hash": "b7a01e899e30ab1702cbd195ebf0b7c50c92b13a5998568500f3c63b7e6e02a1",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API Imobiliária",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

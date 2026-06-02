@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "227efe006f17",
+    "source_url": "https://raw.githubusercontent.com/AndreasFischer1985/berufenet-api/dcfff56695f609955cb8a32554633e35b5fc41f5/openapi.yaml",
+    "fetched_at": "2026-06-02T10:15:07.018632+00:00",
+    "content_hash": "7dc9072993df039c2e45d686faba394953145447c8f5c45d1ef3019064f9398c",
+    "info_version": "1.0.1",
+    "status": "new",
+    "title": "Arbeitsagentur Berufenet API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

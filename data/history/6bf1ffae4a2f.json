@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6bf1ffae4a2f",
+    "source_url": "https://raw.githubusercontent.com/alqae/easy-book-be/4c11fe2d923ec3b5bd6cc95a8ae16677cab37025/swagger.json",
+    "fetched_at": "2026-06-02T10:17:03.403517+00:00",
+    "content_hash": "823bd8fbd749598eb9f963e2a4938a29e786e06e6178aee6f7999d976b3325e8",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API Documentation",
+    "openapi_version": "openapi_3",
+    "paths_count": 19,
+    "path_diff": null
+  }
+]

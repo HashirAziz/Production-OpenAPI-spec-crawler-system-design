@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "03ad8650f0e3",
+    "source_url": "https://raw.githubusercontent.com/dani9875/door_alarm_system/f763aeff7c6b89868ff58eecca314f4b6c4efb6c/swagger.json",
+    "fetched_at": "2026-06-02T10:16:58.502080+00:00",
+    "content_hash": "01305041714b36ec406e0b4a65ee90bdc998a9dd9fd51f467a4fae719fa15cc1",
+    "info_version": "2025-01-27T14:26:11Z",
+    "status": "new",
+    "title": "door_alarm",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

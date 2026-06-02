@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a256fad6b6c2",
+    "source_url": "https://raw.githubusercontent.com/HRKings/TodoAPI/aba36d96dfbc122595186a3dcd960c39c7f90f81/swagger.json",
+    "fetched_at": "2026-06-02T10:17:20.614535+00:00",
+    "content_hash": "0a3d6a7936bc1eec0652ab45273a23a6cef3f7f80a6747f76e65b599a32088a3",
+    "info_version": "v1",
+    "status": "new",
+    "title": "TODO API EntityFramework",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

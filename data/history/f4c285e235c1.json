@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f4c285e235c1",
+    "source_url": "https://raw.githubusercontent.com/pagopa/pagopa-infra/2daf8fb3127e6595088c01fb0ffa77a09307052c/src/domains/shared-app/api/influxdb/v1/_openapi.json.tpl",
+    "fetched_at": "2026-06-02T10:15:46.170368+00:00",
+    "content_hash": "0b571b1c54df7047c5de502559631af4dce1ad420040877b452418fb67f6afba",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Influxdb",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

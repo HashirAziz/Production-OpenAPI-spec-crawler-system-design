@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4e799f1c5865",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/79d2f5d0406b75d393bd5ea6ba1698e58553c765/apis/openapi/api.met.no/main/2.0/openapi.json",
+    "fetched_at": "2026-06-02T10:16:01.662109+00:00",
+    "content_hash": "e49bbee65148720207df969579a3ea74efeebfd90da35aa56cad26fcb21433a2",
+    "info_version": "2.0",
+    "status": "new",
+    "title": "MET Norway Locationforecast API",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

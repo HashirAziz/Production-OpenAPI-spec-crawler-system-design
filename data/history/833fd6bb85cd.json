@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "833fd6bb85cd",
+    "source_url": "https://raw.githubusercontent.com/Dash-Industry-Forum/Test-Assets-Dataset-Public/def03efac24ecb6170e33cf3d6798b9e11354027/swagger.json",
+    "fetched_at": "2026-06-02T10:17:10.079444+00:00",
+    "content_hash": "a84b54601f1ec7d097ab40bf53cc8d41620c0996f807ba100b10182f34dc2a66",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "DASH-IF Test Vectors API",
+    "openapi_version": "swagger_2",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

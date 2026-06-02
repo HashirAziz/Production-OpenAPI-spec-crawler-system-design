@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b8c0eaf17f65",
+    "source_url": "https://raw.githubusercontent.com/leandroloffeu/P1-Full-Stack/9b8ef122342119f453b87e420f42897f18d45721/swagger.yaml",
+    "fetched_at": "2026-06-02T10:16:42.643314+00:00",
+    "content_hash": "5143eff0dadf2e6c5b9749f496010e74b59edae1430798261a14f318f88109df",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API de Gerenciamento de Salas e Usuários",
+    "openapi_version": "openapi_3",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]
