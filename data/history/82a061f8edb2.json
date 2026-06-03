@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "82a061f8edb2",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/e5b2e70bc5f6d05f815605b3045a2b2cce9e03e9/apis/openapi/tfl.gov.uk/main/v1/openapi.json",
+    "fetched_at": "2026-06-03T10:51:58.083157+00:00",
+    "content_hash": "79f531fb1b030b30941056f866fde6dad1d282f97bfd2e4e182f54ab447d948a",
+    "info_version": "v1",
+    "status": "new",
+    "title": "Transport for London Unified API",
+    "openapi_version": "openapi_3",
+    "paths_count": 84,
+    "path_diff": null
+  }
+]

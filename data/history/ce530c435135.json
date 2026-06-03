@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ce530c435135",
+    "source_url": "https://raw.githubusercontent.com/Relax-FM/Ilon_Mars.ru/ae9f59b3ac72265332b9e5fa2c0940a8929a66eb/backend/swagger.yaml",
+    "fetched_at": "2026-06-03T10:52:34.437627+00:00",
+    "content_hash": "850aef3ee4df1c02ae24eb45b7051a8cecc31c2f87b749dab3fda637ef930c1d",
+    "info_version": "1.0.11",
+    "status": "new",
+    "title": "Swagger Petstore - OpenAPI 3.0",
+    "openapi_version": "openapi_3",
+    "paths_count": 13,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6b632ce1db8f",
+    "source_url": "https://raw.githubusercontent.com/Klef99/distributed-calculation-swagger/de61d8219e074541a497c0e97997f0176a1df073/swagger.yaml",
+    "fetched_at": "2026-06-03T10:52:13.892643+00:00",
+    "content_hash": "273935b96e08edb6f8dd2f56ed21890c937fb026a56b12c583d5f17cf5ad6620",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Distributed Calculation",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

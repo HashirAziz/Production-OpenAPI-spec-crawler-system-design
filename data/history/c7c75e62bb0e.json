@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c7c75e62bb0e",
+    "source_url": "https://raw.githubusercontent.com/link-it/govway/221d2025eca7df0a29398ac767e560fdf1487e93/resources/openapi/3.0/openapi.yaml",
+    "fetched_at": "2026-06-03T10:51:22.484951+00:00",
+    "content_hash": "850aef3ee4df1c02ae24eb45b7051a8cecc31c2f87b749dab3fda637ef930c1d",
+    "info_version": "1.0.11",
+    "status": "new",
+    "title": "Swagger Petstore - OpenAPI 3.0",
+    "openapi_version": "openapi_3",
+    "paths_count": 13,
+    "path_diff": null
+  }
+]

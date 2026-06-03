@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "80f4d392ac02",
+    "source_url": "https://raw.githubusercontent.com/swjeong0825/TLMBMatchBot/20c3dc40642123ff65f6fd84d751cff66d21f28b/openapi.yaml",
+    "fetched_at": "2026-06-03T10:51:27.944333+00:00",
+    "content_hash": "1791804ea9e8a29fc9b22063eb2aaa6ceb5f0434fae5f83e4ec8bf425a5433fa",
+    "info_version": "2.0.0",
+    "status": "new",
+    "title": "Tennis League Chatbot — LLM Backend",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

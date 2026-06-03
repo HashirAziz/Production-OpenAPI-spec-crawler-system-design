@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "247be83f0463",
+    "source_url": "https://raw.githubusercontent.com/TeFiLuck/TeFiLuck-backend/d837e4d9e288413fc1d7622522f941be801ab4a7/swagger.yaml",
+    "fetched_at": "2026-06-03T10:52:21.972589+00:00",
+    "content_hash": "65ec2b8634035cb18504c673279f9435ba2567f909bc90fddb1bd66f2f5b3245",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "unknown",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

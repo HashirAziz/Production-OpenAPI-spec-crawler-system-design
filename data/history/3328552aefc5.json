@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3328552aefc5",
+    "source_url": "https://raw.githubusercontent.com/jefferson-gbarbosa/auth-api/a540f8d7fd3b8e112322d54c6160ebd1173966e6/swagger.yaml",
+    "fetched_at": "2026-06-03T10:52:22.618461+00:00",
+    "content_hash": "4a1d773285194988b7351d3f949ba311466f59ef1daf7117f2af94f2f9d4621d",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Sistema para autenticação de usuários",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

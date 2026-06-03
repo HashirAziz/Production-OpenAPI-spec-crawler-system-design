@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5fdce6410bae",
+    "source_url": "https://raw.githubusercontent.com/RaMin0/ddd/40e234498511fc43f1911ac3a4581fbf74b39cd7/openapi.yaml",
+    "fetched_at": "2026-06-03T10:51:27.305659+00:00",
+    "content_hash": "f9c855ccb7a48cc382c538c46544539d34b706a1a1a22a4e9ffac2dd31504228",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Hello, World!",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

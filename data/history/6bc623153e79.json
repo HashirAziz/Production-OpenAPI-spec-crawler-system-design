@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6bc623153e79",
+    "source_url": "https://raw.githubusercontent.com/swiftops/registration-service/ad335cd37f5976ecd65d8f5c1ff513335f8b5aa0/swagger.yaml",
+    "fetched_at": "2026-06-03T10:52:33.283669+00:00",
+    "content_hash": "924b5d3f18cadecc60e5ecb80b45e1e1fb807775c8d39abf9666cc7ce5399ceb",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Register Service",
+    "openapi_version": "swagger_2",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

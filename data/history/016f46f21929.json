@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "016f46f21929",
+    "source_url": "https://raw.githubusercontent.com/fintech-development/haskell-metro2-generated/7e87e54707f9a154ee7aeff70db398dc6df2e840/openapi.yaml",
+    "fetched_at": "2026-06-03T10:51:17.047792+00:00",
+    "content_hash": "eabc46f700241f3816dba0ea9e22ae7c75499541721f26b13853f4707f0e91ac",
+    "info_version": "v1",
+    "status": "new",
+    "title": "METRO2 API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

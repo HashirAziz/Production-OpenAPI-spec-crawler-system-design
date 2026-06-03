@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ffac29617b2b",
+    "source_url": "https://raw.githubusercontent.com/rienafairefr/pybridgeapi/8208b1852b36d66f258176aa9ed7df47b46d6bbd/swagger.yaml",
+    "fetched_at": "2026-06-03T10:52:36.420711+00:00",
+    "content_hash": "d4f22c10c4952bde219024bcc58853663668581182d7343abbcae4fb84f75200",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Bridge API",
+    "openapi_version": "openapi_3",
+    "paths_count": 22,
+    "path_diff": null
+  }
+]

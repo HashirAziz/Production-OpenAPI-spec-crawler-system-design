@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a4a4c0ff8622",
+    "source_url": "https://raw.githubusercontent.com/deyvisonborges/mach-ecommerce-service/1244d2f949b8186f2ce4a8fe2676039dc8d9ce0f/swagger.yaml",
+    "fetched_at": "2026-06-03T10:52:36.047331+00:00",
+    "content_hash": "ade38392d51efddf3504e00ade987fb4dae8e8099af655aadce33f0a6be4a26f",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Mach Commmerce Identity",
+    "openapi_version": "openapi_3",
+    "paths_count": 14,
+    "path_diff": null
+  }
+]

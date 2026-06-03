@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "33ad482dcabb",
+    "source_url": "https://raw.githubusercontent.com/xw1nchester/muscle-feed-backend/8b0a4294daf7c25330a78849108f1c32b1357bf9/swagger.yaml",
+    "fetched_at": "2026-06-03T10:52:37.940650+00:00",
+    "content_hash": "a85351d8f45dbb4cf808fa459d990f6513a5f697832bab1d15a453912fc52cbe",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Muscle Feed",
+    "openapi_version": "openapi_3",
+    "paths_count": 84,
+    "path_diff": null
+  }
+]

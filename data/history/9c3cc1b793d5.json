@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9c3cc1b793d5",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/e5b2e70bc5f6d05f815605b3045a2b2cce9e03e9/apis/openapi/cooperto.it/main/v1/openapi.json",
+    "fetched_at": "2026-06-03T10:51:59.584197+00:00",
+    "content_hash": "30578cec26d30a9a857fe44a1e15eb544f3e8f16512ed0df60410ef5d0f60bf2",
+    "info_version": "v1",
+    "status": "new",
+    "title": "API Cooperto.it",
+    "openapi_version": "openapi_3",
+    "paths_count": 38,
+    "path_diff": null
+  }
+]

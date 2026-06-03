@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e44cbee2d4a3",
+    "source_url": "https://raw.githubusercontent.com/isurunuwanthilaka/wso2-choreo-api-manager/59fb8d9e0ccd9be1470c0db0c41f6d795234b421/openapi.yaml",
+    "fetched_at": "2026-06-03T10:51:26.774122+00:00",
+    "content_hash": "5483f562a6a9a4089ea1601987fd3ecb84b680e0f4e66977fe4da5a6fb556134",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "hello-service",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

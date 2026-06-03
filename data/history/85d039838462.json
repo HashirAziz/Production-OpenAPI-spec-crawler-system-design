@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "85d039838462",
+    "source_url": "https://raw.githubusercontent.com/ONSdigital/dp-permissions-api/5139e2fdb00686572ff99a5cf36ce1e1c7716b83/swagger.yaml",
+    "fetched_at": "2026-06-03T10:52:15.075917+00:00",
+    "content_hash": "a64d2ae7d9b27e87370f529ce3f4d79367891807e2867f5c4f747fa2e720787c",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "dp-permissions-api",
+    "openapi_version": "swagger_2",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

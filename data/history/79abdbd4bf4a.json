@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "79abdbd4bf4a",
+    "source_url": "https://raw.githubusercontent.com/DavidMelamed/medical-costs-api/421b01b8832521a97e2bc0be2ac09eb0f9b1e1e6/openapi.yaml",
+    "fetched_at": "2026-06-03T10:51:26.475147+00:00",
+    "content_hash": "2a7fc4a65aca0a5ee2110ed2d83ae68d279255d96c48f836aa87425a5593d639",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Medical Costs API",
+    "openapi_version": "openapi_3",
+    "paths_count": 40,
+    "path_diff": null
+  }
+]

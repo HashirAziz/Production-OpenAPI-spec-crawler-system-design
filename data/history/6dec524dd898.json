@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6dec524dd898",
+    "source_url": "https://raw.githubusercontent.com/joshkulesza/php-flagr/332b4b5bc31cdc20b19d4496e28aa27c57eda1db/swagger.json",
+    "fetched_at": "2026-06-03T10:53:12.849243+00:00",
+    "content_hash": "09d2163b4894094f90bef1e9cf3333db2ab4d25bd1e83f6bfe70b22f6bc78a67",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "unknown",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

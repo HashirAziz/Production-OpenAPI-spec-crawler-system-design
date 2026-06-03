@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "fc7a78b9fd12",
+    "source_url": "https://raw.githubusercontent.com/reedrich12/V.2/7cb8aaef315376d263e3de782eb3047b8978ca50/openapi.yaml",
+    "fetched_at": "2026-06-03T10:51:25.305282+00:00",
+    "content_hash": "d14b6d9479eb587b8e6e8827dfa1779522b054c7b49aeb018965eae551f255b3",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "AEI Website API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

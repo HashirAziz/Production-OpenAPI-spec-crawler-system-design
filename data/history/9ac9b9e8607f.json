@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9ac9b9e8607f",
+    "source_url": "https://raw.githubusercontent.com/dmancilla85/node-rest-server/b1b023f6e76515a309e4bb32751e9a3c25dd6120/swagger.json",
+    "fetched_at": "2026-06-03T10:53:06.370463+00:00",
+    "content_hash": "137f1c5a5e93fa65dc822a657276bd24ff0e6458f27283da9fc8a491cebb4499",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Node.js API model",
+    "openapi_version": "openapi_3",
+    "paths_count": 14,
+    "path_diff": null
+  }
+]

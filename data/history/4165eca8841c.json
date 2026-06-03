@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4165eca8841c",
+    "source_url": "https://raw.githubusercontent.com/tkogut/Bridge_ScaleCmd_Rust/16a61a5a63fde4edd2fe03a7ad01c6bb67088c27/swagger.yaml",
+    "fetched_at": "2026-06-03T10:52:19.922681+00:00",
+    "content_hash": "d02d1f4c9eea9911a8809b3779d5c1bd23d261621ed9bd3047d767d30c9a7749",
+    "info_version": "0.1.1",
+    "status": "new",
+    "title": "ScaleIT Bridge API",
+    "openapi_version": "openapi_3",
+    "paths_count": 14,
+    "path_diff": null
+  }
+]

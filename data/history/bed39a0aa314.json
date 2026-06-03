@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "bed39a0aa314",
+    "source_url": "https://raw.githubusercontent.com/dns3l/dns3l/813c65ae1ffe7ad3c6367e74f59fee38bc9d8f8f/openapi.yaml",
+    "fetched_at": "2026-06-03T10:51:12.851528+00:00",
+    "content_hash": "66379a5c86267f7e11357e705bf86260c232537166035837b91a8fb397bc2ed1",
+    "info_version": "1.2.0",
+    "status": "new",
+    "title": "DNS3L API",
+    "openapi_version": "openapi_3",
+    "paths_count": 17,
+    "path_diff": null
+  }
+]

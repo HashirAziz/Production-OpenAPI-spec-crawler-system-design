@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b3c76d68aad9",
+    "source_url": "https://raw.githubusercontent.com/saganos/yazio_public_api/dc0b5b77520de9df5c83952bab124d4bd7cfa797/swagger.json",
+    "fetched_at": "2026-06-03T10:53:02.644346+00:00",
+    "content_hash": "aaf6bbcf38dead61298fea9b4f5cde8b15423729989ecc6323b22d24b82b6d67",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Yazio API",
+    "openapi_version": "swagger_2",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

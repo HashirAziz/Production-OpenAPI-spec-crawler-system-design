@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8bff3924e2b7",
+    "source_url": "https://raw.githubusercontent.com/SENERGY-Platform/authorization/acb37eaaa0fb44cc471932f2dd6110515849e097/swagger.yaml",
+    "fetched_at": "2026-06-03T10:52:32.002245+00:00",
+    "content_hash": "80023a2a9ed97068e27d5c2092dd89c8dc650d5fe49282a238f78e52a3d1ff45",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Ladon",
+    "openapi_version": "swagger_2",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

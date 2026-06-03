@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d428cc442b57",
+    "source_url": "https://raw.githubusercontent.com/thiunuwan/flask-twilio-webhook/f60394cf9e3c273720332d60d485e95b776ad618/openapi.yaml",
+    "fetched_at": "2026-06-03T10:51:27.585519+00:00",
+    "content_hash": "7253ce45a65b4d013b07472353b04462c7f6429830c65e3c0b0b1304dc069d9a",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Twillio-test Service API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

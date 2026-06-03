@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "06fb66466c7b",
+    "source_url": "https://raw.githubusercontent.com/TapTapStitch/AwsLambdaProject/28d267b1e42f70f9628ecfcbe25ef5e160918eef/swagger.yaml",
+    "fetched_at": "2026-06-03T10:52:22.943103+00:00",
+    "content_hash": "27e2b58d111eefbfb1400b56f187b8c8ec7943dca44ee9a3ea7121b72055af06",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Diary Application API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

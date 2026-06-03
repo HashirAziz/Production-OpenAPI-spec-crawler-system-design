@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "449d06476de9",
+    "source_url": "https://raw.githubusercontent.com/Eric-Terminal/els-feedback-proxy/04782474898b0cf12dd369f0cb762355ce8995ab/openapi.yaml",
+    "fetched_at": "2026-06-03T10:51:25.918746+00:00",
+    "content_hash": "0278f63cc169abe7c5256179ebe6f9f2973b50044b06928bea3d455b0ce0b382",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "ELS Feedback Proxy API",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

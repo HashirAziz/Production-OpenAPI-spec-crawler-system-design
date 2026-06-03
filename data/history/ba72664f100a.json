@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ba72664f100a",
+    "source_url": "https://raw.githubusercontent.com/TemesgenGetye/donation_app/4800a6bea35dbe6dbc4f7d782555829b8fe5016a/swagger.yaml",
+    "fetched_at": "2026-06-03T10:52:36.815906+00:00",
+    "content_hash": "894f2940c0a0814ca5801da7704f4eeb86022e8b91a1871cf01c912adf7a00c3",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Donation Platform API - Unified Documentation",
+    "openapi_version": "openapi_3",
+    "paths_count": 17,
+    "path_diff": null
+  }
+]

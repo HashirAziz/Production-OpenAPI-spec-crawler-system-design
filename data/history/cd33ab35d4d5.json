@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "cd33ab35d4d5",
+    "source_url": "https://raw.githubusercontent.com/giantmonkey/korona-entry-client/579d0e83fa324f8383d8ae32b9ab2ce5d15b505c/swagger.json",
+    "fetched_at": "2026-06-03T10:52:50.605578+00:00",
+    "content_hash": "8af00bc381f4a18ffd236f36aa4ed8eec12e89cb7cf0cc806198f0810322b21e",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "KORONA.entry API v1",
+    "openapi_version": "swagger_2",
+    "paths_count": 12,
+    "path_diff": null
+  }
+]

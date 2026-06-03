@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3a070eb926f0",
+    "source_url": "https://raw.githubusercontent.com/2110521-2563-1-Software-Architecture/TTT-PY-Backend/b305ffd3399e80844bd3ea1ebb4286b0b42fb24e/swagger.yaml",
+    "fetched_at": "2026-06-03T10:52:20.597889+00:00",
+    "content_hash": "ec6f9ae7602abb050464172da74a381cb22054e3419a9072c1f524694cc9a945",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "CHATGUNCUP API",
+    "openapi_version": "openapi_3",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

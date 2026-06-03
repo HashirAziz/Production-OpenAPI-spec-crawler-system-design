@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1fd5c287f1d9",
+    "source_url": "https://raw.githubusercontent.com/Alex-Bezruk/github-explorer/259a9af83fb6f795a96cd19935d9b1ba38b3e478/openapi.yaml",
+    "fetched_at": "2026-06-03T10:51:26.169262+00:00",
+    "content_hash": "2c37776a0540c5100290218e72a7fd486fd646cc671e0a6d514db92c5d99fb5b",
+    "info_version": "1.0.0-SNAPSHOT",
+    "status": "new",
+    "title": "github-explorer API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

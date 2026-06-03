@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0e57386ad7dc",
+    "source_url": "https://raw.githubusercontent.com/Mozta/api-login/afcbf6e23ad79da51e52cee1c23b96e49bfe5f70/openapi.yaml",
+    "fetched_at": "2026-06-03T10:51:21.442650+00:00",
+    "content_hash": "3239de5bd70eb44c49f9234998c17edd2752c502b2516be796e1018751dff661",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API Login - Sistema de Autenticación con Roles",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

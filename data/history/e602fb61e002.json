@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e602fb61e002",
+    "source_url": "https://raw.githubusercontent.com/taxpon/flask-bravado-core/099bb8c1418c3b2e8ae98160b3b43f3bf218ecef/openapi.yaml",
+    "fetched_at": "2026-06-03T10:51:14.998094+00:00",
+    "content_hash": "683acf80de19c3b5c844f021e6df8e7edfbcd20ba210abeb0b216753b515dc04",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Libarary",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

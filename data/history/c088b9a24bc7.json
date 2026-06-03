@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c088b9a24bc7",
+    "source_url": "https://raw.githubusercontent.com/Clivern/Beetle/fddfc896762b6b1967ec0f4341598e80d64486b5/swagger.yaml",
+    "fetched_at": "2026-06-03T10:52:17.358885+00:00",
+    "content_hash": "32402f6ef4ea167532e2241b6ccd7b35147fd0d7003b2e8abd6f702bafeb3595",
+    "info_version": "1.0.3",
+    "status": "new",
+    "title": "Beetle",
+    "openapi_version": "swagger_2",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

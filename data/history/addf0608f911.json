@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "addf0608f911",
+    "source_url": "https://raw.githubusercontent.com/ThreesomeInc/health-diet/8f7688c568e07d83c031c35459d22752814dc9b4/swagger.yaml",
+    "fetched_at": "2026-06-03T10:52:21.669244+00:00",
+    "content_hash": "b8c32340a945c7448a1e56d69b9044913ba2fdcf3f8df5d825fd3d582615237c",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Health-Diet API",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

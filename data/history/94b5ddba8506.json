@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "94b5ddba8506",
+    "source_url": "https://raw.githubusercontent.com/utkarsh680/Node_Polling_System/a0676560a89dd73beb914bdd89afbe4c59603137/swagger.yaml",
+    "fetched_at": "2026-06-03T10:52:25.364763+00:00",
+    "content_hash": "5033b717e268486f28bc5367c21064325c30505ac11b8d506b6e71345f8a5ce7",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Polling System API",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

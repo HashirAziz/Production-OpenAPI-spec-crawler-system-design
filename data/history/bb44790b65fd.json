@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "bb44790b65fd",
+    "source_url": "https://raw.githubusercontent.com/victor-nweze-deel/StackOverflow-lite/2f0cf8d3ec6ec57fa278dbe8ef06ba38225fde5b/swagger.json",
+    "fetched_at": "2026-06-03T10:53:14.448385+00:00",
+    "content_hash": "b405e44625ae4e778b65b88e2d85f8b73755ab6c689a64cfdf7fb4b6b1e21dd4",
+    "info_version": "0.1",
+    "status": "new",
+    "title": "StackOverflow-Lite",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

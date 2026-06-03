@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "cde2ab0fb286",
+    "source_url": "https://raw.githubusercontent.com/gtvb/livestream/e93b52caf3144bb93db5c703464154855565a963/swagger.yaml",
+    "fetched_at": "2026-06-03T10:52:31.505187+00:00",
+    "content_hash": "b3da130c9d49d80b748510a69b6cfddb2ba4a2575078881c1dca5686f7aca9c6",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "LiveStreamAPI",
+    "openapi_version": "swagger_2",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a4817160f0d3",
+    "source_url": "https://raw.githubusercontent.com/vannguyenvietnam/assembly-payments-api-spec/fa1f39a208327313db020bce739fb5ba55a4eaab/swagger.yaml",
+    "fetched_at": "2026-06-03T10:52:35.498184+00:00",
+    "content_hash": "5af816e49f25fa4a88f1776782cb6cbee9c018eeeea44e6ee04cd85c8b302a58",
+    "info_version": "2.0",
+    "status": "new",
+    "title": "Assembly API",
+    "openapi_version": "openapi_3",
+    "paths_count": 80,
+    "path_diff": null
+  }
+]

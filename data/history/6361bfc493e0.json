@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6361bfc493e0",
+    "source_url": "https://raw.githubusercontent.com/quyenle-97/init/1d0942c0a8d5d7b7eb3bbd492267ee2b71eaa5a3/swagger.yaml",
+    "fetched_at": "2026-06-03T10:52:25.678821+00:00",
+    "content_hash": "d9358f07aefb3da1379fb33c7431a1c7a913aea947e2c9f822481bb0be72aea7",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "SOA Test BE",
+    "openapi_version": "openapi_3",
+    "paths_count": 15,
+    "path_diff": null
+  }
+]
