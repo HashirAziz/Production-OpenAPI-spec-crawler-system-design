@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "00f9c74789cf",
+    "source_url": "https://raw.githubusercontent.com/zotoio/launchdarkly-nodeutils/dd8ca01861916726d8e040c5ef0ac3d8138b00f1/swagger.yaml",
+    "fetched_at": "2026-06-04T09:51:18.984579+00:00",
+    "content_hash": "a2b9ff212b2891c924a9be3c746c43e2dec133a36dc8b4b3193e38797b056d66",
+    "info_version": "5.0.0",
+    "status": "new",
+    "title": "LaunchDarkly REST API",
+    "openapi_version": "swagger_2",
+    "paths_count": 62,
+    "path_diff": null
+  }
+]

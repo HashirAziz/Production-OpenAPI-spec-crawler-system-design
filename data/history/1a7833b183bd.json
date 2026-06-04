@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1a7833b183bd",
+    "source_url": "https://raw.githubusercontent.com/freighttrust/dapp_v1/7ca6c8291e7eacb4e7f255f272905cd810d6aee2/openapi.yaml",
+    "fetched_at": "2026-06-04T09:50:38.385375+00:00",
+    "content_hash": "33490219903277cb71fb0fbada5ee397a3dbe66efcb869450af2c96862a8ff9b",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "TODO BA- Block Array Bill of Ladding dApp",
+    "openapi_version": "swagger_2",
+    "paths_count": 28,
+    "path_diff": null
+  }
+]

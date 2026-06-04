@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "dbb916e50b9b",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/f094ba24c3c45b07f57f74970de1f774174e98c5/apis/openapi/apimatic.io/main/1.0/openapi.json",
+    "fetched_at": "2026-06-04T09:51:08.167103+00:00",
+    "content_hash": "66e69aa4ca5983f623fd9c04cbb6747a28954998d0a1c3b98d0c8a803eff728c",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "APIMATIC API Transformer",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

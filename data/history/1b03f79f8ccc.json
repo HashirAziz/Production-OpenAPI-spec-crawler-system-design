@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1b03f79f8ccc",
+    "source_url": "https://raw.githubusercontent.com/MetaSolutionsAB/rowstore/644d68186e88d2e76f288610d40b4d03f154db7a/webapp/src/main/resources/swagger.json_template",
+    "fetched_at": "2026-06-04T09:51:46.502328+00:00",
+    "content_hash": "d6a866de642691f3520767f590e9eabc0ddd4a5a5ddcb00fea48173b68865528",
+    "info_version": "__ROWSTORE_VERSION__",
+    "status": "new",
+    "title": "Auto-generated API by RowStore",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

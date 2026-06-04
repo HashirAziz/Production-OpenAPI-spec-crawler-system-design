@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c7e41e84bedd",
+    "source_url": "https://raw.githubusercontent.com/K8Kremer/cohortproject/de23ea1ee37b36de67a1bca2f6d8df82bef0cd6d/swagger.yaml",
+    "fetched_at": "2026-06-04T09:51:22.050086+00:00",
+    "content_hash": "fd97f65dfd134ac421c2b01fb7abeaf8bbb614da11309d500bdcf2bfb561872f",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Working Title API",
+    "openapi_version": "swagger_2",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

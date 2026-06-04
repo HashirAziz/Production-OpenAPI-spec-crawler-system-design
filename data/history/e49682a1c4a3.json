@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e49682a1c4a3",
+    "source_url": "https://raw.githubusercontent.com/speakeasy-api/developer-docs/982004a7a4a3c3c420c2f823aa63a5982e414288/public/assets/openapi/springboot/openapi.yaml.txt",
+    "fetched_at": "2026-06-04T09:50:20.338683+00:00",
+    "content_hash": "7fe13453e1a112ab59b10a83b931ba15c0fce7b41c727bd07d8d3b85c9b2fb0a",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Book Store API",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

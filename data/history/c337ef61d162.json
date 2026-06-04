@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c337ef61d162",
+    "source_url": "https://raw.githubusercontent.com/PetSourceio/petsourceapi/475dd7a95de738400662f7c8fed97d0994ae9871/swagger.json",
+    "fetched_at": "2026-06-04T09:51:57.582265+00:00",
+    "content_hash": "ae83e9a5b2231f30012d07dfed8d28f0062e10b300ce627ac2bc44b40599c85e",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "PetSource API",
+    "openapi_version": "swagger_2",
+    "paths_count": 14,
+    "path_diff": null
+  }
+]

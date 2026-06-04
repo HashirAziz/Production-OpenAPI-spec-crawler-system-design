@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "cad40cc419bf",
+    "source_url": "https://raw.githubusercontent.com/shaneyk01/mechanicshopapi1/165ae43071bd740ce5c1ad73f49688067268e7f0/swagger.yaml",
+    "fetched_at": "2026-06-04T09:51:35.229177+00:00",
+    "content_hash": "59e5eacc5185ce0a87e16e39e0c9e1364496349bcce4e1454295890fc1e0b5fd",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Mechanic Shop API",
+    "openapi_version": "openapi_3",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4cb0e0575106",
+    "source_url": "https://raw.githubusercontent.com/irshathcodes/kanban-api/04b0184bd5353a9669a40f25d5b236a048e15b45/swagger.yaml",
+    "fetched_at": "2026-06-04T09:51:28.823599+00:00",
+    "content_hash": "9b9a683655be6c72a1b9f3ce98544e614377c544ea9c7aece05be033e5fcfa5b",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Kanban Api",
+    "openapi_version": "openapi_3",
+    "paths_count": 12,
+    "path_diff": null
+  }
+]

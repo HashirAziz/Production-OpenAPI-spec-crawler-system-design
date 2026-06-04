@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2006332448b0",
+    "source_url": "https://raw.githubusercontent.com/orshohat1/assignment2-fullstack/b549beb77de848eb9c4b7ca2dd48c61ec29f5026/swagger.yaml",
+    "fetched_at": "2026-06-04T09:51:35.907299+00:00",
+    "content_hash": "e20a381e957b0cf9d2ed2d69b9cebacd7ba9f69a36508a6ee9ccf269b880716c",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Blog API",
+    "openapi_version": "openapi_3",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

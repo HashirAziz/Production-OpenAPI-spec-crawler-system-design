@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6d2ddc553866",
+    "source_url": "https://raw.githubusercontent.com/rcpch/digital-growth-charts-server/da723c7a41b4a300d13fe6390a29bf3f665b69a7/openapi.json",
+    "fetched_at": "2026-06-04T09:51:03.771729+00:00",
+    "content_hash": "9b7d42eaee80eac7151c8ea277b1c369a69c5d0deb5023c3b5a8e35f6ef7e103",
+    "info_version": "4.3.5",
+    "status": "new",
+    "title": "RCPCH Digital Growth API",
+    "openapi_version": "openapi_3",
+    "paths_count": 26,
+    "path_diff": null
+  }
+]

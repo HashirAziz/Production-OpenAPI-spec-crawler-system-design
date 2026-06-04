@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8e1a3288d9c1",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/f094ba24c3c45b07f57f74970de1f774174e98c5/apis/openapi/googleapis.com/tpu/v1/openapi.json",
+    "fetched_at": "2026-06-04T09:51:09.700872+00:00",
+    "content_hash": "dc45c1e6ae3199f6d2d09d6dd77441989c213ad8b4b1b5a7242ec3d88c9b00de",
+    "info_version": "v1",
+    "status": "new",
+    "title": "Cloud TPU API",
+    "openapi_version": "openapi_3",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

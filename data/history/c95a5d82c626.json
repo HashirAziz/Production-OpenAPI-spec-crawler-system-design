@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c95a5d82c626",
+    "source_url": "https://raw.githubusercontent.com/FIS2425/patient-svc/3094cc134437d8d878ecbff1d806e1844a4d3554/openapi.yaml",
+    "fetched_at": "2026-06-04T09:50:43.275478+00:00",
+    "content_hash": "d2bf89e4537531c032be6ce4c1c094f137dcd384b496818e5b5a1f81b1e26de9",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Patient Microservice",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

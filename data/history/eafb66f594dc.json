@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "eafb66f594dc",
+    "source_url": "https://raw.githubusercontent.com/CSCfi/swift-browser-ui/4d26af9a53e0a3fffd43f655dcd88a9788cc199d/openapi.yaml",
+    "fetched_at": "2026-06-04T09:50:28.121785+00:00",
+    "content_hash": "a10a88d52ec5ec3c08fbd1bcf12f9bc8c1de31b29cca795606e524f5dbc30cf4",
+    "info_version": "2025.6.0",
+    "status": "new",
+    "title": "Swift Browser UI",
+    "openapi_version": "openapi_3",
+    "paths_count": 26,
+    "path_diff": null
+  }
+]

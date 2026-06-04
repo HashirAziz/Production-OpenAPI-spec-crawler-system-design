@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "20dfb57c9e43",
+    "source_url": "https://raw.githubusercontent.com/dennisseidel/saas-plaform-tenant-management/27e571b76bcf8681cd2a5ee75a644099725292d0/openapi.yaml",
+    "fetched_at": "2026-06-04T09:50:42.575560+00:00",
+    "content_hash": "711ed1d114a3edc1578b713d744e47ed5a3f341ea5ffd2b7c824665ce7fd0847",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Tenant Mangement API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "141a76386ffb",
+    "source_url": "https://raw.githubusercontent.com/abhijeetsatpute/excel-file-upload/b6a9d9c803ae7626c45e0c905efae92f768c9d41/swagger.yaml",
+    "fetched_at": "2026-06-04T09:51:33.349694+00:00",
+    "content_hash": "1db5a033f0d7c03dd19b4c7cb7b8973535aeea99ff2d031ff221fa5d4642ab24",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "File upload",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

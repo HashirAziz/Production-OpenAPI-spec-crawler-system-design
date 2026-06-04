@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ae29607cdae9",
+    "source_url": "https://raw.githubusercontent.com/vitaliipik/PyLab/9e5e1e4864c906b062a08321ae2df7ad0533f5a0/swagger.yaml",
+    "fetched_at": "2026-06-04T09:51:34.480398+00:00",
+    "content_hash": "1c0766f1ab91730602d77fc5351038125806690811b3c3ce84553010fec43c04",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Swagger Booking Ticket",
+    "openapi_version": "openapi_3",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

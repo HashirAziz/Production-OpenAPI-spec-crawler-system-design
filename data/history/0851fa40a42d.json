@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0851fa40a42d",
+    "source_url": "https://raw.githubusercontent.com/me-neeraj135/sunrise-backend_backup/92cb9da345eff162ea29e09c0242f3a16b8440a5/swagger.yaml",
+    "fetched_at": "2026-06-04T09:51:31.402959+00:00",
+    "content_hash": "18292528ef71140c309c654768a69204e8ada4f4f55d94e2be2286828190a6e0",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Sunrise API",
+    "openapi_version": "swagger_2",
+    "paths_count": 17,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "fa1ae9747de9",
+    "source_url": "https://raw.githubusercontent.com/NULLzuEINS/kindergarten-day-planner-service/476f94b3b5776481f81642dee7968accaa300d6f/swagger.yaml",
+    "fetched_at": "2026-06-04T09:51:33.167914+00:00",
+    "content_hash": "d0f0b609b40e944c56bd84f0b6ed7eb871ff493288556a3ba8696418a0a7782f",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Kita day planner",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

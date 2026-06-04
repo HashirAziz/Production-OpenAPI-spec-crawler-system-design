@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f76c1ff6bd35",
+    "source_url": "https://raw.githubusercontent.com/agilepathway/available-pets-consumer-contract/efd0fee0b62d30ebfecfeff624740598c288f9e9/openapi.yaml",
+    "fetched_at": "2026-06-04T09:50:43.767514+00:00",
+    "content_hash": "716ffb24eeab18b24d9a8011cdb3c7cae55b532dcf1e8780482e018995d75d82",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Swagger Petstore",
+    "openapi_version": "openapi_3",
+    "paths_count": 14,
+    "path_diff": null
+  }
+]

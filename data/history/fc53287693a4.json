@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "fc53287693a4",
+    "source_url": "https://raw.githubusercontent.com/FIUS/Drinklist/107aa83a967f865eb526e52890a7ee4adc78ac89/swagger.yaml",
+    "fetched_at": "2026-06-04T09:51:21.614213+00:00",
+    "content_hash": "9e7f377a9a435f6845b76495a09ec70f6ab03d42f72611c4985304de39c75979",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "Getränke Liste",
+    "openapi_version": "swagger_2",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

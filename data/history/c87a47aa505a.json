@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c87a47aa505a",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/f094ba24c3c45b07f57f74970de1f774174e98c5/apis/openapi/fecru.local/main/1.0.0/meta/source/swagger.json",
+    "fetched_at": "2026-06-04T09:52:00.611640+00:00",
+    "content_hash": "5b966ba9a65b724bcf9e4845d9ce3d96e26089f5e48bbf48dc6f3c8cad4be63c",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Fisheye Crucible",
+    "openapi_version": "swagger_2",
+    "paths_count": 71,
+    "path_diff": null
+  }
+]

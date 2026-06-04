@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5a96f672e940",
+    "source_url": "https://raw.githubusercontent.com/Deutsche-Boerse-Risk/CloudPrismaMarginEstimator/6eafc35934e18e7aac851b8d492e6d315131f021/swagger.yaml",
+    "fetched_at": "2026-06-04T09:51:32.255293+00:00",
+    "content_hash": "7e82e104c359556fb2e7c309ab348386f7c3825dd71abd8efe25a37125aa90fe",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Cloud Prisma Margin Estimator API",
+    "openapi_version": "swagger_2",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d1975190bcd3",
+    "source_url": "https://raw.githubusercontent.com/jaum1234/contact-book/a7515cbc0119b4f4231289aa6540dafb487a8155/openapi.yaml",
+    "fetched_at": "2026-06-04T09:50:43.991048+00:00",
+    "content_hash": "7b0df1aa63aa0aa8aa057feff81e16c72b3457f74b72c8630fe859a769afbfa2",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Contact Book API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

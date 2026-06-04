@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "09b6ac2ff722",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/f094ba24c3c45b07f57f74970de1f774174e98c5/apis/openapi/giphy.com/main/1.0/openapi.json",
+    "fetched_at": "2026-06-04T09:51:06.729235+00:00",
+    "content_hash": "2eb15742ff9cd512a55916a433c1aa91010c94b47c8455a74abafb340b7381d3",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Giphy API",
+    "openapi_version": "openapi_3",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

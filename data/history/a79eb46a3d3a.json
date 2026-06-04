@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a79eb46a3d3a",
+    "source_url": "https://raw.githubusercontent.com/pkiraly/mqaf-ws/b4a0422dfb0098d1b3b59c9b2a81f2838760ddcb/openapi.yaml",
+    "fetched_at": "2026-06-04T09:50:43.531028+00:00",
+    "content_hash": "6a535100996c36b8316a7225220ef72af6fef98f1021aa153778c9174b6cfad5",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Metadata Quality Assessment Framework REST API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

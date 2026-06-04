@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5508a7d4bf06",
+    "source_url": "https://raw.githubusercontent.com/WorldCereal/ewoc_rdm_web/c463489b7ca756889d04d72b5897c29277178807/swagger.json",
+    "fetched_at": "2026-06-04T09:51:46.330992+00:00",
+    "content_hash": "984f40a0326240f1aac049989aa7f1cd9f981eccd896f9b48b73ae39f91d9f5a",
+    "info_version": "v1",
+    "status": "new",
+    "title": "WorldCereal OGC Data APIs",
+    "openapi_version": "openapi_3",
+    "paths_count": 54,
+    "path_diff": null
+  }
+]

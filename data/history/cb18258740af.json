@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "cb18258740af",
+    "source_url": "https://raw.githubusercontent.com/TengraStudio/tengra/ffbf99735451b81f02def52efe6d8db4baf00bca/tengra-api.openapi.yaml",
+    "fetched_at": "2026-06-04T09:50:22.378514+00:00",
+    "content_hash": "f39b7c0e3bb1464f5c2149e1b1a4de6fad63bbeb4442cbbdfca75b36a7ae6d67",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Tengra Local API",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

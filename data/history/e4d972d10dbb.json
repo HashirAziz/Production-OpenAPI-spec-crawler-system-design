@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e4d972d10dbb",
+    "source_url": "https://raw.githubusercontent.com/LokeshRwdev/SabrShukrBackend/969f25c27795f40b5e9fcffd64d4004907bc6f32/swagger.yaml",
+    "fetched_at": "2026-06-04T09:51:20.378269+00:00",
+    "content_hash": "90572951c22430e5cf5f9ff2147e5e888fed999ee7b7c0233796ecb13fe81acb",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Sabr Shukr Backend API",
+    "openapi_version": "openapi_3",
+    "paths_count": 79,
+    "path_diff": null
+  }
+]

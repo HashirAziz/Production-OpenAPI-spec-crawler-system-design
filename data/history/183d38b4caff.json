@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "183d38b4caff",
+    "source_url": "https://raw.githubusercontent.com/VanLavr/auth/09351082e20f1f7e9db884a0de67736303d8dec5/docs/swagger.yaml",
+    "fetched_at": "2026-06-04T09:51:20.848820+00:00",
+    "content_hash": "dd14c4742016af80a40aafbca4a0f19a84479042fa3281a50adfed4b9685487f",
+    "info_version": "1.2",
+    "status": "new",
+    "title": "Demo OAuth2.0 repository",
+    "openapi_version": "swagger_2",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

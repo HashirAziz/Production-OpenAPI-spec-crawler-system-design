@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6cf04afe6a00",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/f094ba24c3c45b07f57f74970de1f774174e98c5/apis/openapi/haloapi.com/ugc/1.0/meta/source/swagger.json",
+    "fetched_at": "2026-06-04T09:51:54.633384+00:00",
+    "content_hash": "ff172a8fc3e35e7bd5e336048e3450a1c34b1c7373d9b761791ad78bfe27513a",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "UGC",
+    "openapi_version": "swagger_2",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "afdf5516e44b",
+    "source_url": "https://raw.githubusercontent.com/PeterFogh/PeterFogh.github.io/de9b462bd846ccf7c7f1d14a262864fa3e4271ca/swagger.json",
+    "fetched_at": "2026-06-04T09:52:01.182156+00:00",
+    "content_hash": "580b780adf0a080010e9b2243bb5f5d04d8abfc275b473324ad37f9585773ba2",
+    "info_version": "v1",
+    "status": "new",
+    "title": "Verdo Nebula",
+    "openapi_version": "openapi_3",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

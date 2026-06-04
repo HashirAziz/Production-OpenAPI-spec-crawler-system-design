@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "387a9efae5ca",
+    "source_url": "https://raw.githubusercontent.com/scottw/perl-mojolicious-openapi/8ba0fa9dfdce6be4a7781f9434d241a6e435ed2a/swagger.yaml",
+    "fetched_at": "2026-06-04T09:51:32.953096+00:00",
+    "content_hash": "d5897c093c8676ebb41af72d979f1f07c028fd71eea75a7d9d5793b29c54ccec",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Time Tracker",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

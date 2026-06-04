@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "615fd55442c6",
+    "source_url": "https://raw.githubusercontent.com/Malokunlabs/ads-platform-backend/e79e59287d5f43373f74aaf9de2a3c074f3c27dd/swagger.yaml",
+    "fetched_at": "2026-06-04T09:51:35.017894+00:00",
+    "content_hash": "43f8b61f970601ed901c069981e734e49deb1244e364c03ed2bb7364723810f5",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Internal Ads Manager API",
+    "openapi_version": "openapi_3",
+    "paths_count": 16,
+    "path_diff": null
+  }
+]

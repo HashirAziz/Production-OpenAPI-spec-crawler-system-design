@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "14d9d00ee1f5",
+    "source_url": "https://raw.githubusercontent.com/soenneker/soenneker.trustedform.certificates.openapiclient/06501294ae6450712e3fb96c0f36142a9f139d2a/swagger.json",
+    "fetched_at": "2026-06-04T09:51:48.833258+00:00",
+    "content_hash": "a52c3226dd4538bb6cfd49e6f4048578c6e33d49277d2cf847d45a3eb3c7eda4",
+    "info_version": "4.0.0",
+    "status": "new",
+    "title": "Overview",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

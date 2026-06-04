@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "449224d2c5bf",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/f094ba24c3c45b07f57f74970de1f774174e98c5/apis/openapi/yelp.com/main/1.0.0/openapi.json",
+    "fetched_at": "2026-06-04T09:51:06.942586+00:00",
+    "content_hash": "73772457d059c38870a3b2b222c0ea218b3542ad0e5532dae2500ae160e939b6",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Yelp Business Search and Reviews API",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]
