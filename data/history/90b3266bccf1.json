@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "90b3266bccf1",
+    "source_url": "https://raw.githubusercontent.com/nexus9111/express_ts_prisma_boilerplate/a639710c9856f66a13ffeb267f76ff2fa4c4ec92/swagger.yaml",
+    "fetched_at": "2026-06-05T09:40:00.177718+00:00",
+    "content_hash": "095af1604886a34b46c3a52c1fab23a8c6f5e6fbcaf14d2f409f5d424ff28188",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "unknown",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

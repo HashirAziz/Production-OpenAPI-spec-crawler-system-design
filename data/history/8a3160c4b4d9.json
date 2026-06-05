@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8a3160c4b4d9",
+    "source_url": "https://raw.githubusercontent.com/Cogitari-Tech/Amuri-Platform/f4e4b143baa7e318ea98aee8ddd36068262ac7f6/openapi.yaml",
+    "fetched_at": "2026-06-05T09:38:59.523804+00:00",
+    "content_hash": "39f1e95b8d4eba1eac4eae51903c1b61552af44c69ba0f6f1b579066a40abe9e",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Amuri API",
+    "openapi_version": "openapi_3",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

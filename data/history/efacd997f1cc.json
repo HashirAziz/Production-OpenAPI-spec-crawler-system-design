@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "efacd997f1cc",
+    "source_url": "https://raw.githubusercontent.com/Hiker-Geek/NMSU-Tutoring/ddced07777855a55b0e21b00c8a19cd667985426/OpenAPI.yaml",
+    "fetched_at": "2026-06-05T09:38:54.320602+00:00",
+    "content_hash": "4d2310cf57a7956b188a48a7d8dcc75f932db0cac09680e4be0d6d6582b7be3e",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Open-API for project express server",
+    "openapi_version": "openapi_3",
+    "paths_count": 12,
+    "path_diff": null
+  }
+]

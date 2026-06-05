@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "068f0e79c1b7",
+    "source_url": "https://raw.githubusercontent.com/rekon-team/rekon-server/7e048a2f75ee06f286b0948ef920e85fcb14e4f1/swagger.yaml",
+    "fetched_at": "2026-06-05T09:40:16.569443+00:00",
+    "content_hash": "5e289e377979b921bcbadbe8e357adffdf0c0cf95a00282a0921b1c067b31066",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "Rēkon API",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "bfb214cc1967",
+    "source_url": "https://raw.githubusercontent.com/pagopa/io-functions-admin/c065b71ce3e77785a4212eb5f679de259255e254/infra/resources/assets/io_admin_v1_swagger.json.tpl",
+    "fetched_at": "2026-06-05T09:40:57.459356+00:00",
+    "content_hash": "70474a14144c5a514864d1ae80d3eeeb46b667c67d7364db5b0a88e7fa143ccb",
+    "info_version": "1.1.0",
+    "status": "new",
+    "title": "IO API for administration purpose",
+    "openapi_version": "swagger_2",
+    "paths_count": 13,
+    "path_diff": null
+  }
+]

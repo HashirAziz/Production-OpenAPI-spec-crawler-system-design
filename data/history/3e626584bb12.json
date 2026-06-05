@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3e626584bb12",
+    "source_url": "https://raw.githubusercontent.com/shameoff/blogAPI/f75465b21e9f8a7de37aa6de4248c67550e3e190/OpenAPI.json",
+    "fetched_at": "2026-06-05T09:39:29.200489+00:00",
+    "content_hash": "c80c209530f86b4714ee68cfab269363ca8d7d567de53aa84bdf65e5c6342d6c",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Blog.API",
+    "openapi_version": "openapi_3",
+    "paths_count": 12,
+    "path_diff": null
+  }
+]

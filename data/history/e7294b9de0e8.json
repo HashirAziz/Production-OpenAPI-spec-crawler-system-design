@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e7294b9de0e8",
+    "source_url": "https://raw.githubusercontent.com/fezamba/python-blockchain/9b5ebc436d15497f22e1c56bc4461bdd9773fe19/swagger.yaml",
+    "fetched_at": "2026-06-05T09:40:00.454697+00:00",
+    "content_hash": "4bcc135355bde64892a17f3908b77321a675a7c45453b4b6cc6dbfb1cba8e5cb",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Blockchain API",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

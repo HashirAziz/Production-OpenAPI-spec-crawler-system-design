@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "7e9e48fae1be",
+    "source_url": "https://raw.githubusercontent.com/kj4c/eggsInvoicing/0ffb0d5973cc703b24d8e4ff7e15d2ccac5cc338/swagger.yaml",
+    "fetched_at": "2026-06-05T09:40:04.293454+00:00",
+    "content_hash": "ba984b7b3899c356a416c97bfef771e049eae73de56cdf7530c135621ebdda20",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Team Eggs API",
+    "openapi_version": "openapi_3",
+    "paths_count": 13,
+    "path_diff": null
+  }
+]

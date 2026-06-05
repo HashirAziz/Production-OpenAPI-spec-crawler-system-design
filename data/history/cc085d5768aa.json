@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "cc085d5768aa",
+    "source_url": "https://raw.githubusercontent.com/Louis-Celestin/apigp/755f91a80de29774f6549d83b4f5cc4470d71226/swagger.yaml",
+    "fetched_at": "2026-06-05T09:40:17.689863+00:00",
+    "content_hash": "194f3af2e61f20c3bd92411cc58b4ba86c81abf64378a530f2f5276bf7342c98",
+    "info_version": "1.0.1",
+    "status": "new",
+    "title": "E-deployment TPE Green-Pay",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

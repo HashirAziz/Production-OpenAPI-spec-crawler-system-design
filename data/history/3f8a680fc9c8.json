@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3f8a680fc9c8",
+    "source_url": "https://raw.githubusercontent.com/DucWorker97/netflat/b8ff63e4c40deb48850e5fb2b79992fff7633854/OPENAPI.yaml",
+    "fetched_at": "2026-06-05T09:38:43.637429+00:00",
+    "content_hash": "9a03fc1ccba0ee18dfbd2321e404beeb444c5d75354056ceea570308b80d45b4",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "netflat API",
+    "openapi_version": "openapi_3",
+    "paths_count": 23,
+    "path_diff": null
+  }
+]

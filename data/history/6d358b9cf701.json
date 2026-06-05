@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6d358b9cf701",
+    "source_url": "https://raw.githubusercontent.com/BlueWallet/GroundControl/6dbcadeb41a44fd4398320ff9f192e8a8e793684/openapi.yaml",
+    "fetched_at": "2026-06-05T09:38:42.575789+00:00",
+    "content_hash": "808214bd64318747746ef4acd16e82cde19e0ed4ff414b807bd04904e6957a4f",
+    "info_version": "0.0.13",
+    "status": "new",
+    "title": "GroundControl push server API",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

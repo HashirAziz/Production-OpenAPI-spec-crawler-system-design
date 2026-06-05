@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f47cb8b9354c",
+    "source_url": "https://raw.githubusercontent.com/zz1998022/express-typescript-prisma-template/757054e93c6df6a80440528be51036fcdd0ac3e6/swagger.yaml",
+    "fetched_at": "2026-06-05T09:40:14.292127+00:00",
+    "content_hash": "b58d7fc55c74be53943b2f870da4d0690896707e5fc1eeeeb0002961d10a7b7b",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "unknown",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

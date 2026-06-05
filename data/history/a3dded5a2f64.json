@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a3dded5a2f64",
+    "source_url": "https://raw.githubusercontent.com/ystuler/CardBackend/b95aefaf3eb9887bd5e6877fec1bf4833472d828/swagger.yaml",
+    "fetched_at": "2026-06-05T09:39:59.952888+00:00",
+    "content_hash": "7377de6e6b7e9580532220c6f697d69ccfa47b0d600679b391a0bf78fd835fdd",
+    "info_version": "1.1",
+    "status": "new",
+    "title": "Card Backend API",
+    "openapi_version": "swagger_2",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

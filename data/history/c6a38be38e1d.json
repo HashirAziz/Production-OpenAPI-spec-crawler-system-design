@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c6a38be38e1d",
+    "source_url": "https://raw.githubusercontent.com/kerrambit/RSSFeedify/ba285370865b9b9d7dbf37b318d7930072bc26c5/OpenAPI.yaml",
+    "fetched_at": "2026-06-05T09:38:47.826914+00:00",
+    "content_hash": "691810f69dbba83d98d30ede1aa59a9e5ca8ac4fcc91d9e2539efc88ed230ee9",
+    "info_version": "v1",
+    "status": "new",
+    "title": "RSSFeedify",
+    "openapi_version": "openapi_3",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

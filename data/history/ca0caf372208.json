@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ca0caf372208",
+    "source_url": "https://raw.githubusercontent.com/shn3vnn/OPEN-API/93defc542e04845c3170b766813d2906ab7f8156/swagger.yaml",
+    "fetched_at": "2026-06-05T09:40:13.474627+00:00",
+    "content_hash": "a2395188ad253e20905975ff67d43f57720b20658e9c85267fdb8ea66db8b034",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API Sekolah - Demo",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

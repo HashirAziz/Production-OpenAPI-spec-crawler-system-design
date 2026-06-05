@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6c2863655cb0",
+    "source_url": "https://raw.githubusercontent.com/sushikanta/provider-npi-ai-agent/0bf37a68917fd127ae0dafa771123e956848f718/OpenAPI.json",
+    "fetched_at": "2026-06-05T09:39:37.685269+00:00",
+    "content_hash": "46efc69baf49e2d0b84dba9dbfb1164253d45d8e477b52e640f7e97cd080b46e",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Provider NPI Validator API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "13ece42c35ef",
+    "source_url": "https://raw.githubusercontent.com/rbkmoney/wallet-webhook-events-api/8f75d460e74e2d43a13af79a1b7a13893be6622f/swagger.yaml",
+    "fetched_at": "2026-06-05T09:40:09.804669+00:00",
+    "content_hash": "944db5f97199f497711648d505cf93321f3ef094061129b9937499e3da473a16",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Wallets Webhooks Events API",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

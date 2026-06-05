@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "00af324b7a16",
+    "source_url": "https://raw.githubusercontent.com/SUSE/suse-ai-up/fdd1812eadeead055062e77ce29ff708bf247b8c/docs/swagger.json.backup",
+    "fetched_at": "2026-06-05T09:40:31.270889+00:00",
+    "content_hash": "fd25fb4d75528db8fadd03b6b7ca057997f712df2dad77d7bb5aaa42980194ff",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "SUSE AI Uniproxy API",
+    "openapi_version": "swagger_2",
+    "paths_count": 37,
+    "path_diff": null
+  }
+]

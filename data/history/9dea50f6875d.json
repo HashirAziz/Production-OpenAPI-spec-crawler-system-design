@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9dea50f6875d",
+    "source_url": "https://raw.githubusercontent.com/bbgithub/ledger/fdb3262811d295b5e5952539f8feb54eb54f92a8/swagger.json",
+    "fetched_at": "2026-06-05T09:41:07.083986+00:00",
+    "content_hash": "c076f82f6d8cc696a943f1625f15177568647ced5525f1a402b3811ac635df3d",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "台账管理系统API",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

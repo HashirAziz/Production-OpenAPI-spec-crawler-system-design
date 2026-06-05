@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4a33e8a2b4b9",
+    "source_url": "https://raw.githubusercontent.com/transcelerate/ddf-sdr-api/5259f78d1e859d9bec2dbd9cce609c1efb0d5f6f/Swagger.json",
+    "fetched_at": "2026-06-05T09:41:06.728208+00:00",
+    "content_hash": "04adaebe858d1b0775aab746be0e3c0f4ca6a1dec0864279005dd9a6f39031c6",
+    "info_version": "v4",
+    "status": "new",
+    "title": "Transcelerate SDR",
+    "openapi_version": "openapi_3",
+    "paths_count": 37,
+    "path_diff": null
+  }
+]

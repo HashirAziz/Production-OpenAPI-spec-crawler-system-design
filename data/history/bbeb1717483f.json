@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "bbeb1717483f",
+    "source_url": "https://raw.githubusercontent.com/truehostcloud/whmcs-python-client/4b8c7131a60713a7035bab930f32fae4e24c5fbb/openapi.yaml",
+    "fetched_at": "2026-06-05T09:39:04.093854+00:00",
+    "content_hash": "68a4739ed5287b99c8ddbbe90d9713f24c2ae5a1576d62b12134c8ec5db40543",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "WHMCS API",
+    "openapi_version": "openapi_3",
+    "paths_count": 22,
+    "path_diff": null
+  }
+]

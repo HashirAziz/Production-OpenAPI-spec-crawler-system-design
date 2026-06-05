@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b50e62355568",
+    "source_url": "https://raw.githubusercontent.com/kostyantinkaschko/beatTron/e05d641c3ec4787e1d4cd406ad280e62b4f9e54e/swagger.yaml",
+    "fetched_at": "2026-06-05T09:40:10.477269+00:00",
+    "content_hash": "344e4b2f7f15b76b5606be45d8031fc43f473f8d63f0e02c61dbf89a97f85e69",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "openapi_3",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

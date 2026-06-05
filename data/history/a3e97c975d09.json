@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a3e97c975d09",
+    "source_url": "https://raw.githubusercontent.com/mchema/cmsc495onlinecourseregistration/a6bea035aa0c842a3bad333132d3531ea7423b02/OpenAPI.yaml",
+    "fetched_at": "2026-06-05T09:38:58.042647+00:00",
+    "content_hash": "58f7630ccfaf1d3caf8f2318f38b4a56c838d289ba11ed7ceef5a2f2cbd0f174",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Course Registration System - OpenAPI 3.1",
+    "openapi_version": "openapi_3",
+    "paths_count": 20,
+    "path_diff": null
+  }
+]

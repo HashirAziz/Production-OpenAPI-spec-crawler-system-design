@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2da49e42faf9",
+    "source_url": "https://raw.githubusercontent.com/megasense-development/megasense-data-portal-api-spec/c90e73a3e8f21d00ab293bc3827e3dfa94cc6ae0/swagger.yaml",
+    "fetched_at": "2026-06-05T09:40:01.119196+00:00",
+    "content_hash": "75fc1619cc4c3d19ad1abe471fc734c15e473262d1fabac823f6938d076be930",
+    "info_version": "1.1.0",
+    "status": "new",
+    "title": "Megasense data portal API",
+    "openapi_version": "openapi_3",
+    "paths_count": 32,
+    "path_diff": null
+  }
+]

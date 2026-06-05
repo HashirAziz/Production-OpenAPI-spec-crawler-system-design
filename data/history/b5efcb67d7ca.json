@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b5efcb67d7ca",
+    "source_url": "https://raw.githubusercontent.com/ysivaji27/spring-fileservice-demo-project/60eacef23636c49c5c13ea6bae5335ec1a6511a0/swagger.yaml",
+    "fetched_at": "2026-06-05T09:40:07.881879+00:00",
+    "content_hash": "db1f7b552ad8fc410cab7bfd2e669150ce50f840365e4e36e008f693cbc482f2",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Filestore",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5f70d46a46b7",
+    "source_url": "https://raw.githubusercontent.com/rpgreen/sam-java-template/7d7751bba70c552ebfd797c9c5012964e009d2e4/swagger.yaml",
+    "fetched_at": "2026-06-05T09:40:20.780152+00:00",
+    "content_hash": "f6933b89dc2658a186d2f56d0c660bb0af15c8b95e866ba35d73f3abb8a816be",
+    "info_version": null,
+    "status": "new",
+    "title": "SamJavaTemplate",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

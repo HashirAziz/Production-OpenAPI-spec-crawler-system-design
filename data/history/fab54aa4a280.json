@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "fab54aa4a280",
+    "source_url": "https://raw.githubusercontent.com/javasparrow/agricola-server/1b6cba9703ce435aa6b5fb5b6445e267add9255e/swagger.yaml",
+    "fetched_at": "2026-06-05T09:40:10.198893+00:00",
+    "content_hash": "ac3cdd1fb327b95dcc4da68d8cb03c321b330a8cad900753c3662e146d3de982",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Agricola Server",
+    "openapi_version": "swagger_2",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

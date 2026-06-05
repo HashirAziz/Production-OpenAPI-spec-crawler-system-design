@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e01f1060048c",
+    "source_url": "https://raw.githubusercontent.com/Rainbow-CPaaS/Rainbow-S2S-StarterKit-NodeJS/379ef480df64d9e5acdb9b4e7326e56e61cd5cb0/openapi-specifications/rainbow_authent_portal/swagger.json.old",
+    "fetched_at": "2026-06-05T09:40:42.641427+00:00",
+    "content_hash": "cc078ffc7b54820f7190a59b55fef49386ecc3d84ae6f3095b5acabc7ece45c8",
+    "info_version": "1.78.2",
+    "status": "new",
+    "title": "Rainbow authent portal",
+    "openapi_version": "swagger_2",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

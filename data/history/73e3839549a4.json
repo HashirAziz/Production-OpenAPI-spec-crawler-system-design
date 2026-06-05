@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "73e3839549a4",
+    "source_url": "https://raw.githubusercontent.com/BonyanOSS/Bonyan-API/364a9996bba95fc177602644015c366dece8068f/openapi.yaml",
+    "fetched_at": "2026-06-05T09:38:57.735309+00:00",
+    "content_hash": "54e7a96c0309b693fc246822f1513c8e9a5c00c87d13f23a50aac1154e05f24d",
+    "info_version": "2.0.0",
+    "status": "new",
+    "title": "Bonyan-API",
+    "openapi_version": "openapi_3",
+    "paths_count": 31,
+    "path_diff": null
+  }
+]

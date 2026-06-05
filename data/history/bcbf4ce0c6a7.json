@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "bcbf4ce0c6a7",
+    "source_url": "https://raw.githubusercontent.com/jukasdrj/swiftwing/2f2d1f651f1fe32369360a7e0d6fa51b660ef87e/swiftwing/OpenAPI/talaria-openapi.yaml.tmp",
+    "fetched_at": "2026-06-05T09:38:46.457078+00:00",
+    "content_hash": "d4035cbe0386cab53154e801ba4dd4f9ff4fb7392d659bde5ccaf0e4022260c4",
+    "info_version": "3.7.0",
+    "status": "new",
+    "title": "Talaria V3 API",
+    "openapi_version": "openapi_3",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

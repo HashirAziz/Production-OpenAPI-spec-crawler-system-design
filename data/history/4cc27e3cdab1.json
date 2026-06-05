@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4cc27e3cdab1",
+    "source_url": "https://raw.githubusercontent.com/menarayanzshrestha/golang-microservice/7f775de74c5c20e7cc1329b2719b9ba74c47ff9b/swagger.yaml",
+    "fetched_at": "2026-06-05T09:40:17.436467+00:00",
+    "content_hash": "dd2b8c5759ebb88fd056c1ed4893168a43e1c96b056feebec8c245f74742749f",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "of Product API",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

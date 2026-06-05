@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "67932f59c516",
+    "source_url": "https://raw.githubusercontent.com/tully-test/test666/0394d3887074bdb43c24c3d0745a39f0b7ca0355/swagger.yaml",
+    "fetched_at": "2026-06-05T09:40:02.244151+00:00",
+    "content_hash": "69f478d388865026ff04ae5c2409668f09dbffd5c3f749e6b1e90d1d52275dd9",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "dfsdfsfsfdf",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "09dc4576752e",
+    "source_url": "https://raw.githubusercontent.com/voyagermesh/ruby/bfea63565baeb734e977be5cd997bd1de52c6fde/kubernetes/swagger.json.unprocessed",
+    "fetched_at": "2026-06-05T09:40:59.354950+00:00",
+    "content_hash": "bf3c06aa27e24c08493fdfba43794b68ad819f3c5e6fc264e7c5d2c0d9cc0e03",
+    "info_version": "v0",
+    "status": "new",
+    "title": "voyager-server",
+    "openapi_version": "swagger_2",
+    "paths_count": 15,
+    "path_diff": null
+  }
+]

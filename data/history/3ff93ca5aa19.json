@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3ff93ca5aa19",
+    "source_url": "https://raw.githubusercontent.com/SungardAS/aws-services-onboarding/cef0d94e97c687fdf245c3929c49fc6277201f18/swagger.yaml",
+    "fetched_at": "2026-06-05T09:40:21.049434+00:00",
+    "content_hash": "3eabdae14673e27e04f5713429ff4bb8f7a8b31d7c03b51f0da3f8c13e2846bd",
+    "info_version": "2017-01-10T20:57:23Z",
+    "status": "new",
+    "title": "Onboarding API Interfaces",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

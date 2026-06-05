@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9e55d7bf273e",
+    "source_url": "https://raw.githubusercontent.com/PaprikaMaximiliano/repo-realease-notifier/00ba5d3b41ff7a9af9dd5d14e4441e2a6a5da78c/swagger.yaml",
+    "fetched_at": "2026-06-05T09:40:06.762967+00:00",
+    "content_hash": "2847cadbe6682031e9bdd913bf9da3b17fbea02d4c1279b65776c8d200f1fe31",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "GitHub Release Notification API",
+    "openapi_version": "swagger_2",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

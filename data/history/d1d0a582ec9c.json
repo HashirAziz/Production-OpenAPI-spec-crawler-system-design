@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d1d0a582ec9c",
+    "source_url": "https://raw.githubusercontent.com/anandjat05/admin-service-api/09acc8afac7e2ea82d6c555912bbd36795a19e41/swagger.yaml",
+    "fetched_at": "2026-06-05T09:40:03.946138+00:00",
+    "content_hash": "b42a49d9f5b11379c7729ed6aa8f46a9a627d406dde0b8f58d0fdc4c093c4bbb",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Admin Service API",
+    "openapi_version": "swagger_2",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

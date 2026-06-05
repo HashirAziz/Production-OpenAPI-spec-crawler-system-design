@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "22df270eda5a",
+    "source_url": "https://raw.githubusercontent.com/pelageech/MathArena/6a80e85689249da5d2f955536e625425e171955a/swagger.yaml",
+    "fetched_at": "2026-06-05T09:40:08.522196+00:00",
+    "content_hash": "9da34f8f7c71ed610a415f6ae0da753a22d16ff8cd5f2e770c3ece42ed13e245",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "describes models for application.",
+    "openapi_version": "swagger_2",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d2393c99dbde",
+    "source_url": "https://raw.githubusercontent.com/SungardAS/aws-services-demo/990336a390de3db298220f0d5c8d8b30f2700eda/swagger.yaml",
+    "fetched_at": "2026-06-05T09:40:21.408612+00:00",
+    "content_hash": "ada8961736287cbfa2f2e5f6afd6a629ae0305621a85de02dda8abe2fac229a8",
+    "info_version": "2017-01-10T20:57:23Z",
+    "status": "new",
+    "title": "Demo API Interfaces",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

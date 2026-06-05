@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "bd356bb37645",
+    "source_url": "https://raw.githubusercontent.com/IsmailWebDev/Team-Blog-API/9a63e486b60029f4d32e20bfd6e9c6e46ab92ca4/swagger.yaml",
+    "fetched_at": "2026-06-05T09:40:18.006269+00:00",
+    "content_hash": "56ebdff3efbeca701229f6067913b454593d700fd6a8072f2a864671a7514db1",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Users, Posts, and Comments API",
+    "openapi_version": "swagger_2",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

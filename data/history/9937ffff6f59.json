@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9937ffff6f59",
+    "source_url": "https://raw.githubusercontent.com/AbbottF/BlazorInventory/e951b3c20393c4b430882702cac84da234ea1692/Swagger.json",
+    "fetched_at": "2026-06-05T09:40:41.436213+00:00",
+    "content_hash": "a442deec641842a801b40264fa46957d41ff582667c61f781e92c5fde456f252",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "KBO.InventoryApi",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

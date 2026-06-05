@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "cb5baebbab43",
+    "source_url": "https://raw.githubusercontent.com/SURFnet/eduhub-validator/7198b31189786556378f31a998bccc73b7ea78d9/profiles/eduxchange.openapi.json.license",
+    "fetched_at": "2026-06-05T09:39:37.246601+00:00",
+    "content_hash": "414a4bade3d4c071109c84244a3c406f90057c1128327862cc1781328b760f05",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "unknown",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

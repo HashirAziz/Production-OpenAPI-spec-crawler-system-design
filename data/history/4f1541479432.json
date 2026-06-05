@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4f1541479432",
+    "source_url": "https://raw.githubusercontent.com/DIVYANSHU-INDIA/PollingAPI/711c8b07b3064dfa4ceede8b53ab80a076fa925c/swagger.yaml",
+    "fetched_at": "2026-06-05T09:40:12.690547+00:00",
+    "content_hash": "32908b5741a6c8c99a49e1f99268798ef2943ebf19e4deb47a6e698272458e43",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Polling System API",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

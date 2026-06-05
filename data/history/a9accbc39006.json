@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a9accbc39006",
+    "source_url": "https://raw.githubusercontent.com/Nicolas-Mousten/Motorola-Radio-Group-Call-Management-API/4c79fdcaa42d82f0bd774d8ee60a919a4691947e/openAPI.yaml",
+    "fetched_at": "2026-06-05T09:38:46.747684+00:00",
+    "content_hash": "96b1bbefb302be63add1281b366720b76913698ff318e158de3432a3a3e45914",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Floor Control API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

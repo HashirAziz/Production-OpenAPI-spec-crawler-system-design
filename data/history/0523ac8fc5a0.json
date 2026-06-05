@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0523ac8fc5a0",
+    "source_url": "https://raw.githubusercontent.com/ArgoCrew/hematopy/02f50ee08eb66d491e32a71ba3f3b092087533da/openapi.yaml",
+    "fetched_at": "2026-06-05T09:38:59.762218+00:00",
+    "content_hash": "dfac934aefcf50535039ddcebcef2ffd0c2fa5393d96a5722c114d1a4cbaa5a6",
+    "info_version": "v1",
+    "status": "new",
+    "title": "Hematopy Web API",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

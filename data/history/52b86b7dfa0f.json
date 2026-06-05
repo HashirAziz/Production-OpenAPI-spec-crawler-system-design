@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "52b86b7dfa0f",
+    "source_url": "https://raw.githubusercontent.com/oah-health/oah-health-app/7ecda9def9e07923d2b88f0c254f3b36ab2e9c97/swagger.yaml",
+    "fetched_at": "2026-06-05T09:40:22.167849+00:00",
+    "content_hash": "c00e1dc48ec174dddae2e60cf9807d498be3f0f4165551748d6df7896e7aac1a",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "OAH Health API",
+    "openapi_version": "swagger_2",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

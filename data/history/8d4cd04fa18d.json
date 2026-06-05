@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8d4cd04fa18d",
+    "source_url": "https://raw.githubusercontent.com/KennethTaipe06/Pass-code-sender/f04fbf839553975d1aa01ceb653578f1f286c0d9/swagger.yaml",
+    "fetched_at": "2026-06-05T09:40:16.830443+00:00",
+    "content_hash": "b9075eb2c2669c30e92c6ec6dad56b15c695a6b451d4b849d7a7f5a47a161b42",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Email Verification API",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

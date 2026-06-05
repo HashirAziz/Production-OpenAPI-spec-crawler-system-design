@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a035e02d42b4",
+    "source_url": "https://raw.githubusercontent.com/PauliusPreiksaCode/saitynai-hotel/52960ab02096df36963e8f91db81ad7cbe6240a1/OpenAPI.json",
+    "fetched_at": "2026-06-05T09:39:28.800004+00:00",
+    "content_hash": "d62192cfcd380fb1cdee208a2460825e94f49704471c094088e556ab354cea28",
+    "info_version": "v1",
+    "status": "new",
+    "title": "Hotel API",
+    "openapi_version": "openapi_3",
+    "paths_count": 12,
+    "path_diff": null
+  }
+]

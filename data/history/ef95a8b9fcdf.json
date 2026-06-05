@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ef95a8b9fcdf",
+    "source_url": "https://raw.githubusercontent.com/bouyahiaahmed/AI_Attacks/de2e9af5c2757384f0b7867eb17a47f6f9bb7912/attacks/land-service/report/probe__swagger.json.body",
+    "fetched_at": "2026-06-05T09:41:02.200025+00:00",
+    "content_hash": "37ec4665a8102d115ffd1ac20dae94c98b4dac64b0c1a68228aa2a531caeb35d",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "unknown",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

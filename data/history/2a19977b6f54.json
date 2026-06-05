@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2a19977b6f54",
+    "source_url": "https://raw.githubusercontent.com/xera-ai/xera/3e65d220f435e4dc1820bfeb1a482db06b6339fa/packages/cli/templates/openapi.yaml.tmpl",
+    "fetched_at": "2026-06-05T09:39:01.318321+00:00",
+    "content_hash": "a72b03d2494b78995a8837faef62ced29bfb5d658cdb8d625b92ec394b6cd256",
+    "info_version": "0.0.0",
+    "status": "new",
+    "title": "TODO - your API",
+    "openapi_version": "openapi_3",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b87e544d45f3",
+    "source_url": "https://raw.githubusercontent.com/NikXpro/argentbank-app/5fe3fc333bfc14d610df563edaebeca8a97ab121/swagger.yaml",
+    "fetched_at": "2026-06-05T09:40:02.532815+00:00",
+    "content_hash": "5578de6821291453fd3c7736bd59b4bfbf675d5bd24b7fbf1f4bc67e7d4700ba",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Bank Argent API documentation",
+    "openapi_version": "swagger_2",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

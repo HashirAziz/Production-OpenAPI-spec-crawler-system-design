@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "35fce35b4023",
+    "source_url": "https://raw.githubusercontent.com/DheerajNair123/backend-assignment/67aadc3a282be9351a8f5b9c847da325037bfc02/swagger.yaml",
+    "fetched_at": "2026-06-05T09:40:12.433313+00:00",
+    "content_hash": "86cf3686ce80a8dc57c5eeba1d4a84035e0493168a66837c5dbcc4bfbf3b4491",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Backend Developer Intern – API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

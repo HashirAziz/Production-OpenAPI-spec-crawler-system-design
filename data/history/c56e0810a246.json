@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c56e0810a246",
+    "source_url": "https://raw.githubusercontent.com/AlexSartori/progettosauri-se2-project/9c9a35a9e9fce7e4bfd7b824aadf64ae4e0336f9/swagger.yaml",
+    "fetched_at": "2026-06-05T09:40:16.279278+00:00",
+    "content_hash": "8496fd491fe1db89b07c8f4af87a917d964f3eaffa5085bae4539927e87db912",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "progettosauri",
+    "openapi_version": "swagger_2",
+    "paths_count": 17,
+    "path_diff": null
+  }
+]

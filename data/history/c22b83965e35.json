@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c22b83965e35",
+    "source_url": "https://raw.githubusercontent.com/voyagermesh/javascript/a6694dd5fac7e2eb74a55d23d582812b3169df92/node-client/swagger.json.unprocessed",
+    "fetched_at": "2026-06-05T09:41:00.219070+00:00",
+    "content_hash": "bf3c06aa27e24c08493fdfba43794b68ad819f3c5e6fc264e7c5d2c0d9cc0e03",
+    "info_version": "v0",
+    "status": "new",
+    "title": "voyager-server",
+    "openapi_version": "swagger_2",
+    "paths_count": 15,
+    "path_diff": null
+  }
+]

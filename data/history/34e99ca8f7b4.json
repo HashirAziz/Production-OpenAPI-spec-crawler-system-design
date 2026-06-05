@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "34e99ca8f7b4",
+    "source_url": "https://raw.githubusercontent.com/hotaisle/hotaisle-cli/dbef4e44692a2efdd7bed50248c8bdd4d102a89f/swagger.json",
+    "fetched_at": "2026-06-05T09:41:04.263844+00:00",
+    "content_hash": "300abd76af16dc0cf936574c8e5752a4114d2610c18c8a536db8ff738ee76651",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "hotaisle",
+    "openapi_version": "swagger_2",
+    "paths_count": 37,
+    "path_diff": null
+  }
+]

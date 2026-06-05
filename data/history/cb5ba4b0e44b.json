@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "cb5ba4b0e44b",
+    "source_url": "https://raw.githubusercontent.com/uranium93/swagger-validation-express/ced00612614cb16217a85f95ed5cbe34b9135fdb/swagger.json",
+    "fetched_at": "2026-06-05T09:41:08.214554+00:00",
+    "content_hash": "1a601c373dda61748f3f7a2d0b737f27940d8b540f187d021293f85386a06398",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "exemple",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

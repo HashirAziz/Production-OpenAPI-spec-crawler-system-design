@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "04c349da2912",
+    "source_url": "https://raw.githubusercontent.com/osu-mist/locations-frontend-api/26910dd633ec72d0b5fba37cfacbad4b183a8fb8/swagger.yaml",
+    "fetched_at": "2026-06-05T09:40:21.806298+00:00",
+    "content_hash": "2f0f6248c5ea85746c4a85d37253fd67e1d57579aa2ccf376087e1fe5349a2f6",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "Locations API",
+    "openapi_version": "swagger_2",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

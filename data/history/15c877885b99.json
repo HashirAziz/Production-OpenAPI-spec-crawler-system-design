@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "15c877885b99",
+    "source_url": "https://raw.githubusercontent.com/hathora/cli/80c83f69a6d36f2c9ea8561aaf4009fd5b501c18/swagger.json",
+    "fetched_at": "2026-06-05T09:41:01.371324+00:00",
+    "content_hash": "917bc1b845c5ca2bd685246026fc44b3b0c0bf29ccf6885b216fe314204e8b68",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "Hathora Cloud API",
+    "openapi_version": "openapi_3",
+    "paths_count": 71,
+    "path_diff": null
+  }
+]

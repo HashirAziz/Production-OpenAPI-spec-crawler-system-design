@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "be45a9ed6b99",
+    "source_url": "https://raw.githubusercontent.com/eyedia/EyedeeaPhotos/985619e6922d2f9b2dbec3b38b0da9ffa15943e1/server/swagger.json.bak",
+    "fetched_at": "2026-06-05T09:40:34.886460+00:00",
+    "content_hash": "b5f083a2633c3e1538514624a1b74fc58e4a53894529c1c3120471433fd838c1",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Eyedeea Photos API",
+    "openapi_version": "swagger_2",
+    "paths_count": 21,
+    "path_diff": null
+  }
+]

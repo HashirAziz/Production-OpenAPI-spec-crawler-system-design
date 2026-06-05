@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "cd41ea147f2a",
+    "source_url": "https://raw.githubusercontent.com/RudradevArya/Educase-OA/b90333a59b5e12e2c1253acf444e71c74e873c39/swagger.yaml",
+    "fetched_at": "2026-06-05T09:40:11.226091+00:00",
+    "content_hash": "178d70c3df37f4f8d2ad44f1998c3ed98d31d405ffaf4958424bfebaed16a373",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Rudradev's Educase-OA Schl API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

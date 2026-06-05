@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "64eb0572eaf8",
+    "source_url": "https://raw.githubusercontent.com/zzf03680147/synchronizeSwagger/10f8c1a559af24344c18dfe965366a355f93eeb8/swagger.json",
+    "fetched_at": "2026-06-05T09:41:00.969857+00:00",
+    "content_hash": "5ce9f738f8444fd919452fe794e4d8195fa2924e337888090407560cf83e4627",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Swagger Petstore",
+    "openapi_version": "swagger_2",
+    "paths_count": 14,
+    "path_diff": null
+  }
+]

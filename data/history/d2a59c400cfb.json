@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d2a59c400cfb",
+    "source_url": "https://raw.githubusercontent.com/pagopa/selfcare-external-api-backend/fb6f1e303d4adf722765fc1f63ba16d30e00ffb2/infra/apim_v2/api/monitor/openapi.json.tpl",
+    "fetched_at": "2026-06-05T09:39:35.312254+00:00",
+    "content_hash": "fddefcbcadb719e66dd2bf6598dd30ce61c21e27f09958e373476daefc44163e",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "monitor",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

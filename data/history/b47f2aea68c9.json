@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b47f2aea68c9",
+    "source_url": "https://raw.githubusercontent.com/techmatters/serverless/70442a10bcaa140772ce8d46db397109cafc69e8/swagger.yaml",
+    "fetched_at": "2026-06-05T09:40:09.487070+00:00",
+    "content_hash": "860a40fe9dcb0930115b6a4dda7a605f780bf4b158b0a7f50ba18676ff1b2654",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Tech Matters serverless API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

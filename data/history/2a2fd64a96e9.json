@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2a2fd64a96e9",
+    "source_url": "https://raw.githubusercontent.com/zhaoyi0113/phonebook-service/c14725326a183acfd214201698c2e2d19061d760/swagger.yaml",
+    "fetched_at": "2026-06-05T09:40:02.797633+00:00",
+    "content_hash": "3b6cb0bb34821b73a612f46b10658d0ea2055774a60ca7fa3c7945f4fe78ad29",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Swagger Phonebook",
+    "openapi_version": "swagger_2",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

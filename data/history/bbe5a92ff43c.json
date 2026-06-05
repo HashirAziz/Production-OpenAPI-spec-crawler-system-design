@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "bbe5a92ff43c",
+    "source_url": "https://raw.githubusercontent.com/nafisdev/SwaggerActor/389960b41483f515c56e0b34d6293b2104d19123/swagger.yaml",
+    "fetched_at": "2026-06-05T09:40:03.050444+00:00",
+    "content_hash": "70aefeb737c184a3059ae50edc04f249ccd5527fcb846a2624b21d42c904379c",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "BedOff",
+    "openapi_version": "swagger_2",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

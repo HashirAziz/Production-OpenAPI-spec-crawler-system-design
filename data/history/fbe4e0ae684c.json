@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "fbe4e0ae684c",
+    "source_url": "https://raw.githubusercontent.com/WorldHealthOrganization/smart-html/f226515c645511edf7a0aa7d83bbff36c47f80d5/trust/v1.4.0/schemas/StructureDefinition-CWT.openapi.json1",
+    "fetched_at": "2026-06-05T09:39:27.172356+00:00",
+    "content_hash": "0db9a6886c5351d0f42d47c267b526b6532d1504aa748c63b1d7aee2750e1b84",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "CBOR Web Token (CWT) Claim API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

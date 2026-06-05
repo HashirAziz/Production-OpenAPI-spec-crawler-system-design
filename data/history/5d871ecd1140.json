@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5d871ecd1140",
+    "source_url": "https://raw.githubusercontent.com/vedantgannu/CloudComputingandBigDataProject/ae5234df5aa1b11da85775b770686d14adfa615d/swagger.yaml",
+    "fetched_at": "2026-06-05T09:40:05.426123+00:00",
+    "content_hash": "7052613e9f44542a426a0c1915c434da7f6146bf7fa6f9d13847015b461eb10b",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Pharmacy Adherence Solution API",
+    "openapi_version": "swagger_2",
+    "paths_count": 12,
+    "path_diff": null
+  }
+]

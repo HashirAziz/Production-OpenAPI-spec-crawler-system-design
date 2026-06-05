@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f833216e48ed",
+    "source_url": "https://raw.githubusercontent.com/wbhob/mistral/6fd0aea1e3a22cb623028e0d482deca0d4d051e9/openapi.yaml",
+    "fetched_at": "2026-06-05T09:39:04.633151+00:00",
+    "content_hash": "817aa4025119dc9306cbba56fdd90ce68b733ce0b69df74bb852b163af7965d9",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Mistral AI API",
+    "openapi_version": "openapi_3",
+    "paths_count": 45,
+    "path_diff": null
+  }
+]

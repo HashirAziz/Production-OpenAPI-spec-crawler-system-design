@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a2b818aa4600",
+    "source_url": "https://raw.githubusercontent.com/4lB3RT/mercadona/d9a3208ed6c3525200d2b362fdd3abea731048f8/openApi.yaml",
+    "fetched_at": "2026-06-05T09:38:51.635151+00:00",
+    "content_hash": "3df3193bc0f810da3dd999871ebc251bed85a529c5dd991304f48be48f0854ec",
+    "info_version": "0.1.9",
+    "status": "new",
+    "title": "Mercadona API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "88c5976522fb",
+    "source_url": "https://raw.githubusercontent.com/EPITECH-ESPEEN/ESPEEN/5a97368e39dfeecc5c49ca41b45075e830678dd3/swagger.yaml",
+    "fetched_at": "2026-06-05T09:40:17.108660+00:00",
+    "content_hash": "6d75f89c4bbfd5fba4b1af32486cd98be5a8526235207649984e0160e898802a",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "ESPEEN AREA",
+    "openapi_version": "openapi_3",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

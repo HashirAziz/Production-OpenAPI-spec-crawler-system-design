@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2af3d7354fd2",
+    "source_url": "https://raw.githubusercontent.com/jacksonhedge/hedgepayments/16d1de8dbe92a8def8cd4bccc4832101da30dc5c/docs/api-reference/openapi.json.backup",
+    "fetched_at": "2026-06-05T09:39:50.252990+00:00",
+    "content_hash": "fcb6a3dcf745ace0196f35459fca7b5828f683aeaaaaf194b62efd518ae1c66f",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "HedgePayments API",
+    "openapi_version": "openapi_3",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

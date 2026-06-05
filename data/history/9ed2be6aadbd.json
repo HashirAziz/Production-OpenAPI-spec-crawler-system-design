@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9ed2be6aadbd",
+    "source_url": "https://raw.githubusercontent.com/olebedev/go-gamp/516fda659f48d4c14c1566024e2e2ee6853c81ff/swagger.yaml",
+    "fetched_at": "2026-06-05T09:40:15.128670+00:00",
+    "content_hash": "1f9027f348d3b06e78b98be35d03215eb5dd81a5d132d3a508e4d7c31ac37e16",
+    "info_version": "1",
+    "status": "new",
+    "title": "Measurement Protocol",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

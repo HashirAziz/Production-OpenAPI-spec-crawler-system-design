@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "31e63eb9cbef",
+    "source_url": "https://raw.githubusercontent.com/leojm27/JAVA-bootcamp-ms-product/bf06a45228fa9fe8addaaa3b55a8467fffe520c6/Swagger.yaml",
+    "fetched_at": "2026-06-05T09:39:57.277066+00:00",
+    "content_hash": "aac22c968a158922b4613633be319d3c846b8efee0f2311b08895d9c8a7d2c46",
+    "info_version": "v1",
+    "status": "new",
+    "title": "MICROSERVICIO 'MS-PRODUCT'",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

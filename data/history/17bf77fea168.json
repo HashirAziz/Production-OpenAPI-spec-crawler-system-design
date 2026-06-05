@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "17bf77fea168",
+    "source_url": "https://raw.githubusercontent.com/KingOfBugbounty/KingOfBugBountyTips/6943f96417a9b98a06efc626ff5260770c67ea73/swagger.yaml",
+    "fetched_at": "2026-06-05T09:39:54.047141+00:00",
+    "content_hash": "32d9a7a03b314e55cfeb8f5a317fe55440a9cdfae31d07c7934ebaeb25fd87fa",
+    "info_version": null,
+    "status": "new",
+    "title": "Example yaml.spec",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

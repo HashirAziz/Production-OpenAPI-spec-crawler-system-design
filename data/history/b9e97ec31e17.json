@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b9e97ec31e17",
+    "source_url": "https://raw.githubusercontent.com/onfido/onfido-openapi-spec/ff27b9c51e88042d95d7e8336d8c1d322f30a80c/openapi.yaml",
+    "fetched_at": "2026-06-05T09:38:56.749473+00:00",
+    "content_hash": "59de7137de1e3db7f0ef068db984a49f1303ca40c2854c8364281a6256ef9b9c",
+    "info_version": "v3.6",
+    "status": "new",
+    "title": "Onfido Public API v3.6",
+    "openapi_version": "openapi_3",
+    "paths_count": 61,
+    "path_diff": null
+  }
+]

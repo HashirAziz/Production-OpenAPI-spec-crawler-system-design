@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e6e1f0704b4f",
+    "source_url": "https://raw.githubusercontent.com/5-say/goctl-ap/6c99f7479c1bd122848b458fbe981e9e03745683/cmd/service/tpl/app/api/doc/swagger.json.tpl",
+    "fetched_at": "2026-06-05T09:40:51.883553+00:00",
+    "content_hash": "2d400cbf0df6f44ccc208dcdf3642c98075324b7d5a3b52475165f67590c416a",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "swagger_2",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

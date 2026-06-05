@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a626e55a1219",
+    "source_url": "https://raw.githubusercontent.com/sobebarali/InvoiceManager/c061c84a0c493d2a546e26aab845a0ccc71ba67b/swagger.yaml",
+    "fetched_at": "2026-06-05T09:40:05.148815+00:00",
+    "content_hash": "f318066941078dfc3f39bcce38ce37df4de80fb7e96fe0cb3bef397797ecf000",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "unknown",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f27af22dbf2a",
+    "source_url": "https://raw.githubusercontent.com/amrovic90/sky-movies/1b5a1ab4081fcb6a5d0ffe31c8462276e380c4c3/swagger.yaml",
+    "fetched_at": "2026-06-05T09:40:19.562727+00:00",
+    "content_hash": "7aad8244d350d1cccd26dc44c29ffeb072f3fdc04a3af5654efdfb7eecd6db02",
+    "info_version": "1.0.1",
+    "status": "new",
+    "title": "Studio Ghibli API",
+    "openapi_version": "swagger_2",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

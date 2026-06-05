@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "7087013d6ab2",
+    "source_url": "https://raw.githubusercontent.com/jeescu/express-rest-api/492da54328f834b64068a65189b1b65ef048fb66/swagger.json",
+    "fetched_at": "2026-06-05T09:40:56.100611+00:00",
+    "content_hash": "6a10486ff91bc9083d032aa430d108930b3e17fc014dbe18209abcb62438f0ad",
+    "info_version": "0.0.0",
+    "status": "new",
+    "title": "Express REST API",
+    "openapi_version": "swagger_2",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

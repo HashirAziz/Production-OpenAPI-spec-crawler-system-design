@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a447bcd35865",
+    "source_url": "https://raw.githubusercontent.com/DonThatch/blogging_api/b7e17496c7d33164d3740e77dc6707d71e4403a2/swagger.yaml",
+    "fetched_at": "2026-06-05T09:40:08.195734+00:00",
+    "content_hash": "2fce4799a44c76c8c8ba8090652157a2af9ea0d20ca7eacb58b0f04b7d5962ed",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "unknown",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

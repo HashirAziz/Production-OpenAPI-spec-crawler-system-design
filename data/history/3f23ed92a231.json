@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3f23ed92a231",
+    "source_url": "https://raw.githubusercontent.com/DavidTausend/cloud-resume-challenge/c2c811c297e69719c6cd6a844725f6ac047e9b5b/gcp/openapi.yaml.tmpl%E2%80%8E",
+    "fetched_at": "2026-06-05T09:39:06.544960+00:00",
+    "content_hash": "3d5779aa832a930a2cf58be08232dd8284b71335ea74db15f3ec91c0d8a299a6",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "${TITLE}",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

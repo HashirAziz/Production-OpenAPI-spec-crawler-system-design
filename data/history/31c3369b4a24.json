@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "31c3369b4a24",
+    "source_url": "https://raw.githubusercontent.com/anthonyikeda/contact-api/5c822725e21ce4a37502e2a8dcfdf79d39cb786f/swagger.yaml",
+    "fetched_at": "2026-06-05T09:40:12.168164+00:00",
+    "content_hash": "62002d4508703b2e1ee9396a077ff9ff333009c9f075a05d90a60360426423b7",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "Contact REST API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

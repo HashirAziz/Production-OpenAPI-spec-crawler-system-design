@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "07bea5b19488",
+    "source_url": "https://raw.githubusercontent.com/AbdallaTamer/Library-Management-API/10362e6239f72478020745dcaf23fdc8fd463a34/swagger.yaml",
+    "fetched_at": "2026-06-05T09:40:07.623521+00:00",
+    "content_hash": "1a2bb384074e280174ca74680acc94583afecf941fd0e3f900eee45b33df2552",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Library Management API",
+    "openapi_version": "swagger_2",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

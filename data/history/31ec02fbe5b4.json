@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "31ec02fbe5b4",
+    "source_url": "https://raw.githubusercontent.com/atharva3112/codebase/9576dd2b06e54038e7387f3e4461800f8be04986/swagger.yaml",
+    "fetched_at": "2026-06-05T09:40:08.787169+00:00",
+    "content_hash": "331e47d9cfe0b5c570773c0292f74a4052c697cb4ef90e01340cab1e58bbc60e",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "SEM Assignment 4",
+    "openapi_version": "swagger_2",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

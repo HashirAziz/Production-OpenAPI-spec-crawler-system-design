@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "42babd0131b3",
+    "source_url": "https://raw.githubusercontent.com/bohe-in/polar-public-sdk-client-ts/8ff80ee28e0d3c64e1e10e38b27e91ac5f459ce1/openAPI.json",
+    "fetched_at": "2026-06-05T09:39:38.422907+00:00",
+    "content_hash": "fd89211813b545dd572c3d492b056f3dbbd95a24ce7a66e04e3ea75fc3dc3023",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Polar Public SDK Server",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

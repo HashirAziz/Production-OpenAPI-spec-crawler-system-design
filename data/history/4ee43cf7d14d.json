@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4ee43cf7d14d",
+    "source_url": "https://raw.githubusercontent.com/tkhs0813/node-api/2767aab3100bbb1035e2896b880c352195334d78/swagger.yaml",
+    "fetched_at": "2026-06-05T09:40:18.253646+00:00",
+    "content_hash": "9a8685ab7a2b2d5a426b953a6bb67d6920defec6f1a1dd8912077cc6a8551d9d",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Node Rest API documentation",
+    "openapi_version": "swagger_2",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "219e254ca207",
+    "source_url": "https://raw.githubusercontent.com/GlassEnterprise/GlasseEnterprise-mcp/14c6a51d94969e8379bb6e01c6a00c22e5184729/openAPI.yaml",
+    "fetched_at": "2026-06-05T09:38:44.571990+00:00",
+    "content_hash": "cad65fde3ff716c631ee8b961ce17f7681eeca1326aedf52b3b3c4a73316f371",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Callback Example",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

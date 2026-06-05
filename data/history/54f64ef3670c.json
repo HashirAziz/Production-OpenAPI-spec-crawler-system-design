@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "54f64ef3670c",
+    "source_url": "https://raw.githubusercontent.com/kmobeng/SnapVault-API/3be2d0aefdf04032e10feba182c6473db77627e2/swagger.yaml",
+    "fetched_at": "2026-06-05T09:40:13.246328+00:00",
+    "content_hash": "d39ab771d9ee1ed45f1065d78cb91add3a294afa9b91089eb3c8ad2eb3160caa",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "SnapVault API",
+    "openapi_version": "openapi_3",
+    "paths_count": 35,
+    "path_diff": null
+  }
+]

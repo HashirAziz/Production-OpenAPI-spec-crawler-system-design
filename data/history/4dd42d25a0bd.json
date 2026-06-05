@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4dd42d25a0bd",
+    "source_url": "https://raw.githubusercontent.com/sbarquero/MyRoutes.Back/82e35da34cd2209699c1587ea8c02dc14c2841fd/swagger.yaml",
+    "fetched_at": "2026-06-05T09:39:59.419032+00:00",
+    "content_hash": "fd337a858a08622b776bc4812880d0a03524a6542d74797f5ac35a1641368b90",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "unknown",
+    "paths_count": 16,
+    "path_diff": null
+  }
+]

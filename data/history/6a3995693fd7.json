@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6a3995693fd7",
+    "source_url": "https://raw.githubusercontent.com/PacktPublishing/Node.js-Complete-Reference-Guide/079d75a7baace84466883ba0c45796fa161fc785/Module%2002/Chapter09/static/swagger.json.txt",
+    "fetched_at": "2026-06-05T09:40:45.052677+00:00",
+    "content_hash": "bcb96f729be80c5d714ca2bb5e69d2efbff8fde1f94683d0f390ce93e2d55d61",
+    "info_version": "v1",
+    "status": "new",
+    "title": "Catalog API Documentation",
+    "openapi_version": "swagger_2",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

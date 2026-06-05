@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f3f1dd77520c",
+    "source_url": "https://raw.githubusercontent.com/giuliazc/mlops-neural-machine-translation/e071531509a02b27d5b3b4dd9ae718c8d1377478/infra/aws/api-gateway/openapi.yaml.tftpl",
+    "fetched_at": "2026-06-05T09:38:48.955177+00:00",
+    "content_hash": "06cb1ef0bf3a82d9d8a5483af3d3acee13f7b3e1dd3b0043a4a456d0ed9be6fd",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "${api_name}",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

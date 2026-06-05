@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6243f4b77fe9",
+    "source_url": "https://raw.githubusercontent.com/intruder-io/autoswagger/6859eaf2266387f8e12ce024eb6fd3ed0020c4dd/swagger.yaml",
+    "fetched_at": "2026-06-05T09:39:54.821655+00:00",
+    "content_hash": "cc8f66f544cf961346cd24504909b3e7559aaa47aec8181a3f776a4e8805e747",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "unknown",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

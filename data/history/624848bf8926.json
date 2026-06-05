@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "624848bf8926",
+    "source_url": "https://raw.githubusercontent.com/kirushikan0508/DriveLoop/78eb7f0ae3f96786b0704c4f72a70dd3ae696881/swagger.yaml",
+    "fetched_at": "2026-06-05T09:40:11.562076+00:00",
+    "content_hash": "515b6c8509a6e01304512f2ee0e826949a9e5c8eb1a488d639dd7e907821b1c3",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "DriveLoop API",
+    "openapi_version": "openapi_3",
+    "paths_count": 43,
+    "path_diff": null
+  }
+]

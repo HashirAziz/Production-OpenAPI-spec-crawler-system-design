@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3d5671fad9b7",
+    "source_url": "https://raw.githubusercontent.com/sachin-pikle/test-api/7013e2652ee115a618f5a38fce05c1889a914eab/swagger.yaml",
+    "fetched_at": "2026-06-05T09:40:03.656533+00:00",
+    "content_hash": "64af0d112dfd25e4a1679d6370ee3ae5175efe88b0ad0861cde43a0ba40c2568",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "product-catalog",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1a3f260ea3c7",
+    "source_url": "https://raw.githubusercontent.com/kindasorrow/FleetApiLaravel/0e6184ae5a6ff0ac8eb14d7f249b3ae4bb890435/swagger.yaml",
+    "fetched_at": "2026-06-05T09:40:10.961403+00:00",
+    "content_hash": "3d3bfabf5238145493eeb6bedf1657ba414553c5f1bfb3a6b5db7d3580b55e61",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Company Fleet API",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

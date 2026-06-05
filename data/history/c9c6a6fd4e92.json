@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c9c6a6fd4e92",
+    "source_url": "https://raw.githubusercontent.com/Hitachi/node-red-contrib-opensky-network/4997915b8cbdca1c8320f7fc87bb6eaff641dca0/swagger.yaml",
+    "fetched_at": "2026-06-05T09:40:14.531036+00:00",
+    "content_hash": "e9ed04c52c3317a4865a9a443073146f357c8004a80edd310d33485f01810128",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "OpenSky Network",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

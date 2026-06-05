@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5f4037e2bfbe",
+    "source_url": "https://raw.githubusercontent.com/rixtrayker/uptime-monitoring/6db75c29d23c865ee1d6c04a2de0b037159f90f8/swagger.yaml",
+    "fetched_at": "2026-06-05T09:40:06.229526+00:00",
+    "content_hash": "8f6b57ff55e6adcdbee4b968b047eb31936bad36683575a8bbc9dbc4b89a3306",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Monitoring Service API Documentation",
+    "openapi_version": "swagger_2",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "547ac82a447c",
+    "source_url": "https://raw.githubusercontent.com/filipio/athletics-backend/2264f53e8ea9e2259be44336db9c51ed8ceed47d/openapi.yaml",
+    "fetched_at": "2026-06-05T09:39:03.798359+00:00",
+    "content_hash": "9fd7a044ca91f8d6c18ac9422dc8e7cbf832a2079ee7375407811860926fa7dc",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Athletics Backend API",
+    "openapi_version": "openapi_3",
+    "paths_count": 26,
+    "path_diff": null
+  }
+]

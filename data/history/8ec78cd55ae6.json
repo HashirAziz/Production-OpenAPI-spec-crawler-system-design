@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8ec78cd55ae6",
+    "source_url": "https://raw.githubusercontent.com/bitovi-enterprise/monolith-app/839bfb7b4cfbd4e5054c682fd2cea69c4868828c/src/orders/api/openapi.yaml.backup",
+    "fetched_at": "2026-06-05T09:38:59.300746+00:00",
+    "content_hash": "eb1b358a3ff484a2c4f224c53bd17a4d54ae5ba998bb45dcb636ea2a565a090b",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Order Service API",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "de87dfed7b12",
+    "source_url": "https://raw.githubusercontent.com/pyleglise/ArgentBankFront/3484291803144b757083dc1cc6d78a1e3f70de2a/swagger.yaml",
+    "fetched_at": "2026-06-05T09:40:04.555791+00:00",
+    "content_hash": "f8b59678bc7e07655a6bc77796aa8b17b3dcdae5e745e8e3c7ffdf343ccc71f5",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Bank Argent API transaction documentation",
+    "openapi_version": "swagger_2",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

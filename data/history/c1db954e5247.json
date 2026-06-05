@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c1db954e5247",
+    "source_url": "https://raw.githubusercontent.com/Dimas4/Django-Rest-Framework/09746e9058303a98dc47476f0a253928e811f3e1/swagger.yaml",
+    "fetched_at": "2026-06-05T09:40:18.933667+00:00",
+    "content_hash": "dd7a5f61b5d861066c9df07538cccb06955ea5885de0983b0ddb355e07acd20f",
+    "info_version": "v1",
+    "status": "new",
+    "title": "Company-Employee API",
+    "openapi_version": "swagger_2",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

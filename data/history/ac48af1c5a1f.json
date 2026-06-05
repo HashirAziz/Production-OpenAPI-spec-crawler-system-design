@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ac48af1c5a1f",
+    "source_url": "https://raw.githubusercontent.com/Nick-Kanneganti/lambda-dynamodb-api-sam/32274d973c03277a2688e155fd02b5b952fc3d00/swagger.yaml",
+    "fetched_at": "2026-06-05T09:40:20.092829+00:00",
+    "content_hash": "af380a916d8059b20796abe803e2962cfa360622cd90595d47774feac8b3118e",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "device-service",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

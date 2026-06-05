@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "57784aef6f51",
+    "source_url": "https://raw.githubusercontent.com/tamzidkarim/booking-service/4c5676e524e8ffd44cc2b89227c143ce775fcafb/swagger.yaml",
+    "fetched_at": "2026-06-05T09:40:05.677706+00:00",
+    "content_hash": "9d512f7f2ee8259b541f91bf9aff11ac236456b78c276b33d1d49e358d9d6b99",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "unknown",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]
