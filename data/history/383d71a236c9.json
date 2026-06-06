@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "383d71a236c9",
+    "source_url": "https://raw.githubusercontent.com/bohe-in/polar-backend-golang-sdk/09e6ffe1bb989f27898e016de8caceeee84eb049/openAPI.json",
+    "fetched_at": "2026-06-06T08:29:17.365212+00:00",
+    "content_hash": "ed1d1755619f0577b96b360eaabaab878903567dd16761e392300626db0ce78e",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Polar Backend SDK Server",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

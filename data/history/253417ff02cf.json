@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "253417ff02cf",
+    "source_url": "https://raw.githubusercontent.com/FliesWithWind/aws-api-versioning-tf/6f4448b93517ef661b3ec3f8c853b7852baea7a2/openAPI.json",
+    "fetched_at": "2026-06-06T08:29:17.514344+00:00",
+    "content_hash": "50ad4535c69f41c3c6143da3706a0c8226fdd3daad79bb2331602b7bdb6f7179",
+    "info_version": "2022-06-13",
+    "status": "new",
+    "title": "Sample Serverless API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

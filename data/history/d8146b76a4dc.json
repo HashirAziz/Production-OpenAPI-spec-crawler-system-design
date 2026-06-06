@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d8146b76a4dc",
+    "source_url": "https://raw.githubusercontent.com/Devansh-365/freellm/3a394fd73b53126adb406ab979798fed873a2d97/openapi.yaml",
+    "fetched_at": "2026-06-06T08:29:04.098302+00:00",
+    "content_hash": "db6ae1a074ac6d86d3095d81aa7bfb7977789508b36341d4330e336a43a79fe9",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "Api",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

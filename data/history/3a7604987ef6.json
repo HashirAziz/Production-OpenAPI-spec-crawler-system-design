@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3a7604987ef6",
+    "source_url": "https://raw.githubusercontent.com/CodeLab-DevOps/whoknows_elixir_monolith/941e86684db8c47d1e50ec7f7c46bd4317dd810a/OpenAPI.json",
+    "fetched_at": "2026-06-06T08:29:18.497551+00:00",
+    "content_hash": "59da3b0cb14c72331046d5e0b1adbe084ccd093fcad06ced35a705442396a154",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "WhoKnows Copy",
+    "openapi_version": "openapi_3",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

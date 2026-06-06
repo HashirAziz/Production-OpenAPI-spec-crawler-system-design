@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c52c7fe3ef5a",
+    "source_url": "https://raw.githubusercontent.com/astroicers/typst-api/79c1185ffea0859a898f96d3e1f13e3818c79afe/openapi.yaml",
+    "fetched_at": "2026-06-06T08:29:05.179430+00:00",
+    "content_hash": "07c4a946043202d3d2b7298ee4615e8f3c7199f77be6de589748515042f2d8c9",
+    "info_version": "2.0.0",
+    "status": "new",
+    "title": "typst-api",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

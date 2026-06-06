@@ -89,7 +89,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:03:48.445671+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:38:38.856248+00:00",
+    "fetched_at": "2026-06-06T08:28:45.909639+00:00",
     "history_file": "history/e5f26fc9de90.json"
   },
   "022a1111160b": {
@@ -127,7 +127,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:03:49.858091+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:38:39.295706+00:00",
+    "fetched_at": "2026-06-06T08:28:46.374294+00:00",
     "history_file": "history/4761b86d5d65.json"
   },
   "ec6a5b1a5d08": {
@@ -145,7 +145,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:03:50.245041+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:38:39.544314+00:00",
+    "fetched_at": "2026-06-06T08:28:46.539506+00:00",
     "history_file": "history/ec6a5b1a5d08.json"
   },
   "6c32315e35b6": {
@@ -255,7 +255,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:03:55.516610+00:00",
     "last_updated_at": "2026-05-18T15:03:55.516610+00:00",
-    "fetched_at": "2026-06-05T09:39:11.639239+00:00",
+    "fetched_at": "2026-06-06T08:29:08.590921+00:00",
     "history_file": "history/14f643993342.json"
   },
   "da81b22f1d2d": {
@@ -311,7 +311,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:03:59.028896+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:39:54.081852+00:00",
+    "fetched_at": "2026-06-06T08:29:29.724682+00:00",
     "history_file": "history/756e25461b0a.json"
   },
   "58b2bb9ac5cf": {
@@ -331,7 +331,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:03:59.357061+00:00",
     "last_updated_at": "2026-05-18T15:03:59.357061+00:00",
-    "fetched_at": "2026-06-05T09:40:08.820306+00:00",
+    "fetched_at": "2026-06-06T08:29:39.267922+00:00",
     "history_file": "history/58b2bb9ac5cf.json"
   },
   "bcd05d6d3e65": {
@@ -371,7 +371,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:04:00.016689+00:00",
     "last_updated_at": "2026-05-18T15:04:00.016689+00:00",
-    "fetched_at": "2026-06-05T09:40:15.160258+00:00",
+    "fetched_at": "2026-06-06T08:29:43.569240+00:00",
     "history_file": "history/a94743524614.json"
   },
   "a365985f8f4d": {
@@ -461,7 +461,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:04:03.692897+00:00",
     "last_updated_at": "2026-05-18T15:04:03.692897+00:00",
-    "fetched_at": "2026-06-05T09:40:28.913172+00:00",
+    "fetched_at": "2026-06-06T08:29:50.700883+00:00",
     "history_file": "history/7ca0a50317ef.json"
   },
   "92e23825e61d": {
@@ -594,7 +594,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:16:54.873030+00:00",
     "last_updated_at": "2026-05-18T15:16:54.873030+00:00",
-    "fetched_at": "2026-06-05T09:38:40.080902+00:00",
+    "fetched_at": "2026-06-06T08:28:46.933192+00:00",
     "history_file": "history/642987f0357b.json"
   },
   "54930dd904d8": {
@@ -612,7 +612,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:16:55.105324+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:38:40.638801+00:00",
+    "fetched_at": "2026-06-06T08:28:47.351445+00:00",
     "history_file": "history/54930dd904d8.json"
   },
   "187c71abf5cd": {
@@ -648,7 +648,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:16:55.472761+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:38:41.841201+00:00",
+    "fetched_at": "2026-06-06T08:29:04.475153+00:00",
     "history_file": "history/75c89fa16d52.json"
   },
   "0c48015e289d": {
@@ -683,7 +683,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:16:55.755130+00:00",
     "last_updated_at": "2026-05-18T15:16:55.755130+00:00",
-    "fetched_at": "2026-06-03T10:51:11.823995+00:00",
+    "fetched_at": "2026-06-06T08:28:50.300071+00:00",
     "history_file": "history/0c48015e289d.json"
   },
   "4d70c6c33b1b": {
@@ -719,7 +719,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:16:56.263691+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-04T09:50:29.581588+00:00",
+    "fetched_at": "2026-06-06T08:29:03.700121+00:00",
     "history_file": "history/bbe3e95ac62e.json"
   },
   "771d7435bea7": {
@@ -739,7 +739,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:16:56.624481+00:00",
     "last_updated_at": "2026-05-18T15:16:56.624481+00:00",
-    "fetched_at": "2026-06-04T09:50:33.621959+00:00",
+    "fetched_at": "2026-06-06T08:28:50.543862+00:00",
     "history_file": "history/771d7435bea7.json"
   },
   "154b040fe741": {
@@ -759,7 +759,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:16:57.449567+00:00",
     "last_updated_at": "2026-05-18T15:16:57.449567+00:00",
-    "fetched_at": "2026-06-04T09:50:31.176842+00:00",
+    "fetched_at": "2026-06-06T08:29:04.158128+00:00",
     "history_file": "history/154b040fe741.json"
   },
   "0b790d03e8c6": {
@@ -818,7 +818,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:16:58.069357+00:00",
     "last_updated_at": "2026-05-18T15:16:58.069357+00:00",
-    "fetched_at": "2026-06-04T09:50:37.829578+00:00",
+    "fetched_at": "2026-06-06T08:29:04.755594+00:00",
     "history_file": "history/2d74220a80bf.json"
   },
   "bc79f8714d88": {
@@ -885,10 +885,10 @@
     "paths_count": 20,
     "latest_info_version": "0.0.2",
     "latest_hash": "78f2b6993c29259c3d5619de86543944834c0b518adad905d3858c7d50e5694f",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-05-18T15:16:59.069241+00:00",
     "last_updated_at": "2026-05-18T15:16:59.069241+00:00",
-    "fetched_at": "2026-05-18T15:16:59.069241+00:00",
+    "fetched_at": "2026-06-06T08:29:01.115842+00:00",
     "history_file": "history/c802cd4efd87.json"
   },
   "cd6c1435e853": {
@@ -906,7 +906,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:16:59.556883+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:39:01.617485+00:00",
+    "fetched_at": "2026-06-06T08:28:51.838220+00:00",
     "history_file": "history/cd6c1435e853.json"
   },
   "181307936761": {
@@ -929,7 +929,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:16:59.759629+00:00",
     "last_updated_at": "2026-05-18T15:16:59.759629+00:00",
-    "fetched_at": "2026-06-05T09:38:42.066743+00:00",
+    "fetched_at": "2026-06-06T08:28:48.341050+00:00",
     "history_file": "history/181307936761.json"
   },
   "a5c89136744b": {
@@ -1009,7 +1009,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:17:00.586253+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-03T10:51:10.998428+00:00",
+    "fetched_at": "2026-06-06T08:29:01.866406+00:00",
     "history_file": "history/011022c58960.json"
   },
   "df7c19d23346": {
@@ -1236,7 +1236,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:17:03.197221+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:39:02.946463+00:00",
+    "fetched_at": "2026-06-06T08:28:59.135765+00:00",
     "history_file": "history/7fc11904e2eb.json"
   },
   "37af16653cc8": {
@@ -1272,7 +1272,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:17:03.632882+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-03T10:51:09.758115+00:00",
+    "fetched_at": "2026-06-06T08:28:52.577965+00:00",
     "history_file": "history/c5cc2f1fdd1a.json"
   },
   "290101df47ea": {
@@ -1390,7 +1390,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:17:05.174211+00:00",
     "last_updated_at": "2026-05-18T15:17:05.174211+00:00",
-    "fetched_at": "2026-05-29T09:44:36.949881+00:00",
+    "fetched_at": "2026-06-06T08:29:01.595780+00:00",
     "history_file": "history/1f28402d106c.json"
   },
   "5a8459999e9d": {
@@ -1447,7 +1447,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:17:05.791744+00:00",
     "last_updated_at": "2026-05-18T15:17:05.791744+00:00",
-    "fetched_at": "2026-06-05T09:38:50.150795+00:00",
+    "fetched_at": "2026-06-06T08:29:01.437914+00:00",
     "history_file": "history/0c7248b7aa20.json"
   },
   "316cf0b29ffd": {
@@ -1572,7 +1572,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:17:07.183966+00:00",
     "last_updated_at": "2026-05-18T15:17:07.183966+00:00",
-    "fetched_at": "2026-06-04T09:50:30.167319+00:00",
+    "fetched_at": "2026-06-06T08:28:58.974056+00:00",
     "history_file": "history/c352dd37e163.json"
   },
   "25c1ec210c73": {
@@ -1628,7 +1628,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:17:07.990954+00:00",
     "last_updated_at": "2026-05-18T15:17:07.990954+00:00",
-    "fetched_at": "2026-05-29T09:44:37.098207+00:00",
+    "fetched_at": "2026-06-06T08:28:57.692143+00:00",
     "history_file": "history/680f16431383.json"
   },
   "fdd1927bf0b6": {
@@ -1646,7 +1646,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:17:08.167913+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-04T09:50:32.606627+00:00",
+    "fetched_at": "2026-06-06T08:28:54.577796+00:00",
     "history_file": "history/fdd1927bf0b6.json"
   },
   "ab670ae2cadd": {
@@ -1729,7 +1729,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:17:09.024915+00:00",
     "last_updated_at": "2026-05-18T15:17:09.024915+00:00",
-    "fetched_at": "2026-06-05T09:38:55.461520+00:00",
+    "fetched_at": "2026-06-06T08:28:48.671327+00:00",
     "history_file": "history/8e8c35495c51.json"
   },
   "9b266aa74bb1": {
@@ -1938,7 +1938,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:17:11.083657+00:00",
     "last_updated_at": "2026-05-18T15:17:11.083657+00:00",
-    "fetched_at": "2026-05-31T08:39:23.102731+00:00",
+    "fetched_at": "2026-06-06T08:28:51.566663+00:00",
     "history_file": "history/796a1c7d3858.json"
   },
   "0f522c66e20f": {
@@ -2310,7 +2310,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:17:15.534762+00:00",
     "last_updated_at": "2026-05-18T15:17:15.534762+00:00",
-    "fetched_at": "2026-05-26T09:44:33.758285+00:00",
+    "fetched_at": "2026-06-06T08:28:56.465865+00:00",
     "history_file": "history/c2043ac5ba75.json"
   },
   "7b73b32b3d13": {
@@ -2483,7 +2483,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:17:17.625857+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-04T09:50:25.080077+00:00",
+    "fetched_at": "2026-06-06T08:28:57.828200+00:00",
     "history_file": "history/d183fb1cd84c.json"
   },
   "e6c5daa0502c": {
@@ -2501,7 +2501,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:17:22.667922+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:39:11.880759+00:00",
+    "fetched_at": "2026-06-06T08:29:08.753760+00:00",
     "history_file": "history/e6c5daa0502c.json"
   },
   "90374053011d": {
@@ -2521,7 +2521,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:17:22.855325+00:00",
     "last_updated_at": "2026-05-18T15:17:22.855325+00:00",
-    "fetched_at": "2026-06-05T09:39:12.134727+00:00",
+    "fetched_at": "2026-06-06T08:29:08.904814+00:00",
     "history_file": "history/90374053011d.json"
   },
   "a3e546357a87": {
@@ -2557,7 +2557,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:17:23.492341+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:39:44.929206+00:00",
+    "fetched_at": "2026-06-06T08:29:24.400191+00:00",
     "history_file": "history/9a8fddee1a0a.json"
   },
   "3b041304189b": {
@@ -2682,7 +2682,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:17:25.276151+00:00",
     "last_updated_at": "2026-05-18T15:17:25.276151+00:00",
-    "fetched_at": "2026-06-05T09:39:13.997992+00:00",
+    "fetched_at": "2026-06-06T08:29:10.199368+00:00",
     "history_file": "history/3d76d6e58225.json"
   },
   "e79e09367d3e": {
@@ -2718,7 +2718,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:17:25.953353+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:39:42.511105+00:00",
+    "fetched_at": "2026-06-06T08:29:23.784763+00:00",
     "history_file": "history/4801b976d020.json"
   },
   "301033da8e4e": {
@@ -2738,7 +2738,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:17:26.125614+00:00",
     "last_updated_at": "2026-05-18T15:17:26.125614+00:00",
-    "fetched_at": "2026-06-04T09:51:09.178113+00:00",
+    "fetched_at": "2026-06-06T08:29:19.382291+00:00",
     "history_file": "history/301033da8e4e.json"
   },
   "11a85b7d5cd9": {
@@ -2756,7 +2756,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:17:26.409931+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:39:39.630552+00:00",
+    "fetched_at": "2026-06-06T08:29:22.336822+00:00",
     "history_file": "history/11a85b7d5cd9.json"
   },
   "406234fe91f9": {
@@ -2774,7 +2774,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:17:26.672902+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:39:33.879623+00:00",
+    "fetched_at": "2026-06-06T08:29:21.561202+00:00",
     "history_file": "history/406234fe91f9.json"
   },
   "64949084a205": {
@@ -2810,7 +2810,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:17:27.047797+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:39:50.283789+00:00",
+    "fetched_at": "2026-06-06T08:29:26.312516+00:00",
     "history_file": "history/b72aa46da3e1.json"
   },
   "094a4ccc1a63": {
@@ -2828,7 +2828,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:17:27.210376+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:39:16.926189+00:00",
+    "fetched_at": "2026-06-06T08:29:21.852426+00:00",
     "history_file": "history/094a4ccc1a63.json"
   },
   "7fda956b88f1": {
@@ -2846,7 +2846,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:17:27.379054+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-04T09:50:51.843237+00:00",
+    "fetched_at": "2026-06-06T08:29:12.170521+00:00",
     "history_file": "history/7fda956b88f1.json"
   },
   "6baddefa239d": {
@@ -2900,7 +2900,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:17:28.118747+00:00",
     "last_updated_at": "2026-05-18T15:17:28.118747+00:00",
-    "fetched_at": "2026-06-05T09:39:17.417501+00:00",
+    "fetched_at": "2026-06-06T08:29:25.300937+00:00",
     "history_file": "history/70b10a43182b.json"
   },
   "983035ef021e": {
@@ -2922,7 +2922,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:17:28.496616+00:00",
     "last_updated_at": "2026-05-18T15:17:28.496616+00:00",
-    "fetched_at": "2026-06-05T09:39:48.987314+00:00",
+    "fetched_at": "2026-06-06T08:29:25.604993+00:00",
     "history_file": "history/983035ef021e.json"
   },
   "ed2457da4689": {
@@ -2960,7 +2960,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:17:28.930229+00:00",
     "last_updated_at": "2026-05-18T15:17:28.930229+00:00",
-    "fetched_at": "2026-06-05T09:39:17.822474+00:00",
+    "fetched_at": "2026-06-06T08:29:13.253142+00:00",
     "history_file": "history/3a02f4999061.json"
   },
   "93c2b714fcee": {
@@ -3007,7 +3007,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:17:29.633842+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:39:18.904640+00:00",
+    "fetched_at": "2026-06-06T08:29:13.989277+00:00",
     "history_file": "history/bb002b5c7e27.json"
   },
   "97b05f6dd55d": {
@@ -3025,7 +3025,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:17:29.806638+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:39:19.170218+00:00",
+    "fetched_at": "2026-06-06T08:29:14.141848+00:00",
     "history_file": "history/97b05f6dd55d.json"
   },
   "72d5d237c18d": {
@@ -3043,7 +3043,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:17:29.993818+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:39:50.806634+00:00",
+    "fetched_at": "2026-06-06T08:29:26.625596+00:00",
     "history_file": "history/72d5d237c18d.json"
   },
   "549a2672a756": {
@@ -3135,7 +3135,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:17:31.697295+00:00",
     "last_updated_at": "2026-05-18T15:17:31.697295+00:00",
-    "fetched_at": "2026-06-04T09:50:54.121060+00:00",
+    "fetched_at": "2026-06-06T08:29:27.446980+00:00",
     "history_file": "history/d92e7551220f.json"
   },
   "b82eed301bb7": {
@@ -3171,7 +3171,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:17:32.114318+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-04T09:50:56.740600+00:00",
+    "fetched_at": "2026-06-06T08:29:25.896104+00:00",
     "history_file": "history/c47501a28935.json"
   },
   "d1b1d6fe6c58": {
@@ -3267,7 +3267,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:17:33.810371+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:39:31.738374+00:00",
+    "fetched_at": "2026-06-06T08:29:19.090534+00:00",
     "history_file": "history/d2a9a901c1ac.json"
   },
   "50d0c14c8b84": {
@@ -3470,7 +3470,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:17:36.787901+00:00",
     "last_updated_at": "2026-05-18T15:17:36.787901+00:00",
-    "fetched_at": "2026-06-04T09:50:56.150888+00:00",
+    "fetched_at": "2026-06-06T08:29:16.805568+00:00",
     "history_file": "history/abb55ab9c45a.json"
   },
   "4bbccb2639ec": {
@@ -3495,7 +3495,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:17:36.997649+00:00",
     "last_updated_at": "2026-05-18T15:17:36.997649+00:00",
-    "fetched_at": "2026-06-01T11:23:49.337577+00:00",
+    "fetched_at": "2026-06-06T08:29:17.055548+00:00",
     "history_file": "history/4bbccb2639ec.json"
   },
   "aa5372eea0db": {
@@ -3683,7 +3683,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:17:39.059490+00:00",
     "last_updated_at": "2026-05-18T15:17:39.059490+00:00",
-    "fetched_at": "2026-06-04T09:51:04.277107+00:00",
+    "fetched_at": "2026-06-06T08:29:19.638086+00:00",
     "history_file": "history/0a609f84d644.json"
   },
   "c1d32dbbc594": {
@@ -3838,7 +3838,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:17:42.763166+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:39:38.817606+00:00",
+    "fetched_at": "2026-06-06T08:29:21.697284+00:00",
     "history_file": "history/9384de0f065b.json"
   },
   "0f35614fceb6": {
@@ -3856,7 +3856,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:17:43.007141+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:39:32.515010+00:00",
+    "fetched_at": "2026-06-06T08:29:11.368817+00:00",
     "history_file": "history/0f35614fceb6.json"
   },
   "a2c0c95af04c": {
@@ -3874,7 +3874,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:17:43.246491+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-04T09:51:02.190251+00:00",
+    "fetched_at": "2026-06-06T08:29:24.680237+00:00",
     "history_file": "history/a2c0c95af04c.json"
   },
   "d3ec36ddcd8a": {
@@ -3999,7 +3999,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:17:44.670385+00:00",
     "last_updated_at": "2026-05-18T15:17:44.670385+00:00",
-    "fetched_at": "2026-06-04T09:50:51.244537+00:00",
+    "fetched_at": "2026-06-06T08:29:11.995877+00:00",
     "history_file": "history/c269a68cc1a2.json"
   },
   "2302ca8ae567": {
@@ -4217,7 +4217,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:17:47.370125+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:39:41.384968+00:00",
+    "fetched_at": "2026-06-06T08:29:23.331369+00:00",
     "history_file": "history/6031d876021f.json"
   },
   "262d32e4df94": {
@@ -4253,7 +4253,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:17:47.720573+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-03T10:51:50.384444+00:00",
+    "fetched_at": "2026-06-06T08:29:13.102556+00:00",
     "history_file": "history/8d72052472bd.json"
   },
   "0524faa735d6": {
@@ -4311,7 +4311,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:17:48.501952+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:39:40.331691+00:00",
+    "fetched_at": "2026-06-06T08:29:22.485961+00:00",
     "history_file": "history/c870b09248d7.json"
   },
   "1a786169a12e": {
@@ -4329,7 +4329,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:17:48.699139+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:39:16.669779+00:00",
+    "fetched_at": "2026-06-06T08:29:12.323942+00:00",
     "history_file": "history/1a786169a12e.json"
   },
   "e5568e095228": {
@@ -4374,7 +4374,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:17:53.153611+00:00",
     "last_updated_at": "2026-05-18T15:17:53.153611+00:00",
-    "fetched_at": "2026-06-05T09:39:56.501279+00:00",
+    "fetched_at": "2026-06-06T08:29:31.289729+00:00",
     "history_file": "history/2ead1f6fe712.json"
   },
   "6ec3d1d30f1b": {
@@ -4803,7 +4803,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:17:57.036711+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:39:57.851955+00:00",
+    "fetched_at": "2026-06-06T08:29:32.208449+00:00",
     "history_file": "history/cd62003116d2.json"
   },
   "fab8769c23c0": {
@@ -4821,7 +4821,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:17:57.197764+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:39:54.854897+00:00",
+    "fetched_at": "2026-06-06T08:29:30.162757+00:00",
     "history_file": "history/fab8769c23c0.json"
   },
   "4754cde94a1a": {
@@ -4879,7 +4879,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:17:57.883968+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:40:15.438632+00:00",
+    "fetched_at": "2026-06-06T08:29:43.724547+00:00",
     "history_file": "history/79ef8e54316e.json"
   },
   "a5a921b1ae31": {
@@ -4937,7 +4937,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:17:58.489790+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:39:57.589182+00:00",
+    "fetched_at": "2026-06-06T08:29:32.058341+00:00",
     "history_file": "history/32be6835efe1.json"
   },
   "4d85f055c350": {
@@ -5075,7 +5075,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:17:59.783613+00:00",
     "last_updated_at": "2026-05-18T15:17:59.783613+00:00",
-    "fetched_at": "2026-06-05T09:39:56.237389+00:00",
+    "fetched_at": "2026-06-06T08:29:31.115699+00:00",
     "history_file": "history/3f446556ce6f.json"
   },
   "5d4036cb185f": {
@@ -5131,7 +5131,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:18:00.332138+00:00",
     "last_updated_at": "2026-05-18T15:18:00.332138+00:00",
-    "fetched_at": "2026-06-05T09:39:54.382865+00:00",
+    "fetched_at": "2026-06-06T08:29:29.873058+00:00",
     "history_file": "history/bc1b12bd6afc.json"
   },
   "37e8cbc29557": {
@@ -5167,7 +5167,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:18:00.815285+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:39:58.928204+00:00",
+    "fetched_at": "2026-06-06T08:29:32.882537+00:00",
     "history_file": "history/97da385bfd89.json"
   },
   "51ec6d8ba7ed": {
@@ -6201,7 +6201,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:18:12.298193+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:39:55.105964+00:00",
+    "fetched_at": "2026-06-06T08:29:30.402980+00:00",
     "history_file": "history/017183a0847d.json"
   },
   "bf9ccce0c466": {
@@ -6219,7 +6219,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:18:12.499966+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:39:55.967971+00:00",
+    "fetched_at": "2026-06-06T08:29:30.950146+00:00",
     "history_file": "history/bf9ccce0c466.json"
   },
   "4242db69ee77": {
@@ -6264,7 +6264,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:18:12.946326+00:00",
     "last_updated_at": "2026-05-18T15:18:12.946326+00:00",
-    "fetched_at": "2026-06-05T09:39:58.356219+00:00",
+    "fetched_at": "2026-06-06T08:29:32.511664+00:00",
     "history_file": "history/04201c0b9e4d.json"
   },
   "fffdcaf98d93": {
@@ -6509,7 +6509,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:18:19.847105+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:40:46.709162+00:00",
+    "fetched_at": "2026-06-06T08:29:57.703144+00:00",
     "history_file": "history/59685e5ca520.json"
   },
   "aef697ce7353": {
@@ -6529,7 +6529,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:18:20.044889+00:00",
     "last_updated_at": "2026-05-18T15:18:20.044889+00:00",
-    "fetched_at": "2026-06-05T09:40:29.665538+00:00",
+    "fetched_at": "2026-06-06T08:29:51.037733+00:00",
     "history_file": "history/aef697ce7353.json"
   },
   "0dd62175757d": {
@@ -6549,7 +6549,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:18:20.226543+00:00",
     "last_updated_at": "2026-05-18T15:18:20.226543+00:00",
-    "fetched_at": "2026-06-05T09:40:29.292015+00:00",
+    "fetched_at": "2026-06-06T08:29:50.843594+00:00",
     "history_file": "history/0dd62175757d.json"
   },
   "50dc89e17cc3": {
@@ -6567,7 +6567,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:18:20.424459+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:40:35.314353+00:00",
+    "fetched_at": "2026-06-06T08:29:53.038486+00:00",
     "history_file": "history/50dc89e17cc3.json"
   },
   "606a0834f66e": {
@@ -6585,7 +6585,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:18:20.628347+00:00",
     "last_updated_at": "2026-05-18T15:18:20.628347+00:00",
-    "fetched_at": "2026-06-05T09:40:41.885339+00:00",
+    "fetched_at": "2026-06-06T08:29:55.610165+00:00",
     "history_file": "history/606a0834f66e.json"
   },
   "e9d850d96ebc": {
@@ -6603,7 +6603,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:18:20.824483+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:40:39.643672+00:00",
+    "fetched_at": "2026-06-06T08:29:54.648238+00:00",
     "history_file": "history/e9d850d96ebc.json"
   },
   "1fd5f713e8d2": {
@@ -6660,7 +6660,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:18:21.656146+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:41:01.404338+00:00",
+    "fetched_at": "2026-06-06T08:30:04.772541+00:00",
     "history_file": "history/c766191f333c.json"
   },
   "2392a3af691d": {
@@ -6714,7 +6714,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:18:22.223569+00:00",
     "last_updated_at": "2026-05-18T15:18:22.223569+00:00",
-    "fetched_at": "2026-06-05T09:40:27.929318+00:00",
+    "fetched_at": "2026-06-06T08:29:50.234618+00:00",
     "history_file": "history/5843cc52d022.json"
   },
   "42ced9fccabc": {
@@ -6732,7 +6732,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:18:22.445913+00:00",
     "last_updated_at": "2026-05-18T15:18:22.445913+00:00",
-    "fetched_at": "2026-06-05T09:40:27.050966+00:00",
+    "fetched_at": "2026-06-06T08:29:49.915377+00:00",
     "history_file": "history/42ced9fccabc.json"
   },
   "37e6c02e2bd5": {
@@ -6790,7 +6790,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:18:23.217662+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:40:48.143995+00:00",
+    "fetched_at": "2026-06-06T08:29:58.309249+00:00",
     "history_file": "history/405f2790fefa.json"
   },
   "0c30211a5a18": {
@@ -6808,7 +6808,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:18:23.418123+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:40:39.289346+00:00",
+    "fetched_at": "2026-06-06T08:29:54.504522+00:00",
     "history_file": "history/0c30211a5a18.json"
   },
   "e3199e51366d": {
@@ -6826,7 +6826,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:18:23.769523+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:40:31.666851+00:00",
+    "fetched_at": "2026-06-06T08:29:51.653650+00:00",
     "history_file": "history/e3199e51366d.json"
   },
   "29717bb22d17": {
@@ -7001,7 +7001,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:18:25.978524+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:40:55.045204+00:00",
+    "fetched_at": "2026-06-06T08:30:01.412652+00:00",
     "history_file": "history/80b04c0792eb.json"
   },
   "ce2b08864ff6": {
@@ -7077,7 +7077,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:18:27.352060+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:40:57.491615+00:00",
+    "fetched_at": "2026-06-06T08:30:02.627416+00:00",
     "history_file": "history/568fba0b4fcc.json"
   },
   "e131b71ba3dc": {
@@ -7169,7 +7169,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:18:28.685817+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:40:33.585564+00:00",
+    "fetched_at": "2026-06-06T08:29:52.524607+00:00",
     "history_file": "history/3b4b8ac27f7b.json"
   },
   "2df1be115477": {
@@ -7253,7 +7253,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:18:29.531555+00:00",
     "last_updated_at": "2026-05-18T15:18:29.531555+00:00",
-    "fetched_at": "2026-06-05T09:40:51.172640+00:00",
+    "fetched_at": "2026-06-06T08:29:59.520801+00:00",
     "history_file": "history/25e21e2ccad3.json"
   },
   "387b569a50a9": {
@@ -7349,7 +7349,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:18:30.907677+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:41:02.243618+00:00",
+    "fetched_at": "2026-06-06T08:30:05.328817+00:00",
     "history_file": "history/264054dcc829.json"
   },
   "d2e4041b32e7": {
@@ -7409,7 +7409,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:18:31.563195+00:00",
     "last_updated_at": "2026-05-18T15:18:31.563195+00:00",
-    "fetched_at": "2026-06-05T09:41:02.605768+00:00",
+    "fetched_at": "2026-06-06T08:30:05.495620+00:00",
     "history_file": "history/9f032df9e84b.json"
   },
   "e444b3e1a1bf": {
@@ -7427,7 +7427,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:18:31.756729+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:41:03.406927+00:00",
+    "fetched_at": "2026-06-06T08:30:05.890826+00:00",
     "history_file": "history/e444b3e1a1bf.json"
   },
   "1bf36a14a590": {
@@ -7447,7 +7447,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:18:31.968720+00:00",
     "last_updated_at": "2026-05-18T15:18:31.968720+00:00",
-    "fetched_at": "2026-06-05T09:40:53.455247+00:00",
+    "fetched_at": "2026-06-06T08:30:00.461896+00:00",
     "history_file": "history/1bf36a14a590.json"
   },
   "07cc76f2d951": {
@@ -7465,7 +7465,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:18:32.246981+00:00",
     "last_updated_at": "2026-05-18T15:18:32.246981+00:00",
-    "fetched_at": "2026-06-05T09:40:53.971040+00:00",
+    "fetched_at": "2026-06-06T08:30:00.740305+00:00",
     "history_file": "history/07cc76f2d951.json"
   },
   "d2f1ec3f42ce": {
@@ -7483,7 +7483,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:18:32.454972+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:41:04.651449+00:00",
+    "fetched_at": "2026-06-06T08:30:06.539947+00:00",
     "history_file": "history/d2f1ec3f42ce.json"
   },
   "55c6bbb9e456": {
@@ -7503,7 +7503,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:18:32.683081+00:00",
     "last_updated_at": "2026-05-18T15:18:32.683081+00:00",
-    "fetched_at": "2026-06-05T09:40:50.037200+00:00",
+    "fetched_at": "2026-06-06T08:29:59.051262+00:00",
     "history_file": "history/55c6bbb9e456.json"
   },
   "42381e8a51b5": {
@@ -7539,7 +7539,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:18:33.058857+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:41:05.411630+00:00",
+    "fetched_at": "2026-06-06T08:30:06.850914+00:00",
     "history_file": "history/6437c1fc589e.json"
   },
   "4bb4d44f9330": {
@@ -7580,7 +7580,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:18:33.371037+00:00",
     "last_updated_at": "2026-05-18T15:18:33.371037+00:00",
-    "fetched_at": "2026-06-05T09:40:54.343591+00:00",
+    "fetched_at": "2026-06-06T08:30:00.922993+00:00",
     "history_file": "history/4bb4d44f9330.json"
   },
   "94ebb6b48718": {
@@ -7920,7 +7920,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:18:38.013674+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:40:52.761277+00:00",
+    "fetched_at": "2026-06-06T08:30:00.157798+00:00",
     "history_file": "history/98fb3fba6ec5.json"
   },
   "cff094bef5e5": {
@@ -7992,7 +7992,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:18:39.037300+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:40:39.993015+00:00",
+    "fetched_at": "2026-06-06T08:29:54.804275+00:00",
     "history_file": "history/b4ba181e3bbe.json"
   },
   "19115fc8fa93": {
@@ -8260,7 +8260,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:18:42.744873+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:40:50.765716+00:00",
+    "fetched_at": "2026-06-06T08:29:59.356113+00:00",
     "history_file": "history/afbe2d2ea7ae.json"
   },
   "a3b3419dc3bd": {
@@ -8278,7 +8278,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:18:42.926430+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:40:56.581144+00:00",
+    "fetched_at": "2026-06-06T08:30:02.232669+00:00",
     "history_file": "history/a3b3419dc3bd.json"
   },
   "cb9e297fcd29": {
@@ -8484,7 +8484,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-19T09:35:14.237975+00:00",
     "last_updated_at": "2026-05-19T09:35:14.237975+00:00",
-    "fetched_at": "2026-06-05T09:38:44.887947+00:00",
+    "fetched_at": "2026-06-06T08:28:58.401326+00:00",
     "history_file": "history/1d34ac3e5ab3.json"
   },
   "7649b5901df5": {
@@ -8650,7 +8650,7 @@
     "status": "error",
     "first_seen_at": "2026-05-19T09:35:16.575775+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-05-29T09:44:52.414112+00:00",
+    "fetched_at": "2026-06-06T08:28:53.746819+00:00",
     "history_file": "history/b3b8ba9da48b.json"
   },
   "204bec024e0d": {
@@ -8715,7 +8715,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-19T09:35:17.344863+00:00",
     "last_updated_at": "2026-05-19T09:35:17.344863+00:00",
-    "fetched_at": "2026-06-03T10:51:10.005849+00:00",
+    "fetched_at": "2026-06-06T08:29:04.930641+00:00",
     "history_file": "history/a38437fd2c5a.json"
   },
   "11956a272860": {
@@ -8735,7 +8735,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-19T09:35:18.825987+00:00",
     "last_updated_at": "2026-05-19T09:35:18.825987+00:00",
-    "fetched_at": "2026-05-30T08:23:13.195757+00:00",
+    "fetched_at": "2026-06-06T08:29:03.552805+00:00",
     "history_file": "history/11956a272860.json"
   },
   "1737fdd62905": {
@@ -8804,7 +8804,7 @@
     "status": "error",
     "first_seen_at": "2026-05-19T09:35:20.240189+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:38:55.230414+00:00",
+    "fetched_at": "2026-06-06T08:28:51.423246+00:00",
     "history_file": "history/30ca1eba741f.json"
   },
   "09344f9d5870": {
@@ -8824,7 +8824,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-19T09:35:20.392461+00:00",
     "last_updated_at": "2026-05-19T09:35:20.392461+00:00",
-    "fetched_at": "2026-06-05T09:38:43.925446+00:00",
+    "fetched_at": "2026-06-06T08:28:57.105341+00:00",
     "history_file": "history/09344f9d5870.json"
   },
   "54fb7d9fff63": {
@@ -8887,7 +8887,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-19T09:35:21.759866+00:00",
     "last_updated_at": "2026-05-19T09:35:21.759866+00:00",
-    "fetched_at": "2026-06-02T10:15:10.568460+00:00",
+    "fetched_at": "2026-06-06T08:28:59.444389+00:00",
     "history_file": "history/d7824836d3cc.json"
   },
   "36604e4a7b47": {
@@ -8954,7 +8954,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-19T09:35:22.786782+00:00",
     "last_updated_at": "2026-05-19T09:35:22.786782+00:00",
-    "fetched_at": "2026-06-02T10:15:01.594289+00:00",
+    "fetched_at": "2026-06-06T08:28:58.081822+00:00",
     "history_file": "history/007646c76283.json"
   },
   "301249012a7a": {
@@ -9008,7 +9008,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-19T09:35:23.593938+00:00",
     "last_updated_at": "2026-05-19T09:35:23.593938+00:00",
-    "fetched_at": "2026-06-05T09:38:55.753209+00:00",
+    "fetched_at": "2026-06-06T08:29:03.089151+00:00",
     "history_file": "history/df384b2f2b5a.json"
   },
   "771b05c9357e": {
@@ -9594,7 +9594,7 @@
     "status": "error",
     "first_seen_at": "2026-05-19T09:35:32.411623+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-04T09:50:40.239667+00:00",
+    "fetched_at": "2026-06-06T08:28:52.294248+00:00",
     "history_file": "history/cf8fb8a98f23.json"
   },
   "6cf0bed2d860": {
@@ -9641,7 +9641,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-19T09:35:32.728173+00:00",
     "last_updated_at": "2026-05-19T09:35:32.728173+00:00",
-    "fetched_at": "2026-06-05T09:38:52.873578+00:00",
+    "fetched_at": "2026-06-06T08:28:56.653473+00:00",
     "history_file": "history/29b62dfdb28c.json"
   },
   "3ad5d6c60f1d": {
@@ -9836,7 +9836,7 @@
     "status": "error",
     "first_seen_at": "2026-05-19T09:35:43.845843+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-04T09:50:54.479974+00:00",
+    "fetched_at": "2026-06-06T08:29:14.395366+00:00",
     "history_file": "history/bbe867c398b9.json"
   },
   "3719298a9da2": {
@@ -9920,7 +9920,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-19T09:35:49.824384+00:00",
     "last_updated_at": "2026-05-19T09:35:49.824384+00:00",
-    "fetched_at": "2026-05-26T09:44:47.730998+00:00",
+    "fetched_at": "2026-06-06T08:29:14.835706+00:00",
     "history_file": "history/57d31f87ee73.json"
   },
   "b553cfbf9e13": {
@@ -10118,7 +10118,7 @@
     "status": "error",
     "first_seen_at": "2026-05-19T09:35:54.555842+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:39:35.795938+00:00",
+    "fetched_at": "2026-06-06T08:29:20.616277+00:00",
     "history_file": "history/73b3cfd37880.json"
   },
   "6719427aedd6": {
@@ -10288,7 +10288,7 @@
     "status": "error",
     "first_seen_at": "2026-05-19T09:35:58.575699+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:39:13.480802+00:00",
+    "fetched_at": "2026-06-06T08:29:09.880706+00:00",
     "history_file": "history/bb60c72be792.json"
   },
   "6561743c4679": {
@@ -10656,7 +10656,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-19T09:36:18.414135+00:00",
     "last_updated_at": "2026-05-19T09:36:18.414135+00:00",
-    "fetched_at": "2026-06-05T09:39:55.371551+00:00",
+    "fetched_at": "2026-06-06T08:29:30.552468+00:00",
     "history_file": "history/56c9867dd879.json"
   },
   "fc825145e3e9": {
@@ -10722,7 +10722,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-19T09:36:19.234822+00:00",
     "last_updated_at": "2026-05-19T09:36:19.234822+00:00",
-    "fetched_at": "2026-06-05T09:40:01.417162+00:00",
+    "fetched_at": "2026-06-06T08:29:34.685834+00:00",
     "history_file": "history/63cf29701a04.json"
   },
   "cadb4c1094fe": {
@@ -10801,7 +10801,7 @@
     "status": "error",
     "first_seen_at": "2026-05-19T09:36:20.175685+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:39:56.797638+00:00",
+    "fetched_at": "2026-06-06T08:29:31.445356+00:00",
     "history_file": "history/f456e53e86f9.json"
   },
   "0436793cfaf5": {
@@ -10842,7 +10842,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-19T09:36:20.602655+00:00",
     "last_updated_at": "2026-05-19T09:36:20.602655+00:00",
-    "fetched_at": "2026-06-05T09:39:57.310177+00:00",
+    "fetched_at": "2026-06-06T08:29:31.860902+00:00",
     "history_file": "history/6dc5af50ae19.json"
   },
   "f744b2e31f3d": {
@@ -11370,7 +11370,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-19T09:36:39.229840+00:00",
     "last_updated_at": "2026-05-19T09:36:39.229840+00:00",
-    "fetched_at": "2026-06-05T09:40:55.386416+00:00",
+    "fetched_at": "2026-06-06T08:30:01.567029+00:00",
     "history_file": "history/e5d8962817e4.json"
   },
   "6de3b874afe7": {
@@ -11408,7 +11408,7 @@
     "status": "error",
     "first_seen_at": "2026-05-19T09:36:42.209250+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:40:45.085796+00:00",
+    "fetched_at": "2026-06-06T08:29:56.915894+00:00",
     "history_file": "history/8870a4824721.json"
   },
   "7a8c5a0b2d6a": {
@@ -11611,7 +11611,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-19T09:36:48.612114+00:00",
     "last_updated_at": "2026-05-19T09:36:48.612114+00:00",
-    "fetched_at": "2026-06-05T09:40:32.626055+00:00",
+    "fetched_at": "2026-06-06T08:29:52.064872+00:00",
     "history_file": "history/f4f2898fdd80.json"
   },
   "dffc60820665": {
@@ -11647,7 +11647,7 @@
     "status": "error",
     "first_seen_at": "2026-05-19T09:36:51.041029+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:40:42.673504+00:00",
+    "fetched_at": "2026-06-06T08:29:55.984687+00:00",
     "history_file": "history/404978225f1c.json"
   },
   "c0b4a0f24b29": {
@@ -11665,7 +11665,7 @@
     "status": "error",
     "first_seen_at": "2026-05-19T09:36:51.198221+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:40:43.060374+00:00",
+    "fetched_at": "2026-06-06T08:29:56.134444+00:00",
     "history_file": "history/c0b4a0f24b29.json"
   },
   "fce9d76af85c": {
@@ -11814,7 +11814,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-19T09:40:04.776940+00:00",
     "last_updated_at": "2026-05-19T09:40:04.776940+00:00",
-    "fetched_at": "2026-06-05T09:40:00.488255+00:00",
+    "fetched_at": "2026-06-06T08:29:33.983271+00:00",
     "history_file": "history/e08013d29e78.json"
   },
   "c51ecc36c04d": {
@@ -11835,7 +11835,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-19T09:40:05.528327+00:00",
     "last_updated_at": "2026-05-19T09:40:05.528327+00:00",
-    "fetched_at": "2026-06-05T09:39:55.673938+00:00",
+    "fetched_at": "2026-06-06T08:29:30.743214+00:00",
     "history_file": "history/c51ecc36c04d.json"
   },
   "35c14e7d469e": {
@@ -12624,7 +12624,7 @@
     "status": "error",
     "first_seen_at": "2026-05-20T08:59:51.084827+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-04T09:50:42.824062+00:00",
+    "fetched_at": "2026-06-06T08:28:58.236607+00:00",
     "history_file": "history/c24736b40dce.json"
   },
   "d336ec1e89c0": {
@@ -12718,7 +12718,7 @@
     "status": "error",
     "first_seen_at": "2026-05-20T08:59:55.516502+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:38:58.525231+00:00",
+    "fetched_at": "2026-06-06T08:28:48.517533+00:00",
     "history_file": "history/0d1d17f4fd41.json"
   },
   "40094be63d3e": {
@@ -12843,7 +12843,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-20T09:00:02.691959+00:00",
     "last_updated_at": "2026-05-20T09:00:02.691959+00:00",
-    "fetched_at": "2026-06-05T09:38:42.895550+00:00",
+    "fetched_at": "2026-06-06T08:28:49.046359+00:00",
     "history_file": "history/dfb129007f45.json"
   },
   "893fa2dea1ad": {
@@ -12870,7 +12870,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-20T09:00:03.145678+00:00",
     "last_updated_at": "2026-05-20T09:00:03.145678+00:00",
-    "fetched_at": "2026-06-03T10:51:06.642305+00:00",
+    "fetched_at": "2026-06-06T08:29:00.921974+00:00",
     "history_file": "history/893fa2dea1ad.json"
   },
   "f84ef403270e": {
@@ -12933,7 +12933,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-20T09:00:05.226877+00:00",
     "last_updated_at": "2026-05-20T09:00:05.226877+00:00",
-    "fetched_at": "2026-06-04T09:50:33.368323+00:00",
+    "fetched_at": "2026-06-06T08:28:51.984444+00:00",
     "history_file": "history/9af888c75c44.json"
   },
   "20fcbab9833a": {
@@ -12979,7 +12979,7 @@
     "status": "error",
     "first_seen_at": "2026-05-20T09:00:06.760663+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:38:48.434972+00:00",
+    "fetched_at": "2026-06-06T08:28:53.345648+00:00",
     "history_file": "history/54ef1dbf0ba3.json"
   },
   "b60d7d4b2d44": {
@@ -13017,7 +13017,7 @@
     "status": "error",
     "first_seen_at": "2026-05-20T09:00:07.627460+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-01T11:23:17.924927+00:00",
+    "fetched_at": "2026-06-06T08:28:56.969663+00:00",
     "history_file": "history/2af2175fcdbd.json"
   },
   "2e241a5a619b": {
@@ -13048,7 +13048,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-20T09:00:08.738387+00:00",
     "last_updated_at": "2026-05-20T09:00:08.738387+00:00",
-    "fetched_at": "2026-06-03T10:51:17.681036+00:00",
+    "fetched_at": "2026-06-06T08:29:02.670160+00:00",
     "history_file": "history/2e241a5a619b.json"
   },
   "6ca70e63480f": {
@@ -13103,7 +13103,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-20T09:00:11.690400+00:00",
     "last_updated_at": "2026-05-20T09:00:11.690400+00:00",
-    "fetched_at": "2026-06-05T09:38:50.403773+00:00",
+    "fetched_at": "2026-06-06T08:28:54.867514+00:00",
     "history_file": "history/f3f11b5daeaa.json"
   },
   "bef2ee75bb69": {
@@ -13139,7 +13139,7 @@
     "status": "error",
     "first_seen_at": "2026-05-20T09:00:14.253369+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:38:58.318252+00:00",
+    "fetched_at": "2026-06-06T08:28:52.901988+00:00",
     "history_file": "history/82ea3af70de0.json"
   },
   "4e2b0b248709": {
@@ -13445,7 +13445,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-20T09:00:24.426235+00:00",
     "last_updated_at": "2026-05-20T09:00:24.426235+00:00",
-    "fetched_at": "2026-06-04T09:50:25.453115+00:00",
+    "fetched_at": "2026-06-06T08:28:59.627393+00:00",
     "history_file": "history/1de06c48bc94.json"
   },
   "654f73e9da5c": {
@@ -13483,7 +13483,7 @@
     "status": "error",
     "first_seen_at": "2026-05-20T09:00:26.351174+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-04T09:50:24.292034+00:00",
+    "fetched_at": "2026-06-06T08:28:58.681415+00:00",
     "history_file": "history/51801bc7191f.json"
   },
   "3e7f087b7ef7": {
@@ -13738,7 +13738,7 @@
     "status": "error",
     "first_seen_at": "2026-05-20T09:00:42.054589+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:39:48.634202+00:00",
+    "fetched_at": "2026-06-06T08:29:25.146276+00:00",
     "history_file": "history/2f7b9a29603c.json"
   },
   "c9768e8c042e": {
@@ -13756,7 +13756,7 @@
     "status": "error",
     "first_seen_at": "2026-05-20T09:00:42.396118+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:39:49.345028+00:00",
+    "fetched_at": "2026-06-06T08:29:25.755119+00:00",
     "history_file": "history/c9768e8c042e.json"
   },
   "f163b036800f": {
@@ -13830,7 +13830,7 @@
     "status": "error",
     "first_seen_at": "2026-05-20T09:00:48.866446+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:39:18.637026+00:00",
+    "fetched_at": "2026-06-06T08:29:13.837940+00:00",
     "history_file": "history/760f92fc1a54.json"
   },
   "a2762085acd7": {
@@ -14045,7 +14045,7 @@
     "status": "error",
     "first_seen_at": "2026-05-20T09:00:58.655586+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:39:34.229067+00:00",
+    "fetched_at": "2026-06-06T08:29:20.166372+00:00",
     "history_file": "history/77e9b089d707.json"
   },
   "47e59ff87928": {
@@ -14070,7 +14070,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-20T09:00:58.989323+00:00",
     "last_updated_at": "2026-05-20T09:00:58.989323+00:00",
-    "fetched_at": "2026-06-05T09:39:48.168111+00:00",
+    "fetched_at": "2026-06-06T08:29:24.983954+00:00",
     "history_file": "history/47e59ff87928.json"
   },
   "21197bb98859": {
@@ -14106,7 +14106,7 @@
     "status": "error",
     "first_seen_at": "2026-05-20T09:01:00.075203+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-02T10:15:35.626105+00:00",
+    "fetched_at": "2026-06-06T08:29:22.930698+00:00",
     "history_file": "history/cf6f502de413.json"
   },
   "b7786e734458": {
@@ -14250,7 +14250,7 @@
     "status": "error",
     "first_seen_at": "2026-05-20T09:01:13.560102+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:39:42.141549+00:00",
+    "fetched_at": "2026-06-06T08:29:23.638103+00:00",
     "history_file": "history/c433760ceda0.json"
   },
   "8cba6b145752": {
@@ -14268,7 +14268,7 @@
     "status": "error",
     "first_seen_at": "2026-05-20T09:01:14.137411+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:39:45.760741+00:00",
+    "fetched_at": "2026-06-06T08:29:24.531126+00:00",
     "history_file": "history/8cba6b145752.json"
   },
   "672d3267db86": {
@@ -14286,7 +14286,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-20T09:01:14.468898+00:00",
     "last_updated_at": "2026-05-20T09:01:14.468898+00:00",
-    "fetched_at": "2026-06-03T10:51:47.015154+00:00",
+    "fetched_at": "2026-06-06T08:29:24.084732+00:00",
     "history_file": "history/672d3267db86.json"
   },
   "6dbaf9ccd23f": {
@@ -14810,7 +14810,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-20T09:02:06.537739+00:00",
     "last_updated_at": "2026-05-20T09:02:06.537739+00:00",
-    "fetched_at": "2026-06-05T09:40:45.471465+00:00",
+    "fetched_at": "2026-06-06T08:29:57.081299+00:00",
     "history_file": "history/1ef726eefb58.json"
   },
   "773b23cd7b02": {
@@ -15110,7 +15110,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-20T09:02:25.421669+00:00",
     "last_updated_at": "2026-05-20T09:02:25.421669+00:00",
-    "fetched_at": "2026-06-05T09:40:31.303640+00:00",
+    "fetched_at": "2026-06-06T08:29:51.483667+00:00",
     "history_file": "history/ed7a90c4d61b.json"
   },
   "8273d92dcc4c": {
@@ -15146,7 +15146,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-20T09:02:26.531649+00:00",
     "last_updated_at": "2026-05-20T09:02:26.531649+00:00",
-    "fetched_at": "2026-06-05T09:40:41.469364+00:00",
+    "fetched_at": "2026-06-06T08:29:55.431051+00:00",
     "history_file": "history/54f788ed066c.json"
   },
   "2d52726b3566": {
@@ -15304,7 +15304,7 @@
     "status": "error",
     "first_seen_at": "2026-05-21T09:31:57.546139+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-04T09:50:27.278973+00:00",
+    "fetched_at": "2026-06-06T08:28:59.319528+00:00",
     "history_file": "history/05b4b894df6a.json"
   },
   "b939de8aa9e4": {
@@ -15322,7 +15322,7 @@
     "status": "error",
     "first_seen_at": "2026-05-21T09:31:57.869018+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:38:41.152866+00:00",
+    "fetched_at": "2026-06-06T08:28:47.673868+00:00",
     "history_file": "history/b939de8aa9e4.json"
   },
   "8f36c03090fd": {
@@ -15374,7 +15374,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-21T09:32:00.311904+00:00",
     "last_updated_at": "2026-05-21T09:32:00.311904+00:00",
-    "fetched_at": "2026-06-04T09:50:39.618949+00:00",
+    "fetched_at": "2026-06-06T08:28:54.119341+00:00",
     "history_file": "history/67dd427f0c0d.json"
   },
   "919bab27ec00": {
@@ -15410,7 +15410,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-21T09:32:01.297828+00:00",
     "last_updated_at": "2026-05-21T09:32:01.297828+00:00",
-    "fetched_at": "2026-06-04T09:50:39.026099+00:00",
+    "fetched_at": "2026-06-06T08:28:58.830079+00:00",
     "history_file": "history/6fba0c5f478a.json"
   },
   "cb8215377e7c": {
@@ -15489,7 +15489,7 @@
     "status": "error",
     "first_seen_at": "2026-05-21T09:32:06.616063+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:38:50.929448+00:00",
+    "fetched_at": "2026-06-06T08:28:52.136914+00:00",
     "history_file": "history/3e52368ef330.json"
   },
   "36139d66a979": {
@@ -15509,7 +15509,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-21T09:32:07.098608+00:00",
     "last_updated_at": "2026-05-21T09:32:07.098608+00:00",
-    "fetched_at": "2026-06-03T10:51:08.847175+00:00",
+    "fetched_at": "2026-06-06T08:29:01.724485+00:00",
     "history_file": "history/36139d66a979.json"
   },
   "30690f8a648d": {
@@ -15773,7 +15773,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-21T09:32:12.924257+00:00",
     "last_updated_at": "2026-05-21T09:32:12.924257+00:00",
-    "fetched_at": "2026-06-04T09:50:22.429797+00:00",
+    "fetched_at": "2026-06-06T08:28:53.911530+00:00",
     "history_file": "history/1c98fb073d8d.json"
   },
   "c4a9345d4452": {
@@ -16147,7 +16147,7 @@
     "status": "error",
     "first_seen_at": "2026-05-21T09:32:26.840945+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:39:40.680584+00:00",
+    "fetched_at": "2026-06-06T08:29:22.642236+00:00",
     "history_file": "history/c0068082612a.json"
   },
   "2bb3f43bd93b": {
@@ -16221,7 +16221,7 @@
     "status": "error",
     "first_seen_at": "2026-05-21T09:32:29.203195+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:39:16.140397+00:00",
+    "fetched_at": "2026-06-06T08:29:24.252232+00:00",
     "history_file": "history/e022249c26fe.json"
   },
   "fab86ff47c68": {
@@ -16292,7 +16292,7 @@
     "status": "error",
     "first_seen_at": "2026-05-21T09:32:31.676342+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:39:24.432004+00:00",
+    "fetched_at": "2026-06-06T08:29:15.754779+00:00",
     "history_file": "history/1ed75b86a902.json"
   },
   "92d094aaf054": {
@@ -16550,7 +16550,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-21T09:32:40.033435+00:00",
     "last_updated_at": "2026-05-21T09:32:40.033435+00:00",
-    "fetched_at": "2026-06-05T09:39:14.890034+00:00",
+    "fetched_at": "2026-06-06T08:29:11.078294+00:00",
     "history_file": "history/38eb8124bf1f.json"
   },
   "cce132648e90": {
@@ -16609,7 +16609,7 @@
     "status": "error",
     "first_seen_at": "2026-05-21T09:32:41.866299+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-05-21T09:32:41.866299+00:00",
+    "fetched_at": "2026-06-06T08:29:23.179689+00:00",
     "history_file": "history/e6d709643aac.json"
   },
   "79720e3eb546": {
@@ -16663,7 +16663,7 @@
     "status": "error",
     "first_seen_at": "2026-05-21T09:32:45.440806+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:39:12.686227+00:00",
+    "fetched_at": "2026-06-06T08:29:09.329354+00:00",
     "history_file": "history/168111990b1e.json"
   },
   "41fa00cf5e69": {
@@ -17708,7 +17708,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-21T09:33:11.515046+00:00",
     "last_updated_at": "2026-05-21T09:33:11.515046+00:00",
-    "fetched_at": "2026-06-05T09:40:10.510367+00:00",
+    "fetched_at": "2026-06-06T08:29:40.318522+00:00",
     "history_file": "history/959b4b3b6631.json"
   },
   "dacff2cc0431": {
@@ -18425,7 +18425,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-21T09:33:26.702604+00:00",
     "last_updated_at": "2026-05-21T09:33:26.702604+00:00",
-    "fetched_at": "2026-06-05T09:40:26.349586+00:00",
+    "fetched_at": "2026-06-06T08:29:49.702260+00:00",
     "history_file": "history/4ba0d425aecf.json"
   },
   "885e8e6c8274": {
@@ -18749,7 +18749,7 @@
     "status": "error",
     "first_seen_at": "2026-05-21T09:33:31.685305+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:40:58.572293+00:00",
+    "fetched_at": "2026-06-06T08:30:03.112603+00:00",
     "history_file": "history/8649bc031cec.json"
   },
   "d87a01519046": {
@@ -19293,7 +19293,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-21T09:33:40.610127+00:00",
     "last_updated_at": "2026-05-21T09:33:40.610127+00:00",
-    "fetched_at": "2026-06-05T09:40:59.387334+00:00",
+    "fetched_at": "2026-06-06T08:30:03.623562+00:00",
     "history_file": "history/3a74e73a47a2.json"
   },
   "98cae77c686a": {
@@ -19940,7 +19940,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-22T08:55:10.479066+00:00",
     "last_updated_at": "2026-05-22T08:55:10.479066+00:00",
-    "fetched_at": "2026-06-02T10:15:06.369787+00:00",
+    "fetched_at": "2026-06-06T08:29:03.825996+00:00",
     "history_file": "history/9931a77a84b8.json"
   },
   "84b7fc3292d5": {
@@ -19958,7 +19958,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-22T08:55:13.246518+00:00",
     "last_updated_at": "2026-05-22T08:55:13.246518+00:00",
-    "fetched_at": "2026-06-05T09:38:47.905577+00:00",
+    "fetched_at": "2026-06-06T08:28:48.091491+00:00",
     "history_file": "history/84b7fc3292d5.json"
   },
   "e3949c5cfe1a": {
@@ -20317,7 +20317,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-22T08:55:24.933936+00:00",
     "last_updated_at": "2026-05-22T08:55:24.933936+00:00",
-    "fetched_at": "2026-06-04T09:50:27.084541+00:00",
+    "fetched_at": "2026-06-06T08:29:02.915245+00:00",
     "history_file": "history/9babcbe00fef.json"
   },
   "6345fb2fc256": {
@@ -21773,7 +21773,7 @@
     "status": "error",
     "first_seen_at": "2026-05-22T08:56:00.460457+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:40:11.594039+00:00",
+    "fetched_at": "2026-06-06T08:29:41.047425+00:00",
     "history_file": "history/cfcb68cf2291.json"
   },
   "9f01ba552c9c": {
@@ -22472,7 +22472,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-22T08:56:17.740796+00:00",
     "last_updated_at": "2026-05-22T08:56:17.740796+00:00",
-    "fetched_at": "2026-06-05T09:40:37.442644+00:00",
+    "fetched_at": "2026-06-06T08:29:53.759547+00:00",
     "history_file": "history/815df95fe767.json"
   },
   "da9cf88d3be7": {
@@ -25957,7 +25957,7 @@
     "status": "error",
     "first_seen_at": "2026-05-23T08:13:59.084434+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:41:07.491989+00:00",
+    "fetched_at": "2026-06-06T08:30:08.037100+00:00",
     "history_file": "history/62cc0b9b3782.json"
   },
   "7355bd25173d": {
@@ -27471,7 +27471,7 @@
     "status": "error",
     "first_seen_at": "2026-05-24T08:24:15.575415+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-02T10:14:54.753050+00:00",
+    "fetched_at": "2026-06-06T08:28:52.438038+00:00",
     "history_file": "history/c75da0c1ebc5.json"
   },
   "36e88bd50e8f": {
@@ -27713,7 +27713,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-24T08:24:25.796744+00:00",
     "last_updated_at": "2026-05-24T08:24:25.796744+00:00",
-    "fetched_at": "2026-06-04T09:50:30.811390+00:00",
+    "fetched_at": "2026-06-06T08:28:57.262711+00:00",
     "history_file": "history/cb71027a5d6d.json"
   },
   "7c302635d52b": {
@@ -29127,7 +29127,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-24T08:25:31.446381+00:00",
     "last_updated_at": "2026-05-24T08:25:31.446381+00:00",
-    "fetched_at": "2026-06-05T09:40:18.968092+00:00",
+    "fetched_at": "2026-06-06T08:29:45.848451+00:00",
     "history_file": "history/dffa97e23199.json"
   },
   "98891bda419d": {
@@ -29734,7 +29734,7 @@
     "status": "error",
     "first_seen_at": "2026-05-24T08:25:53.568161+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:40:43.425668+00:00",
+    "fetched_at": "2026-06-06T08:29:56.286673+00:00",
     "history_file": "history/f356b30b775b.json"
   },
   "9ecb84506c43": {
@@ -30471,7 +30471,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-24T08:26:09.574475+00:00",
     "last_updated_at": "2026-05-24T08:26:09.574475+00:00",
-    "fetched_at": "2026-06-05T09:41:00.251881+00:00",
+    "fetched_at": "2026-06-06T08:30:04.264959+00:00",
     "history_file": "history/d016f28fd033.json"
   },
   "74605a87dd2a": {
@@ -32500,7 +32500,7 @@
     "status": "error",
     "first_seen_at": "2026-05-25T09:59:50.935644+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:40:34.918933+00:00",
+    "fetched_at": "2026-06-06T08:29:52.871626+00:00",
     "history_file": "history/42df49fbf1b8.json"
   },
   "0eaf4e913444": {
@@ -37636,7 +37636,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-28T09:54:53.395321+00:00",
     "last_updated_at": "2026-05-28T09:54:53.395321+00:00",
-    "fetched_at": "2026-06-05T09:38:54.974905+00:00",
+    "fetched_at": "2026-06-06T08:29:03.379819+00:00",
     "history_file": "history/d0f6a6b38ebc.json"
   },
   "972c9afe41f7": {
@@ -39483,7 +39483,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-28T09:56:01.065225+00:00",
     "last_updated_at": "2026-05-28T09:56:01.065225+00:00",
-    "fetched_at": "2026-06-05T09:40:04.588860+00:00",
+    "fetched_at": "2026-06-06T08:29:36.765373+00:00",
     "history_file": "history/5c03b7948b83.json"
   },
   "2cca893d5800": {
@@ -40477,10 +40477,10 @@
     "paths_count": 4,
     "latest_info_version": "1.0.0",
     "latest_hash": "16a4c92b9e976c306007b026a35614b0f9247a3c70a4f14cfdb8a6ebb302f69f",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-05-29T09:44:53.506463+00:00",
     "last_updated_at": "2026-05-29T09:44:53.506463+00:00",
-    "fetched_at": "2026-05-29T09:44:53.506463+00:00",
+    "fetched_at": "2026-06-06T08:28:53.192759+00:00",
     "history_file": "history/39730ac32a4f.json"
   },
   "f3906d42d3ec": {
@@ -40516,7 +40516,7 @@
     "status": "error",
     "first_seen_at": "2026-05-29T09:45:02.816965+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:39:41.788621+00:00",
+    "fetched_at": "2026-06-06T08:29:23.475855+00:00",
     "history_file": "history/ac86169edbc3.json"
   },
   "56225bf5e0f5": {
@@ -41230,7 +41230,7 @@
     "status": "error",
     "first_seen_at": "2026-05-29T09:45:45.002121+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:40:13.507400+00:00",
+    "fetched_at": "2026-06-06T08:29:42.539587+00:00",
     "history_file": "history/0dab48c1241e.json"
   },
   "88708e611931": {
@@ -41579,7 +41579,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-29T09:45:50.838258+00:00",
     "last_updated_at": "2026-05-29T09:45:50.838258+00:00",
-    "fetched_at": "2026-06-05T09:40:06.796193+00:00",
+    "fetched_at": "2026-06-06T08:29:38.083121+00:00",
     "history_file": "history/59abbd15e987.json"
   },
   "8babf035c750": {
@@ -42372,7 +42372,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-30T08:23:08.426827+00:00",
     "last_updated_at": "2026-05-30T08:23:08.426827+00:00",
-    "fetched_at": "2026-06-05T09:38:58.750853+00:00",
+    "fetched_at": "2026-06-06T08:28:56.291753+00:00",
     "history_file": "history/ab9b7d6e5fbc.json"
   },
   "2a0348182498": {
@@ -45741,7 +45741,7 @@
     "status": "error",
     "first_seen_at": "2026-05-31T08:40:35.251314+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:40:58.213374+00:00",
+    "fetched_at": "2026-06-06T08:30:02.950344+00:00",
     "history_file": "history/19249971efd0.json"
   },
   "eea50cf711a5": {
@@ -47169,7 +47169,7 @@
     "status": "error",
     "first_seen_at": "2026-06-02T10:14:54.072557+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:38:44.158291+00:00",
+    "fetched_at": "2026-06-06T08:28:49.518804+00:00",
     "history_file": "history/de348fc8299a.json"
   },
   "4b6a5b2dc425": {
@@ -47497,7 +47497,7 @@
     "status": "error",
     "first_seen_at": "2026-06-02T10:15:32.539015+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:39:12.954546+00:00",
+    "fetched_at": "2026-06-06T08:29:09.470520+00:00",
     "history_file": "history/724ff51cf50e.json"
   },
   "8d7116a618d9": {
@@ -49081,7 +49081,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-06-03T10:51:30.396241+00:00",
     "last_updated_at": "2026-06-03T10:51:30.396241+00:00",
-    "fetched_at": "2026-06-05T09:39:10.482400+00:00",
+    "fetched_at": "2026-06-06T08:29:07.419157+00:00",
     "history_file": "history/e3679e33d53a.json"
   },
   "566ef1c991f4": {
@@ -50019,7 +50019,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-06-03T10:52:26.682317+00:00",
     "last_updated_at": "2026-06-03T10:52:26.682317+00:00",
-    "fetched_at": "2026-06-05T09:40:12.723438+00:00",
+    "fetched_at": "2026-06-06T08:29:41.836763+00:00",
     "history_file": "history/d81feb166dcb.json"
   },
   "66cc43003f4c": {
@@ -50469,7 +50469,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-06-03T10:53:02.415076+00:00",
     "last_updated_at": "2026-06-03T10:53:02.415076+00:00",
-    "fetched_at": "2026-06-05T09:40:49.624755+00:00",
+    "fetched_at": "2026-06-06T08:29:58.901867+00:00",
     "history_file": "history/b3c76d68aad9.json"
   },
   "1a76e98c2199": {
@@ -50634,10 +50634,10 @@
     "paths_count": 40,
     "latest_info_version": "1.0.0",
     "latest_hash": "31cf3bd772f47026ee984695d6f225b5b1c3ea4b3fd68e2ed5beec8192c1d350",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-04T09:50:21.322164+00:00",
     "last_updated_at": "2026-06-04T09:50:21.322164+00:00",
-    "fetched_at": "2026-06-04T09:50:21.322164+00:00",
+    "fetched_at": "2026-06-06T08:28:50.103388+00:00",
     "history_file": "history/1912195ba4f6.json"
   },
   "cb18258740af": {
@@ -50976,10 +50976,10 @@
     "paths_count": 0,
     "latest_info_version": null,
     "latest_hash": "0c92c34ad18357bd78155f74807695fcd6dd91de41818f6276a77a9d0c38a04a",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-04T09:50:59.081005+00:00",
     "last_updated_at": "2026-06-04T09:50:59.081005+00:00",
-    "fetched_at": "2026-06-04T09:50:59.081005+00:00",
+    "fetched_at": "2026-06-06T08:29:22.101298+00:00",
     "history_file": "history/34c82d6f5f80.json"
   },
   "8e31b10f12db": {
@@ -51788,7 +51788,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-06-04T09:51:38.543442+00:00",
     "last_updated_at": "2026-06-04T09:51:38.543442+00:00",
-    "fetched_at": "2026-06-05T09:40:28.411236+00:00",
+    "fetched_at": "2026-06-06T08:29:50.554042+00:00",
     "history_file": "history/ed20a90728ab.json"
   },
   "aa91e2604f27": {
@@ -51824,7 +51824,7 @@
     "status": "error",
     "first_seen_at": "2026-06-04T09:51:42.763190+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:40:36.312849+00:00",
+    "fetched_at": "2026-06-06T08:29:53.454276+00:00",
     "history_file": "history/842b6e96deab.json"
   },
   "f06e9f71b138": {
@@ -52082,10 +52082,10 @@
     "paths_count": 14,
     "latest_info_version": "1.0.0",
     "latest_hash": "97190ddfcb2779db6a5cf047723e80d66f2862d772454122722e401898e9057b",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:38:39.808800+00:00",
     "last_updated_at": "2026-06-05T09:38:39.808800+00:00",
-    "fetched_at": "2026-06-05T09:38:39.808800+00:00",
+    "fetched_at": "2026-06-06T08:28:46.751276+00:00",
     "history_file": "history/efb5790aa92e.json"
   },
   "e1bc535367a1": {
@@ -52100,10 +52100,10 @@
     "paths_count": 0,
     "latest_info_version": null,
     "latest_hash": "048396b3b24f2b277aea41cbb07b06e3816976ec0657c97a0fcb155803908419",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:38:40.335280+00:00",
     "last_updated_at": "2026-06-05T09:38:40.335280+00:00",
-    "fetched_at": "2026-06-05T09:38:40.335280+00:00",
+    "fetched_at": "2026-06-06T08:28:47.180511+00:00",
     "history_file": "history/e1bc535367a1.json"
   },
   "448efbc28c41": {
@@ -52121,7 +52121,7 @@
     "status": "error",
     "first_seen_at": "2026-06-05T09:38:40.898165+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:38:40.898165+00:00",
+    "fetched_at": "2026-06-06T08:28:47.516987+00:00",
     "history_file": "history/448efbc28c41.json"
   },
   "32411455f17e": {
@@ -52139,7 +52139,7 @@
     "status": "error",
     "first_seen_at": "2026-06-05T09:38:41.391478+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:38:41.391478+00:00",
+    "fetched_at": "2026-06-06T08:28:47.812594+00:00",
     "history_file": "history/32411455f17e.json"
   },
   "c7d67cb2ef6b": {
@@ -52226,10 +52226,10 @@
     "paths_count": 1,
     "latest_info_version": "1.0.0",
     "latest_hash": "cad65fde3ff716c631ee8b961ce17f7681eeca1326aedf52b3b3c4a73316f371",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:38:44.368930+00:00",
     "last_updated_at": "2026-06-05T09:38:44.368930+00:00",
-    "fetched_at": "2026-06-05T09:38:44.368930+00:00",
+    "fetched_at": "2026-06-06T08:29:02.526757+00:00",
     "history_file": "history/219e254ca207.json"
   },
   "bcbf4ce0c6a7": {
@@ -52271,10 +52271,10 @@
     "paths_count": 4,
     "latest_info_version": "1.0.0",
     "latest_hash": "96b1bbefb302be63add1281b366720b76913698ff318e158de3432a3a3e45914",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:38:46.545743+00:00",
     "last_updated_at": "2026-06-05T09:38:46.545743+00:00",
-    "fetched_at": "2026-06-05T09:38:46.545743+00:00",
+    "fetched_at": "2026-06-06T08:29:00.123114+00:00",
     "history_file": "history/a9accbc39006.json"
   },
   "c6a38be38e1d": {
@@ -52345,10 +52345,10 @@
     "paths_count": 4,
     "latest_info_version": "0.1.9",
     "latest_hash": "3df3193bc0f810da3dd999871ebc251bed85a529c5dd991304f48be48f0854ec",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:38:51.439100+00:00",
     "last_updated_at": "2026-06-05T09:38:51.439100+00:00",
-    "fetched_at": "2026-06-05T09:38:51.439100+00:00",
+    "fetched_at": "2026-06-06T08:28:54.266330+00:00",
     "history_file": "history/a2b818aa4600.json"
   },
   "5ffcbddb688a": {
@@ -52366,10 +52366,10 @@
     "paths_count": 34,
     "latest_info_version": "1.0.0",
     "latest_hash": "22dbfea80aca2294ef1fa02ef718671e13f63ef7cb9a2f6ccf2822de1bcd98e6",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:38:51.668852+00:00",
     "last_updated_at": "2026-06-05T09:38:51.668852+00:00",
-    "fetched_at": "2026-06-05T09:38:51.668852+00:00",
+    "fetched_at": "2026-06-06T08:28:55.949643+00:00",
     "history_file": "history/5ffcbddb688a.json"
   },
   "ab83c0409544": {
@@ -52406,10 +52406,10 @@
     "paths_count": 12,
     "latest_info_version": "1.0.0",
     "latest_hash": "4d2310cf57a7956b188a48a7d8dcc75f932db0cac09680e4be0d6d6582b7be3e",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:38:53.968965+00:00",
     "last_updated_at": "2026-06-05T09:38:53.968965+00:00",
-    "fetched_at": "2026-06-05T09:38:53.968965+00:00",
+    "fetched_at": "2026-06-06T08:28:55.778401+00:00",
     "history_file": "history/efacd997f1cc.json"
   },
   "eabdcd2fbe6a": {
@@ -52465,7 +52465,7 @@
     "status": "error",
     "first_seen_at": "2026-06-05T09:38:57.187328+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:38:57.187328+00:00",
+    "fetched_at": "2026-06-06T08:28:49.958636+00:00",
     "history_file": "history/500b50cc618c.json"
   },
   "73e3839549a4": {
@@ -52890,10 +52890,10 @@
     "paths_count": 2,
     "latest_info_version": "1.0.0",
     "latest_hash": "2207ed0f748befd55dd00f387728b5d4b273452abd07a2aaa8a96199cd7777b7",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:39:06.107600+00:00",
     "last_updated_at": "2026-06-05T09:39:06.107600+00:00",
-    "fetched_at": "2026-06-05T09:39:06.107600+00:00",
+    "fetched_at": "2026-06-06T08:28:49.653985+00:00",
     "history_file": "history/8576d7a2e655.json"
   },
   "3f23ed92a231": {
@@ -52929,7 +52929,7 @@
     "status": "error",
     "first_seen_at": "2026-06-05T09:39:09.975838+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:39:09.975838+00:00",
+    "fetched_at": "2026-06-06T08:29:07.124160+00:00",
     "history_file": "history/a3ae732718c3.json"
   },
   "a8747eeb47e7": {
@@ -52947,7 +52947,7 @@
     "status": "error",
     "first_seen_at": "2026-06-05T09:39:10.222822+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:39:10.222822+00:00",
+    "fetched_at": "2026-06-06T08:29:07.262028+00:00",
     "history_file": "history/a8747eeb47e7.json"
   },
   "b636b8c2098c": {
@@ -52962,10 +52962,10 @@
     "paths_count": 39,
     "latest_info_version": "v0.3.0.dev2604141105859917",
     "latest_hash": "5418e5bae8bc78949ce4e5acc251e1eba6d59da82f9be7f0605d9c4c8bb7d256",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:39:10.926732+00:00",
     "last_updated_at": "2026-06-05T09:39:10.926732+00:00",
-    "fetched_at": "2026-06-05T09:39:10.926732+00:00",
+    "fetched_at": "2026-06-06T08:29:07.888675+00:00",
     "history_file": "history/b636b8c2098c.json"
   },
   "cd65a731bb9b": {
@@ -53061,10 +53061,10 @@
     "paths_count": 21,
     "latest_info_version": "0.1.6",
     "latest_hash": "7d069e43ca105e8127ce07ba7bd8bd7a78a2fadd6420009f2634a24cfb153f32",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:39:14.312732+00:00",
     "last_updated_at": "2026-06-05T09:39:14.312732+00:00",
-    "fetched_at": "2026-06-05T09:39:14.312732+00:00",
+    "fetched_at": "2026-06-06T08:29:10.507049+00:00",
     "history_file": "history/b7942454b925.json"
   },
   "88536829596f": {
@@ -53082,7 +53082,7 @@
     "status": "error",
     "first_seen_at": "2026-06-05T09:39:14.622503+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:39:14.622503+00:00",
+    "fetched_at": "2026-06-06T08:29:10.925039+00:00",
     "history_file": "history/88536829596f.json"
   },
   "5ee82787105b": {
@@ -53097,10 +53097,10 @@
     "paths_count": 36,
     "latest_info_version": "1.0.0",
     "latest_hash": "024acff223417edd72899e758a2229df67db915731219e0b8a6dd15d57969717",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:39:15.513603+00:00",
     "last_updated_at": "2026-06-05T09:39:15.513603+00:00",
-    "fetched_at": "2026-06-05T09:39:15.513603+00:00",
+    "fetched_at": "2026-06-06T08:29:11.551640+00:00",
     "history_file": "history/5ee82787105b.json"
   },
   "0771c7ac7bdd": {
@@ -53118,7 +53118,7 @@
     "status": "error",
     "first_seen_at": "2026-06-05T09:39:15.874495+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:39:15.874495+00:00",
+    "fetched_at": "2026-06-06T08:29:11.866303+00:00",
     "history_file": "history/0771c7ac7bdd.json"
   },
   "ccb525871af3": {
@@ -53180,10 +53180,10 @@
     "paths_count": 1,
     "latest_info_version": "1.0.0",
     "latest_hash": "986c599fd0046e79d68908590b23cf6f83f60f1dd1b7dd65e721629dc2334ac3",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:39:22.655137+00:00",
     "last_updated_at": "2026-06-05T09:39:22.655137+00:00",
-    "fetched_at": "2026-06-05T09:39:22.655137+00:00",
+    "fetched_at": "2026-06-06T08:29:14.680365+00:00",
     "history_file": "history/45ec4c4e71eb.json"
   },
   "733063045245": {
@@ -53201,7 +53201,7 @@
     "status": "error",
     "first_seen_at": "2026-06-05T09:39:23.043018+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:39:23.043018+00:00",
+    "fetched_at": "2026-06-06T08:29:15.047694+00:00",
     "history_file": "history/733063045245.json"
   },
   "1ea7b2bf8c20": {
@@ -53216,10 +53216,10 @@
     "paths_count": 1,
     "latest_info_version": "1.0.0",
     "latest_hash": "47d6bdcff59bc78bb0aae658ae8bee3fe98fa10361d62c9218bfd231761c8d9b",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:39:25.591641+00:00",
     "last_updated_at": "2026-06-05T09:39:25.591641+00:00",
-    "fetched_at": "2026-06-05T09:39:25.591641+00:00",
+    "fetched_at": "2026-06-06T08:29:16.218701+00:00",
     "history_file": "history/1ea7b2bf8c20.json"
   },
   "abe1ae2ed252": {
@@ -53252,10 +53252,10 @@
     "paths_count": 1,
     "latest_info_version": "1.0.0",
     "latest_hash": "0db9a6886c5351d0f42d47c267b526b6532d1504aa748c63b1d7aee2750e1b84",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:39:26.780914+00:00",
     "last_updated_at": "2026-06-05T09:39:26.780914+00:00",
-    "fetched_at": "2026-06-05T09:39:26.780914+00:00",
+    "fetched_at": "2026-06-06T08:29:26.053982+00:00",
     "history_file": "history/fbe4e0ae684c.json"
   },
   "5c989791eb46": {
@@ -53326,10 +53326,10 @@
     "paths_count": 12,
     "latest_info_version": "1.0",
     "latest_hash": "c80c209530f86b4714ee68cfab269363ca8d7d567de53aa84bdf65e5c6342d6c",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:39:28.841336+00:00",
     "last_updated_at": "2026-06-05T09:39:28.841336+00:00",
-    "fetched_at": "2026-06-05T09:39:28.841336+00:00",
+    "fetched_at": "2026-06-06T08:29:18.170456+00:00",
     "history_file": "history/3e626584bb12.json"
   },
   "35d3dddf49ab": {
@@ -53365,7 +53365,7 @@
     "status": "error",
     "first_seen_at": "2026-06-05T09:39:29.696871+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:39:29.696871+00:00",
+    "fetched_at": "2026-06-06T08:29:18.559306+00:00",
     "history_file": "history/32291a989afb.json"
   },
   "ee187bf13ef3": {
@@ -53383,7 +53383,7 @@
     "status": "error",
     "first_seen_at": "2026-06-05T09:39:30.024648+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:39:30.024648+00:00",
+    "fetched_at": "2026-06-06T08:29:18.818990+00:00",
     "history_file": "history/ee187bf13ef3.json"
   },
   "e68d6798ec41": {
@@ -53401,7 +53401,7 @@
     "status": "error",
     "first_seen_at": "2026-06-05T09:39:30.354594+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:39:30.354594+00:00",
+    "fetched_at": "2026-06-06T08:29:18.949646+00:00",
     "history_file": "history/e68d6798ec41.json"
   },
   "0a66f3550279": {
@@ -53436,10 +53436,10 @@
     "paths_count": 1,
     "latest_info_version": "1.0",
     "latest_hash": "fddefcbcadb719e66dd2bf6598dd30ce61c21e27f09958e373476daefc44163e",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:39:34.977455+00:00",
     "last_updated_at": "2026-06-05T09:39:34.977455+00:00",
-    "fetched_at": "2026-06-05T09:39:34.977455+00:00",
+    "fetched_at": "2026-06-06T08:29:20.461609+00:00",
     "history_file": "history/d2a59c400cfb.json"
   },
   "ff6a88e2a97e": {
@@ -53457,7 +53457,7 @@
     "status": "error",
     "first_seen_at": "2026-06-05T09:39:36.142729+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:39:36.142729+00:00",
+    "fetched_at": "2026-06-06T08:29:20.757233+00:00",
     "history_file": "history/ff6a88e2a97e.json"
   },
   "3bb09054a13c": {
@@ -53475,7 +53475,7 @@
     "status": "error",
     "first_seen_at": "2026-06-05T09:39:36.478253+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:39:36.478253+00:00",
+    "fetched_at": "2026-06-06T08:29:20.915834+00:00",
     "history_file": "history/3bb09054a13c.json"
   },
   "cb5baebbab43": {
@@ -53490,10 +53490,10 @@
     "paths_count": 0,
     "latest_info_version": null,
     "latest_hash": "414a4bade3d4c071109c84244a3c406f90057c1128327862cc1781328b760f05",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:39:36.872324+00:00",
     "last_updated_at": "2026-06-05T09:39:36.872324+00:00",
-    "fetched_at": "2026-06-05T09:39:36.872324+00:00",
+    "fetched_at": "2026-06-06T08:29:21.096863+00:00",
     "history_file": "history/cb5baebbab43.json"
   },
   "6c2863655cb0": {
@@ -53510,10 +53510,10 @@
     "paths_count": 1,
     "latest_info_version": "1.0.0",
     "latest_hash": "46efc69baf49e2d0b84dba9dbfb1164253d45d8e477b52e640f7e97cd080b46e",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:39:37.279471+00:00",
     "last_updated_at": "2026-06-05T09:39:37.279471+00:00",
-    "fetched_at": "2026-06-05T09:39:37.279471+00:00",
+    "fetched_at": "2026-06-06T08:29:21.269231+00:00",
     "history_file": "history/6c2863655cb0.json"
   },
   "3cb43a38d827": {
@@ -53530,10 +53530,10 @@
     "paths_count": 2,
     "latest_info_version": "1.0.0",
     "latest_hash": "026b91ec8c48c9dd59e15b76a39b495f8503b6dcf5733a6ee7f96e89997e54e0",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:39:37.718718+00:00",
     "last_updated_at": "2026-06-05T09:39:37.718718+00:00",
-    "fetched_at": "2026-06-05T09:39:37.718718+00:00",
+    "fetched_at": "2026-06-06T08:29:21.413082+00:00",
     "history_file": "history/3cb43a38d827.json"
   },
   "42babd0131b3": {
@@ -53622,10 +53622,10 @@
     "paths_count": 0,
     "latest_info_version": null,
     "latest_hash": "896a63b5574f62844bc154b4e9e09360ead0e49a7eccf99b356f9e770e00fff8",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:39:42.886038+00:00",
     "last_updated_at": "2026-06-05T09:39:42.886038+00:00",
-    "fetched_at": "2026-06-05T09:39:42.886038+00:00",
+    "fetched_at": "2026-06-06T08:29:23.925204+00:00",
     "history_file": "history/f2dae0ca3230.json"
   },
   "765706166ff0": {
@@ -53725,10 +53725,10 @@
     "paths_count": 1,
     "latest_info_version": null,
     "latest_hash": "32d9a7a03b314e55cfeb8f5a317fe55440a9cdfae31d07c7934ebaeb25fd87fa",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:39:53.826200+00:00",
     "last_updated_at": "2026-06-05T09:39:53.826200+00:00",
-    "fetched_at": "2026-06-05T09:39:53.826200+00:00",
+    "fetched_at": "2026-06-06T08:29:29.600843+00:00",
     "history_file": "history/17bf77fea168.json"
   },
   "6243f4b77fe9": {
@@ -53743,10 +53743,10 @@
     "paths_count": 0,
     "latest_info_version": null,
     "latest_hash": "cc8f66f544cf961346cd24504909b3e7559aaa47aec8181a3f776a4e8805e747",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:39:54.627899+00:00",
     "last_updated_at": "2026-06-05T09:39:54.627899+00:00",
-    "fetched_at": "2026-06-05T09:39:54.627899+00:00",
+    "fetched_at": "2026-06-06T08:29:30.015570+00:00",
     "history_file": "history/6243f4b77fe9.json"
   },
   "31e63eb9cbef": {
@@ -53763,10 +53763,10 @@
     "paths_count": 4,
     "latest_info_version": "v1",
     "latest_hash": "aac22c968a158922b4613633be319d3c846b8efee0f2311b08895d9c8a7d2c46",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:39:57.046289+00:00",
     "last_updated_at": "2026-06-05T09:39:57.046289+00:00",
-    "fetched_at": "2026-06-05T09:39:57.046289+00:00",
+    "fetched_at": "2026-06-06T08:29:31.592774+00:00",
     "history_file": "history/31e63eb9cbef.json"
   },
   "8c388b6d68b6": {
@@ -53784,7 +53784,7 @@
     "status": "error",
     "first_seen_at": "2026-06-05T09:39:58.109517+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:39:58.109517+00:00",
+    "fetched_at": "2026-06-06T08:29:32.357160+00:00",
     "history_file": "history/8c388b6d68b6.json"
   },
   "cdd8102cafb3": {
@@ -53804,10 +53804,10 @@
     "paths_count": 4,
     "latest_info_version": "1.0.0",
     "latest_hash": "e2d0f2d82862c253a65df0afc9472812cdc2d2028bb8f34575319ca8ba0c2296",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:39:58.637165+00:00",
     "last_updated_at": "2026-06-05T09:39:58.637165+00:00",
-    "fetched_at": "2026-06-05T09:39:58.637165+00:00",
+    "fetched_at": "2026-06-06T08:29:32.710621+00:00",
     "history_file": "history/cdd8102cafb3.json"
   },
   "4dd42d25a0bd": {
@@ -53827,10 +53827,10 @@
     "paths_count": 16,
     "latest_info_version": null,
     "latest_hash": "fd337a858a08622b776bc4812880d0a03524a6542d74797f5ac35a1641368b90",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:39:59.179689+00:00",
     "last_updated_at": "2026-06-05T09:39:59.179689+00:00",
-    "fetched_at": "2026-06-05T09:39:59.179689+00:00",
+    "fetched_at": "2026-06-06T08:29:33.029325+00:00",
     "history_file": "history/4dd42d25a0bd.json"
   },
   "522cf283b294": {
@@ -53848,7 +53848,7 @@
     "status": "error",
     "first_seen_at": "2026-06-05T09:39:59.451357+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:39:59.451357+00:00",
+    "fetched_at": "2026-06-06T08:29:33.209566+00:00",
     "history_file": "history/522cf283b294.json"
   },
   "a3dded5a2f64": {
@@ -53865,10 +53865,10 @@
     "paths_count": 11,
     "latest_info_version": "1.1",
     "latest_hash": "7377de6e6b7e9580532220c6f697d69ccfa47b0d600679b391a0bf78fd835fdd",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:39:59.707086+00:00",
     "last_updated_at": "2026-06-05T09:39:59.707086+00:00",
-    "fetched_at": "2026-06-05T09:39:59.707086+00:00",
+    "fetched_at": "2026-06-06T08:29:33.464168+00:00",
     "history_file": "history/a3dded5a2f64.json"
   },
   "90b3266bccf1": {
@@ -53885,10 +53885,10 @@
     "paths_count": 6,
     "latest_info_version": null,
     "latest_hash": "095af1604886a34b46c3a52c1fab23a8c6f5e6fbcaf14d2f409f5d424ff28188",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:39:59.986772+00:00",
     "last_updated_at": "2026-06-05T09:39:59.986772+00:00",
-    "fetched_at": "2026-06-05T09:39:59.986772+00:00",
+    "fetched_at": "2026-06-06T08:29:33.678187+00:00",
     "history_file": "history/90b3266bccf1.json"
   },
   "e7294b9de0e8": {
@@ -53905,10 +53905,10 @@
     "paths_count": 6,
     "latest_info_version": "1.0.0",
     "latest_hash": "4bcc135355bde64892a17f3908b77321a675a7c45453b4b6cc6dbfb1cba8e5cb",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:00.212874+00:00",
     "last_updated_at": "2026-06-05T09:40:00.212874+00:00",
-    "fetched_at": "2026-06-05T09:40:00.212874+00:00",
+    "fetched_at": "2026-06-06T08:29:33.833701+00:00",
     "history_file": "history/e7294b9de0e8.json"
   },
   "2da49e42faf9": {
@@ -53923,10 +53923,10 @@
     "paths_count": 32,
     "latest_info_version": "1.1.0",
     "latest_hash": "75fc1619cc4c3d19ad1abe471fc734c15e473262d1fabac823f6938d076be930",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:00.810973+00:00",
     "last_updated_at": "2026-06-05T09:40:00.810973+00:00",
-    "fetched_at": "2026-06-05T09:40:00.810973+00:00",
+    "fetched_at": "2026-06-06T08:29:34.192147+00:00",
     "history_file": "history/2da49e42faf9.json"
   },
   "5d51a178c8ff": {
@@ -53944,10 +53944,10 @@
     "paths_count": 7,
     "latest_info_version": "1.0.0",
     "latest_hash": "044b2d8878540a407dcb245cd17584adbc32ca3a4314d120d48a1b8dcce1792b",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:01.153963+00:00",
     "last_updated_at": "2026-06-05T09:40:01.153963+00:00",
-    "fetched_at": "2026-06-05T09:40:01.153963+00:00",
+    "fetched_at": "2026-06-06T08:29:34.510171+00:00",
     "history_file": "history/5d51a178c8ff.json"
   },
   "8b045b582e36": {
@@ -53964,10 +53964,10 @@
     "paths_count": 5,
     "latest_info_version": "1.0.0",
     "latest_hash": "742d346a3f7790ff8e2802cb06334b87b0fb13394be61c61bf6158d147f8b583",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:01.663221+00:00",
     "last_updated_at": "2026-06-05T09:40:01.663221+00:00",
-    "fetched_at": "2026-06-05T09:40:01.663221+00:00",
+    "fetched_at": "2026-06-06T08:29:34.849983+00:00",
     "history_file": "history/8b045b582e36.json"
   },
   "67932f59c516": {
@@ -53984,10 +53984,10 @@
     "paths_count": 2,
     "latest_info_version": "1.0.0",
     "latest_hash": "69f478d388865026ff04ae5c2409668f09dbffd5c3f749e6b1e90d1d52275dd9",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:01.935164+00:00",
     "last_updated_at": "2026-06-05T09:40:01.935164+00:00",
-    "fetched_at": "2026-06-05T09:40:01.935164+00:00",
+    "fetched_at": "2026-06-06T08:29:35.017508+00:00",
     "history_file": "history/67932f59c516.json"
   },
   "b87e544d45f3": {
@@ -54004,10 +54004,10 @@
     "paths_count": 7,
     "latest_info_version": "1.0.0",
     "latest_hash": "5578de6821291453fd3c7736bd59b4bfbf675d5bd24b7fbf1f4bc67e7d4700ba",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:02.284785+00:00",
     "last_updated_at": "2026-06-05T09:40:02.284785+00:00",
-    "fetched_at": "2026-06-05T09:40:02.284785+00:00",
+    "fetched_at": "2026-06-06T08:29:35.284024+00:00",
     "history_file": "history/b87e544d45f3.json"
   },
   "2a2fd64a96e9": {
@@ -54027,10 +54027,10 @@
     "paths_count": 4,
     "latest_info_version": "1.0.0",
     "latest_hash": "3b6cb0bb34821b73a612f46b10658d0ea2055774a60ca7fa3c7945f4fe78ad29",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:02.568129+00:00",
     "last_updated_at": "2026-06-05T09:40:02.568129+00:00",
-    "fetched_at": "2026-06-05T09:40:02.568129+00:00",
+    "fetched_at": "2026-06-06T08:29:35.461646+00:00",
     "history_file": "history/2a2fd64a96e9.json"
   },
   "bbe5a92ff43c": {
@@ -54053,10 +54053,10 @@
     "paths_count": 8,
     "latest_info_version": "1.0.0",
     "latest_hash": "70aefeb737c184a3059ae50edc04f249ccd5527fcb846a2624b21d42c904379c",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:02.829986+00:00",
     "last_updated_at": "2026-06-05T09:40:02.829986+00:00",
-    "fetched_at": "2026-06-05T09:40:02.829986+00:00",
+    "fetched_at": "2026-06-06T08:29:35.619853+00:00",
     "history_file": "history/bbe5a92ff43c.json"
   },
   "a4e353306a0d": {
@@ -54073,10 +54073,10 @@
     "paths_count": 4,
     "latest_info_version": "1.0.0",
     "latest_hash": "e7937124bf833ae723b0c3d5814b6a0b32125693c0a62e621d60d24e437d6d6d",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:03.083202+00:00",
     "last_updated_at": "2026-06-05T09:40:03.083202+00:00",
-    "fetched_at": "2026-06-05T09:40:03.083202+00:00",
+    "fetched_at": "2026-06-06T08:29:35.794950+00:00",
     "history_file": "history/a4e353306a0d.json"
   },
   "3d5671fad9b7": {
@@ -54093,10 +54093,10 @@
     "paths_count": 2,
     "latest_info_version": "1.0.0",
     "latest_hash": "64af0d112dfd25e4a1679d6370ee3ae5175efe88b0ad0861cde43a0ba40c2568",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:03.377842+00:00",
     "last_updated_at": "2026-06-05T09:40:03.377842+00:00",
-    "fetched_at": "2026-06-05T09:40:03.377842+00:00",
+    "fetched_at": "2026-06-06T08:29:36.071019+00:00",
     "history_file": "history/3d5671fad9b7.json"
   },
   "d1d0a582ec9c": {
@@ -54115,10 +54115,10 @@
     "paths_count": 3,
     "latest_info_version": "1.0.0",
     "latest_hash": "b42a49d9f5b11379c7729ed6aa8f46a9a627d406dde0b8f58d0fdc4c093c4bbb",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:03.703722+00:00",
     "last_updated_at": "2026-06-05T09:40:03.703722+00:00",
-    "fetched_at": "2026-06-05T09:40:03.703722+00:00",
+    "fetched_at": "2026-06-06T08:29:36.227519+00:00",
     "history_file": "history/d1d0a582ec9c.json"
   },
   "7e9e48fae1be": {
@@ -54139,10 +54139,10 @@
     "paths_count": 13,
     "latest_info_version": "1.0.0",
     "latest_hash": "ba984b7b3899c356a416c97bfef771e049eae73de56cdf7530c135621ebdda20",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:03.978325+00:00",
     "last_updated_at": "2026-06-05T09:40:03.978325+00:00",
-    "fetched_at": "2026-06-05T09:40:03.978325+00:00",
+    "fetched_at": "2026-06-06T08:29:36.383238+00:00",
     "history_file": "history/7e9e48fae1be.json"
   },
   "de87dfed7b12": {
@@ -54159,10 +54159,10 @@
     "paths_count": 6,
     "latest_info_version": "1.0.0",
     "latest_hash": "f8b59678bc7e07655a6bc77796aa8b17b3dcdae5e745e8e3c7ffdf343ccc71f5",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:04.326370+00:00",
     "last_updated_at": "2026-06-05T09:40:04.326370+00:00",
-    "fetched_at": "2026-06-05T09:40:04.326370+00:00",
+    "fetched_at": "2026-06-06T08:29:36.586165+00:00",
     "history_file": "history/de87dfed7b12.json"
   },
   "a626e55a1219": {
@@ -54177,10 +54177,10 @@
     "paths_count": 1,
     "latest_info_version": null,
     "latest_hash": "f318066941078dfc3f39bcce38ce37df4de80fb7e96fe0cb3bef397797ecf000",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:04.886533+00:00",
     "last_updated_at": "2026-06-05T09:40:04.886533+00:00",
-    "fetched_at": "2026-06-05T09:40:04.886533+00:00",
+    "fetched_at": "2026-06-06T08:29:36.961762+00:00",
     "history_file": "history/a626e55a1219.json"
   },
   "5d871ecd1140": {
@@ -54195,10 +54195,10 @@
     "paths_count": 12,
     "latest_info_version": "1.0.0",
     "latest_hash": "7052613e9f44542a426a0c1915c434da7f6146bf7fa6f9d13847015b461eb10b",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:05.180316+00:00",
     "last_updated_at": "2026-06-05T09:40:05.180316+00:00",
-    "fetched_at": "2026-06-05T09:40:05.180316+00:00",
+    "fetched_at": "2026-06-06T08:29:37.125325+00:00",
     "history_file": "history/5d871ecd1140.json"
   },
   "57784aef6f51": {
@@ -54215,10 +54215,10 @@
     "paths_count": 1,
     "latest_info_version": null,
     "latest_hash": "9d512f7f2ee8259b541f91bf9aff11ac236456b78c276b33d1d49e358d9d6b99",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:05.457907+00:00",
     "last_updated_at": "2026-06-05T09:40:05.457907+00:00",
-    "fetched_at": "2026-06-05T09:40:05.457907+00:00",
+    "fetched_at": "2026-06-06T08:29:37.291854+00:00",
     "history_file": "history/57784aef6f51.json"
   },
   "5de78e8a33cd": {
@@ -54235,10 +54235,10 @@
     "paths_count": 5,
     "latest_info_version": "1.0.0",
     "latest_hash": "95092efc86f5c56d57165586c5214bf8c1acd16b527512c3fe04556bce570359",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:05.709446+00:00",
     "last_updated_at": "2026-06-05T09:40:05.709446+00:00",
-    "fetched_at": "2026-06-05T09:40:05.709446+00:00",
+    "fetched_at": "2026-06-06T08:29:37.448651+00:00",
     "history_file": "history/5de78e8a33cd.json"
   },
   "5f4037e2bfbe": {
@@ -54253,10 +54253,10 @@
     "paths_count": 5,
     "latest_info_version": "1.0.0",
     "latest_hash": "8f6b57ff55e6adcdbee4b968b047eb31936bad36683575a8bbc9dbc4b89a3306",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:05.969094+00:00",
     "last_updated_at": "2026-06-05T09:40:05.969094+00:00",
-    "fetched_at": "2026-06-05T09:40:05.969094+00:00",
+    "fetched_at": "2026-06-06T08:29:37.608073+00:00",
     "history_file": "history/5f4037e2bfbe.json"
   },
   "39c6f3922c7a": {
@@ -54273,10 +54273,10 @@
     "paths_count": 8,
     "latest_info_version": "1.0.0",
     "latest_hash": "d3eb42bf7d52cc6fb37a765099d29b864c79dd7be19414883f955dfa2b2ba453",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:06.261535+00:00",
     "last_updated_at": "2026-06-05T09:40:06.261535+00:00",
-    "fetched_at": "2026-06-05T09:40:06.261535+00:00",
+    "fetched_at": "2026-06-06T08:29:37.772854+00:00",
     "history_file": "history/39c6f3922c7a.json"
   },
   "9e55d7bf273e": {
@@ -54296,10 +54296,10 @@
     "paths_count": 4,
     "latest_info_version": "1.0.0",
     "latest_hash": "2847cadbe6682031e9bdd913bf9da3b17fbea02d4c1279b65776c8d200f1fe31",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:06.559280+00:00",
     "last_updated_at": "2026-06-05T09:40:06.559280+00:00",
-    "fetched_at": "2026-06-05T09:40:06.559280+00:00",
+    "fetched_at": "2026-06-06T08:29:37.937081+00:00",
     "history_file": "history/9e55d7bf273e.json"
   },
   "efe242fdc841": {
@@ -54314,10 +54314,10 @@
     "paths_count": 0,
     "latest_info_version": null,
     "latest_hash": "dce02fa9e97324be37b8c934ab963942b93fd840ffabfee8d3beee5d1905f732",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:07.085545+00:00",
     "last_updated_at": "2026-06-05T09:40:07.085545+00:00",
-    "fetched_at": "2026-06-05T09:40:07.085545+00:00",
+    "fetched_at": "2026-06-06T08:29:38.279822+00:00",
     "history_file": "history/efe242fdc841.json"
   },
   "07bea5b19488": {
@@ -54334,10 +54334,10 @@
     "paths_count": 3,
     "latest_info_version": "1.0.0",
     "latest_hash": "1a2bb384074e280174ca74680acc94583afecf941fd0e3f900eee45b33df2552",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:07.380612+00:00",
     "last_updated_at": "2026-06-05T09:40:07.380612+00:00",
-    "fetched_at": "2026-06-05T09:40:07.380612+00:00",
+    "fetched_at": "2026-06-06T08:29:38.432784+00:00",
     "history_file": "history/07bea5b19488.json"
   },
   "b5efcb67d7ca": {
@@ -54354,10 +54354,10 @@
     "paths_count": 2,
     "latest_info_version": "1.0.0",
     "latest_hash": "db1f7b552ad8fc410cab7bfd2e669150ce50f840365e4e36e008f693cbc482f2",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:07.657629+00:00",
     "last_updated_at": "2026-06-05T09:40:07.657629+00:00",
-    "fetched_at": "2026-06-05T09:40:07.657629+00:00",
+    "fetched_at": "2026-06-06T08:29:38.610698+00:00",
     "history_file": "history/b5efcb67d7ca.json"
   },
   "a447bcd35865": {
@@ -54372,10 +54372,10 @@
     "paths_count": 11,
     "latest_info_version": null,
     "latest_hash": "2fce4799a44c76c8c8ba8090652157a2af9ea0d20ca7eacb58b0f04b7d5962ed",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:07.914399+00:00",
     "last_updated_at": "2026-06-05T09:40:07.914399+00:00",
-    "fetched_at": "2026-06-05T09:40:07.914399+00:00",
+    "fetched_at": "2026-06-06T08:29:38.780119+00:00",
     "history_file": "history/a447bcd35865.json"
   },
   "22df270eda5a": {
@@ -54390,10 +54390,10 @@
     "paths_count": 3,
     "latest_info_version": "0.0.1",
     "latest_hash": "9da34f8f7c71ed610a415f6ae0da753a22d16ff8cd5f2e770c3ece42ed13e245",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:08.229245+00:00",
     "last_updated_at": "2026-06-05T09:40:08.229245+00:00",
-    "fetched_at": "2026-06-05T09:40:08.229245+00:00",
+    "fetched_at": "2026-06-06T08:29:38.955488+00:00",
     "history_file": "history/22df270eda5a.json"
   },
   "31ec02fbe5b4": {
@@ -54412,10 +54412,10 @@
     "paths_count": 3,
     "latest_info_version": "1.0.0",
     "latest_hash": "331e47d9cfe0b5c570773c0292f74a4052c697cb4ef90e01340cab1e58bbc60e",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:08.556967+00:00",
     "last_updated_at": "2026-06-05T09:40:08.556967+00:00",
-    "fetched_at": "2026-06-05T09:40:08.556967+00:00",
+    "fetched_at": "2026-06-06T08:29:39.119874+00:00",
     "history_file": "history/31ec02fbe5b4.json"
   },
   "04af6dcf125c": {
@@ -54435,10 +54435,10 @@
     "paths_count": 4,
     "latest_info_version": "1.0.0",
     "latest_hash": "830480d76a5a573c5b31c2f22618b51bc50a0f9fb0a2e5053808f93e03467f8b",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:09.040408+00:00",
     "last_updated_at": "2026-06-05T09:40:09.040408+00:00",
-    "fetched_at": "2026-06-05T09:40:09.040408+00:00",
+    "fetched_at": "2026-06-06T08:29:39.415025+00:00",
     "history_file": "history/04af6dcf125c.json"
   },
   "b47f2aea68c9": {
@@ -54460,10 +54460,10 @@
     "paths_count": 4,
     "latest_info_version": "1.0.0",
     "latest_hash": "860a40fe9dcb0930115b6a4dda7a605f780bf4b158b0a7f50ba18676ff1b2654",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:09.299068+00:00",
     "last_updated_at": "2026-06-05T09:40:09.299068+00:00",
-    "fetched_at": "2026-06-05T09:40:09.299068+00:00",
+    "fetched_at": "2026-06-06T08:29:39.572931+00:00",
     "history_file": "history/b47f2aea68c9.json"
   },
   "13ece42c35ef": {
@@ -54480,10 +54480,10 @@
     "paths_count": 1,
     "latest_info_version": "1.0",
     "latest_hash": "944db5f97199f497711648d505cf93321f3ef094061129b9937499e3da473a16",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:09.520868+00:00",
     "last_updated_at": "2026-06-05T09:40:09.520868+00:00",
-    "fetched_at": "2026-06-05T09:40:09.520868+00:00",
+    "fetched_at": "2026-06-06T08:29:39.731491+00:00",
     "history_file": "history/13ece42c35ef.json"
   },
   "fab54aa4a280": {
@@ -54498,10 +54498,10 @@
     "paths_count": 3,
     "latest_info_version": "1.0.0",
     "latest_hash": "ac3cdd1fb327b95dcc4da68d8cb03c321b330a8cad900753c3662e146d3de982",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:09.835779+00:00",
     "last_updated_at": "2026-06-05T09:40:09.835779+00:00",
-    "fetched_at": "2026-06-05T09:40:09.835779+00:00",
+    "fetched_at": "2026-06-06T08:29:39.913209+00:00",
     "history_file": "history/fab54aa4a280.json"
   },
   "b50e62355568": {
@@ -54516,10 +54516,10 @@
     "paths_count": 0,
     "latest_info_version": null,
     "latest_hash": "344e4b2f7f15b76b5606be45d8031fc43f473f8d63f0e02c61dbf89a97f85e69",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:10.231737+00:00",
     "last_updated_at": "2026-06-05T09:40:10.231737+00:00",
-    "fetched_at": "2026-06-05T09:40:10.231737+00:00",
+    "fetched_at": "2026-06-06T08:29:40.160363+00:00",
     "history_file": "history/b50e62355568.json"
   },
   "1a3f260ea3c7": {
@@ -54536,10 +54536,10 @@
     "paths_count": 7,
     "latest_info_version": "1.0.0",
     "latest_hash": "3d3bfabf5238145493eeb6bedf1657ba414553c5f1bfb3a6b5db7d3580b55e61",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:10.752599+00:00",
     "last_updated_at": "2026-06-05T09:40:10.752599+00:00",
-    "fetched_at": "2026-06-05T09:40:10.752599+00:00",
+    "fetched_at": "2026-06-06T08:29:40.491355+00:00",
     "history_file": "history/1a3f260ea3c7.json"
   },
   "cd41ea147f2a": {
@@ -54554,10 +54554,10 @@
     "paths_count": 2,
     "latest_info_version": "1.0.0",
     "latest_hash": "178d70c3df37f4f8d2ad44f1998c3ed98d31d405ffaf4958424bfebaed16a373",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:10.993241+00:00",
     "last_updated_at": "2026-06-05T09:40:10.993241+00:00",
-    "fetched_at": "2026-06-05T09:40:10.993241+00:00",
+    "fetched_at": "2026-06-06T08:29:40.661620+00:00",
     "history_file": "history/cd41ea147f2a.json"
   },
   "624848bf8926": {
@@ -54585,10 +54585,10 @@
     "paths_count": 43,
     "latest_info_version": "1.0.0",
     "latest_hash": "515b6c8509a6e01304512f2ee0e826949a9e5c8eb1a488d639dd7e907821b1c3",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:11.258455+00:00",
     "last_updated_at": "2026-06-05T09:40:11.258455+00:00",
-    "fetched_at": "2026-06-05T09:40:11.258455+00:00",
+    "fetched_at": "2026-06-06T08:29:40.802770+00:00",
     "history_file": "history/624848bf8926.json"
   },
   "31c3369b4a24": {
@@ -54605,10 +54605,10 @@
     "paths_count": 4,
     "latest_info_version": "0.0.1",
     "latest_hash": "62002d4508703b2e1ee9396a077ff9ff333009c9f075a05d90a60360426423b7",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:11.944168+00:00",
     "last_updated_at": "2026-06-05T09:40:11.944168+00:00",
-    "fetched_at": "2026-06-05T09:40:11.944168+00:00",
+    "fetched_at": "2026-06-06T08:29:41.231240+00:00",
     "history_file": "history/31c3369b4a24.json"
   },
   "35fce35b4023": {
@@ -54625,10 +54625,10 @@
     "paths_count": 4,
     "latest_info_version": "1.0.0",
     "latest_hash": "86cf3686ce80a8dc57c5eeba1d4a84035e0493168a66837c5dbcc4bfbf3b4491",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:12.201005+00:00",
     "last_updated_at": "2026-06-05T09:40:12.201005+00:00",
-    "fetched_at": "2026-06-05T09:40:12.201005+00:00",
+    "fetched_at": "2026-06-06T08:29:41.519390+00:00",
     "history_file": "history/35fce35b4023.json"
   },
   "4f1541479432": {
@@ -54645,10 +54645,10 @@
     "paths_count": 7,
     "latest_info_version": "1.0.0",
     "latest_hash": "32908b5741a6c8c99a49e1f99268798ef2943ebf19e4deb47a6e698272458e43",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:12.477629+00:00",
     "last_updated_at": "2026-06-05T09:40:12.477629+00:00",
-    "fetched_at": "2026-06-05T09:40:12.477629+00:00",
+    "fetched_at": "2026-06-06T08:29:41.671740+00:00",
     "history_file": "history/4f1541479432.json"
   },
   "54f64ef3670c": {
@@ -54672,10 +54672,10 @@
     "paths_count": 35,
     "latest_info_version": "1.0.0",
     "latest_hash": "d39ab771d9ee1ed45f1065d78cb91add3a294afa9b91089eb3c8ad2eb3160caa",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:12.969176+00:00",
     "last_updated_at": "2026-06-05T09:40:12.969176+00:00",
-    "fetched_at": "2026-06-05T09:40:12.969176+00:00",
+    "fetched_at": "2026-06-06T08:29:41.991676+00:00",
     "history_file": "history/54f64ef3670c.json"
   },
   "ca0caf372208": {
@@ -54692,10 +54692,10 @@
     "paths_count": 3,
     "latest_info_version": "1.0.0",
     "latest_hash": "a2395188ad253e20905975ff67d43f57720b20658e9c85267fdb8ea66db8b034",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:13.278718+00:00",
     "last_updated_at": "2026-06-05T09:40:13.278718+00:00",
-    "fetched_at": "2026-06-05T09:40:13.278718+00:00",
+    "fetched_at": "2026-06-06T08:29:42.385043+00:00",
     "history_file": "history/ca0caf372208.json"
   },
   "ac2a34ef5fb9": {
@@ -54712,10 +54712,10 @@
     "paths_count": 8,
     "latest_info_version": "1.0.0",
     "latest_hash": "b0a4ff0c2f93ce4cb47a4cf5e094251e17368eb8e51c66c84c6c6bce449c672f",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:13.762830+00:00",
     "last_updated_at": "2026-06-05T09:40:13.762830+00:00",
-    "fetched_at": "2026-06-05T09:40:13.762830+00:00",
+    "fetched_at": "2026-06-06T08:29:42.680844+00:00",
     "history_file": "history/ac2a34ef5fb9.json"
   },
   "f47cb8b9354c": {
@@ -54732,10 +54732,10 @@
     "paths_count": 2,
     "latest_info_version": null,
     "latest_hash": "b58d7fc55c74be53943b2f870da4d0690896707e5fc1eeeeb0002961d10a7b7b",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:14.031863+00:00",
     "last_updated_at": "2026-06-05T09:40:14.031863+00:00",
-    "fetched_at": "2026-06-05T09:40:14.031863+00:00",
+    "fetched_at": "2026-06-06T08:29:42.857135+00:00",
     "history_file": "history/f47cb8b9354c.json"
   },
   "c9c6a6fd4e92": {
@@ -54752,10 +54752,10 @@
     "paths_count": 1,
     "latest_info_version": "1.0.0",
     "latest_hash": "e9ed04c52c3317a4865a9a443073146f357c8004a80edd310d33485f01810128",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:14.324632+00:00",
     "last_updated_at": "2026-06-05T09:40:14.324632+00:00",
-    "fetched_at": "2026-06-05T09:40:14.324632+00:00",
+    "fetched_at": "2026-06-06T08:29:42.999197+00:00",
     "history_file": "history/c9c6a6fd4e92.json"
   },
   "63288c8d6bb9": {
@@ -54779,10 +54779,10 @@
     "paths_count": 14,
     "latest_info_version": "0.9.18",
     "latest_hash": "9ab53a52204f0b28af3cb18fcda5a2d7ac925208a529448337ebfc9443f7edde",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:14.564055+00:00",
     "last_updated_at": "2026-06-05T09:40:14.564055+00:00",
-    "fetched_at": "2026-06-05T09:40:14.564055+00:00",
+    "fetched_at": "2026-06-06T08:29:43.148605+00:00",
     "history_file": "history/63288c8d6bb9.json"
   },
   "9ed2be6aadbd": {
@@ -54799,10 +54799,10 @@
     "paths_count": 2,
     "latest_info_version": "1",
     "latest_hash": "1f9027f348d3b06e78b98be35d03215eb5dd81a5d132d3a508e4d7c31ac37e16",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:14.873751+00:00",
     "last_updated_at": "2026-06-05T09:40:14.873751+00:00",
-    "fetched_at": "2026-06-05T09:40:14.873751+00:00",
+    "fetched_at": "2026-06-06T08:29:43.362828+00:00",
     "history_file": "history/9ed2be6aadbd.json"
   },
   "8c7c10802efd": {
@@ -54817,10 +54817,10 @@
     "paths_count": 2,
     "latest_info_version": "0.0.0",
     "latest_hash": "5cc6d539825a453c31702e3c5b0a29bb23417fc54d3e56df14a1faab2527f23b",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:15.689374+00:00",
     "last_updated_at": "2026-06-05T09:40:15.689374+00:00",
-    "fetched_at": "2026-06-05T09:40:15.689374+00:00",
+    "fetched_at": "2026-06-06T08:29:43.896494+00:00",
     "history_file": "history/8c7c10802efd.json"
   },
   "c56e0810a246": {
@@ -54844,10 +54844,10 @@
     "paths_count": 17,
     "latest_info_version": "1.0",
     "latest_hash": "8496fd491fe1db89b07c8f4af87a917d964f3eaffa5085bae4539927e87db912",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:15.949871+00:00",
     "last_updated_at": "2026-06-05T09:40:15.949871+00:00",
-    "fetched_at": "2026-06-05T09:40:15.949871+00:00",
+    "fetched_at": "2026-06-06T08:29:44.060970+00:00",
     "history_file": "history/c56e0810a246.json"
   },
   "068f0e79c1b7": {
@@ -54864,10 +54864,10 @@
     "paths_count": 7,
     "latest_info_version": "0.0.1",
     "latest_hash": "5e289e377979b921bcbadbe8e357adffdf0c0cf95a00282a0921b1c067b31066",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:16.311380+00:00",
     "last_updated_at": "2026-06-05T09:40:16.311380+00:00",
-    "fetched_at": "2026-06-05T09:40:16.311380+00:00",
+    "fetched_at": "2026-06-06T08:29:44.273668+00:00",
     "history_file": "history/068f0e79c1b7.json"
   },
   "8d4cd04fa18d": {
@@ -54884,10 +54884,10 @@
     "paths_count": 1,
     "latest_info_version": "1.0.0",
     "latest_hash": "b9075eb2c2669c30e92c6ec6dad56b15c695a6b451d4b849d7a7f5a47a161b42",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:16.602125+00:00",
     "last_updated_at": "2026-06-05T09:40:16.602125+00:00",
-    "fetched_at": "2026-06-05T09:40:16.602125+00:00",
+    "fetched_at": "2026-06-06T08:29:44.438668+00:00",
     "history_file": "history/8d4cd04fa18d.json"
   },
   "88c5976522fb": {
@@ -54904,10 +54904,10 @@
     "paths_count": 10,
     "latest_info_version": "1.0.0",
     "latest_hash": "6d75f89c4bbfd5fba4b1af32486cd98be5a8526235207649984e0160e898802a",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:16.862599+00:00",
     "last_updated_at": "2026-06-05T09:40:16.862599+00:00",
-    "fetched_at": "2026-06-05T09:40:16.862599+00:00",
+    "fetched_at": "2026-06-06T08:29:44.603838+00:00",
     "history_file": "history/88c5976522fb.json"
   },
   "4cc27e3cdab1": {
@@ -54922,10 +54922,10 @@
     "paths_count": 2,
     "latest_info_version": "1.0.0",
     "latest_hash": "dd2b8c5759ebb88fd056c1ed4893168a43e1c96b056feebec8c245f74742749f",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:17.141244+00:00",
     "last_updated_at": "2026-06-05T09:40:17.141244+00:00",
-    "fetched_at": "2026-06-05T09:40:17.141244+00:00",
+    "fetched_at": "2026-06-06T08:29:44.765660+00:00",
     "history_file": "history/4cc27e3cdab1.json"
   },
   "cc085d5768aa": {
@@ -54942,10 +54942,10 @@
     "paths_count": 1,
     "latest_info_version": "1.0.1",
     "latest_hash": "194f3af2e61f20c3bd92411cc58b4ba86c81abf64378a530f2f5276bf7342c98",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:17.470136+00:00",
     "last_updated_at": "2026-06-05T09:40:17.470136+00:00",
-    "fetched_at": "2026-06-05T09:40:17.470136+00:00",
+    "fetched_at": "2026-06-06T08:29:44.933312+00:00",
     "history_file": "history/cc085d5768aa.json"
   },
   "bd356bb37645": {
@@ -54965,10 +54965,10 @@
     "paths_count": 9,
     "latest_info_version": "1.0.0",
     "latest_hash": "56ebdff3efbeca701229f6067913b454593d700fd6a8072f2a864671a7514db1",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:17.723314+00:00",
     "last_updated_at": "2026-06-05T09:40:17.723314+00:00",
-    "fetched_at": "2026-06-05T09:40:17.723314+00:00",
+    "fetched_at": "2026-06-06T08:29:45.093579+00:00",
     "history_file": "history/bd356bb37645.json"
   },
   "4ee43cf7d14d": {
@@ -54985,10 +54985,10 @@
     "paths_count": 4,
     "latest_info_version": "1.0.0",
     "latest_hash": "9a8685ab7a2b2d5a426b953a6bb67d6920defec6f1a1dd8912077cc6a8551d9d",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:18.037824+00:00",
     "last_updated_at": "2026-06-05T09:40:18.037824+00:00",
-    "fetched_at": "2026-06-05T09:40:18.037824+00:00",
+    "fetched_at": "2026-06-06T08:29:45.278240+00:00",
     "history_file": "history/4ee43cf7d14d.json"
   },
   "d3e2062f094d": {
@@ -55005,10 +55005,10 @@
     "paths_count": 3,
     "latest_info_version": "0.1.0",
     "latest_hash": "b4fe847294e562a9386da3b3849059cfbc878240f6c4d1c3843b9a0495d4a641",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:18.285349+00:00",
     "last_updated_at": "2026-06-05T09:40:18.285349+00:00",
-    "fetched_at": "2026-06-05T09:40:18.285349+00:00",
+    "fetched_at": "2026-06-06T08:29:45.434700+00:00",
     "history_file": "history/d3e2062f094d.json"
   },
   "c1db954e5247": {
@@ -55025,10 +55025,10 @@
     "paths_count": 4,
     "latest_info_version": "v1",
     "latest_hash": "dd7a5f61b5d861066c9df07538cccb06955ea5885de0983b0ddb355e07acd20f",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:18.552846+00:00",
     "last_updated_at": "2026-06-05T09:40:18.552846+00:00",
-    "fetched_at": "2026-06-05T09:40:18.552846+00:00",
+    "fetched_at": "2026-06-06T08:29:45.587288+00:00",
     "history_file": "history/c1db954e5247.json"
   },
   "f27af22dbf2a": {
@@ -55045,10 +55045,10 @@
     "paths_count": 10,
     "latest_info_version": "1.0.1",
     "latest_hash": "7aad8244d350d1cccd26dc44c29ffeb072f3fdc04a3af5654efdfb7eecd6db02",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:19.326029+00:00",
     "last_updated_at": "2026-06-05T09:40:19.326029+00:00",
-    "fetched_at": "2026-06-05T09:40:19.326029+00:00",
+    "fetched_at": "2026-06-06T08:29:46.051126+00:00",
     "history_file": "history/f27af22dbf2a.json"
   },
   "5d3c1d3e3e23": {
@@ -55065,10 +55065,10 @@
     "paths_count": 1,
     "latest_info_version": "1.0",
     "latest_hash": "27d63d7cee7cc075b6e266a3380d2dc9a00cb189a1d3e043c5f57a4a8bfc6fa2",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:19.596648+00:00",
     "last_updated_at": "2026-06-05T09:40:19.596648+00:00",
-    "fetched_at": "2026-06-05T09:40:19.596648+00:00",
+    "fetched_at": "2026-06-06T08:29:46.260772+00:00",
     "history_file": "history/5d3c1d3e3e23.json"
   },
   "ac48af1c5a1f": {
@@ -55083,10 +55083,10 @@
     "paths_count": 2,
     "latest_info_version": "1.0.0",
     "latest_hash": "af380a916d8059b20796abe803e2962cfa360622cd90595d47774feac8b3118e",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:19.876971+00:00",
     "last_updated_at": "2026-06-05T09:40:19.876971+00:00",
-    "fetched_at": "2026-06-05T09:40:19.876971+00:00",
+    "fetched_at": "2026-06-06T08:29:46.418336+00:00",
     "history_file": "history/ac48af1c5a1f.json"
   },
   "a74053fecd65": {
@@ -55108,10 +55108,10 @@
     "paths_count": 14,
     "latest_info_version": "1.0.5",
     "latest_hash": "4b2293418955121699790573dfdd1c850a1a4c321cdb58edbeac64a6c911266e",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:20.128130+00:00",
     "last_updated_at": "2026-06-05T09:40:20.128130+00:00",
-    "fetched_at": "2026-06-05T09:40:20.128130+00:00",
+    "fetched_at": "2026-06-06T08:29:46.583798+00:00",
     "history_file": "history/a74053fecd65.json"
   },
   "5f70d46a46b7": {
@@ -55126,10 +55126,10 @@
     "paths_count": 1,
     "latest_info_version": null,
     "latest_hash": "f6933b89dc2658a186d2f56d0c660bb0af15c8b95e866ba35d73f3abb8a816be",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:20.568221+00:00",
     "last_updated_at": "2026-06-05T09:40:20.568221+00:00",
-    "fetched_at": "2026-06-05T09:40:20.568221+00:00",
+    "fetched_at": "2026-06-06T08:29:46.768234+00:00",
     "history_file": "history/5f70d46a46b7.json"
   },
   "3ff93ca5aa19": {
@@ -55144,10 +55144,10 @@
     "paths_count": 1,
     "latest_info_version": "2017-01-10T20:57:23Z",
     "latest_hash": "3eabdae14673e27e04f5713429ff4bb8f7a8b31d7c03b51f0da3f8c13e2846bd",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:20.814228+00:00",
     "last_updated_at": "2026-06-05T09:40:20.814228+00:00",
-    "fetched_at": "2026-06-05T09:40:20.814228+00:00",
+    "fetched_at": "2026-06-06T08:29:46.912489+00:00",
     "history_file": "history/3ff93ca5aa19.json"
   },
   "d2393c99dbde": {
@@ -55162,10 +55162,10 @@
     "paths_count": 1,
     "latest_info_version": "2017-01-10T20:57:23Z",
     "latest_hash": "ada8961736287cbfa2f2e5f6afd6a629ae0305621a85de02dda8abe2fac229a8",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:21.093221+00:00",
     "last_updated_at": "2026-06-05T09:40:21.093221+00:00",
-    "fetched_at": "2026-06-05T09:40:21.093221+00:00",
+    "fetched_at": "2026-06-06T08:29:47.075762+00:00",
     "history_file": "history/d2393c99dbde.json"
   },
   "04c349da2912": {
@@ -55182,10 +55182,10 @@
     "paths_count": 5,
     "latest_info_version": "0.0.1",
     "latest_hash": "2f0f6248c5ea85746c4a85d37253fd67e1d57579aa2ccf376087e1fe5349a2f6",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:21.441820+00:00",
     "last_updated_at": "2026-06-05T09:40:21.441820+00:00",
-    "fetched_at": "2026-06-05T09:40:21.441820+00:00",
+    "fetched_at": "2026-06-06T08:29:47.225304+00:00",
     "history_file": "history/04c349da2912.json"
   },
   "52b86b7dfa0f": {
@@ -55200,10 +55200,10 @@
     "paths_count": 3,
     "latest_info_version": "1.0.0",
     "latest_hash": "c00e1dc48ec174dddae2e60cf9807d498be3f0f4165551748d6df7896e7aac1a",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:21.839038+00:00",
     "last_updated_at": "2026-06-05T09:40:21.839038+00:00",
-    "fetched_at": "2026-06-05T09:40:21.839038+00:00",
+    "fetched_at": "2026-06-06T08:29:47.406499+00:00",
     "history_file": "history/52b86b7dfa0f.json"
   },
   "cecb4201468c": {
@@ -55221,7 +55221,7 @@
     "status": "error",
     "first_seen_at": "2026-06-05T09:40:25.524436+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:40:25.524436+00:00",
+    "fetched_at": "2026-06-06T08:29:49.417356+00:00",
     "history_file": "history/cecb4201468c.json"
   },
   "bc8a02476c9a": {
@@ -55239,7 +55239,7 @@
     "status": "error",
     "first_seen_at": "2026-06-05T09:40:27.558275+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:40:27.558275+00:00",
+    "fetched_at": "2026-06-06T08:29:50.093120+00:00",
     "history_file": "history/bc8a02476c9a.json"
   },
   "00af324b7a16": {
@@ -55256,10 +55256,10 @@
     "paths_count": 37,
     "latest_info_version": "1.0",
     "latest_hash": "fd25fb4d75528db8fadd03b6b7ca057997f712df2dad77d7bb5aaa42980194ff",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:30.014638+00:00",
     "last_updated_at": "2026-06-05T09:40:30.014638+00:00",
-    "fetched_at": "2026-06-05T09:40:30.014638+00:00",
+    "fetched_at": "2026-06-06T08:29:51.208598+00:00",
     "history_file": "history/00af324b7a16.json"
   },
   "8ae651881e64": {
@@ -55274,10 +55274,10 @@
     "paths_count": 28,
     "latest_info_version": "v1",
     "latest_hash": "1ad5811c7a3eeed2323620f0a43600313fa1aafc07b6aa9b830978cab5973add",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:32.058654+00:00",
     "last_updated_at": "2026-06-05T09:40:32.058654+00:00",
-    "fetched_at": "2026-06-05T09:40:32.058654+00:00",
+    "fetched_at": "2026-06-06T08:29:51.818772+00:00",
     "history_file": "history/8ae651881e64.json"
   },
   "be45a9ed6b99": {
@@ -55295,10 +55295,10 @@
     "paths_count": 21,
     "latest_info_version": "1.0.0",
     "latest_hash": "b5f083a2633c3e1538514624a1b74fc58e4a53894529c1c3120471433fd838c1",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:34.555323+00:00",
     "last_updated_at": "2026-06-05T09:40:34.555323+00:00",
-    "fetched_at": "2026-06-05T09:40:34.555323+00:00",
+    "fetched_at": "2026-06-06T08:29:52.701403+00:00",
     "history_file": "history/be45a9ed6b99.json"
   },
   "751a2753b1ce": {
@@ -55316,7 +55316,7 @@
     "status": "error",
     "first_seen_at": "2026-06-05T09:40:35.954670+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:40:35.954670+00:00",
+    "fetched_at": "2026-06-06T08:29:53.306477+00:00",
     "history_file": "history/751a2753b1ce.json"
   },
   "c339e77937c6": {
@@ -55334,7 +55334,7 @@
     "status": "error",
     "first_seen_at": "2026-06-05T09:40:37.086039+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:40:37.086039+00:00",
+    "fetched_at": "2026-06-06T08:29:53.594120+00:00",
     "history_file": "history/c339e77937c6.json"
   },
   "369e5fc6ddcb": {
@@ -55352,7 +55352,7 @@
     "status": "error",
     "first_seen_at": "2026-06-05T09:40:37.852342+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:40:37.852342+00:00",
+    "fetched_at": "2026-06-06T08:29:53.952548+00:00",
     "history_file": "history/369e5fc6ddcb.json"
   },
   "3af4180e22fd": {
@@ -55370,7 +55370,7 @@
     "status": "error",
     "first_seen_at": "2026-06-05T09:40:38.227987+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:40:38.227987+00:00",
+    "fetched_at": "2026-06-06T08:29:54.101182+00:00",
     "history_file": "history/3af4180e22fd.json"
   },
   "28b8e40846e5": {
@@ -55388,7 +55388,7 @@
     "status": "error",
     "first_seen_at": "2026-06-05T09:40:38.585829+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:40:38.585829+00:00",
+    "fetched_at": "2026-06-06T08:29:54.233700+00:00",
     "history_file": "history/28b8e40846e5.json"
   },
   "e5ccdc79326a": {
@@ -55406,7 +55406,7 @@
     "status": "error",
     "first_seen_at": "2026-06-05T09:40:38.939416+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:40:38.939416+00:00",
+    "fetched_at": "2026-06-06T08:29:54.366243+00:00",
     "history_file": "history/e5ccdc79326a.json"
   },
   "60534205cb75": {
@@ -55424,7 +55424,7 @@
     "status": "error",
     "first_seen_at": "2026-06-05T09:40:40.366087+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:40:40.366087+00:00",
+    "fetched_at": "2026-06-06T08:29:54.968428+00:00",
     "history_file": "history/60534205cb75.json"
   },
   "ec60c50c93af": {
@@ -55442,7 +55442,7 @@
     "status": "error",
     "first_seen_at": "2026-06-05T09:40:40.726013+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:40:40.726013+00:00",
+    "fetched_at": "2026-06-06T08:29:55.120492+00:00",
     "history_file": "history/ec60c50c93af.json"
   },
   "9937ffff6f59": {
@@ -55457,10 +55457,10 @@
     "paths_count": 7,
     "latest_info_version": "1.0",
     "latest_hash": "a442deec641842a801b40264fa46957d41ff582667c61f781e92c5fde456f252",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:41.086082+00:00",
     "last_updated_at": "2026-06-05T09:40:41.086082+00:00",
-    "fetched_at": "2026-06-05T09:40:41.086082+00:00",
+    "fetched_at": "2026-06-06T08:29:55.268430+00:00",
     "history_file": "history/9937ffff6f59.json"
   },
   "e01f1060048c": {
@@ -55477,10 +55477,10 @@
     "paths_count": 4,
     "latest_info_version": "1.78.2",
     "latest_hash": "cc078ffc7b54820f7190a59b55fef49386ecc3d84ae6f3095b5acabc7ece45c8",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:42.291730+00:00",
     "last_updated_at": "2026-06-05T09:40:42.291730+00:00",
-    "fetched_at": "2026-06-05T09:40:42.291730+00:00",
+    "fetched_at": "2026-06-06T08:29:55.784982+00:00",
     "history_file": "history/e01f1060048c.json"
   },
   "bf2e6b280a43": {
@@ -55498,7 +55498,7 @@
     "status": "error",
     "first_seen_at": "2026-06-05T09:40:43.780772+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:40:43.780772+00:00",
+    "fetched_at": "2026-06-06T08:29:56.431631+00:00",
     "history_file": "history/bf2e6b280a43.json"
   },
   "5046a3eacc1a": {
@@ -55516,7 +55516,7 @@
     "status": "error",
     "first_seen_at": "2026-06-05T09:40:44.148359+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:40:44.148359+00:00",
+    "fetched_at": "2026-06-06T08:29:56.584798+00:00",
     "history_file": "history/5046a3eacc1a.json"
   },
   "6a3995693fd7": {
@@ -55531,10 +55531,10 @@
     "paths_count": 10,
     "latest_info_version": "v1",
     "latest_hash": "bcb96f729be80c5d714ca2bb5e69d2efbff8fde1f94683d0f390ce93e2d55d61",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:44.525224+00:00",
     "last_updated_at": "2026-06-05T09:40:44.525224+00:00",
-    "fetched_at": "2026-06-05T09:40:44.525224+00:00",
+    "fetched_at": "2026-06-06T08:29:56.727106+00:00",
     "history_file": "history/6a3995693fd7.json"
   },
   "cdf73191274c": {
@@ -55552,7 +55552,7 @@
     "status": "error",
     "first_seen_at": "2026-06-05T09:40:46.010096+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:40:46.010096+00:00",
+    "fetched_at": "2026-06-06T08:29:57.312385+00:00",
     "history_file": "history/cdf73191274c.json"
   },
   "c98312f2206e": {
@@ -55570,7 +55570,7 @@
     "status": "error",
     "first_seen_at": "2026-06-05T09:40:46.350884+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:40:46.350884+00:00",
+    "fetched_at": "2026-06-06T08:29:57.454064+00:00",
     "history_file": "history/c98312f2206e.json"
   },
   "9aa1335de2f2": {
@@ -55585,10 +55585,10 @@
     "paths_count": 2,
     "latest_info_version": "1.0",
     "latest_hash": "558295b1c2f05d619634d9fa6afb953f31aa5a6b71e2f43a8cbf5eaf872c377c",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:47.053038+00:00",
     "last_updated_at": "2026-06-05T09:40:47.053038+00:00",
-    "fetched_at": "2026-06-05T09:40:47.053038+00:00",
+    "fetched_at": "2026-06-06T08:29:57.853610+00:00",
     "history_file": "history/9aa1335de2f2.json"
   },
   "ade47f2cd430": {
@@ -55606,7 +55606,7 @@
     "status": "error",
     "first_seen_at": "2026-06-05T09:40:47.428032+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:40:47.428032+00:00",
+    "fetched_at": "2026-06-06T08:29:58.035584+00:00",
     "history_file": "history/ade47f2cd430.json"
   },
   "ca91e826aa80": {
@@ -55624,7 +55624,7 @@
     "status": "error",
     "first_seen_at": "2026-06-05T09:40:47.796158+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:40:47.796158+00:00",
+    "fetched_at": "2026-06-06T08:29:58.172395+00:00",
     "history_file": "history/ca91e826aa80.json"
   },
   "682bd8d81ff3": {
@@ -55642,7 +55642,7 @@
     "status": "error",
     "first_seen_at": "2026-06-05T09:40:48.530383+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:40:48.530383+00:00",
+    "fetched_at": "2026-06-06T08:29:58.443919+00:00",
     "history_file": "history/682bd8d81ff3.json"
   },
   "915cab282258": {
@@ -55663,10 +55663,10 @@
     "paths_count": 6,
     "latest_info_version": "1.0.0",
     "latest_hash": "df57097ebdf665dc5c813dd58aca2825b1dc18a17dcd0e4114016f970b90582f",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:48.879390+00:00",
     "last_updated_at": "2026-06-05T09:40:48.879390+00:00",
-    "fetched_at": "2026-06-05T09:40:48.879390+00:00",
+    "fetched_at": "2026-06-06T08:29:58.580733+00:00",
     "history_file": "history/915cab282258.json"
   },
   "743290342595": {
@@ -55684,7 +55684,7 @@
     "status": "error",
     "first_seen_at": "2026-06-05T09:40:49.252292+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:40:49.252292+00:00",
+    "fetched_at": "2026-06-06T08:29:58.752663+00:00",
     "history_file": "history/743290342595.json"
   },
   "27558fe4f395": {
@@ -55699,10 +55699,10 @@
     "paths_count": 0,
     "latest_info_version": null,
     "latest_hash": "2343936ed18241942441376a3bfdb04a920f567c91edac9ff565b1a56ca8d238",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:50.406915+00:00",
     "last_updated_at": "2026-06-05T09:40:50.406915+00:00",
-    "fetched_at": "2026-06-05T09:40:50.406915+00:00",
+    "fetched_at": "2026-06-06T08:29:59.200275+00:00",
     "history_file": "history/27558fe4f395.json"
   },
   "e6e1f0704b4f": {
@@ -55717,10 +55717,10 @@
     "paths_count": 0,
     "latest_info_version": null,
     "latest_hash": "2d400cbf0df6f44ccc208dcdf3642c98075324b7d5a3b52475165f67590c416a",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:51.566764+00:00",
     "last_updated_at": "2026-06-05T09:40:51.566764+00:00",
-    "fetched_at": "2026-06-05T09:40:51.566764+00:00",
+    "fetched_at": "2026-06-06T08:29:59.741674+00:00",
     "history_file": "history/e6e1f0704b4f.json"
   },
   "a8038ee59fe5": {
@@ -55738,7 +55738,7 @@
     "status": "error",
     "first_seen_at": "2026-06-05T09:40:51.917465+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:40:51.917465+00:00",
+    "fetched_at": "2026-06-06T08:29:59.887515+00:00",
     "history_file": "history/a8038ee59fe5.json"
   },
   "8134546cb336": {
@@ -55756,7 +55756,7 @@
     "status": "error",
     "first_seen_at": "2026-06-05T09:40:52.286341+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:40:52.286341+00:00",
+    "fetched_at": "2026-06-06T08:30:00.029972+00:00",
     "history_file": "history/8134546cb336.json"
   },
   "232b8e9b6645": {
@@ -55771,10 +55771,10 @@
     "paths_count": 0,
     "latest_info_version": null,
     "latest_hash": "b57c51a39ef2b490536b15c35ba6ff4ce040bc36e8ab212847e502e2de96429f",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:53.093780+00:00",
     "last_updated_at": "2026-06-05T09:40:53.093780+00:00",
-    "fetched_at": "2026-06-05T09:40:53.093780+00:00",
+    "fetched_at": "2026-06-06T08:30:00.301472+00:00",
     "history_file": "history/232b8e9b6645.json"
   },
   "7087013d6ab2": {
@@ -55789,10 +55789,10 @@
     "paths_count": 4,
     "latest_info_version": "0.0.0",
     "latest_hash": "6a10486ff91bc9083d032aa430d108930b3e17fc014dbe18209abcb62438f0ad",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:55.762306+00:00",
     "last_updated_at": "2026-06-05T09:40:55.762306+00:00",
-    "fetched_at": "2026-06-05T09:40:55.762306+00:00",
+    "fetched_at": "2026-06-06T08:30:01.739964+00:00",
     "history_file": "history/7087013d6ab2.json"
   },
   "6c30637a721f": {
@@ -55809,10 +55809,10 @@
     "paths_count": 36,
     "latest_info_version": "v0",
     "latest_hash": "f94c251bae160ac71e7d1e42b8fa47f4909815acd47205a3b70ef2c4edf4bbb7",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:56.145221+00:00",
     "last_updated_at": "2026-06-05T09:40:56.145221+00:00",
-    "fetched_at": "2026-06-05T09:40:56.145221+00:00",
+    "fetched_at": "2026-06-06T08:30:01.918573+00:00",
     "history_file": "history/6c30637a721f.json"
   },
   "bfb214cc1967": {
@@ -55829,10 +55829,10 @@
     "paths_count": 13,
     "latest_info_version": "1.1.0",
     "latest_hash": "70474a14144c5a514864d1ae80d3eeeb46b667c67d7364db5b0a88e7fa143ccb",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:56.944680+00:00",
     "last_updated_at": "2026-06-05T09:40:56.944680+00:00",
-    "fetched_at": "2026-06-05T09:40:56.944680+00:00",
+    "fetched_at": "2026-06-06T08:30:02.405449+00:00",
     "history_file": "history/bfb214cc1967.json"
   },
   "6217e3a6b42b": {
@@ -55850,7 +55850,7 @@
     "status": "error",
     "first_seen_at": "2026-06-05T09:40:57.835536+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:40:57.835536+00:00",
+    "fetched_at": "2026-06-06T08:30:02.775175+00:00",
     "history_file": "history/6217e3a6b42b.json"
   },
   "09dc4576752e": {
@@ -55865,10 +55865,10 @@
     "paths_count": 15,
     "latest_info_version": "v0",
     "latest_hash": "bf3c06aa27e24c08493fdfba43794b68ad819f3c5e6fc264e7c5d2c0d9cc0e03",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:58.913000+00:00",
     "last_updated_at": "2026-06-05T09:40:58.913000+00:00",
-    "fetched_at": "2026-06-05T09:40:58.913000+00:00",
+    "fetched_at": "2026-06-06T08:30:03.260618+00:00",
     "history_file": "history/09dc4576752e.json"
   },
   "c22b83965e35": {
@@ -55883,10 +55883,10 @@
     "paths_count": 15,
     "latest_info_version": "v0",
     "latest_hash": "bf3c06aa27e24c08493fdfba43794b68ad819f3c5e6fc264e7c5d2c0d9cc0e03",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:59.770003+00:00",
     "last_updated_at": "2026-06-05T09:40:59.770003+00:00",
-    "fetched_at": "2026-06-05T09:40:59.770003+00:00",
+    "fetched_at": "2026-06-06T08:30:03.936704+00:00",
     "history_file": "history/c22b83965e35.json"
   },
   "64eb0572eaf8": {
@@ -55908,10 +55908,10 @@
     "paths_count": 14,
     "latest_info_version": "1.0.0",
     "latest_hash": "5ce9f738f8444fd919452fe794e4d8195fa2924e337888090407560cf83e4627",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:41:00.636358+00:00",
     "last_updated_at": "2026-06-05T09:41:00.636358+00:00",
-    "fetched_at": "2026-06-05T09:41:00.636358+00:00",
+    "fetched_at": "2026-06-06T08:30:04.419715+00:00",
     "history_file": "history/64eb0572eaf8.json"
   },
   "15c877885b99": {
@@ -55948,10 +55948,10 @@
     "paths_count": 71,
     "latest_info_version": "0.0.1",
     "latest_hash": "917bc1b845c5ca2bd685246026fc44b3b0c0bf29ccf6885b216fe314204e8b68",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:41:01.003219+00:00",
     "last_updated_at": "2026-06-05T09:41:01.003219+00:00",
-    "fetched_at": "2026-06-05T09:41:01.003219+00:00",
+    "fetched_at": "2026-06-06T08:30:04.597342+00:00",
     "history_file": "history/15c877885b99.json"
   },
   "ef95a8b9fcdf": {
@@ -55966,10 +55966,10 @@
     "paths_count": 0,
     "latest_info_version": null,
     "latest_hash": "37ec4665a8102d115ffd1ac20dae94c98b4dac64b0c1a68228aa2a531caeb35d",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:41:01.790724+00:00",
     "last_updated_at": "2026-06-05T09:41:01.790724+00:00",
-    "fetched_at": "2026-06-05T09:41:01.790724+00:00",
+    "fetched_at": "2026-06-06T08:30:05.058960+00:00",
     "history_file": "history/ef95a8b9fcdf.json"
   },
   "1436c9551534": {
@@ -55999,10 +55999,10 @@
     "paths_count": 37,
     "latest_info_version": "1.0.0",
     "latest_hash": "bfa64f3b6a471a66d19a7fe3dd6a5cce9b760f91aa66d36fa0377371598a9e44",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:41:02.993196+00:00",
     "last_updated_at": "2026-06-05T09:41:02.993196+00:00",
-    "fetched_at": "2026-06-05T09:41:02.993196+00:00",
+    "fetched_at": "2026-06-06T08:30:05.654379+00:00",
     "history_file": "history/1436c9551534.json"
   },
   "34e99ca8f7b4": {
@@ -56026,10 +56026,10 @@
     "paths_count": 37,
     "latest_info_version": "1.0.0",
     "latest_hash": "300abd76af16dc0cf936574c8e5752a4114d2610c18c8a536db8ff738ee76651",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:41:03.790104+00:00",
     "last_updated_at": "2026-06-05T09:41:03.790104+00:00",
-    "fetched_at": "2026-06-05T09:41:03.790104+00:00",
+    "fetched_at": "2026-06-06T08:30:06.043261+00:00",
     "history_file": "history/34e99ca8f7b4.json"
   },
   "2d59339e3594": {
@@ -56044,10 +56044,10 @@
     "paths_count": 10,
     "latest_info_version": "v1",
     "latest_hash": "bcb96f729be80c5d714ca2bb5e69d2efbff8fde1f94683d0f390ce93e2d55d61",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:41:04.296612+00:00",
     "last_updated_at": "2026-06-05T09:41:04.296612+00:00",
-    "fetched_at": "2026-06-05T09:41:04.296612+00:00",
+    "fetched_at": "2026-06-06T08:30:06.370602+00:00",
     "history_file": "history/2d59339e3594.json"
   },
   "3e2b47c5cbbe": {
@@ -56064,10 +56064,10 @@
     "paths_count": 2,
     "latest_info_version": "1.0.0",
     "latest_hash": "a13ff8df96d0c624fb8079a3de6ec62196ec25b05ca9d7470c19f244316d5b2a",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:41:05.005682+00:00",
     "last_updated_at": "2026-06-05T09:41:05.005682+00:00",
-    "fetched_at": "2026-06-05T09:41:05.005682+00:00",
+    "fetched_at": "2026-06-06T08:30:06.699853+00:00",
     "history_file": "history/3e2b47c5cbbe.json"
   },
   "6dac9ba9f4b8": {
@@ -56085,7 +56085,7 @@
     "status": "error",
     "first_seen_at": "2026-06-05T09:41:05.865297+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:41:05.865297+00:00",
+    "fetched_at": "2026-06-06T08:30:07.092351+00:00",
     "history_file": "history/6dac9ba9f4b8.json"
   },
   "4a33e8a2b4b9": {
@@ -56100,10 +56100,10 @@
     "paths_count": 37,
     "latest_info_version": "v4",
     "latest_hash": "04adaebe858d1b0775aab746be0e3c0f4ca6a1dec0864279005dd9a6f39031c6",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:41:06.216704+00:00",
     "last_updated_at": "2026-06-05T09:41:06.216704+00:00",
-    "fetched_at": "2026-06-05T09:41:06.216704+00:00",
+    "fetched_at": "2026-06-06T08:30:07.246443+00:00",
     "history_file": "history/4a33e8a2b4b9.json"
   },
   "9dea50f6875d": {
@@ -56120,10 +56120,10 @@
     "paths_count": 1,
     "latest_info_version": "1.0",
     "latest_hash": "c076f82f6d8cc696a943f1625f15177568647ced5525f1a402b3811ac635df3d",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:41:06.760747+00:00",
     "last_updated_at": "2026-06-05T09:41:06.760747+00:00",
-    "fetched_at": "2026-06-05T09:41:06.760747+00:00",
+    "fetched_at": "2026-06-06T08:30:07.720269+00:00",
     "history_file": "history/9dea50f6875d.json"
   },
   "5f1d6ad8df5e": {
@@ -56141,7 +56141,7 @@
     "status": "error",
     "first_seen_at": "2026-06-05T09:41:07.117136+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:41:07.117136+00:00",
+    "fetched_at": "2026-06-06T08:30:07.884425+00:00",
     "history_file": "history/5f1d6ad8df5e.json"
   },
   "cb5ba4b0e44b": {
@@ -56161,10 +56161,955 @@
     "paths_count": 3,
     "latest_info_version": "1.0.0",
     "latest_hash": "1a601c373dda61748f3f7a2d0b737f27940d8b540f187d021293f85386a06398",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:41:07.838809+00:00",
     "last_updated_at": "2026-06-05T09:41:07.838809+00:00",
-    "fetched_at": "2026-06-05T09:41:07.838809+00:00",
+    "fetched_at": "2026-06-06T08:30:08.175158+00:00",
     "history_file": "history/cb5ba4b0e44b.json"
+  },
+  "73f21bf2ddd1": {
+    "spec_id": "73f21bf2ddd1",
+    "id": "",
+    "source_url": "https://raw.githubusercontent.com/warpdotdev/docs/d5d9eaca173262670830741d247bae34712ccaa2/src/pages/openapi.yaml.ts",
+    "title": null,
+    "description": null,
+    "openapi_version": "unknown",
+    "servers": [],
+    "tags": [],
+    "paths_count": 0,
+    "latest_info_version": null,
+    "latest_hash": null,
+    "status": "error",
+    "first_seen_at": "2026-06-06T08:28:47.957366+00:00",
+    "last_updated_at": "",
+    "fetched_at": "2026-06-06T08:28:47.957366+00:00",
+    "history_file": "history/73f21bf2ddd1.json"
+  },
+  "27479142a0fa": {
+    "spec_id": "27479142a0fa",
+    "id": "github:speakeasy-api/developer-docs/openapi.yaml.txt",
+    "source_url": "https://raw.githubusercontent.com/speakeasy-api/developer-docs/873586c947d69df1efc97aa4778b810fc81d1342/public/assets/openapi/springboot/openapi.yaml.txt",
+    "title": "Book Store API",
+    "description": "API for managing a book store inventory and orders",
+    "openapi_version": "openapi_3",
+    "servers": [
+      "http://localhost:8080",
+      "https://api.bookstore.example.com"
+    ],
+    "tags": [
+      "Orders",
+      "Publications"
+    ],
+    "paths_count": 6,
+    "latest_info_version": "1.0.0",
+    "latest_hash": "7fe13453e1a112ab59b10a83b931ba15c0fce7b41c727bd07d8d3b85c9b2fb0a",
+    "status": "new",
+    "first_seen_at": "2026-06-06T08:28:48.852361+00:00",
+    "last_updated_at": "2026-06-06T08:28:48.852361+00:00",
+    "fetched_at": "2026-06-06T08:28:48.852361+00:00",
+    "history_file": "history/27479142a0fa.json"
+  },
+  "64fca714962b": {
+    "spec_id": "64fca714962b",
+    "id": "github:veritasfuji-japan/veritas_os/openapi.yaml",
+    "source_url": "https://raw.githubusercontent.com/veritasfuji-japan/veritas_os/6380661bcb39baa6388d5b18f028f5b5fa0cdfb6/openapi.yaml",
+    "title": "VERITAS Public API",
+    "description": "Decision Governance and Bind-Boundary Control Plane for AI Agents",
+    "openapi_version": "openapi_3",
+    "servers": [
+      "http://127.0.0.1:8000"
+    ],
+    "tags": [],
+    "paths_count": 37,
+    "latest_info_version": "1.0.0",
+    "latest_hash": "6c2f5394fff4d99ec31c21c3e4f364d7466a99a38c070e7b5d7982069167c18f",
+    "status": "new",
+    "first_seen_at": "2026-06-06T08:28:49.191163+00:00",
+    "last_updated_at": "2026-06-06T08:28:49.191163+00:00",
+    "fetched_at": "2026-06-06T08:28:49.191163+00:00",
+    "history_file": "history/64fca714962b.json"
+  },
+  "abcee1ef04ce": {
+    "spec_id": "abcee1ef04ce",
+    "id": "",
+    "source_url": "https://raw.githubusercontent.com/jocall3/james-burvel-ocallaghan-iii-typescript/a64f9c86c1f12fa7a01a8d58f500e9adf83764bc/txt/openapi.yaml.txt.txt",
+    "title": null,
+    "description": null,
+    "openapi_version": "unknown",
+    "servers": [],
+    "tags": [],
+    "paths_count": 0,
+    "latest_info_version": null,
+    "latest_hash": null,
+    "status": "error",
+    "first_seen_at": "2026-06-06T08:28:49.809136+00:00",
+    "last_updated_at": "",
+    "fetched_at": "2026-06-06T08:28:49.809136+00:00",
+    "history_file": "history/abcee1ef04ce.json"
+  },
+  "5f3c34399ac4": {
+    "spec_id": "5f3c34399ac4",
+    "id": "github:Redocly/website/openapi.yaml~",
+    "source_url": "https://raw.githubusercontent.com/Redocly/website/af3fc94645bff7057c837ece0a35b8c444a7d64b/learn/openapi/openapi-visual-reference/openapi.yaml~",
+    "title": "Example",
+    "description": "# My API description in Markdown\n\nThis is a sample of an info description.",
+    "openapi_version": "openapi_3",
+    "servers": [
+      "https://{project}.redocly.com",
+      "https://api.remockly.com"
+    ],
+    "tags": [
+      "Alpha",
+      "Beta",
+      "Gamma"
+    ],
+    "paths_count": 3,
+    "latest_info_version": null,
+    "latest_hash": "5cd06c2af6d3fb253d714ea0f2e853c7c93d4926c1b925389f7306cf89301f45",
+    "status": "new",
+    "first_seen_at": "2026-06-06T08:28:51.254962+00:00",
+    "last_updated_at": "2026-06-06T08:28:51.254962+00:00",
+    "fetched_at": "2026-06-06T08:28:51.254962+00:00",
+    "history_file": "history/5f3c34399ac4.json"
+  },
+  "93da4f383e21": {
+    "spec_id": "93da4f383e21",
+    "id": "github:jhypki/dailyquest_backend/OpenAPI.yaml",
+    "source_url": "https://raw.githubusercontent.com/jhypki/dailyquest_backend/0ab5d9ffda1c2b3da9239010ea825011097ee0d1/OpenAPI.yaml",
+    "title": "DailyQuest",
+    "description": null,
+    "openapi_version": "openapi_3",
+    "servers": [
+      "https://api.server.test/v1"
+    ],
+    "tags": [],
+    "paths_count": 4,
+    "latest_info_version": "1.0",
+    "latest_hash": "a641c1f52a5ace0a1cc282625b1fd06e14b5c752bbd54b09433b8129670726d2",
+    "status": "new",
+    "first_seen_at": "2026-06-06T08:28:52.723305+00:00",
+    "last_updated_at": "2026-06-06T08:28:52.723305+00:00",
+    "fetched_at": "2026-06-06T08:28:52.723305+00:00",
+    "history_file": "history/93da4f383e21.json"
+  },
+  "88c57b397740": {
+    "spec_id": "88c57b397740",
+    "id": "github:ManuGH/xg2g/openapi.yaml.snippet",
+    "source_url": "https://raw.githubusercontent.com/ManuGH/xg2g/aea9eb3ef6f29bab09c9c43b4e4123af28ceaf0d/backend/api/openapi.yaml.snippet",
+    "title": null,
+    "description": null,
+    "openapi_version": "unknown",
+    "servers": [],
+    "tags": [],
+    "paths_count": 0,
+    "latest_info_version": null,
+    "latest_hash": "246dcc256f57f316c6d1b8ec1e0cb4e9396f326a50fd6797185abd709a97c696",
+    "status": "new",
+    "first_seen_at": "2026-06-06T08:28:53.056883+00:00",
+    "last_updated_at": "2026-06-06T08:28:53.056883+00:00",
+    "fetched_at": "2026-06-06T08:28:53.056883+00:00",
+    "history_file": "history/88c57b397740.json"
+  },
+  "a1216563b82d": {
+    "spec_id": "a1216563b82d",
+    "id": "github:AmrAzirar/microservice-antipattern-detector/openapi.yaml.bak",
+    "source_url": "https://raw.githubusercontent.com/AmrAzirar/microservice-antipattern-detector/cd6254c91d96a4bfac7a51da6ee3deb122d24e98/datasets/ground-truth/common-data-service/openapi.yaml.bak",
+    "title": "Common Data Service",
+    "description": null,
+    "openapi_version": "openapi_3",
+    "servers": [],
+    "tags": [],
+    "paths_count": 12,
+    "latest_info_version": "1.0.0",
+    "latest_hash": "7cf2be514776f47ec9b17228deaa17e2065ea214bda68eba69ce3b1d8497cfbe",
+    "status": "new",
+    "first_seen_at": "2026-06-06T08:28:53.603555+00:00",
+    "last_updated_at": "2026-06-06T08:28:53.603555+00:00",
+    "fetched_at": "2026-06-06T08:28:53.603555+00:00",
+    "history_file": "history/a1216563b82d.json"
+  },
+  "de0f19621f40": {
+    "spec_id": "de0f19621f40",
+    "id": "github:Mohita111/aa/OpenAPI.yaml",
+    "source_url": "https://raw.githubusercontent.com/Mohita111/aa/4eacb71f23f107af8637ca472911fa57950eedf1/OpenAPI.yaml",
+    "title": "Swagger Petstore",
+    "description": null,
+    "openapi_version": "openapi_3",
+    "servers": [
+      "http://petstore.swagger.io/v1"
+    ],
+    "tags": [],
+    "paths_count": 2,
+    "latest_info_version": "1.0.0",
+    "latest_hash": "78b5883fe36e0db717cf21206169978c182ddf41d42342596f98c149a1456e11",
+    "status": "new",
+    "first_seen_at": "2026-06-06T08:28:54.414525+00:00",
+    "last_updated_at": "2026-06-06T08:28:54.414525+00:00",
+    "fetched_at": "2026-06-06T08:28:54.414525+00:00",
+    "history_file": "history/de0f19621f40.json"
+  },
+  "c616f84c355c": {
+    "spec_id": "c616f84c355c",
+    "id": "",
+    "source_url": "https://raw.githubusercontent.com/gxcsoccer/AlphaArena/6c250753443fbbfa326caa41f3a9510b167e946b/docs/api/openapi.yaml.bak",
+    "title": null,
+    "description": null,
+    "openapi_version": "unknown",
+    "servers": [],
+    "tags": [],
+    "paths_count": 0,
+    "latest_info_version": null,
+    "latest_hash": null,
+    "status": "error",
+    "first_seen_at": "2026-06-06T08:28:54.732268+00:00",
+    "last_updated_at": "",
+    "fetched_at": "2026-06-06T08:28:54.732268+00:00",
+    "history_file": "history/c616f84c355c.json"
+  },
+  "583b1adfe079": {
+    "spec_id": "583b1adfe079",
+    "id": "github:papadopouloskyriakos/agentic-chatops/openapi.yaml.tmpl",
+    "source_url": "https://raw.githubusercontent.com/papadopouloskyriakos/agentic-chatops/b875fdf9a61c07067e3dd81688b45b2bef40a913/bootstrap-pack/templates/openapi.yaml.tmpl",
+    "title": "<project-slug> API",
+    "description": "Sync API contracts for <project-slug>. Workers generate code FROM this contract;\nthey don't invent endpoints.",
+    "openapi_version": "openapi_3",
+    "servers": [
+      "http://localhost:8080",
+      "https://api.example.net"
+    ],
+    "tags": [],
+    "paths_count": 1,
+    "latest_info_version": "0.1.0",
+    "latest_hash": "6361053a75f64ad139a01608bd6d32eb6e4cb5427e862ee67080f7524fcd7aa4",
+    "status": "new",
+    "first_seen_at": "2026-06-06T08:28:55.508250+00:00",
+    "last_updated_at": "2026-06-06T08:28:55.508250+00:00",
+    "fetched_at": "2026-06-06T08:28:55.508250+00:00",
+    "history_file": "history/583b1adfe079.json"
+  },
+  "41378771a87b": {
+    "spec_id": "41378771a87b",
+    "id": "",
+    "source_url": "https://raw.githubusercontent.com/thevtm/Custom-OpenAPI/b0d8101e8c72400477865bba87b9254c83083fc6/src/openapi.yaml.ts",
+    "title": null,
+    "description": null,
+    "openapi_version": "unknown",
+    "servers": [],
+    "tags": [],
+    "paths_count": 0,
+    "latest_info_version": null,
+    "latest_hash": null,
+    "status": "error",
+    "first_seen_at": "2026-06-06T08:28:55.648215+00:00",
+    "last_updated_at": "",
+    "fetched_at": "2026-06-06T08:28:55.648215+00:00",
+    "history_file": "history/41378771a87b.json"
+  },
+  "f0dadd89d803": {
+    "spec_id": "f0dadd89d803",
+    "id": "github:KOBI12345678910/KOBI-EL-System-2026/openapi.yaml.from-Invoice-Ledger",
+    "source_url": "https://raw.githubusercontent.com/KOBI12345678910/KOBI-EL-System-2026/d3e0080da018f2b10330682b7d5919137c93b728/lib-client/api-spec/openapi.yaml.from-Invoice-Ledger",
+    "title": "Api",
+    "description": "API specification",
+    "openapi_version": "openapi_3",
+    "servers": [
+      "/api"
+    ],
+    "tags": [
+      "health"
+    ],
+    "paths_count": 1,
+    "latest_info_version": "0.1.0",
+    "latest_hash": "f9ab7c42c1b0ac5c937994943e70ffce6bb728d22ccb7fe7af963939264a82be",
+    "status": "new",
+    "first_seen_at": "2026-06-06T08:28:57.560085+00:00",
+    "last_updated_at": "2026-06-06T08:28:57.560085+00:00",
+    "fetched_at": "2026-06-06T08:28:57.560085+00:00",
+    "history_file": "history/f0dadd89d803.json"
+  },
+  "6f7c76711b48": {
+    "spec_id": "6f7c76711b48",
+    "id": "",
+    "source_url": "https://raw.githubusercontent.com/as8878/ReliefLink/f70c5e25b69db4d2ba77fe7671c1b61643cef690/openAPI.yaml",
+    "title": null,
+    "description": null,
+    "openapi_version": "unknown",
+    "servers": [],
+    "tags": [],
+    "paths_count": 0,
+    "latest_info_version": null,
+    "latest_hash": null,
+    "status": "error",
+    "first_seen_at": "2026-06-06T08:29:00.281184+00:00",
+    "last_updated_at": "",
+    "fetched_at": "2026-06-06T08:29:00.281184+00:00",
+    "history_file": "history/6f7c76711b48.json"
+  },
+  "fc308ab88022": {
+    "spec_id": "fc308ab88022",
+    "id": "github:neilfarmer/memoire/openapi.yaml.tpl",
+    "source_url": "https://raw.githubusercontent.com/neilfarmer/memoire/84b507a57d02910025688b0871b881a930624940/frontend/openapi.yaml.tpl",
+    "title": "Memoire API",
+    "description": "Personal productivity API for tasks, notes, habits, journal, health, nutrition, goals,\nbookmarks, favorites, feeds, finances, diagrams, and an AI assistant.\n\nMost endpoints require a valid JWT in the `Authorization: Bearer <token>` header\n(issued by Cognito) or a Personal Access Token with the `pat_` prefix.\nAuth endpoints (`/auth/*`) are public.",
+    "openapi_version": "openapi_3",
+    "servers": [
+      "${api_url}"
+    ],
+    "tags": [
+      "Journal",
+      "Goals",
+      "Tasks",
+      "Notes",
+      "Habits",
+      "Health",
+      "Settings",
+      "Home",
+      "Admin",
+      "Diagrams",
+      "Bookmarks",
+      "Favorites",
+      "Feeds",
+      "Finances",
+      "Tokens",
+      "Auth",
+      "Assistant",
+      "Links",
+      "Embeddings",
+      "Search",
+      "Activity",
+      "Fitbit",
+      "Housekeeping",
+      "Export"
+    ],
+    "paths_count": 86,
+    "latest_info_version": "1.0.0",
+    "latest_hash": "a6c4ef0f4f283eee919b112d1302327b138d4945db445f3bf3435d6a5d5bec5f",
+    "status": "new",
+    "first_seen_at": "2026-06-06T08:29:00.530453+00:00",
+    "last_updated_at": "2026-06-06T08:29:00.530453+00:00",
+    "fetched_at": "2026-06-06T08:29:00.530453+00:00",
+    "history_file": "history/fc308ab88022.json"
+  },
+  "21ae021cd98b": {
+    "spec_id": "21ae021cd98b",
+    "id": "",
+    "source_url": "https://raw.githubusercontent.com/renattomachado/teste/f1d1144ce670e637bf252526f922025c1c0f3e3e/.skaffolder/template/openapi.yaml.hbs",
+    "title": null,
+    "description": null,
+    "openapi_version": "unknown",
+    "servers": [],
+    "tags": [],
+    "paths_count": 0,
+    "latest_info_version": null,
+    "latest_hash": null,
+    "status": "error",
+    "first_seen_at": "2026-06-06T08:29:02.028690+00:00",
+    "last_updated_at": "",
+    "fetched_at": "2026-06-06T08:29:02.028690+00:00",
+    "history_file": "history/21ae021cd98b.json"
+  },
+  "c867ff2377b1": {
+    "spec_id": "c867ff2377b1",
+    "id": "",
+    "source_url": "https://raw.githubusercontent.com/internetmusic/ccim/e6dfefe919a737f73d8fa17ec89bfc62c074a180/.skaffolder/template/openapi.yaml.hbs",
+    "title": null,
+    "description": null,
+    "openapi_version": "unknown",
+    "servers": [],
+    "tags": [],
+    "paths_count": 0,
+    "latest_info_version": null,
+    "latest_hash": null,
+    "status": "error",
+    "first_seen_at": "2026-06-06T08:29:02.163916+00:00",
+    "last_updated_at": "",
+    "fetched_at": "2026-06-06T08:29:02.163916+00:00",
+    "history_file": "history/c867ff2377b1.json"
+  },
+  "adbf22566249": {
+    "spec_id": "adbf22566249",
+    "id": "github:novaariyanto/HanindyaMom/openapi.yaml",
+    "source_url": "https://raw.githubusercontent.com/novaariyanto/HanindyaMom/cbd8ba424a48cc7b9812591ddda5d3ada37fc03b/openapi.yaml",
+    "title": "HanindyaMom API v1",
+    "description": "API untuk aplikasi mobile HanindyaMom (prefix /api/v1)",
+    "openapi_version": "unknown",
+    "servers": [],
+    "tags": [],
+    "paths_count": 18,
+    "latest_info_version": "1.0.0",
+    "latest_hash": "49b229c4ca7b4c6808d94a0d02fd615c5760b283c23cbb0d2a819394b73ffd15",
+    "status": "new",
+    "first_seen_at": "2026-06-06T08:29:02.313827+00:00",
+    "last_updated_at": "2026-06-06T08:29:02.313827+00:00",
+    "fetched_at": "2026-06-06T08:29:02.313827+00:00",
+    "history_file": "history/adbf22566249.json"
+  },
+  "87abd0c0f298": {
+    "spec_id": "87abd0c0f298",
+    "id": "github:xera-ai/xera/openapi.yaml.tmpl",
+    "source_url": "https://raw.githubusercontent.com/xera-ai/xera/6d6a52cc3ce8e71c08677ef1385275309a980d59/packages/cli/templates/openapi.yaml.tmpl",
+    "title": "TODO - your API",
+    "description": null,
+    "openapi_version": "openapi_3",
+    "servers": [],
+    "tags": [],
+    "paths_count": 0,
+    "latest_info_version": "0.0.0",
+    "latest_hash": "a72b03d2494b78995a8837faef62ced29bfb5d658cdb8d625b92ec394b6cd256",
+    "status": "new",
+    "first_seen_at": "2026-06-06T08:29:03.241756+00:00",
+    "last_updated_at": "2026-06-06T08:29:03.241756+00:00",
+    "fetched_at": "2026-06-06T08:29:03.241756+00:00",
+    "history_file": "history/87abd0c0f298.json"
+  },
+  "d8146b76a4dc": {
+    "spec_id": "d8146b76a4dc",
+    "id": "github:Devansh-365/freellm/openapi.yaml",
+    "source_url": "https://raw.githubusercontent.com/Devansh-365/freellm/3a394fd73b53126adb406ab979798fed873a2d97/openapi.yaml",
+    "title": "Api",
+    "description": "FreeLLM Gateway API",
+    "openapi_version": "openapi_3",
+    "servers": [
+      "/api"
+    ],
+    "tags": [
+      "health",
+      "gateway",
+      "status"
+    ],
+    "paths_count": 6,
+    "latest_info_version": "0.1.0",
+    "latest_hash": "db6ae1a074ac6d86d3095d81aa7bfb7977789508b36341d4330e336a43a79fe9",
+    "status": "new",
+    "first_seen_at": "2026-06-06T08:29:03.982181+00:00",
+    "last_updated_at": "2026-06-06T08:29:03.982181+00:00",
+    "fetched_at": "2026-06-06T08:29:03.982181+00:00",
+    "history_file": "history/d8146b76a4dc.json"
+  },
+  "4892003ec4f3": {
+    "spec_id": "4892003ec4f3",
+    "id": "",
+    "source_url": "https://raw.githubusercontent.com/jocall3/allmarkdon/2e6e563c5e4969bb73d5bfa6b234611e791424e5/openapi.yaml.txt_1.md",
+    "title": null,
+    "description": null,
+    "openapi_version": "unknown",
+    "servers": [],
+    "tags": [],
+    "paths_count": 0,
+    "latest_info_version": null,
+    "latest_hash": null,
+    "status": "error",
+    "first_seen_at": "2026-06-06T08:29:04.322674+00:00",
+    "last_updated_at": "",
+    "fetched_at": "2026-06-06T08:29:04.322674+00:00",
+    "history_file": "history/4892003ec4f3.json"
+  },
+  "3aaa5d3972da": {
+    "spec_id": "3aaa5d3972da",
+    "id": "",
+    "source_url": "https://raw.githubusercontent.com/heikovoigt/ToDoItAll/e76232ea6323f16e9fa7551685671b0c6162f04c/.skaffolder/template/openapi.yaml.hbs",
+    "title": null,
+    "description": null,
+    "openapi_version": "unknown",
+    "servers": [],
+    "tags": [],
+    "paths_count": 0,
+    "latest_info_version": null,
+    "latest_hash": null,
+    "status": "error",
+    "first_seen_at": "2026-06-06T08:29:04.613028+00:00",
+    "last_updated_at": "",
+    "fetched_at": "2026-06-06T08:29:04.613028+00:00",
+    "history_file": "history/3aaa5d3972da.json"
+  },
+  "c52c7fe3ef5a": {
+    "spec_id": "c52c7fe3ef5a",
+    "id": "github:astroicers/typst-api/openapi.yaml",
+    "source_url": "https://raw.githubusercontent.com/astroicers/typst-api/79c1185ffea0859a898f96d3e1f13e3818c79afe/openapi.yaml",
+    "title": "typst-api",
+    "description": "REST API for converting Typst documents to PDF, PNG, and SVG.\n\nPowered by [typst-py](https://github.com/messense/typst-py) — a native Python binding to the Typst compiler.\n\n## Features\n\n- **Multi-format output**: PDF, PNG, SVG\n- **ZIP project support**: Upload multi-file Typst projects\n- **Raw source compilation**: Compile Typst code directly without packaging\n- **Dynamic templates**: Pass data via `sys_inputs` at compile time\n- **In-memory compilation**: `/render/raw` compiles entirely in memory",
+    "openapi_version": "openapi_3",
+    "servers": [
+      "http://localhost:8000",
+      "http://localhost:38000"
+    ],
+    "tags": [
+      "Health",
+      "Render"
+    ],
+    "paths_count": 5,
+    "latest_info_version": "2.0.0",
+    "latest_hash": "07c4a946043202d3d2b7298ee4615e8f3c7199f77be6de589748515042f2d8c9",
+    "status": "new",
+    "first_seen_at": "2026-06-06T08:29:05.079929+00:00",
+    "last_updated_at": "2026-06-06T08:29:05.079929+00:00",
+    "fetched_at": "2026-06-06T08:29:05.079929+00:00",
+    "history_file": "history/c52c7fe3ef5a.json"
+  },
+  "b4830d8fb04e": {
+    "spec_id": "b4830d8fb04e",
+    "id": "github:nextcloud/polls/openapi.json.license",
+    "source_url": "https://raw.githubusercontent.com/nextcloud/polls/2b40dbb72d625156bc2638d99efb70f66be9f2a8/openapi.json.license",
+    "title": null,
+    "description": null,
+    "openapi_version": "unknown",
+    "servers": [],
+    "tags": [],
+    "paths_count": 0,
+    "latest_info_version": null,
+    "latest_hash": "50b8f20dc83c9c858fe6798f5203b03d39fe22200314160a53b869b00bb0fd0e",
+    "status": "new",
+    "first_seen_at": "2026-06-06T08:29:08.451894+00:00",
+    "last_updated_at": "2026-06-06T08:29:08.451894+00:00",
+    "fetched_at": "2026-06-06T08:29:08.451894+00:00",
+    "history_file": "history/b4830d8fb04e.json"
+  },
+  "4c9c9bf38b42": {
+    "spec_id": "4c9c9bf38b42",
+    "id": "github:tezos/tezos-mirror/alpha-mempool-openapi.json.ext",
+    "source_url": "https://raw.githubusercontent.com/tezos/tezos-mirror/1f05dac5bf75b2095be80e85f866e2fcd986e3c6/docs/api/alpha-mempool-openapi.json.ext",
+    "title": "Octez Mempool RPC",
+    "description": "The RPC API for the mempool served by the Octez node.",
+    "openapi_version": "openapi_3",
+    "servers": [],
+    "tags": [],
+    "paths_count": 7,
+    "latest_info_version": "Octez 24.0~rc1+dev (build: 0) (991d8266)",
+    "latest_hash": "ec0c1bc4d6db122c569863ec29e45ac2ce920114488a79963a103a963bcefe55",
+    "status": "new",
+    "first_seen_at": "2026-06-06T08:29:09.044416+00:00",
+    "last_updated_at": "2026-06-06T08:29:09.044416+00:00",
+    "fetched_at": "2026-06-06T08:29:09.044416+00:00",
+    "history_file": "history/4c9c9bf38b42.json"
+  },
+  "83357dba37d7": {
+    "spec_id": "83357dba37d7",
+    "id": "",
+    "source_url": "https://raw.githubusercontent.com/notnotype/neuro-book/dd02da921986117455a55356ac99578ad4814d58/server/routes/_openapi.json.get.ts",
+    "title": null,
+    "description": null,
+    "openapi_version": "unknown",
+    "servers": [],
+    "tags": [],
+    "paths_count": 0,
+    "latest_info_version": null,
+    "latest_hash": null,
+    "status": "error",
+    "first_seen_at": "2026-06-06T08:29:09.743206+00:00",
+    "last_updated_at": "",
+    "fetched_at": "2026-06-06T08:29:09.743206+00:00",
+    "history_file": "history/83357dba37d7.json"
+  },
+  "5a64e582904a": {
+    "spec_id": "5a64e582904a",
+    "id": "github:pagopa/pagopa-infra/_openapi.json.tpl",
+    "source_url": "https://raw.githubusercontent.com/pagopa/pagopa-infra/241903efecf3aa75319f174f77f6761271ad0b8e/src/core/api/donations/v1/_openapi.json.tpl",
+    "title": "Ukraine donations",
+    "description": null,
+    "openapi_version": "openapi_3",
+    "servers": [
+      "https://${host}"
+    ],
+    "tags": [],
+    "paths_count": 1,
+    "latest_info_version": "1.0",
+    "latest_hash": "18c88a40e4024668d26893a17ede6b03c4d615551418129cd5eb2d1c7cefb9f5",
+    "status": "new",
+    "first_seen_at": "2026-06-06T08:29:10.040548+00:00",
+    "last_updated_at": "2026-06-06T08:29:10.040548+00:00",
+    "fetched_at": "2026-06-06T08:29:10.040548+00:00",
+    "history_file": "history/5a64e582904a.json"
+  },
+  "af5e2d5a3832": {
+    "spec_id": "af5e2d5a3832",
+    "id": "",
+    "source_url": "https://raw.githubusercontent.com/rivet-dev/rivet/53034372a271faa77258ef1858351b8b136dbd8c/website/src/pages/metadata/skills/[skill]/openapi.json.ts",
+    "title": null,
+    "description": null,
+    "openapi_version": "unknown",
+    "servers": [],
+    "tags": [],
+    "paths_count": 0,
+    "latest_info_version": null,
+    "latest_hash": null,
+    "status": "error",
+    "first_seen_at": "2026-06-06T08:29:12.480174+00:00",
+    "last_updated_at": "",
+    "fetched_at": "2026-06-06T08:29:12.480174+00:00",
+    "history_file": "history/af5e2d5a3832.json"
+  },
+  "5ffcda678ee9": {
+    "spec_id": "5ffcda678ee9",
+    "id": "github:columbia-it/django-jsonapi-training/aws_openapi.json.removed",
+    "source_url": "https://raw.githubusercontent.com/columbia-it/django-jsonapi-training/8f0bbc9afc0ffbb76c21234560c2642a12630a13/docs/schemas/aws_openapi.json.removed",
+    "title": "myapp",
+    "description": "![alt-text](https://cuit.columbia.edu/sites/default/files/logo/CUIT_Logo_286_web.jpg \"CUIT logo\")\n\n\nA sample API that uses courses as an example to demonstrate representing\n[JSON:API 1.0](http://jsonapi.org/format) in the OpenAPI 3.0 specification.\n\n\nSee [https://columbia-it-django-jsonapi-training.readthedocs.io](https://columbia-it-django-jsonapi-training.readthedocs.io)\nfor more about this.\n\n\n(c) 2018-2019 The Trustees of Columbia University in the City of New York",
+    "openapi_version": "openapi_3",
+    "servers": [
+      "https://ac45devapp01.cc.columbia.edu/v1"
+    ],
+    "tags": [],
+    "paths_count": 18,
+    "latest_info_version": "0.2.4",
+    "latest_hash": "227f100931a62a88e6787d57452117757f7fc2abb34ceb51f759fec62859bb8a",
+    "status": "new",
+    "first_seen_at": "2026-06-06T08:29:12.618996+00:00",
+    "last_updated_at": "2026-06-06T08:29:12.618996+00:00",
+    "fetched_at": "2026-06-06T08:29:12.618996+00:00",
+    "history_file": "history/5ffcda678ee9.json"
+  },
+  "b6178e854e08": {
+    "spec_id": "b6178e854e08",
+    "id": "github:eka-care/eka-docs/tool_openapi.json.bkp",
+    "source_url": "https://raw.githubusercontent.com/eka-care/eka-docs/553f1ce1450affb5052f12ed20a4956330f3f9ce/api-reference/doc-tool/tool_openapi.json.bkp",
+    "title": "Ekacare API & Webhook Documentation",
+    "description": "# Eka Care API Documentation\n\n## Overview\n\nEka care provides a set of APIs to facilitate seamless interaction with their healthcare platform. These APIs allow external businesses to access and manage doctor profiles, clinic details, patient directories, appointment slots, and webhooks for event notifications.\n\n## API Endpoints\n\n### 1\\. View Doctor Profile\n\n**Purpose:** Retrieve details of a doctor profile registered on Eka.\n\n**Endpoint:** `{{HOST}}/v1/business/doctor/{doctor_id}`  \n**Method:** GET  \n**Description:** Fetch detailed information about a specific doctor, including their professional background, specialties, and contact information.\n\n### 2\\. View Clinic Details\n\n**Purpose:** Retrieve details of clinics that a doctor is registered at.\n\n**Endpoint:** `{{HOST}}/v1/business/doctor/{doctor_id}/clinic/{clinic_id}`  \n**Method:** GET  \n**Description:** Fetch information about clinics associated with a specific doctor, including location, contact details, and services offered.\n\n### 3\\. Search a Patient in a business\n\n**Purpose:** Search for a patient in the business' directory and add them if not present.\n\n- Search by **mobile number**\n    \n\n**Endpoint:** `{{HOST}}/v1/business/patients/search?mobile=999999999`  \n**Method:** POST  \n**Description:** Search for a patient in the doctor's directory using their details. If the patient is not found, add them to the directory.\n\n- Search by **name**\n    \n\n**Endpoint:** `{{HOST}}/v1/business/patients/search?name=test`  \n**Method:** POST  \n**Description:** Search for a patient in the doctor's directory using their name. If the patient is not found, business needs to add them to the directory.\n\n### 4\\. Add a Patient to a Business\n\n**Purpose:** Add a patient with their details to a business. Currently a patient can _**only be added with a doctor's context**__\\*__._\n\n**Endpoint:** `{{HOST}}/v1/business/doctor/{doctor_id}/patient/add`  \n**Method:** POST  \n**Description:**\n\n- **doctor_id**: The unique identifier for the doctor under whose context the patient is being added.\n    \n\nThis endpoint accepts patient details in the request body and adds the patient to the specified doctor's directory within the business context.\n\n``` json\n{\n    \"patient_oid\": \"123456789\",// Optional\n    \"designation\": \"Mr.\", //Optional\n    \"first_name\": \"Test\",\n    \"middle_name\": \"\", //optional\n    \"last_name\": \"Patient\",\n    \"dob\": \"1987-01-06\",\n    \"mobile\": \"+919999999999\",\n    \"gender\": \"M\",\n    \"address\": { // optional\n        \"city\": \"Bangalore\",\n        \"line1\": \"ABC\",\n        \"line2\": \"XYZ\",\n        \"pincode\": 560049,\n        \"state\": \"Karnataka\",\n        \"country\": \"India\"\n    },\n    \"metadata\": { //optional\n        \"blood_group\": \"AB+\",\n        \"aadhar_number\": \"12345\",\n        \"notes\": \"Has a history of HTN\"\n    },\n    \"doctor_id\" : {{doctor_id}}\n}\n\n ```\n\n### 5\\. Get Appointment Slots\n\n**Purpose**\n\nSearch for available appointment slots for a doctor within a specified date range. This endpoint also allows for additional filters to be applied, such as the type of consultation (in-clinic, teleconsultation, etc.).\n\n**Endpoint:**  \n`{{HOST}}/v1/business/doctor/{{doctor_id}}/clinic/{{clinic_id}}/appointments/slots?start_date={{start_date}}&end_date={{end_date}}`  \n**Method:** GET\n\n#### Description\n\n- **doctor_id**: The unique identifier for the doctor whose appointment slots are being searched.\n    \n- **clinic_id**: The unique identifier for the clinic where the doctor practices.\n    \n- **start_date**: The start date for the search range.\n    \n- **end_date**: The end date for the search range.\n    \n- **mode**: the mode of consultation to filter on \\[in-clinic | teleconsultation\\]\n    \n\nThe query param can include additional filters to narrow down the search results, such as the `type` of consultation (e.g., in-clinic, teleconsultation).\n\n### 6\\. Book Appointment Slot\n\n**Purpose**\n\nBook a specified appointment slot for a patient, including details like appointment type, payment mode, etc.\n\n**Endpoint :** `{{HOST}}/v2/business/doctor/appointments/slots/book`  \n**Method:** POST\n\n#### Description\n\nThis API endpoint is used to book an appointment slot for a patient under a specific doctor's context within a specified clinic. The request body includes necessary details such as the patient's information, slot timing, appointment type, and channel.\n\n#### Request Body\n\nThe request body should include all necessary details to book an appointment slot.  \n`service_conf_id` is the configuration id choosen from the view slot details API response. It contains all details of the services & fees included in this appointment.  \nCheck APIs to see the response of view slot details API.\n\n**Example Request:**\n\n``` json\n{\n    \"patient\": {\n        \"designation\": \"Mr.\", //Optional\n        \"first_name\": \"Test\",\n        \"middle_name\": \"\", //Optional\n        \"last_name\": \"Patient\",\n        \"dob\": \"1987-01-06\",\n        \"mobile\": \"+919999999999\",\n        \"gender\": \"M\"\n    },\n    \"slot\": {\n        \"start_time\": \"2024-06-11T09:00:00+05:30\",\n        \"end_time\": \"2024-06-11T09:30:00+05:30\",\n        \"service_conf_id\": \"904eec0a73d9b02d9145898db44e628bcb18e7a11cd92852be5a2d6f65159a04\"\n    },\n    \"doctor_id\": {{doctor_id}}, \n    \"clinic_id\": {{clinic_id}}\n}\n\n ```\n\n### 7\\. Check-In Patient for Appointment \\[Optional\\]\n\n**Purpose**\n\nCheck-in a patient for a previously created appointment using the appointment ID. Checkin in a patient adds them to the doctor's currently visiting queue.\n\n**Endpoint :** `{{HOST}}/v2/business/appointments/{appointment_id}/check-in`  \n**Method:** PUT\n\n#### Description\n\nThis API endpoint is used to check-in a patient for a specified appointment using the appointment ID. This action typically marks the patient as having arrived for their scheduled appointment.\n\n#### Request Body\n\nThe request body can include additional information such as check-in time if required. However, if no check in time is provided, then current datetime is used to create check in\n\n``` json\n \"check_in_time\": \"2024-07-01T09:00:00+05:30\"\n\n ```\n\n### 8\\. Get Appointment Details\n\n**Purpose**\n\nRetrieve details of a specific appointment using the appointment ID.\n\n**Endpoint :** `{{HOST}}/v1/business/appointments/{appointment_id}`  \n**Method:** GET\n\n#### Description\n\nThis API endpoint is used to retrieve detailed information about a specific appointment. The response includes comprehensive details such as appointment status, patient information, doctor information, and other relevant data.\n\n#### Request Parameters\n\n- **appointment_id**: The unique identifier for the appointment.\n    \n\n**Example Request:**\n\n```\ncurl --location --request GET '{{HOST}}/v1/business/{{business_id}}/appointments/{{appointment_id}}' \\\n--header 'Content-Type: application/json'\n\n ```\n\n### 8\\. Edit and Reschedule Appointments\n\n**Purpose:** Edit and reschedule existing appointments.\n\n**Endpoint:** `{{HOST}}/v1/business/appointment/cancel/{{appointment_id}}`\n\n**Description:** Currently to reschedule an appointment, business needs to cancel existing appointment and create a new one.\n\n### 9\\. Webhooks for Event Notifications\n\n**Purpose:** Send events related to prescription creation and appointment details to registered entities.\n\n**Endpoint:** `{{HOST}}/v1/webhooks/events`  \n**Method:** POST  \n**Description:** Register webhooks to receive notifications about events such as prescription creation and appointment updates.\n\n### 10\\. Retrieve Prescription Details\n\n**Purpose:** Retrieve details of a specific prescription using the prescription ID.\n\n**Endpoint:** `{{HOST}}/v1/business/prescription/{{rx_id}}`\n\n**Method:** `GET`\n\n**Request Parameters:**\n\n- **rx_id**: The unique identifier for the prescription.\n    \n\n**Description**: The Prescription API allows a business to manage prescriptions, including retrieving details of a specific prescription.",
+    "openapi_version": "openapi_3",
+    "servers": [
+      "http://example.com"
+    ],
+    "tags": [
+      "Auth",
+      "Patient Registration API",
+      "Doctor and clinic API",
+      "Appointment API",
+      "Prescription API",
+      "Appointment Webhooks",
+      "Prescription Webhooks",
+      "Patient Information Webhooks"
+    ],
+    "paths_count": 18,
+    "latest_info_version": "1.0",
+    "latest_hash": "90181e8cf4ab7b580b4df2b39dbb54b9530c72f9bb0506f2b93340048d4b8841",
+    "status": "new",
+    "first_seen_at": "2026-06-06T08:29:13.411824+00:00",
+    "last_updated_at": "2026-06-06T08:29:13.411824+00:00",
+    "fetched_at": "2026-06-06T08:29:13.411824+00:00",
+    "history_file": "history/b6178e854e08.json"
+  },
+  "f88dd361db87": {
+    "spec_id": "f88dd361db87",
+    "id": "",
+    "source_url": "https://raw.githubusercontent.com/Toltar/energy-monitoring-app/a1abaf166d5ba6dec4aaf9da7bfff658509c4a49/openapi.json:Zone.Identifier",
+    "title": null,
+    "description": null,
+    "openapi_version": "unknown",
+    "servers": [],
+    "tags": [],
+    "paths_count": 0,
+    "latest_info_version": null,
+    "latest_hash": null,
+    "status": "error",
+    "first_seen_at": "2026-06-06T08:29:14.554843+00:00",
+    "last_updated_at": "",
+    "fetched_at": "2026-06-06T08:29:14.554843+00:00",
+    "history_file": "history/f88dd361db87.json"
+  },
+  "9c869dbfdcd7": {
+    "spec_id": "9c869dbfdcd7",
+    "id": "github:WorldHealthOrganization/smart-html/StructureDefinition-CWT.openapi.json2",
+    "source_url": "https://raw.githubusercontent.com/WorldHealthOrganization/smart-html/f226515c645511edf7a0aa7d83bbff36c47f80d5/trust/v1.4.0/schemas/StructureDefinition-CWT.openapi.json2",
+    "title": "CBOR Web Token (CWT) Claim API",
+    "description": "Logical Model for Data elements in CBOR Web Token (CWT) https://www.iana.org/assignments/cwt/cwt.xhtml",
+    "openapi_version": "openapi_3",
+    "servers": [],
+    "tags": [],
+    "paths_count": 1,
+    "latest_info_version": "1.0.0",
+    "latest_hash": "0db9a6886c5351d0f42d47c267b526b6532d1504aa748c63b1d7aee2750e1b84",
+    "status": "new",
+    "first_seen_at": "2026-06-06T08:29:15.915815+00:00",
+    "last_updated_at": "2026-06-06T08:29:15.915815+00:00",
+    "fetched_at": "2026-06-06T08:29:15.915815+00:00",
+    "history_file": "history/9c869dbfdcd7.json"
+  },
+  "3e69427bd281": {
+    "spec_id": "3e69427bd281",
+    "id": "github:WorldHealthOrganization/smart-html/StructureDefinition-CWTPayload.openapi.json2",
+    "source_url": "https://raw.githubusercontent.com/WorldHealthOrganization/smart-html/f226515c645511edf7a0aa7d83bbff36c47f80d5/trust/schemas/StructureDefinition-CWTPayload.openapi.json2",
+    "title": "CBOR Web Token (CWT) Payload (Common) API",
+    "description": "Logical Model for CBOR Web Token (CWT) Payload Logical Modelin CWT Payload https://www.iana.org/assignments/cwt/cwt.xhtml",
+    "openapi_version": "openapi_3",
+    "servers": [],
+    "tags": [],
+    "paths_count": 1,
+    "latest_info_version": "1.0.0",
+    "latest_hash": "11f92ae7f0aa0951dd0780610e66dc4be2ddea6bed1e7ca6ceeebcde97104cdd",
+    "status": "new",
+    "first_seen_at": "2026-06-06T08:29:16.071310+00:00",
+    "last_updated_at": "2026-06-06T08:29:16.071310+00:00",
+    "fetched_at": "2026-06-06T08:29:16.071310+00:00",
+    "history_file": "history/3e69427bd281.json"
+  },
+  "8473e0210200": {
+    "spec_id": "8473e0210200",
+    "id": "github:WorldHealthOrganization/smart-html/StructureDefinition-CWTPayload.openapi.json1",
+    "source_url": "https://raw.githubusercontent.com/WorldHealthOrganization/smart-html/f226515c645511edf7a0aa7d83bbff36c47f80d5/trust/schemas/StructureDefinition-CWTPayload.openapi.json1",
+    "title": "CBOR Web Token (CWT) Payload (Common) API",
+    "description": "Logical Model for CBOR Web Token (CWT) Payload Logical Modelin CWT Payload https://www.iana.org/assignments/cwt/cwt.xhtml",
+    "openapi_version": "openapi_3",
+    "servers": [],
+    "tags": [],
+    "paths_count": 1,
+    "latest_info_version": "1.0.0",
+    "latest_hash": "11f92ae7f0aa0951dd0780610e66dc4be2ddea6bed1e7ca6ceeebcde97104cdd",
+    "status": "new",
+    "first_seen_at": "2026-06-06T08:29:16.477834+00:00",
+    "last_updated_at": "2026-06-06T08:29:16.477834+00:00",
+    "fetched_at": "2026-06-06T08:29:16.477834+00:00",
+    "history_file": "history/8473e0210200.json"
+  },
+  "b975371a53f1": {
+    "spec_id": "b975371a53f1",
+    "id": "github:WorldHealthOrganization/smart-html/StructureDefinition-HCert.openapi.json2",
+    "source_url": "https://raw.githubusercontent.com/WorldHealthOrganization/smart-html/f226515c645511edf7a0aa7d83bbff36c47f80d5/trust/v1.5.0/schemas/StructureDefinition-HCert.openapi.json2",
+    "title": "Health Certificate API",
+    "description": "Logical Model for the HCERT",
+    "openapi_version": "openapi_3",
+    "servers": [],
+    "tags": [],
+    "paths_count": 1,
+    "latest_info_version": "1.0.0",
+    "latest_hash": "986c599fd0046e79d68908590b23cf6f83f60f1dd1b7dd65e721629dc2334ac3",
+    "status": "new",
+    "first_seen_at": "2026-06-06T08:29:16.632735+00:00",
+    "last_updated_at": "2026-06-06T08:29:16.632735+00:00",
+    "fetched_at": "2026-06-06T08:29:16.632735+00:00",
+    "history_file": "history/b975371a53f1.json"
+  },
+  "383d71a236c9": {
+    "spec_id": "383d71a236c9",
+    "id": "github:bohe-in/polar-backend-golang-sdk/openAPI.json",
+    "source_url": "https://raw.githubusercontent.com/bohe-in/polar-backend-golang-sdk/09e6ffe1bb989f27898e016de8caceeee84eb049/openAPI.json",
+    "title": "Polar Backend SDK Server",
+    "description": "Backend SDK API for polar",
+    "openapi_version": "openapi_3",
+    "servers": [],
+    "tags": [
+      "Health"
+    ],
+    "paths_count": 5,
+    "latest_info_version": "1.0.0",
+    "latest_hash": "ed1d1755619f0577b96b360eaabaab878903567dd16761e392300626db0ce78e",
+    "status": "new",
+    "first_seen_at": "2026-06-06T08:29:17.232291+00:00",
+    "last_updated_at": "2026-06-06T08:29:17.232291+00:00",
+    "fetched_at": "2026-06-06T08:29:17.232291+00:00",
+    "history_file": "history/383d71a236c9.json"
+  },
+  "253417ff02cf": {
+    "spec_id": "253417ff02cf",
+    "id": "github:FliesWithWind/aws-api-versioning-tf/openAPI.json",
+    "source_url": "https://raw.githubusercontent.com/FliesWithWind/aws-api-versioning-tf/6f4448b93517ef661b3ec3f8c853b7852baea7a2/openAPI.json",
+    "title": "Sample Serverless API",
+    "description": null,
+    "openapi_version": "openapi_3",
+    "servers": [
+      "{invokeUrl}/{basePath}"
+    ],
+    "tags": [],
+    "paths_count": 1,
+    "latest_info_version": "2022-06-13",
+    "latest_hash": "50ad4535c69f41c3c6143da3706a0c8226fdd3daad79bb2331602b7bdb6f7179",
+    "status": "new",
+    "first_seen_at": "2026-06-06T08:29:17.429188+00:00",
+    "last_updated_at": "2026-06-06T08:29:17.429188+00:00",
+    "fetched_at": "2026-06-06T08:29:17.429188+00:00",
+    "history_file": "history/253417ff02cf.json"
+  },
+  "4bb9e7b764ed": {
+    "spec_id": "4bb9e7b764ed",
+    "id": "github:rasyadpras/API-Banking-System-JavaScript/OpenAPI.json",
+    "source_url": "https://raw.githubusercontent.com/rasyadpras/API-Banking-System-JavaScript/eaf0a320d3823b8a26cae257905e744e93495ae7/OpenAPI.json",
+    "title": "Banking System API",
+    "description": "OpenAPI for Banking System API",
+    "openapi_version": "openapi_3",
+    "servers": [
+      "http//localhost:8080/api/v1"
+    ],
+    "tags": [],
+    "paths_count": 26,
+    "latest_info_version": "1.0.0",
+    "latest_hash": "3bd16f64b31fa21b34277052af86e8ab342a293f563cff38e09a034475341e39",
+    "status": "new",
+    "first_seen_at": "2026-06-06T08:29:17.586610+00:00",
+    "last_updated_at": "2026-06-06T08:29:17.586610+00:00",
+    "fetched_at": "2026-06-06T08:29:17.586610+00:00",
+    "history_file": "history/4bb9e7b764ed.json"
+  },
+  "e808924e9ab1": {
+    "spec_id": "e808924e9ab1",
+    "id": "github:hanifwibhishana/api/OpenAPI.json",
+    "source_url": "https://raw.githubusercontent.com/hanifwibhishana/api/6a1c3db0f39b91e155261441fac20a7606611c7d/OpenAPI.json",
+    "title": "OpenAPI",
+    "description": "API UNTUK MENGATUR DATA MAHASISWA",
+    "openapi_version": "openapi_3",
+    "servers": [
+      "http://localhost:8000/v1"
+    ],
+    "tags": [],
+    "paths_count": 1,
+    "latest_info_version": "1.0",
+    "latest_hash": "4cda48fb8aa7e1a3e790ae74c0955b73b1818677235571540de974b439949106",
+    "status": "new",
+    "first_seen_at": "2026-06-06T08:29:18.002811+00:00",
+    "last_updated_at": "2026-06-06T08:29:18.002811+00:00",
+    "fetched_at": "2026-06-06T08:29:18.002811+00:00",
+    "history_file": "history/e808924e9ab1.json"
+  },
+  "3a7604987ef6": {
+    "spec_id": "3a7604987ef6",
+    "id": "github:CodeLab-DevOps/whoknows_elixir_monolith/OpenAPI.json",
+    "source_url": "https://raw.githubusercontent.com/CodeLab-DevOps/whoknows_elixir_monolith/941e86684db8c47d1e50ec7f7c46bd4317dd810a/OpenAPI.json",
+    "title": "WhoKnows Copy",
+    "description": null,
+    "openapi_version": "openapi_3",
+    "servers": [
+      "{{baseUrl}}"
+    ],
+    "tags": [],
+    "paths_count": 9,
+    "latest_info_version": "1.0.0",
+    "latest_hash": "59da3b0cb14c72331046d5e0b1adbe084ccd093fcad06ced35a705442396a154",
+    "status": "new",
+    "first_seen_at": "2026-06-06T08:29:18.373603+00:00",
+    "last_updated_at": "2026-06-06T08:29:18.373603+00:00",
+    "fetched_at": "2026-06-06T08:29:18.373603+00:00",
+    "history_file": "history/3a7604987ef6.json"
+  },
+  "aafee93afc78": {
+    "spec_id": "aafee93afc78",
+    "id": "",
+    "source_url": "https://raw.githubusercontent.com/H4HWV2011/msjarvis-public-docs/ce6315d98aa1e5270ccb01b87ba27c439203cc05/api_specs/openapi.json.md",
+    "title": null,
+    "description": null,
+    "openapi_version": "unknown",
+    "servers": [],
+    "tags": [],
+    "paths_count": 0,
+    "latest_info_version": null,
+    "latest_hash": null,
+    "status": "error",
+    "first_seen_at": "2026-06-06T08:29:20.309745+00:00",
+    "last_updated_at": "",
+    "fetched_at": "2026-06-06T08:29:20.309745+00:00",
+    "history_file": "history/aafee93afc78.json"
+  },
+  "d37b0052ce82": {
+    "spec_id": "d37b0052ce82",
+    "id": "",
+    "source_url": "https://raw.githubusercontent.com/MLenngren/threatnoir-platform/0aa3e168982178264422e32777fe7bf754bc8635/server/api/openapi.json.get.ts",
+    "title": null,
+    "description": null,
+    "openapi_version": "unknown",
+    "servers": [],
+    "tags": [],
+    "paths_count": 0,
+    "latest_info_version": null,
+    "latest_hash": null,
+    "status": "error",
+    "first_seen_at": "2026-06-06T08:29:22.784606+00:00",
+    "last_updated_at": "",
+    "fetched_at": "2026-06-06T08:29:22.784606+00:00",
+    "history_file": "history/d37b0052ce82.json"
+  },
+  "683b1290735d": {
+    "spec_id": "683b1290735d",
+    "id": "",
+    "source_url": "https://raw.githubusercontent.com/CyberStrikeus/CyberStrike/a0979e8b725ba07875b825fb435ac660a4064591/packages/console/app/src/routes/openapi.json.ts",
+    "title": null,
+    "description": null,
+    "openapi_version": "unknown",
+    "servers": [],
+    "tags": [],
+    "paths_count": 0,
+    "latest_info_version": null,
+    "latest_hash": null,
+    "status": "error",
+    "first_seen_at": "2026-06-06T08:29:24.833471+00:00",
+    "last_updated_at": "",
+    "fetched_at": "2026-06-06T08:29:24.833471+00:00",
+    "history_file": "history/683b1290735d.json"
+  },
+  "9dd6315e3d88": {
+    "spec_id": "9dd6315e3d88",
+    "id": "",
+    "source_url": "https://raw.githubusercontent.com/axelarnetwork/axelarjs/3897c548f2e82df7fce98b352bded73329183c96/apps/maestro/src/pages/api/openapi.json.ts",
+    "title": null,
+    "description": null,
+    "openapi_version": "unknown",
+    "servers": [],
+    "tags": [],
+    "paths_count": 0,
+    "latest_info_version": null,
+    "latest_hash": null,
+    "status": "error",
+    "first_seen_at": "2026-06-06T08:29:26.486063+00:00",
+    "last_updated_at": "",
+    "fetched_at": "2026-06-06T08:29:26.486063+00:00",
+    "history_file": "history/9dd6315e3d88.json"
+  },
+  "dd05c4be37be": {
+    "spec_id": "dd05c4be37be",
+    "id": "",
+    "source_url": "https://raw.githubusercontent.com/ethyca/fides/e87f3ff835af368defc1ec42dc29ec545a288585/clients/privacy-center/pages/api/openapi.json.ts",
+    "title": null,
+    "description": null,
+    "openapi_version": "unknown",
+    "servers": [],
+    "tags": [],
+    "paths_count": 0,
+    "latest_info_version": null,
+    "latest_hash": null,
+    "status": "error",
+    "first_seen_at": "2026-06-06T08:29:26.793551+00:00",
+    "last_updated_at": "",
+    "fetched_at": "2026-06-06T08:29:26.793551+00:00",
+    "history_file": "history/dd05c4be37be.json"
+  },
+  "7453f128f450": {
+    "spec_id": "7453f128f450",
+    "id": "github:parallel-web/parallel-llms-txt/docs-latest-openapi.json.md",
+    "source_url": "https://raw.githubusercontent.com/parallel-web/parallel-llms-txt/8b7c637e75390bf1588eabc3a646dca1080719e4/public/docs/docs-latest-openapi.json.md",
+    "title": "Parallel API",
+    "description": "Parallel API",
+    "openapi_version": "openapi_3",
+    "servers": [
+      "https://api.parallel.ai"
+    ],
+    "tags": [
+      "Search",
+      "Extract",
+      "Tasks",
+      "FindAll",
+      "Monitor",
+      "Chat API (Beta)"
+    ],
+    "paths_count": 30,
+    "latest_info_version": "0.1.2",
+    "latest_hash": "53c2efaa02af1161a9fb752be594ef6e676b1fc5607dcfcde6601ef4917beaee",
+    "status": "new",
+    "first_seen_at": "2026-06-06T08:29:26.951766+00:00",
+    "last_updated_at": "2026-06-06T08:29:26.951766+00:00",
+    "fetched_at": "2026-06-06T08:29:26.951766+00:00",
+    "history_file": "history/7453f128f450.json"
+  },
+  "1a9d967d6064": {
+    "spec_id": "1a9d967d6064",
+    "id": "",
+    "source_url": "https://raw.githubusercontent.com/synopse/mORMot/22e12fc67fac9b19aca23b041d2a88a4e981bb3d/CrossPlatform/templates/Swagger.json.mustache",
+    "title": null,
+    "description": null,
+    "openapi_version": "unknown",
+    "servers": [],
+    "tags": [],
+    "paths_count": 0,
+    "latest_info_version": null,
+    "latest_hash": null,
+    "status": "error",
+    "first_seen_at": "2026-06-06T08:29:49.556020+00:00",
+    "last_updated_at": "",
+    "fetched_at": "2026-06-06T08:29:49.556020+00:00",
+    "history_file": "history/1a9d967d6064.json"
   }
 }

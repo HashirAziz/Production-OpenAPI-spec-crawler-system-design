@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e808924e9ab1",
+    "source_url": "https://raw.githubusercontent.com/hanifwibhishana/api/6a1c3db0f39b91e155261441fac20a7606611c7d/OpenAPI.json",
+    "fetched_at": "2026-06-06T08:29:18.094897+00:00",
+    "content_hash": "4cda48fb8aa7e1a3e790ae74c0955b73b1818677235571540de974b439949106",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "OpenAPI",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

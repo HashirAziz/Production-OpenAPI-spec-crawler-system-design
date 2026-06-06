@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "de0f19621f40",
+    "source_url": "https://raw.githubusercontent.com/Mohita111/aa/4eacb71f23f107af8637ca472911fa57950eedf1/OpenAPI.yaml",
+    "fetched_at": "2026-06-06T08:28:54.505637+00:00",
+    "content_hash": "78b5883fe36e0db717cf21206169978c182ddf41d42342596f98c149a1456e11",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Swagger Petstore",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3e69427bd281",
+    "source_url": "https://raw.githubusercontent.com/WorldHealthOrganization/smart-html/f226515c645511edf7a0aa7d83bbff36c47f80d5/trust/schemas/StructureDefinition-CWTPayload.openapi.json2",
+    "fetched_at": "2026-06-06T08:29:16.157187+00:00",
+    "content_hash": "11f92ae7f0aa0951dd0780610e66dc4be2ddea6bed1e7ca6ceeebcde97104cdd",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "CBOR Web Token (CWT) Payload (Common) API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

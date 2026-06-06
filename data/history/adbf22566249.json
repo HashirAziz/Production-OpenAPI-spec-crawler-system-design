@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "adbf22566249",
+    "source_url": "https://raw.githubusercontent.com/novaariyanto/HanindyaMom/cbd8ba424a48cc7b9812591ddda5d3ada37fc03b/openapi.yaml",
+    "fetched_at": "2026-06-06T08:29:02.449911+00:00",
+    "content_hash": "49b229c4ca7b4c6808d94a0d02fd615c5760b283c23cbb0d2a819394b73ffd15",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "HanindyaMom API v1",
+    "openapi_version": "unknown",
+    "paths_count": 18,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a1216563b82d",
+    "source_url": "https://raw.githubusercontent.com/AmrAzirar/microservice-antipattern-detector/cd6254c91d96a4bfac7a51da6ee3deb122d24e98/datasets/ground-truth/common-data-service/openapi.yaml.bak",
+    "fetched_at": "2026-06-06T08:28:53.685375+00:00",
+    "content_hash": "7cf2be514776f47ec9b17228deaa17e2065ea214bda68eba69ce3b1d8497cfbe",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Common Data Service",
+    "openapi_version": "openapi_3",
+    "paths_count": 12,
+    "path_diff": null
+  }
+]
