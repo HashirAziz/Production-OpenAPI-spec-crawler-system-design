@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a1ef9b0f5ded",
+    "source_url": "https://raw.githubusercontent.com/TkachevskiyOleg/ebooks_reader_backend/cdde6cec3d79d6b214e45e57b0b5e42b707b9095/swagger.yaml",
+    "fetched_at": "2026-06-07T08:50:51.854001+00:00",
+    "content_hash": "aec3413347a82ca124d352f3af546f456426b611f995cedafcef6f0c89b5b366",
+    "info_version": "1.0.3",
+    "status": "new",
+    "title": "Ebooks Reader Backend API",
+    "openapi_version": "openapi_3",
+    "paths_count": 32,
+    "path_diff": null
+  }
+]

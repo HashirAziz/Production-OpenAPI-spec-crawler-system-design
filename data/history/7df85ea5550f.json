@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "7df85ea5550f",
+    "source_url": "https://raw.githubusercontent.com/ndmanhSoict/Job-OT-api/478a76717dcaacbe70c24ade5a26c4fdce4def8f/swagger.yaml",
+    "fetched_at": "2026-06-07T08:50:51.463126+00:00",
+    "content_hash": "753b7ba368a9ef7ced954b6315bcd3b68c7b164b229903a3d7e5a779776b4100",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "LCMS-API – Hệ thống CSDL SHTT Bắc Ninh",
+    "openapi_version": "openapi_3",
+    "paths_count": 48,
+    "path_diff": null
+  }
+]

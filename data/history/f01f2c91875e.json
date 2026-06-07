@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f01f2c91875e",
+    "source_url": "https://raw.githubusercontent.com/LuisMeirelles/php-overengineering/7229b26c083f0b1f9d68ca606498fdce9c6f500c/swagger.yaml",
+    "fetched_at": "2026-06-07T08:50:54.616546+00:00",
+    "content_hash": "19f8361cb9751accceaf26b83fa0b7e6f21dd28c7287e3b5bf539de806941995",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Cryptography Backend BR",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

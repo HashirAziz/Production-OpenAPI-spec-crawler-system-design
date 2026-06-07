@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0141845ec789",
+    "source_url": "https://raw.githubusercontent.com/SensorForge/sensorforge-api/1bfbfa143a9d8ad3f174644687f88fd49d3af4c2/swagger.yaml",
+    "fetched_at": "2026-06-07T08:50:56.798273+00:00",
+    "content_hash": "3019f48cb20b84b79a669dd503ac9f11c511e4a08b1d64864752cb444ba20289",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "SensorForge Cloud API",
+    "openapi_version": "swagger_2",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

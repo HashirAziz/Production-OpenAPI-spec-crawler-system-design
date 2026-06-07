@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "66766fe9088c",
+    "source_url": "https://raw.githubusercontent.com/Vishwas1/ae-lab/8cc9d838e81e4491eaaf01bdc244eb26511c2fd7/swagger.json",
+    "fetched_at": "2026-06-07T08:51:19.078874+00:00",
+    "content_hash": "331de6ab36b280e7c374e0ad16eb3bdfdbb334de1e5c4da861f7bff3c440888b",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Yet Another Node.js Blogg Application API",
+    "openapi_version": "swagger_2",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

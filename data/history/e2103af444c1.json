@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e2103af444c1",
+    "source_url": "https://raw.githubusercontent.com/BrickSchema/brick-example-server/a11f6dd52ec01123d5b090b328f7a76514aeb605/openapi.json",
+    "fetched_at": "2026-06-07T08:50:34.901079+00:00",
+    "content_hash": "efaa150e92948cdd99543d71f0d22643ced7d91ee21a03c186b016ec554fa624",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "Brick Server",
+    "openapi_version": "openapi_3",
+    "paths_count": 15,
+    "path_diff": null
+  }
+]

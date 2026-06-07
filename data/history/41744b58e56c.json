@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "41744b58e56c",
+    "source_url": "https://raw.githubusercontent.com/alytahery0002/holiday-booking-api/09e02a4103e83e6e4fd6b84886f06c30c93e494c/swagger.yaml",
+    "fetched_at": "2026-06-07T08:50:49.595534+00:00",
+    "content_hash": "375dd428328ad4e586ec565d95847da97d746a338ecedcd072110fd0d588d484",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "HOLIDAY-BOOKING",
+    "openapi_version": "openapi_3",
+    "paths_count": 35,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "dd6aba83585d",
+    "source_url": "https://raw.githubusercontent.com/abdisetiakawan/go-restfulapi/bc06e675c5a76f9d65f4bc95024261d9c01ef8d9/swagger.yaml",
+    "fetched_at": "2026-06-07T08:50:52.919068+00:00",
+    "content_hash": "7beba744423876b4fa1a10e358dc7c8806198b2b794c9bf710de8057ca234847",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Category RESTful API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3b516844d7cf",
+    "source_url": "https://raw.githubusercontent.com/ViaCode-Team/ViaTradeBackend/a54158a0417d7b086ab76f9f3fb4bb82f3730d0f/swagger.yaml",
+    "fetched_at": "2026-06-07T08:50:46.814207+00:00",
+    "content_hash": "3adaaecd635c557d626eb9f16db68f21446ee238110ac2c4af8973079509099c",
+    "info_version": "v1",
+    "status": "new",
+    "title": "ViaTrade API",
+    "openapi_version": "openapi_3",
+    "paths_count": 27,
+    "path_diff": null
+  }
+]

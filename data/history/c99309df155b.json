@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c99309df155b",
+    "source_url": "https://raw.githubusercontent.com/HarionCoder/salesforce-marketing-cloud-journey-builder-activity-app-template/add8eab90a62c154c40f2a8693c1e02bc3b75a27/swagger.yaml",
+    "fetched_at": "2026-06-07T08:50:55.448520+00:00",
+    "content_hash": "e99d9c0c431a2c1bd010e024742854e2a5df5f1be7914f6379655ae004bd8b85",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Activity Application API Glosary",
+    "openapi_version": "swagger_2",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

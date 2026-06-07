@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "87096ffb49aa",
+    "source_url": "https://raw.githubusercontent.com/heyjunin/sales-unifier-firebase/137ea83b5decd589953744f0134d6c657b348561/swagger.yaml",
+    "fetched_at": "2026-06-07T08:50:55.790325+00:00",
+    "content_hash": "f0ae53ecada8fb4b34ba4e3e79ed8e0f744ae75f94b7b67f7580494df52f87f0",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Webhook Transaction API",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

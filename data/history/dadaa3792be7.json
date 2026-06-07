@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "dadaa3792be7",
+    "source_url": "https://raw.githubusercontent.com/DouglasConnect/opentox-toxcast/004f7fbb3535971ff08371210e11aca47b3598bc/Swagger.yaml",
+    "fetched_at": "2026-06-07T08:50:45.683562+00:00",
+    "content_hash": "92e5ef547cbd88d488def455d1a63966206d31d431eecd565e0de6ba565e166e",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "ToxCast databse API - assay, compound and assay results values for tested compounts.",
+    "openapi_version": "swagger_2",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "67d127c8416b",
+    "source_url": "https://raw.githubusercontent.com/xbgmsharp/postgsail/a28cc49514698929d04528e88cb6544ef50607be/openapi.json",
+    "fetched_at": "2026-06-07T08:50:22.926422+00:00",
+    "content_hash": "98bbabca918ce4dc2bbc4a0c76631870683bf5419091d276f4b5920b16a56ebb",
+    "info_version": "14.12",
+    "status": "new",
+    "title": "PostgSail API",
+    "openapi_version": "swagger_2",
+    "paths_count": 92,
+    "path_diff": null
+  }
+]

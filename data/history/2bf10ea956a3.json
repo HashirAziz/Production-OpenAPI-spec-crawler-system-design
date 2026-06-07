@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2bf10ea956a3",
+    "source_url": "https://raw.githubusercontent.com/folio-labs/edge-ai/e12c69c6afefa64d574e727373bc0671155b0978/openapi.json",
+    "fetched_at": "2026-06-07T08:50:35.508467+00:00",
+    "content_hash": "6559657d121ab5a50115ea0a1d0cb849deae4e8ecfc0956463a23e51cd082f9c",
+    "info_version": "0.2.0",
+    "status": "new",
+    "title": "edge-ai",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

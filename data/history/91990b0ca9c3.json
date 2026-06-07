@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "91990b0ca9c3",
+    "source_url": "https://raw.githubusercontent.com/Gersh01/ContactManager/916080c46ce788776888bca7d5830259b93737ad/swagger.yaml",
+    "fetched_at": "2026-06-07T08:50:56.632449+00:00",
+    "content_hash": "2492eca360a7ac391c562aa745db712ace7d691ae32808f5d19db8357e938fc9",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Oceanic Connections",
+    "openapi_version": "swagger_2",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "73495bfc6bca",
+    "source_url": "https://raw.githubusercontent.com/pimeys/t1-dashboard/fa5cef7ce90d2c04a616f0df065b393295a98e3a/swagger.yaml",
+    "fetched_at": "2026-06-07T08:50:46.992498+00:00",
+    "content_hash": "930468817275c6375b76b98b4715bce51275ee3333f832e0d7d6d85f306859f3",
+    "info_version": "0.10.3-master-20180805",
+    "status": "new",
+    "title": "Nightscout API",
+    "openapi_version": "openapi_3",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "796dab0c330a",
+    "source_url": "https://raw.githubusercontent.com/Devoxx4Kids-NPO/littil-frontend/bfaaa0030c073ef23a4104a6e1a1494200b91296/openapi.json",
+    "fetched_at": "2026-06-07T08:50:33.308500+00:00",
+    "content_hash": "ab78f7f261ea72169bea13323b4d65bc2e82404db1099ba1b17abc697445a4c1",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Littil backend API",
+    "openapi_version": "openapi_3",
+    "paths_count": 23,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d934cafd30fd",
+    "source_url": "https://raw.githubusercontent.com/FKouto/GeoRota/fb4407428daad77b18494af36888558ca398081e/Swagger.yaml",
+    "fetched_at": "2026-06-07T08:50:58.393724+00:00",
+    "content_hash": "5ef8148f7bbf13e28750ff7a5dbef2787c32d6cb9159e35dff7b5220e302c265",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Georota API",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

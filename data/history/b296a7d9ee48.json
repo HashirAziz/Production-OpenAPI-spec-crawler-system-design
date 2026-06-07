@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b296a7d9ee48",
+    "source_url": "https://raw.githubusercontent.com/dytni/finalProject/631ab7dc4acdab36acc526e83b49dbd287d52184/openapi.yaml",
+    "fetched_at": "2026-06-07T08:50:15.627981+00:00",
+    "content_hash": "2e8556a498d4534b51d48fc61d986d4b7d0515a90c575ae5103fca9140e8545d",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "Магазин одежды OpenAPI спецификация",
+    "openapi_version": "openapi_3",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "883d574f6109",
+    "source_url": "https://raw.githubusercontent.com/gregw/signalk-racer/0656f32bdecd1b099d1b849ca9eaa5d0f6b0d9b8/openapi.json",
+    "fetched_at": "2026-06-07T08:50:34.415860+00:00",
+    "content_hash": "5eda6fee427a2031d1bc858a0e73a805ec1a2d7f11571907f9f6834ac927ee5e",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "unknown",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

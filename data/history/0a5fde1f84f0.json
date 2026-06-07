@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0a5fde1f84f0",
+    "source_url": "https://raw.githubusercontent.com/devlinduldulao/tanstack-query-and-heyapi-demo/d69d35189bb6ef85485a0b984940865633e7f30c/swagger.yaml",
+    "fetched_at": "2026-06-07T08:50:50.719565+00:00",
+    "content_hash": "70fd878b73fee1058c51af31e649fc54b94c343d617890ee5da00704253dfbb6",
+    "info_version": "v1",
+    "status": "new",
+    "title": "FakeRESTApi.Web V1",
+    "openapi_version": "openapi_3",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

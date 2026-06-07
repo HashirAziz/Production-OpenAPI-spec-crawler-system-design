@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6df17adb1fed",
+    "source_url": "https://raw.githubusercontent.com/faith2333/xuanwu/1be210716c54c3f48fe0a0d6091b5d3c71bc33df/openapi.yaml",
+    "fetched_at": "2026-06-07T08:50:12.734143+00:00",
+    "content_hash": "33248c8e52806db7e31c055599a8f271ca744754fa4dc7abbd278f3a275c5ee4",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": null,
+    "openapi_version": "openapi_3",
+    "paths_count": 13,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ada19ad6e19c",
+    "source_url": "https://raw.githubusercontent.com/vladovello/preventorium-swagger/3ef36f6dab042d8c1c8b8a980813becc38a57ff5/swagger.yaml",
+    "fetched_at": "2026-06-07T08:50:48.468326+00:00",
+    "content_hash": "b0b5b7db3cdf7c2d01b8380d8cf4ae081210da206e158d0cb6e50e292b2bec51",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "Preventorium API",
+    "openapi_version": "openapi_3",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

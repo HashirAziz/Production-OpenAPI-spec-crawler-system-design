@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ab1f45b189ba",
+    "source_url": "https://raw.githubusercontent.com/mumu1818/UOE-Council--Issue-Tracker/eb298f52e9fcfe7d2d5f6c2f8c6de4329b5ba82e/swagger.yaml",
+    "fetched_at": "2026-06-07T08:50:53.432091+00:00",
+    "content_hash": "d09d31086131ea91f4169eafbdd07d761f73a37b21e53d578a3ddf713d8f635c",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Council Issue Reporting System API",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "48de41f4f423",
+    "source_url": "https://raw.githubusercontent.com/kco4776/GPT-wellness-chatbot/2084cf04dcf20e2beabcc74217d9551fc1172e5a/Swagger.yaml",
+    "fetched_at": "2026-06-07T08:50:44.854721+00:00",
+    "content_hash": "f1902c57d169394814bd24f61770cde41382b11f34ff3c7055bdc4a8e7d29783",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "gpt-wellness-chatbot",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

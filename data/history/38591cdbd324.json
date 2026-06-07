@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "38591cdbd324",
+    "source_url": "https://raw.githubusercontent.com/btran935/InsightExtractor/354928a4f94cefdcb03cb6b081e5234681f0a576/openAPI.yaml",
+    "fetched_at": "2026-06-07T08:50:12.538386+00:00",
+    "content_hash": "ee00105714674a41f285c18769975b9eb25773f699062fc6114f4ab16387d5e2",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Insight Extractor API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

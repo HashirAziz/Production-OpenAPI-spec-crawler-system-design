@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3fa58ebcb076",
+    "source_url": "https://raw.githubusercontent.com/NMEJIA93/electiva2_ecommerce_enviosperdidos/c09eb4317a106cbbb07ca41b9ffbe30b9374a161/swagger.yaml",
+    "fetched_at": "2026-06-07T08:50:50.984641+00:00",
+    "content_hash": "3375b7be043e0a7b0ccc0654b61c2d881b1414da6931cac6af1e8d398376e676",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Electiva2 Ecommerce API",
+    "openapi_version": "openapi_3",
+    "paths_count": 18,
+    "path_diff": null
+  }
+]

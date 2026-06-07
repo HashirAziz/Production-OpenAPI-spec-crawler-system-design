@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ea2b5a04ba44",
+    "source_url": "https://raw.githubusercontent.com/mario125/prueba_serverless_2024_marioch/28ab68bae1b2ec9a1497a147bb7a77865d86c11c/swagger.yaml",
+    "fetched_at": "2026-06-07T08:50:47.262785+00:00",
+    "content_hash": "9789a715aac59cf374f1654f070ccabbe2be609a0ab1aab8988e3547c707a013",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API de Usuarios",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

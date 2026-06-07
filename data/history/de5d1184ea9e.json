@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "de5d1184ea9e",
+    "source_url": "https://raw.githubusercontent.com/gethexon/winwin-hexo-editor-mobile/ddb9f7b28e0b5896de8bca4a2fe8ebfb5c6cf3e4/swagger.json",
+    "fetched_at": "2026-06-07T08:51:18.924420+00:00",
+    "content_hash": "3841589bcd624b528f962aa8453942829178b4c36630552a81258b22523511b3",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "@winwin/hexo-editor-api",
+    "openapi_version": "openapi_3",
+    "paths_count": 12,
+    "path_diff": null
+  }
+]

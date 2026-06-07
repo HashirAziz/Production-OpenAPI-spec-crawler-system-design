@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6c8332c24075",
+    "source_url": "https://raw.githubusercontent.com/Fenixoff/rss-cloud-dev-be/d6ffd951cebb29769eb7250938d9bacc5404c900/openapi.yaml",
+    "fetched_at": "2026-06-07T08:50:15.454492+00:00",
+    "content_hash": "9eb95788f59cca69ea454a1b70de20c6fe88bebb9be198660c733d349281af2e",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "Product Service API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

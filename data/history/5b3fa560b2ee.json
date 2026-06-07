@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5b3fa560b2ee",
+    "source_url": "https://raw.githubusercontent.com/ashu-cloud/backend-Assignment-1/3e9294787de86d7bfdb9384c4df2aebb4a1242c6/swagger.yaml",
+    "fetched_at": "2026-06-07T08:50:49.175223+00:00",
+    "content_hash": "3315b08a4c515cda91968b657ecfc1a3d7859c9e66a472c6e2746f627d6fb400",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Task Management REST API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

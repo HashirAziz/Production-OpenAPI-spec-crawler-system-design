@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4f4057f751ea",
+    "source_url": "https://raw.githubusercontent.com/fredsalv01/aws-serverless-swapi-project/30e7d9489e13679250c14b2b59de37a2b54a184c/swagger.yaml",
+    "fetched_at": "2026-06-07T08:50:53.250965+00:00",
+    "content_hash": "23757a31138011cf88421043430049e22ad7c96f2483a56cc2c66c6b8d4c35aa",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API de Star Wars",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

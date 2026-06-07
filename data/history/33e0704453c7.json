@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "33e0704453c7",
+    "source_url": "https://raw.githubusercontent.com/weissye/BpTestTell/8f05843865f8b10c8f49538b0ab0c4c9cfd63b22/packs/7_suts/pharmacy/openapi.json.after",
+    "fetched_at": "2026-06-07T08:50:30.509243+00:00",
+    "content_hash": "c187fc5e9eb4450104329101141979e1f167e748c3a68ef47335e20c804dfcd8",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Pharmacy API (Conflict Semantics)",
+    "openapi_version": "openapi_3",
+    "paths_count": 13,
+    "path_diff": null
+  }
+]

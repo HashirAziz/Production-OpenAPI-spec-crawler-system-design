@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "fc9ecc949cf2",
+    "source_url": "https://raw.githubusercontent.com/rywager/anava-gcp-module/57d52a326b4441f8b54e085347903da11cea80b1/terraform-anava-module/templates/openapi.yaml.tpl",
+    "fetched_at": "2026-06-07T08:49:59.960556+00:00",
+    "content_hash": "bbd8c21ea3535365c3b8034c0312b0ef074b7b1fc69478a0da514545b3a8a6f6",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "${solution_prefix} Device API",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

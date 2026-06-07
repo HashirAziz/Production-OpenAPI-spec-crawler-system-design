@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b5ba3c02a89f",
+    "source_url": "https://raw.githubusercontent.com/Jordan-Nelson/Swagger-Example/d8635f5d8e0d247f459a00630822a51b76d1bf81/Swagger/maven-output/swagger.json.old",
+    "fetched_at": "2026-06-07T08:51:13.801187+00:00",
+    "content_hash": "72a7a75bc3d927087c3e49f2c127b1d77c1b8a5ab1a3550884283d399a227b13",
+    "info_version": "Version 1.0.0",
+    "status": "new",
+    "title": "Swagger spec for the EXAMPLE REST API",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

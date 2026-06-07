@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "abbbdca675a3",
+    "source_url": "https://raw.githubusercontent.com/npgolovacheva/Swagger/2af9694b787a39c3b91578709e65da70ac45c7b8/Swagger.yaml",
+    "fetched_at": "2026-06-07T08:50:54.142920+00:00",
+    "content_hash": "de043cb49092a2a784fc45a9f77d2a806e78386ba9bb42e9d9a6c0e952c168cc",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Система проведения стажировок",
+    "openapi_version": "openapi_3",
+    "paths_count": 26,
+    "path_diff": null
+  }
+]

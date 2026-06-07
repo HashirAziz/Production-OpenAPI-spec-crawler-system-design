@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "af4a98bcbce4",
+    "source_url": "https://raw.githubusercontent.com/IvanProgramming/dnevnik_mos_ru/e723f1149e43373a8e13195974b8b630322e5e76/openapi.json",
+    "fetched_at": "2026-06-07T08:50:26.945475+00:00",
+    "content_hash": "afaa84940275310113d2039e84c5afaa3c154fbdb6895b6eaacdbfb4aabec670",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Diary API",
+    "openapi_version": "openapi_3",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

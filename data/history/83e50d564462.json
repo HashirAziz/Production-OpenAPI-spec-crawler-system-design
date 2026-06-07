@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "83e50d564462",
+    "source_url": "https://raw.githubusercontent.com/rsmmoney/api/74a5d655c8dc4208250b8169812670d2b66096dd/swagger.yaml",
+    "fetched_at": "2026-06-07T08:50:55.288158+00:00",
+    "content_hash": "6dc68bf54243bcd0b7ece5e670dfa412b4a8393d9886ca87c2d4b6771757e925",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "RSM API Documentation",
+    "openapi_version": "swagger_2",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

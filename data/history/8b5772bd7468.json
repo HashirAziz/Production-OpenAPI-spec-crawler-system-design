@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8b5772bd7468",
+    "source_url": "https://raw.githubusercontent.com/TechSamQC/Lab2-GEI311-SBIR/722141115b3fc420ef207ff7c06acaed49c7adb0/OpenAPI.json",
+    "fetched_at": "2026-06-07T08:50:26.337946+00:00",
+    "content_hash": "6c2cb2711066af5c53121738b6abd85e061b28ea34db74ba82a46aa8c287dd36",
+    "info_version": "4.0.0",
+    "status": "new",
+    "title": "Système de Gestion de Tickets (SBIR) - API REST",
+    "openapi_version": "openapi_3",
+    "paths_count": 19,
+    "path_diff": null
+  }
+]

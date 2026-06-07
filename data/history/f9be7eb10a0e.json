@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f9be7eb10a0e",
+    "source_url": "https://raw.githubusercontent.com/man10server/Man10Bank/e5b97d0ea6c59c1d51f0bb2bba567dbfddc4a102/openapi.json",
+    "fetched_at": "2026-06-07T08:50:37.022595+00:00",
+    "content_hash": "898126d804fc6b7a256a71a94e20ded0c37628b29385234173a7db9c562d76de",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Man10BankService | v1",
+    "openapi_version": "openapi_3",
+    "paths_count": 27,
+    "path_diff": null
+  }
+]

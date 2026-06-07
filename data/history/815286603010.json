@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "815286603010",
+    "source_url": "https://raw.githubusercontent.com/vehicle-aggregator/docs/39897eaa5907c5877624acce26592cc0c4b0a9bb/swagger.yaml",
+    "fetched_at": "2026-06-07T08:50:54.964466+00:00",
+    "content_hash": "f7b16991f9dd4435e9d0386886a14edf68f87bbb2a2c504af395a5e1ec306128",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Swagger Aggregator API",
+    "openapi_version": "swagger_2",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e71c8aa61b95",
+    "source_url": "https://raw.githubusercontent.com/diffbot/enhance-client-js/d3365063bb0e3e114fb627b073adac71d6ad0dc4/openapi.json",
+    "fetched_at": "2026-06-07T08:50:34.596537+00:00",
+    "content_hash": "02ee546fd6d09e81155034330027f2222294202a44afedc5d347ae2b40fc810b",
+    "info_version": "v1.0.0",
+    "status": "new",
+    "title": "Diffbot Enhance Service",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

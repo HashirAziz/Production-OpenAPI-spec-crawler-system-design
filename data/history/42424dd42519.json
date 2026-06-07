@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "42424dd42519",
+    "source_url": "https://raw.githubusercontent.com/lessalcu/MQTT-HolaMundo/c6473a3e8ec5f9e7f78e6a0992dc35b7f7bd8caf/swagger.yaml",
+    "fetched_at": "2026-06-07T08:50:55.118830+00:00",
+    "content_hash": "840caef8f10099e4971852e86a2ff88feff12296de5fe91e02a9c1a421ace78d",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "MQTT Hello World",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

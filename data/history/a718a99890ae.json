@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a718a99890ae",
+    "source_url": "https://raw.githubusercontent.com/kilian-develop/horror_stories_gpt2/9d6b8a4ce0e4f478606d57ada29e15140b35a0a3/Swagger.yaml",
+    "fetched_at": "2026-06-07T08:50:47.933250+00:00",
+    "content_hash": "3d83372db055e5760872ad95526a3d80999c1b07f573daa8f400d7bffd3a5328",
+    "info_version": "2.0",
+    "status": "new",
+    "title": "ainize-gpt2-horror-stories",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

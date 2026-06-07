@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f0098fb5dd8a",
+    "source_url": "https://raw.githubusercontent.com/iRatkin/cars-racing/4cf2250a4565ef9bf95e0f14ecb5c416e2aac81c/swagger.yaml",
+    "fetched_at": "2026-06-07T08:50:48.685991+00:00",
+    "content_hash": "65bfba66af06696b2b5a0d990d254450d7be4cc5320cb4100746828af1d07071",
+    "info_version": "0.4.0",
+    "status": "new",
+    "title": "Telegram Miniapp Cars API",
+    "openapi_version": "openapi_3",
+    "paths_count": 19,
+    "path_diff": null
+  }
+]

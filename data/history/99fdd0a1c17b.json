@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "99fdd0a1c17b",
+    "source_url": "https://raw.githubusercontent.com/wednesday-solutions/node-mongo-express/3747265358d6a40226858fb735a374b79e7d8d83/swagger.json",
+    "fetched_at": "2026-06-07T08:51:13.200000+00:00",
+    "content_hash": "d1ec4100a3ee657491f907c5ac6846ddf911cd9d2250e2b078fa9f75f1354fa9",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Node Mongo Express Documentation",
+    "openapi_version": "swagger_2",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

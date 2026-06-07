@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9677c2d67288",
+    "source_url": "https://raw.githubusercontent.com/JotaBarbosaDev/mouros-moto-hub/b8034ae2b355bc50a26e1f7b4f916b68bff5d53d/swagger.yaml",
+    "fetched_at": "2026-06-07T08:50:49.865596+00:00",
+    "content_hash": "c994899a0e55777953df6c707ad6b385c42006c928f05697ed81039fcda448ce",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Mouros Moto Hub API",
+    "openapi_version": "openapi_3",
+    "paths_count": 20,
+    "path_diff": null
+  }
+]

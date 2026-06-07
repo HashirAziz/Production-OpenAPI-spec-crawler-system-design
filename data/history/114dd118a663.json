@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "114dd118a663",
+    "source_url": "https://raw.githubusercontent.com/EastHShin/Android-Ios-Classification/c0c4ba4adae519ac7b714fbe432ab4afac7019f6/Swagger.yaml",
+    "fetched_at": "2026-06-07T08:50:43.503444+00:00",
+    "content_hash": "318cf917ba15241f29fe90f14e838b0a79878336939ad77ba054def39fcb4e4a",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Android-Ios Question Classification model",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

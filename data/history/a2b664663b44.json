@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a2b664663b44",
+    "source_url": "https://raw.githubusercontent.com/udacity/ios-short-s3-hello/566ae969d94516f3c308ea925d1b6fc6f8a79495/swagger.yaml",
+    "fetched_at": "2026-06-07T08:50:43.043698+00:00",
+    "content_hash": "5d15cb3b40bdac1c80fabd1ccdb60c9d4b7c3b3f7b2a13a403e77a5eb68dc350",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Lesson 1: Hello Microservice",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

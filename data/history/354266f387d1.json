@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "354266f387d1",
+    "source_url": "https://raw.githubusercontent.com/kaakaww/javaspringvulny/d6af8d02a5bbc1199e2fe4e99718063db5cd3dbf/openapi.json",
+    "fetched_at": "2026-06-07T08:50:26.722413+00:00",
+    "content_hash": "1a1ec6987b63570d36b351c8b74cf008f650804c06b3adc26632cfd0c5b1b001",
+    "info_version": "v0",
+    "status": "new",
+    "title": "OpenAPI definition",
+    "openapi_version": "openapi_3",
+    "paths_count": 20,
+    "path_diff": null
+  }
+]

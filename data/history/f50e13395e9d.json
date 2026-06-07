@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f50e13395e9d",
+    "source_url": "https://raw.githubusercontent.com/NikXpro/wealth-health/7ba086050816e6f3d731e3f946ac4b473bf2c2ce/swagger.yaml",
+    "fetched_at": "2026-06-07T08:50:57.526519+00:00",
+    "content_hash": "e1c0fab026c9aad9bd9b6940dc588ed322868ff94dd29c3554e117787accf2e1",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Bank Argent API documentation",
+    "openapi_version": "swagger_2",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

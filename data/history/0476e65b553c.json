@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0476e65b553c",
+    "source_url": "https://raw.githubusercontent.com/VladyslavHlushchuk/giftlistic-backend/3bc36310046ffebc6fdd2f7f682fbd765c9f3189/swagger.yaml",
+    "fetched_at": "2026-06-07T08:50:50.508676+00:00",
+    "content_hash": "ff1ca178eeba41cd3c28849ab0fc27b008ce20a35dc235b4910630df65e9d5df",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Giftlistic API",
+    "openapi_version": "openapi_3",
+    "paths_count": 19,
+    "path_diff": null
+  }
+]

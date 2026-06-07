@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "74c46a162e92",
+    "source_url": "https://raw.githubusercontent.com/akshay183/Rudderstack-DataCatalog-Repo/e3c58ff1a0e3d559cf007d628b2bb9946d828f04/swagger.yaml",
+    "fetched_at": "2026-06-07T08:50:51.614162+00:00",
+    "content_hash": "ac10988f53aac6d0a2e4eb4374aef2bc301c8ce01bdf184612c8f808f456026c",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Rudderstack Data Catalog API",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

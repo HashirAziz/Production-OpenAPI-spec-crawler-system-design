@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5b960652034e",
+    "source_url": "https://raw.githubusercontent.com/topcoderinc/dsp-server/c261aa85306745f7cb9669954883e8c55334fffa/swagger.yaml",
+    "fetched_at": "2026-06-07T08:50:53.760513+00:00",
+    "content_hash": "6314e52e6c41803de4b1314fe5541005e6b854b845a94ac57ecbcb010c61ae93",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "Drone REST API",
+    "openapi_version": "swagger_2",
+    "paths_count": 52,
+    "path_diff": null
+  }
+]

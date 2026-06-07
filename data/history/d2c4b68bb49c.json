@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d2c4b68bb49c",
+    "source_url": "https://raw.githubusercontent.com/anutom20/E-commerce-API/d509cacb2cf31612f7b2cd2ba8d0ba6502eb5d2c/swagger.yaml",
+    "fetched_at": "2026-06-07T08:50:52.757057+00:00",
+    "content_hash": "8dec7d25c48b9ca27b49ccd1298fba7810bf4fb47e74ee7ef3004b7306b4010a",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "E-commerce-API",
+    "openapi_version": "openapi_3",
+    "paths_count": 12,
+    "path_diff": null
+  }
+]

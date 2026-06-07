@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4bed8e1d7b3c",
+    "source_url": "https://raw.githubusercontent.com/CodeforSouth/fbi-api/ddc1f1c45269bd9a0401c5047d0c5ab1dbe299ba/swagger.json",
+    "fetched_at": "2026-06-07T08:51:10.386570+00:00",
+    "content_hash": "325cbc0c0024feef79c2b612d99b93343dd7128ac5c6a4a64bdf50139227c929",
+    "info_version": "0.3.0",
+    "status": "new",
+    "title": "Florida Business Inspections API",
+    "openapi_version": "swagger_2",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

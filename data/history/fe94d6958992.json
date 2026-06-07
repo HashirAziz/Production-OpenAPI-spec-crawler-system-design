@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "fe94d6958992",
+    "source_url": "https://raw.githubusercontent.com/newmind/node-ts-typeorm-template/ff7f4d24e741d93f761837f86ecaee241d4ad29b/swagger.yaml",
+    "fetched_at": "2026-06-07T08:50:48.838892+00:00",
+    "content_hash": "2b5a7c3a9dfc402cd94fa9df8b950784c698a8d97e2cf880fa7fd0cba57e6b16",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "unknown",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

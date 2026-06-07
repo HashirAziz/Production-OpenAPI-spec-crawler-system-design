@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1cce65443042",
+    "source_url": "https://raw.githubusercontent.com/reshefsharvit/aws-golang-lambda/a8311612fa7c3985f19e0a6b3e1e0b12d8829585/openapi.yaml",
+    "fetched_at": "2026-06-07T08:49:58.707334+00:00",
+    "content_hash": "a27017dd6cf216dfa0a1cd0bd5a5783cf767f99eb4824f997d5e7cd1846cf6a8",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "Some Service",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

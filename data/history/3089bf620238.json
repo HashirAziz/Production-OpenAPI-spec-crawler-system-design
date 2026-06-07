@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3089bf620238",
+    "source_url": "https://raw.githubusercontent.com/heartbeatsjp/openapi_front_sample/a305fd19193a47ea6704bc494601b2d3e93c81a6/openapi.json",
+    "fetched_at": "2026-06-07T08:50:37.905337+00:00",
+    "content_hash": "d8f4c6ac9d25d28e4d935fb09a6c5611595c9dbe4cd6faf571f8aa1f5756256b",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "FastAPI",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]
