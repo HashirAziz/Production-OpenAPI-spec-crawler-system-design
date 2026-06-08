@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b88c6406fdf2",
+    "source_url": "https://raw.githubusercontent.com/JeetKarena/multi-user-blogging-nextjs/7afddf4a0ae6449f624648ac285451be8338474b/openapi.yaml",
+    "fetched_at": "2026-06-08T10:28:26.130776+00:00",
+    "content_hash": "1cc46c92a1d7635bf15623d316920da9e9fbc0960e60af8e67e3b653ca2cfa2b",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Blogging Platform API",
+    "openapi_version": "openapi_3",
+    "paths_count": 30,
+    "path_diff": null
+  }
+]

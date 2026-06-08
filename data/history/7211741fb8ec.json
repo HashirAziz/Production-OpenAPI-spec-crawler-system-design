@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "7211741fb8ec",
+    "source_url": "https://raw.githubusercontent.com/divs128/Copilot_Python-Project/70070df1df206233c6c7da67abef4c3ba1d615ae/swagger.yaml",
+    "fetched_at": "2026-06-08T10:29:19.641874+00:00",
+    "content_hash": "40d7b64335ad6f854a9acb0788d5c8c9ba874edec624e916ff4120150a3e160c",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Project API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "091ee094f8d6",
+    "source_url": "https://raw.githubusercontent.com/omarcini90/Evaluacion/36ba79c7e25d123403ec88cd32b978cab423eb4f/openapi.yaml",
+    "fetched_at": "2026-06-08T10:28:23.262366+00:00",
+    "content_hash": "20f850cd060c2008df49ea304ef89493e3693b4f12fe65eaea315cdb066bef49",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Microservicio de Verificación de Personas en Lista Negra",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

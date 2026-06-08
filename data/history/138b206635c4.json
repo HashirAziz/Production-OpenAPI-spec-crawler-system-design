@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "138b206635c4",
+    "source_url": "https://raw.githubusercontent.com/densenden/sen_notes/732da47662c7ac55551101e8d9829a99361ace3a/swagger.yaml",
+    "fetched_at": "2026-06-08T10:29:08.625414+00:00",
+    "content_hash": "e6a5f7d566194f7224b330114049a9eb6b047124adfa9e57b7c0e764177ab552",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Pasta Notes API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

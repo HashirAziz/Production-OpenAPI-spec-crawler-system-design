@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "34eeef466c18",
+    "source_url": "https://raw.githubusercontent.com/MAtt5816/api-servers-comparison/49043b6e51777ebc211521e7d827420aafa1140d/openapi.yaml",
+    "fetched_at": "2026-06-08T10:28:22.516930+00:00",
+    "content_hash": "d53aa658e96694c67c7a72586d5d2a8ee9a13b70d2e02e980b9c637330651df5",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API schema for research project",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

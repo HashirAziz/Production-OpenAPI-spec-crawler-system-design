@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "414adad96edd",
+    "source_url": "https://raw.githubusercontent.com/weissye/BpTestTell/785b53a07143f079a2eb91eabb7edc56de5d9bb5/packs/7_suts/library/openapi.json.bak",
+    "fetched_at": "2026-06-08T10:28:50.220192+00:00",
+    "content_hash": "7f9cf7302f24ceaa33914613ea026a2e82bc16bb4d7ad6c1394b8a60eac22e17",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Library SUT (Ground-Truth)",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

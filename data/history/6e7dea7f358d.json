@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6e7dea7f358d",
+    "source_url": "https://raw.githubusercontent.com/gsoultos/policy-tool-service/d8ce82efec284764fc95e3af472e42b9cb050915/swagger.yaml",
+    "fetched_at": "2026-06-08T10:29:04.956617+00:00",
+    "content_hash": "cfe53014ba59fb855032d418f44d6f6b9b760ff0157aa0bae554fc80289ac9bb",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Policy Tool Service",
+    "openapi_version": "swagger_2",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

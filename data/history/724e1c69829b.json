@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "724e1c69829b",
+    "source_url": "https://raw.githubusercontent.com/TheophilusChinomona/polymarket-intel/6d530aa1cd3efe8f208520019c7b9b5bdf5c452a/openapi.yaml",
+    "fetched_at": "2026-06-08T10:28:20.980278+00:00",
+    "content_hash": "d4189328dfc2dbfa841d19f3dc0e2ecc33efd3f4eff19bdcede4035b34430cf0",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Polymarket API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "754ea431f03c",
+    "source_url": "https://raw.githubusercontent.com/VENOMDRMSUPPORT/template_venom/59e40782d4a73a41c403230fb0bb1253e76a2f80/openapi.yaml",
+    "fetched_at": "2026-06-08T10:28:20.031350+00:00",
+    "content_hash": "28c6d05d7ec1fea542cdd6a3600275d37dc2078db23e2d2b700a6ebc544652fb",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Venom Laravel API",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

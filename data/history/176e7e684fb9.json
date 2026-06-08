@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "176e7e684fb9",
+    "source_url": "https://raw.githubusercontent.com/ZhengweiHou/ag-layout-demo/07e173002a1e52822e712d923973731820cf830a/openapi.yaml",
+    "fetched_at": "2026-06-08T10:28:28.664732+00:00",
+    "content_hash": "ffd3057c421d6b7c99d821c3469cec92b4fee99a2fbf2d72e7b78e2713dd313b",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "StudentService API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

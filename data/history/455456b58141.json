@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "455456b58141",
+    "source_url": "https://raw.githubusercontent.com/SergeWilfried/mau/6d91625eb4f6d0a8d74dae8c43ae09cdb0c8f508/swagger.yaml",
+    "fetched_at": "2026-06-08T10:29:18.145808+00:00",
+    "content_hash": "7300a2606a1a3a43a705f876d15e1aee2c72de3d8ed4354fb82529537bb0be0e",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Douni API",
+    "openapi_version": "openapi_3",
+    "paths_count": 125,
+    "path_diff": null
+  }
+]

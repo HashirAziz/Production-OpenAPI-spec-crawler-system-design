@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5e3f2b548800",
+    "source_url": "https://raw.githubusercontent.com/grafana/gsm-api-go-client/f79d632601894bc0659316096404a21ad1880dcc/openapi.yaml",
+    "fetched_at": "2026-06-08T10:28:27.463488+00:00",
+    "content_hash": "941c11d0d18631d0a3408763be7e320c369d76c697d837f37149cca1b7f6e5a5",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "Grafana Secrets Manager API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

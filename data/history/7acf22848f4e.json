@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "7acf22848f4e",
+    "source_url": "https://raw.githubusercontent.com/hextrust/convert-to-pay-api/35bee027813d456ea1e6bc9c72473a325b3107ed/openapi.yaml",
+    "fetched_at": "2026-06-08T10:28:32.342029+00:00",
+    "content_hash": "ba453b235a980b0c0b2aca15caa47bbdff60ef16d1e2748d1b1516be7879b747",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "HTM Payment API",
+    "openapi_version": "openapi_3",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a52ce94c217d",
+    "source_url": "https://raw.githubusercontent.com/jaggervlad/backend-indra/1aec5da2e7696a32f56ebd6df7ee1aaacc059f8e/swagger.yaml",
+    "fetched_at": "2026-06-08T10:29:09.737772+00:00",
+    "content_hash": "a4907393d4bb4b940871f1ad8fdfd13b6c65700ae5a27d1bd11a6c39cb934285",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Documentación de la API de Star Wars Characters",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

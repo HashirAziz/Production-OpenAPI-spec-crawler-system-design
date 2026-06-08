@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1b5a0499d294",
+    "source_url": "https://raw.githubusercontent.com/klikli19/Ads_Service/5c6fedb4683aacfb1d87f27347fe9e422a3c5e74/openapi.yaml",
+    "fetched_at": "2026-06-08T10:28:24.950417+00:00",
+    "content_hash": "ab44e9cdbf1768d65b2829becf923e6dcabb4cbfdeb85aec43aff86879cf2998",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "API Documentation",
+    "openapi_version": "openapi_3",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

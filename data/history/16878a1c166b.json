@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "16878a1c166b",
+    "source_url": "https://raw.githubusercontent.com/shahzadhaider1/task-scheduler/00c4b0203a20aa24fe1d3e49c631ba1bc073c243/swagger.yaml",
+    "fetched_at": "2026-06-08T10:29:03.904437+00:00",
+    "content_hash": "97e282e0b519f530dc963a60fd69782f636091e4579f56c4da0109833aa4d23f",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Task-Scheduler-Service APIs",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

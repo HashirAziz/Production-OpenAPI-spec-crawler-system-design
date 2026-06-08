@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "fb368ae4db7a",
+    "source_url": "https://raw.githubusercontent.com/Johant123456/api/e8b82abd4d98171943319c3221d3c6931461fbb5/openapi.yaml",
+    "fetched_at": "2026-06-08T10:28:21.714737+00:00",
+    "content_hash": "97f73f05521d7b175ca022e08876f8eca75ecf6007d2773f6917d33f8966c3b6",
+    "info_version": "2.0",
+    "status": "new",
+    "title": "My API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

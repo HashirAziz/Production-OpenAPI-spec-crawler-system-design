@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "fc47d635432b",
+    "source_url": "https://raw.githubusercontent.com/AkhmadVeriAlFauzi/busty/ef7aaf2a4269ccf5f8c3bf1fa203418559b463f6/swagger.yaml",
+    "fetched_at": "2026-06-08T10:29:08.434891+00:00",
+    "content_hash": "9fdae5f92a56c03ba1b3cf5175b46273ef2b5b9b93bef242057f14562fde687e",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Busty API",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

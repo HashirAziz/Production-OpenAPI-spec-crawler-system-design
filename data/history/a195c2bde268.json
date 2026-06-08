@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a195c2bde268",
+    "source_url": "https://raw.githubusercontent.com/Aristokitten/microservice-tutorial/433afc5c80202f5760b43fca4a9f022fe54e041a/swagger.yaml",
+    "fetched_at": "2026-06-08T10:29:13.524339+00:00",
+    "content_hash": "4fc23570d0a75ba62866adf01f117df7d043846881f3fd3b359d6c0d6a9b8a59",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "Optimize!",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

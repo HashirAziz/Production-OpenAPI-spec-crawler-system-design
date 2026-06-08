@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f4c51b95e3bc",
+    "source_url": "https://raw.githubusercontent.com/dhruvpatel348/bruno-workflow/7b2cf7f3671557484b05b2c55351cdd5c0715534/openapi.yaml",
+    "fetched_at": "2026-06-08T10:28:21.347419+00:00",
+    "content_hash": "73c52b1cd5c0bca50344fc1d2b51b5fee07671ca38082cc5c09c808b30a8509c",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Petstore API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

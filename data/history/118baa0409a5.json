@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "118baa0409a5",
+    "source_url": "https://raw.githubusercontent.com/UKmatC/AIhumanassistance/9b67b88ddbbcf184028472cfc8a763fabf1eea6a/openapi.yaml",
+    "fetched_at": "2026-06-08T10:28:19.419471+00:00",
+    "content_hash": "6f8472e528621cdfd2aaa5678e201080db9182acaceeaf54d199880574df7306",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "AI Human Assistance API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

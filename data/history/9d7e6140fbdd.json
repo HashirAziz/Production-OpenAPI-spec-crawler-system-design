@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9d7e6140fbdd",
+    "source_url": "https://raw.githubusercontent.com/DeepZaym/API-SEKOLAH/9e62aa129ae59574e44c6d636a6d30a79585cd3e/swagger.yaml",
+    "fetched_at": "2026-06-08T10:29:20.415065+00:00",
+    "content_hash": "c94322ce31deca80e435f8132b169ea6e088f191198f7bb919d0b53b80b581a5",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API Sekolah - Demo",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

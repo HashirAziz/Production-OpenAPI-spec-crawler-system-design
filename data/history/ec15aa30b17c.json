@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ec15aa30b17c",
+    "source_url": "https://raw.githubusercontent.com/Christlpc/Afrigo_BackEnd/fefda0c5515c5c00fb3883cc7b7d46f2a744df03/openapi.yaml",
+    "fetched_at": "2026-06-08T10:28:22.087564+00:00",
+    "content_hash": "6cc2fd5151a58511d506f59f2f20291a071bc7cc11f6cf679f76e84ac08d30a6",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "AfriGo API",
+    "openapi_version": "openapi_3",
+    "paths_count": 13,
+    "path_diff": null
+  }
+]

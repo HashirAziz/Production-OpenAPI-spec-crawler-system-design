@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "aefeaf8ac8f5",
+    "source_url": "https://raw.githubusercontent.com/jimzandueta/ts-node-express-api-boilerplate/a40bc9b5ae497d13d4c7fdfd79206e752b8893b2/swagger.yaml",
+    "fetched_at": "2026-06-08T10:29:08.995358+00:00",
+    "content_hash": "02d089518ae44280aa1020e22486b17469eaf269b00617308ab099cdcacb3397",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "unknown",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

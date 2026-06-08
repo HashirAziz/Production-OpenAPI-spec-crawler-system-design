@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3a521c6f55f8",
+    "source_url": "https://raw.githubusercontent.com/ashish-506/Social-Media-/d87cd60987a56a28eff80b37e09797096d8f3810/swagger.yaml",
+    "fetched_at": "2026-06-08T10:29:09.535272+00:00",
+    "content_hash": "3b76e52d4cce5ad8abee50bd4ba8ca4f8c5596dd45cc3af651d01547603f9a5b",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Social Media API",
+    "openapi_version": "openapi_3",
+    "paths_count": 16,
+    "path_diff": null
+  }
+]

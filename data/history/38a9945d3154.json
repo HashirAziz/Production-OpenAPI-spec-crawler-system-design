@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "38a9945d3154",
+    "source_url": "https://raw.githubusercontent.com/timburks/shakes/f433e40a50ce72de564ce15a4c60f9ce416ea694/openapi.yaml",
+    "fetched_at": "2026-06-08T10:28:29.456278+00:00",
+    "content_hash": "1c6d68c6bcdfc6b3a67d71f436b887f96b1d2324a7053153882c3138598ee0dd",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "Query API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

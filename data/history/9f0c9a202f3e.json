@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9f0c9a202f3e",
+    "source_url": "https://raw.githubusercontent.com/pagopa/io-notification-hub-mock/de70088339d47fb0baafa4a566a0b32ad53e171f/swagger.yaml",
+    "fetched_at": "2026-06-08T10:29:14.050926+00:00",
+    "content_hash": "20c4eb4116510d57eb54fb7137955a9a604e6bc47e6d0ffb7cb85df223836c58",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Azure NotificationHub specifications",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f348c08f9028",
+    "source_url": "https://raw.githubusercontent.com/vukedd/config-service/a6103b184ead95695d9d4cbb5ff4860389e3bd0c/swagger.yaml",
+    "fetched_at": "2026-06-08T10:29:17.677692+00:00",
+    "content_hash": "874b559a318428cbe7eadcd791feda306b8b7103783d5febbb8ad86d815b537a",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Configuration Service API",
+    "openapi_version": "swagger_2",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

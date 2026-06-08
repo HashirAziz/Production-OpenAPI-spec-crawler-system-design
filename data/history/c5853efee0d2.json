@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c5853efee0d2",
+    "source_url": "https://raw.githubusercontent.com/OKO-press/payu-types/a4af3899886f9704beec54dcd98571c0fa82be1f/openapi.yaml",
+    "fetched_at": "2026-06-08T10:28:24.289335+00:00",
+    "content_hash": "58b9e8d6073be5b2b0e2748c3447db3ebce0370019c37a37506dab188374b17a",
+    "info_version": "2.1.0",
+    "status": "new",
+    "title": "PayU GPO Europe REST API",
+    "openapi_version": "openapi_3",
+    "paths_count": 43,
+    "path_diff": null
+  }
+]

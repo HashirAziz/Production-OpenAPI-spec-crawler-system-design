@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "93dd2f0917dc",
+    "source_url": "https://raw.githubusercontent.com/mdulac/banking-api/e8eaac857f3d34bdacd647244c8458e5037ca502/swagger.yaml",
+    "fetched_at": "2026-06-08T10:29:07.977717+00:00",
+    "content_hash": "b6d4cb13f875e7425d1be6601f20f1aa03808bfd46bba0ca868d60f1836cdf3e",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Banking API",
+    "openapi_version": "swagger_2",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

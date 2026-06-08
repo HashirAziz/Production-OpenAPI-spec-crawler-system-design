@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "fc963fc7e511",
+    "source_url": "https://raw.githubusercontent.com/scottmangiapane/server-monitoring-api/a4f169398f9e0d727192a821650b8caf9994c0df/swagger.yaml",
+    "fetched_at": "2026-06-08T10:29:05.941739+00:00",
+    "content_hash": "0ad8ef5858c1cb85739d5e392182b46e8928f8aa0e46156cf41de0e82639397c",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Server Monitoring API",
+    "openapi_version": "openapi_3",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

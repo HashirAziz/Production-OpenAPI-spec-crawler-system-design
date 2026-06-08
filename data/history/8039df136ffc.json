@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8039df136ffc",
+    "source_url": "https://raw.githubusercontent.com/leoclc/nodejs-skeleton/c35691147c7889f01ac015226409e1b6b6a55a55/swagger.yaml",
+    "fetched_at": "2026-06-08T10:29:19.061629+00:00",
+    "content_hash": "7073f4dc5523115e453895af6e720da91e8df7c2f4bbcc5bb278c8e4579493a1",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "psec's NodeJS skeleton service",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

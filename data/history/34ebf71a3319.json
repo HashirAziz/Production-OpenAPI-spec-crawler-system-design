@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "34ebf71a3319",
+    "source_url": "https://raw.githubusercontent.com/Ftmshn5/askidayemek/18c3179ead4eab1e3f1975d6749d4872bbfafb06/openapi.yaml",
+    "fetched_at": "2026-06-08T10:28:25.525281+00:00",
+    "content_hash": "9f10ac1d1a0bd09d921d2d96ce691ce2316b75eea2aaff7778d2a2319188924c",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Askıda Yemek (Food Bridge) API",
+    "openapi_version": "openapi_3",
+    "paths_count": 12,
+    "path_diff": null
+  }
+]

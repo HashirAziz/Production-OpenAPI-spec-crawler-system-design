@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d327782ac6d7",
+    "source_url": "https://raw.githubusercontent.com/SuperTikuwa/golang-handson-webapp/8bce846aaa1e87bf52a23f5d36d5b3989ccca430/swagger.yaml",
+    "fetched_at": "2026-06-08T10:29:16.441939+00:00",
+    "content_hash": "2288ca9ac71b5d6818548e24a09adfcb1742e23ca503a6ad65ddbe696d47558c",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Golang-Handson-Webapp",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

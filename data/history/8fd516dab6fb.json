@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8fd516dab6fb",
+    "source_url": "https://raw.githubusercontent.com/Optimizory/examples-vrest-ng/d3e15032a6f437b6ff4dac4be1a22a42ccc6dec1/swagger.yaml",
+    "fetched_at": "2026-06-08T10:29:14.276582+00:00",
+    "content_hash": "9489d6d6d91c08da7e15fb3e2d8a90096b584de9d2cac822f90ee187052a5b34",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "vREST Contacts Application",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

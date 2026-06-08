@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d61eee4c27ec",
+    "source_url": "https://raw.githubusercontent.com/badbort/itrt-web/56a627a65d542fe8d7b63017e48cd57c4f390185/openapi.yaml",
+    "fetched_at": "2026-06-08T10:28:30.429041+00:00",
+    "content_hash": "5de74b431ddacbf0e77f41d74febbe057aa4db2ef6e9cf8412bce61c636976b7",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "OpenAPI Document on Azure Functions",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3841d81ab6a0",
+    "source_url": "https://raw.githubusercontent.com/allenmichael/aws-box-platform-integration/5f8fcf638bacc74c224b30077235c811e314c9d8/swagger.yaml",
+    "fetched_at": "2026-06-08T10:29:14.855443+00:00",
+    "content_hash": "4b69477cae73e82bdcfc98a514b0d67dc5476092bb6d405b157b22ea3f3fb3a0",
+    "info_version": "2017-01-27T16:48:55Z",
+    "status": "new",
+    "title": "AWS Cognito and Box Platform Token Exchange",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

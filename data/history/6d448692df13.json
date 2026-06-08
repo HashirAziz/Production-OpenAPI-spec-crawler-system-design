@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6d448692df13",
+    "source_url": "https://raw.githubusercontent.com/sil-org/serverless-mfa-api-go/528dc0c26579cc50d979dbc093d79985d9fc83a4/openapi.yaml",
+    "fetched_at": "2026-06-08T10:28:33.118647+00:00",
+    "content_hash": "2649213f205e282c7e5798c0af0ea66ed45dca698c1438400d894d91070cf8b4",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "MFA API",
+    "openapi_version": "openapi_3",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

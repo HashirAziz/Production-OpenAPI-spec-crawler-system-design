@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "61b27b3664d7",
+    "source_url": "https://raw.githubusercontent.com/rube-de/documentationai-Docs/d09d117e0660352e65cd4b5cbfe7dfc9f0f23626/openapi.yaml",
+    "fetched_at": "2026-06-08T10:28:31.535790+00:00",
+    "content_hash": "dbca8f1297c2c80152f346918af234bc14bd963a10b73f3b89b2de212fcc08ff",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Oasis Protocol API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "464e84978169",
+    "source_url": "https://raw.githubusercontent.com/SergueiFedorov/gamemanagerapi/4eaf2fc0762f554d564382ba85417e6de2c0dd79/swagger.yaml",
+    "fetched_at": "2026-06-08T10:29:16.849974+00:00",
+    "content_hash": "daf3ef31f60d2cfe59c41f3de487285f45195ffb553c6401bd551f5a3adb4f95",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "gamemanagerapi",
+    "openapi_version": "openapi_3",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

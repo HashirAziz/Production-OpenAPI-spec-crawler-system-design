@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0b065eef359f",
+    "source_url": "https://raw.githubusercontent.com/CarphatianSnake/nodejs-aws-shop-backend/a4ccbb0879102723cc6fa3f3424d87ffe327df30/openapi.yaml",
+    "fetched_at": "2026-06-08T10:28:20.602787+00:00",
+    "content_hash": "c92cca16d3a5934c2dc605fc8175de5b562723cca63e42fbaffa6349ef56604a",
+    "info_version": "0.2.0",
+    "status": "new",
+    "title": "MyStore - OpenAPI 3.0",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

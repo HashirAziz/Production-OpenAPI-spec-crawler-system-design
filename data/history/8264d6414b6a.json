@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8264d6414b6a",
+    "source_url": "https://raw.githubusercontent.com/ALEXDRUGS/internet-shop/628e1d502072c3c367030c5ab6256b31823ef6c3/openapi.yaml",
+    "fetched_at": "2026-06-08T10:28:22.322664+00:00",
+    "content_hash": "20416dd8f8a8519ceffe67be037cf9dd6c0df5618782998b65f89a4f4da8a5ce",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Ads app API Documentation",
+    "openapi_version": "openapi_3",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

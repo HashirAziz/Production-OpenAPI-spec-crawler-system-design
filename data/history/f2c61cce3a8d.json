@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f2c61cce3a8d",
+    "source_url": "https://raw.githubusercontent.com/deutdrsium/world-fog-server/467f87a1247351686174e81e0850c13c58ac677e/openapi.yaml",
+    "fetched_at": "2026-06-08T10:28:20.417203+00:00",
+    "content_hash": "6a64f274d8ba456b8a5ea72ceada9a6b14a7d1732c41feb6092f506d6bff816d",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "World Fog API (世界迷雾)",
+    "openapi_version": "openapi_3",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

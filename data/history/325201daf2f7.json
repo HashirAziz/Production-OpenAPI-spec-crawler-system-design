@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "325201daf2f7",
+    "source_url": "https://raw.githubusercontent.com/bliotti/Beans/ad21785b097d51ba933f4cfa436f97df16b40ab8/openapi.yaml",
+    "fetched_at": "2026-06-08T10:28:20.810211+00:00",
+    "content_hash": "24cf3e58eee407f246abcfdbc7b8ad0a298dae998662311139e0a8595892d773",
+    "info_version": "0.1",
+    "status": "new",
+    "title": "Beans",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

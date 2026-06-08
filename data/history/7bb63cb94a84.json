@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "7bb63cb94a84",
+    "source_url": "https://raw.githubusercontent.com/Miguelfer1612/Proyecto-Parcial/687872d490e405af1ff993cf6338caa59d23f9c3/swagger.yaml",
+    "fetched_at": "2026-06-08T10:29:08.814345+00:00",
+    "content_hash": "49551390db468c188723187ba1e6a297274ed68ab167aa160e4e63cbaf92f33c",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API de Dicta y Profesores",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

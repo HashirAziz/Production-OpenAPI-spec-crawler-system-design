@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c38ab4b895e1",
+    "source_url": "https://raw.githubusercontent.com/RochtBruno/spot_metrics/a158dad0c1380195d0e4b3317e26b24084389c83/swagger.yaml",
+    "fetched_at": "2026-06-08T10:29:12.729805+00:00",
+    "content_hash": "8b06ada0c01eb9570563155314a4f995946ac4679b31b63b8cca3f30c6a7ce22",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API de Jogadores de Futebol",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

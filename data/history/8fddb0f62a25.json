@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8fddb0f62a25",
+    "source_url": "https://raw.githubusercontent.com/PratikChavan05/Finanace-Backend/531963e5708fdd81ecae17628d443c865265dc63/swagger.yaml",
+    "fetched_at": "2026-06-08T10:29:13.327426+00:00",
+    "content_hash": "51fcef5ec6890b6d637b933442898fd7fc261898c591ea9bba361cb4b9019f6d",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Finance Dashboard API",
+    "openapi_version": "openapi_3",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

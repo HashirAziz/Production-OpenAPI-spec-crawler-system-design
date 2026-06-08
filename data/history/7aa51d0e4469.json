@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "7aa51d0e4469",
+    "source_url": "https://raw.githubusercontent.com/rahulvarma5297/mymed/09f6ce2f84d77a9510e3137ccd848650623c2655/swagger.yaml",
+    "fetched_at": "2026-06-08T10:29:20.072843+00:00",
+    "content_hash": "428e1cfa7968f3621d3c8708e3067c96c3974bfee3eb7d6adccb4fbcfc06a6fd",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "MyMed",
+    "openapi_version": "openapi_3",
+    "paths_count": 23,
+    "path_diff": null
+  }
+]

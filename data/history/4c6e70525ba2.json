@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4c6e70525ba2",
+    "source_url": "https://raw.githubusercontent.com/arolang/FediTerm/6927348a791e918d2a9eb33778f4a0fb2e366595/openapi.yaml",
+    "fetched_at": "2026-06-08T10:28:26.312452+00:00",
+    "content_hash": "d17deaf16d457b2f85b484d3549b1758a9f7c9dc164e46b31b10b400bc409c88",
+    "info_version": "2.0.0",
+    "status": "new",
+    "title": "FediTerm",
+    "openapi_version": "openapi_3",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

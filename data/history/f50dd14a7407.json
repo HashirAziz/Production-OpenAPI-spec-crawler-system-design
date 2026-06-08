@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f50dd14a7407",
+    "source_url": "https://raw.githubusercontent.com/betoxd40/factomskaff/2deda47c3e0868576123b882588d90149acc9289/swagger.yaml",
+    "fetched_at": "2026-06-08T10:29:09.351535+00:00",
+    "content_hash": "54af4f87b780057a56708413db5237126b6f25db292453afd42684d108dd0125",
+    "info_version": "0.1",
+    "status": "new",
+    "title": "factomskaff",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

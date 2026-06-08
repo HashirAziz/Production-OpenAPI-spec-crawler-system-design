@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a706dd1143f1",
+    "source_url": "https://raw.githubusercontent.com/HyperdustLabs/hyperagi-x402/a0f04819ecae59eaf136d1d9aea23e29bdaf35d9/openapi.yaml",
+    "fetched_at": "2026-06-08T10:28:18.838503+00:00",
+    "content_hash": "a64efebe5592bd791baea493cd24c0e76279ca487bdd67db8995e141ec15fb69",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "HyperAGI Inference API with x402 Payments",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

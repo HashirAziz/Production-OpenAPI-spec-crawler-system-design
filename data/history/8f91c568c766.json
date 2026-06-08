@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8f91c568c766",
+    "source_url": "https://raw.githubusercontent.com/SakshamChouhan/authAPI/cea7bcb9435b9b2763eda91d9b04a807eefee5cd/swagger.yaml",
+    "fetched_at": "2026-06-08T10:29:04.558349+00:00",
+    "content_hash": "cf18a275d9d3710eefa0c4160ae9c8b391645b8d4bf1c4319c6cd308a1bdad6d",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "User Authentication API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

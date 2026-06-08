@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0d685610f528",
+    "source_url": "https://raw.githubusercontent.com/rh-dev-hub/techzone/4c93e91b1963b4ae30118fb735824dc8d3f5b101/openapi.yaml",
+    "fetched_at": "2026-06-08T10:28:30.624674+00:00",
+    "content_hash": "2e6496bb00a7171f317751e1eaf91ed30c2d9d69a58eafcf95e2f5a214bcce4b",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Retail Store API",
+    "openapi_version": "openapi_3",
+    "paths_count": 15,
+    "path_diff": null
+  }
+]

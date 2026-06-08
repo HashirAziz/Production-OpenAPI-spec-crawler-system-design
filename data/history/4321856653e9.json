@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4321856653e9",
+    "source_url": "https://raw.githubusercontent.com/stunkcuf/bus-app/05ccbe5bbae1531e8d9648aa5ae5d3ec9069cd5b/openapi.yaml",
+    "fetched_at": "2026-06-08T10:28:19.623061+00:00",
+    "content_hash": "76f7cf02fde332d7f0dcd5b53ae0efef424b6db86435deffe7802bc5912ec1bf",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Fleet Management System API",
+    "openapi_version": "openapi_3",
+    "paths_count": 12,
+    "path_diff": null
+  }
+]

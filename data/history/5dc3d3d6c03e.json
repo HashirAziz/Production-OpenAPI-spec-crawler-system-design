@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5dc3d3d6c03e",
+    "source_url": "https://raw.githubusercontent.com/feip-krk/Summer-resort-backend-symfony-example/96ca4d0fce49815fd87506814208ebd13652ba1a/openapi.yaml",
+    "fetched_at": "2026-06-08T10:28:25.689253+00:00",
+    "content_hash": "98e18dbc98ab1376542c73e67f342458455f3e5d838fcf11557b5a498403d070",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "My App",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

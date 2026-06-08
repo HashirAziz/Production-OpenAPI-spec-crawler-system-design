@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0701247b2212",
+    "source_url": "https://raw.githubusercontent.com/haleeems/toohak-backend/3530b493cf37fb1299f711c1016d6875e62139bb/swagger.yaml",
+    "fetched_at": "2026-06-08T10:29:11.557933+00:00",
+    "content_hash": "f137965a68b63f6db201089bbe33511faebd54c6a8fe5956181ff34db3a676ca",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Toohak API",
+    "openapi_version": "swagger_2",
+    "paths_count": 54,
+    "path_diff": null
+  }
+]

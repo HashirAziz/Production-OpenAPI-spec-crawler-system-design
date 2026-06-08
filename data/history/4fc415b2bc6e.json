@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4fc415b2bc6e",
+    "source_url": "https://raw.githubusercontent.com/apowers313/fido2-server-comm-swagger/576addbb14a1f6e08f23fc887a684091910267f6/swagger.yaml",
+    "fetched_at": "2026-06-08T10:29:10.280395+00:00",
+    "content_hash": "aa5394bf356fd304d75bbd6ae667155d4a7ee41d898f280c370cd16c6a74b465",
+    "info_version": "0.7.0",
+    "status": "new",
+    "title": "WebAuthn / FIDO 2.0 API",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

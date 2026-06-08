@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a4820c0f4bcd",
+    "source_url": "https://raw.githubusercontent.com/GiacomoCortesi/goco2/71c1ec6de3dbb3e54ed6bee57df76c5e4ed043f1/openapi.yaml",
+    "fetched_at": "2026-06-08T10:28:18.459203+00:00",
+    "content_hash": "b011729475741df472252f95e37351692b96259b13a8b3685e54229d36e7f4e2",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "CO2 Saving API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

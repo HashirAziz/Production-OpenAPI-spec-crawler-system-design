@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3c9e2194459d",
+    "source_url": "https://raw.githubusercontent.com/madushankaf/mi-data-service/d2236d331471fc73fe13ccd9371332024925bf36/openapi.yaml",
+    "fetched_at": "2026-06-08T10:28:23.102010+00:00",
+    "content_hash": "55d7d7c74b1d4513f55a503d3323fab07d1b7da8c2b5301d06f620e350cfc9e8",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Data service integration",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

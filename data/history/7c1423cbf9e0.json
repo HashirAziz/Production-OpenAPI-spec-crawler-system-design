@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "7c1423cbf9e0",
+    "source_url": "https://raw.githubusercontent.com/JuanGualim/Proyecto1_Web_backend/8596dfcef97c89a5221e1a9de5a423e0f40f493f/swagger.yaml",
+    "fetched_at": "2026-06-08T10:29:12.936180+00:00",
+    "content_hash": "4f690c5ab6e01afd44dd1475918594464a2170afa051b6fa480cc67c2ea0ed1d",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Series API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8bf901f27a7d",
+    "source_url": "https://raw.githubusercontent.com/mrvnmchm/mrvnmchm_mobile/411f852007bf692dac65b94a1226e2b09870692e/openapi.yaml",
+    "fetched_at": "2026-06-08T10:28:29.859358+00:00",
+    "content_hash": "016512603c0ccf56d9ebea74361ab0a25aeeb63a81a41b32a6c19202b90d19ed",
+    "info_version": "0.1",
+    "status": "new",
+    "title": "mrvnmchm",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5c49ace03ce7",
+    "source_url": "https://raw.githubusercontent.com/salmansrabon/sdet-chatbot/9e3bd6335d26631a97d7b817bd4c26b5df567516/swagger.yaml",
+    "fetched_at": "2026-06-08T10:29:18.628678+00:00",
+    "content_hash": "21e1473c1c37bf1927062c064d327667662a57f925e0b3aca4b6d920787aa47f",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Sharebox v2 API Documentation",
+    "openapi_version": "swagger_2",
+    "paths_count": 19,
+    "path_diff": null
+  }
+]

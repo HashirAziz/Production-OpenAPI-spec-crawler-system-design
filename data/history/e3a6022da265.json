@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e3a6022da265",
+    "source_url": "https://raw.githubusercontent.com/Bokoffalexander/WB-Tech-1/f1b6b8d6491ec32722c9699778e3a0eb55380c64/openapi.yaml",
+    "fetched_at": "2026-06-08T10:28:27.085203+00:00",
+    "content_hash": "41e3623a6404075dde1d4ddcd2306c0e4a47f2e3dbfc3c871b68d663d6eda10d",
+    "info_version": "v1",
+    "status": "new",
+    "title": "Snippets API",
+    "openapi_version": "openapi_3",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

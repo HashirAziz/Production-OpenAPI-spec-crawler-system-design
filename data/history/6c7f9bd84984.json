@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6c7f9bd84984",
+    "source_url": "https://raw.githubusercontent.com/deej-io/openapi-fetch-branded-type-repro/ad3668d04eec3b42d45a7eed7c756b01f97915e1/openapi.yaml",
+    "fetched_at": "2026-06-08T10:28:31.716625+00:00",
+    "content_hash": "dacddcc7bf45d4d519eaacafd1a41ef89a1bd4baf93607c776649059c0b5b80a",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "User API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

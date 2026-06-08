@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2f89ce272a6a",
+    "source_url": "https://raw.githubusercontent.com/silverstone-git/shortie/4a437d1237d1b2fdbfa120802cc9c63d22f810de/swagger.yaml",
+    "fetched_at": "2026-06-08T10:29:09.925734+00:00",
+    "content_hash": "17a5de9de427595b8df796a44c272bc98982167a474f63b4d91b8e049658aafb",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "shortie",
+    "openapi_version": "swagger_2",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

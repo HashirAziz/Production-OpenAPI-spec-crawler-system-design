@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e3ffa8049728",
+    "source_url": "https://raw.githubusercontent.com/stoatchat/javascript-client-api/366e0882d50d61c977883deb30fe6aa6eec71a73/OpenAPI.json",
+    "fetched_at": "2026-06-08T10:28:40.891013+00:00",
+    "content_hash": "16596c09642da4a22b05daefb43e712fd9f6f8545b494d511e7f628a9c79672f",
+    "info_version": "0.13.7",
+    "status": "new",
+    "title": "Revolt API",
+    "openapi_version": "openapi_3",
+    "paths_count": 84,
+    "path_diff": null
+  }
+]

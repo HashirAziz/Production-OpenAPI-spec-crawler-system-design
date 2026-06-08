@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f9fe99741f0c",
+    "source_url": "https://raw.githubusercontent.com/ArtjomsAleskejevs/viz/d92ca2b5a066d3d8af7e6581cbb95e00c9e301da/openapi.yaml",
+    "fetched_at": "2026-06-08T10:28:30.063740+00:00",
+    "content_hash": "d49f3559e9608a84759ff124f19e1686b4c6cdbbc9c5eda51c14d059edc8654f",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Executive Visualization API",
+    "openapi_version": "openapi_3",
+    "paths_count": 19,
+    "path_diff": null
+  }
+]

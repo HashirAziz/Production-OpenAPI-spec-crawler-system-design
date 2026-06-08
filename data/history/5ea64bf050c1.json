@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5ea64bf050c1",
+    "source_url": "https://raw.githubusercontent.com/chenghun1234-dotcom/Global-RE-Loan-Analyzer-Implementation-Plan/942180802ef48f2358c90d8196f5f3bb37e38ef5/openapi.yaml",
+    "fetched_at": "2026-06-08T10:28:31.356626+00:00",
+    "content_hash": "131cb03aba418be4ccc5951a3e57fcb183e47b85a5308b73de485cfd12fe4f5d",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Global-RE-Loan-Analyzer (PropFinance-Insight)",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

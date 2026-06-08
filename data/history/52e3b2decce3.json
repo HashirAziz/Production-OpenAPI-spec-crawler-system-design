@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "52e3b2decce3",
+    "source_url": "https://raw.githubusercontent.com/SigmaProductions/BPFE-flowchart-back/42f15c2dc1efd63eb9a39ec5f1729222b2fc5d91/openapi.yaml",
+    "fetched_at": "2026-06-08T10:28:22.881998+00:00",
+    "content_hash": "bdcfbed639402cd424431f7068d23bd51e6e933abf67649bca6203201821dfc4",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "BIK HUB API gateway-aggregator API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

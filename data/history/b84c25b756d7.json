@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b84c25b756d7",
+    "source_url": "https://raw.githubusercontent.com/checkr/jsflagr/0c3775a62c0f85388de09e8e57d66a92f9e81a17/swagger.yaml",
+    "fetched_at": "2026-06-08T10:29:05.222618+00:00",
+    "content_hash": "de7e6a9372377da1d8787e7cbce9a11d5bd0ad7417aebb573e26abc9e3bae95d",
+    "info_version": "1.1.10",
+    "status": "new",
+    "title": "Flagr",
+    "openapi_version": "swagger_2",
+    "paths_count": 21,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "55e329b28410",
+    "source_url": "https://raw.githubusercontent.com/iamchisomdev/streple-backend/45fdd96e64c4e51ca390c0a7a7f3d271f5251799/openapi.yaml",
+    "fetched_at": "2026-06-08T10:28:21.882561+00:00",
+    "content_hash": "ba16250b50cce1eedb4221b2d394be96d6ccb7dd6592000ee3c11c40f19eaba1",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Streple Copy-Trading API",
+    "openapi_version": "openapi_3",
+    "paths_count": 17,
+    "path_diff": null
+  }
+]

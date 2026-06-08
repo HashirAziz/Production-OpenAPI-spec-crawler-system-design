@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f8533d690c7b",
+    "source_url": "https://raw.githubusercontent.com/SayorNotDo/galileo/02333423c4241c25e30ed11a76e4e130e511841f/openapi.yaml",
+    "fetched_at": "2026-06-08T10:28:34.112157+00:00",
+    "content_hash": "b47dc761454875ba549251db4ef7cc527f2f75f144c3188508d6541aa8caa059",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "Core API",
+    "openapi_version": "openapi_3",
+    "paths_count": 15,
+    "path_diff": null
+  }
+]

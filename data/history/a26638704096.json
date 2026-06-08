@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a26638704096",
+    "source_url": "https://raw.githubusercontent.com/candago-4/documentacao/d5c30057f0842c2c509ced90ad0d65bfc30511a6/openapi.yaml",
+    "fetched_at": "2026-06-08T10:28:21.519848+00:00",
+    "content_hash": "cee928e44126baca576193128132521bb32f46c7c14f38c23ce364dc5b093932",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API Candago-4 Backend",
+    "openapi_version": "openapi_3",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

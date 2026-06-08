@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "867115eb60c9",
+    "source_url": "https://raw.githubusercontent.com/mishra-aanchal/artemis-mission-control-api-workshop/2e0774dac73766e3ce0862a99e3c65c9f4601447/openapi.yaml",
+    "fetched_at": "2026-06-08T10:28:18.666653+00:00",
+    "content_hash": "54cc8614f58977ac97d33ad7b5ba408f526f2a1b7d1ce9c57873d6dfaeea8a7c",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Artemis II Mission Control API",
+    "openapi_version": "openapi_3",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

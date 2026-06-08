@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "94a07e9c1db2",
+    "source_url": "https://raw.githubusercontent.com/andymaier/oas-diff/695969b612db937da691fac5e7b754969a4c6b04/openapi.yaml",
+    "fetched_at": "2026-06-08T10:28:30.227737+00:00",
+    "content_hash": "04bda61c60b730a7c0ee09aef1100bbb9eeabf79824ae4552a40f1ccba09a1e8",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Artikel API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "57337eccbad3",
+    "source_url": "https://raw.githubusercontent.com/meatHo/DB_TP_2024/2f51d3592f8710cd09043d41e8e9fd747bf3e6e2/swagger.yaml",
+    "fetched_at": "2026-06-08T10:29:06.948790+00:00",
+    "content_hash": "dc6c8458304d15d52c5decd00e8d2d2cf9d4dcdd6229ac10867fcb96e3dbb499",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Wine Review API",
+    "openapi_version": "openapi_3",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

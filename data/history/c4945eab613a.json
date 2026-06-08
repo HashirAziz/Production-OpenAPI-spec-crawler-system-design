@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c4945eab613a",
+    "source_url": "https://raw.githubusercontent.com/calebarias9927/NextCloud-VPN-Project/df185f1991e1930658f3be86709b1ca729709116/nextcloud-setup/nextcloud-www/apps/oauth2/openapi.json.license",
+    "fetched_at": "2026-06-08T10:28:56.860094+00:00",
+    "content_hash": "6416ca66ccefe57698b161a4c9be57ea22f7cb947872e946eb8fdf3c69311b12",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "unknown",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b1a735462fc6",
+    "source_url": "https://raw.githubusercontent.com/arunmv123/expense-backend/a8d381e4508431b695fb3361958fe7314fb94fd1/swagger.yaml",
+    "fetched_at": "2026-06-08T10:29:17.439910+00:00",
+    "content_hash": "5bf3059a501ffb41506c533b03aedff8f8bed2e57ff29635a944c550b0369e2a",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Expense Tracker API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

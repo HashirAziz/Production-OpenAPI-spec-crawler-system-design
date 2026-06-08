@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "75468f05f9e0",
+    "source_url": "https://raw.githubusercontent.com/egawa-takeki/kong-game-api-demo/e8808add825dd8f852fa6b2d939373f46778c14b/openapi.yaml",
+    "fetched_at": "2026-06-08T10:28:29.090953+00:00",
+    "content_hash": "0d3a933d6874f94cd0adf397aaee6005fa3771b3251ccae862f87b8e0e2fd13b",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Game Backend API",
+    "openapi_version": "openapi_3",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

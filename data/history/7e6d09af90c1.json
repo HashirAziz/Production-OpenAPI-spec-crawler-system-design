@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "7e6d09af90c1",
+    "source_url": "https://raw.githubusercontent.com/mproyyan/user-api/23e26dadf7d9d6ccc355a4410d2840e38536a5b8/openapi.yaml",
+    "fetched_at": "2026-06-08T10:28:32.110241+00:00",
+    "content_hash": "004027c68a27ce68d2bf0fb87b633fc1b1b5b5a8b8d59daf3374007ffdf43317",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Simple User API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

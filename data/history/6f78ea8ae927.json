@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6f78ea8ae927",
+    "source_url": "https://raw.githubusercontent.com/nao-sec/tknk_scanner/8459a88ecdc76656c6a5bc1af14a5cd1298d72e5/swagger.yaml",
+    "fetched_at": "2026-06-08T10:29:15.225926+00:00",
+    "content_hash": "6cbc124e00ba1378e6943c288267878f7553c64fc5817334463ad219f80c1701",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "tknk_scanner API",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

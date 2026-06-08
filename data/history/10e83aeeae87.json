@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "10e83aeeae87",
+    "source_url": "https://raw.githubusercontent.com/Kuusenmetsa/Camille_Crapat_ProjetSimule_ArgentBank_Backend/99fa6de853b7655dbe8bb4dd94a7318685a15903/swagger.yaml",
+    "fetched_at": "2026-06-08T10:29:11.948308+00:00",
+    "content_hash": "387145c1c6cdc473dacfcd19a7e22c7418a8a94bd1de161a12f39c4b21fcd28e",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Bank Argent API documentation",
+    "openapi_version": "swagger_2",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

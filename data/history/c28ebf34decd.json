@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c28ebf34decd",
+    "source_url": "https://raw.githubusercontent.com/ptyoungk/mapworker/b8670c19d6f258a3da80d2da80515c9aa9e9d8c8/openapi.yaml",
+    "fetched_at": "2026-06-08T10:28:28.895503+00:00",
+    "content_hash": "9ebeaa7b5840fd3c8f7743d456bd000b19f9c8bc0e0cdfcc9cfce0762c92ecf9",
+    "info_version": "0.1",
+    "status": "new",
+    "title": "mapworker",
+    "openapi_version": "openapi_3",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

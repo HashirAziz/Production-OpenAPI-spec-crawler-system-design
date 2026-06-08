@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e1fb837c1f45",
+    "source_url": "https://raw.githubusercontent.com/umbarry/nextcloud-instance/87d8b858ce929e6c7de71e415ff6d1548fa0a2c1/app/apps/files/openapi.json.license",
+    "fetched_at": "2026-06-08T10:28:48.762109+00:00",
+    "content_hash": "6416ca66ccefe57698b161a4c9be57ea22f7cb947872e946eb8fdf3c69311b12",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "unknown",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "7438f7140fe8",
+    "source_url": "https://raw.githubusercontent.com/strager/impression/fda894f6a683ad329fa3b230f9f674a0a5a1df34/openapi.yaml",
+    "fetched_at": "2026-06-08T10:28:22.698193+00:00",
+    "content_hash": "f2f23ff8dfbcf1e5ec4d74d86619fb5812c0398df62dfe92c289103292776b92",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "Impression API",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

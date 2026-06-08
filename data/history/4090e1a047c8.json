@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4090e1a047c8",
+    "source_url": "https://raw.githubusercontent.com/aymanblank/invygo-staff-scheduling-api/1b771feb335c8b94a8e22427a9b14777927d35ae/swagger.yaml",
+    "fetched_at": "2026-06-08T10:29:04.747302+00:00",
+    "content_hash": "0f7ef57598aba45166cde6595f6f79a6dd49f9fe123ed63a28f1a42187113f9e",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "unknown",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

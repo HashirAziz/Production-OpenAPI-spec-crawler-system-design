@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9d73b120930e",
+    "source_url": "https://raw.githubusercontent.com/pulipulichen/docker-Nextcloud-demo-2025/3952b84ab9226d117a2de76db0d5a672f871f7d3/nextcloud_compiler/src/apps/files/openapi.json.license",
+    "fetched_at": "2026-06-08T10:28:53.415719+00:00",
+    "content_hash": "6416ca66ccefe57698b161a4c9be57ea22f7cb947872e946eb8fdf3c69311b12",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "unknown",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e9fa95d59dbf",
+    "source_url": "https://raw.githubusercontent.com/danim1130/TaxID/77132643e38f06c96e2b9a5f8cf85e77414e28eb/swagger.yaml",
+    "fetched_at": "2026-06-08T10:29:07.368088+00:00",
+    "content_hash": "25e3d1c3bfe5de6f738a79c3c6332e11d10b749672ec4dfb8dc40d63ceb32088",
+    "info_version": "0.2.0",
+    "status": "new",
+    "title": "Tax Identification Card Reader",
+    "openapi_version": "swagger_2",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

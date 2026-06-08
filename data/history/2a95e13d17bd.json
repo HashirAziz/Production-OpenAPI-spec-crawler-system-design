@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2a95e13d17bd",
+    "source_url": "https://raw.githubusercontent.com/Kathp21/openApi/22b670b6bed1309e4af4c808c43634214c73791d/openapi.yaml",
+    "fetched_at": "2026-06-08T10:28:29.292632+00:00",
+    "content_hash": "72541537fb59cccc568559c35f9e6b2b30e8b8541a400331f1eec815266de33f",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "My API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

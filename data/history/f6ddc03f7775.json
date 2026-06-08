@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f6ddc03f7775",
+    "source_url": "https://raw.githubusercontent.com/arbitrum-api/GMX-Arbitrum-Trading-Bot/f9fa38985ba6c26f81a4c713841315b0621d8e43/openapi.yaml",
+    "fetched_at": "2026-06-08T10:28:34.294278+00:00",
+    "content_hash": "d41e788e252341807e21e0bffd4da8399bacb91babff56b9f84c7a2351efe5f9",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "GMX Trading on Arbitrum API",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

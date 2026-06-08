@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "01100a371e99",
+    "source_url": "https://raw.githubusercontent.com/CodeFish-xiao/kratos-demo/2ca7958833badadfc3e6b72add05a4fe66227c6b/openapi.yaml",
+    "fetched_at": "2026-06-08T10:28:18.309208+00:00",
+    "content_hash": "3938849bb952c473d74d61a9f2282a8478c146a3877a081324444fb40f1fe1e8",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": null,
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

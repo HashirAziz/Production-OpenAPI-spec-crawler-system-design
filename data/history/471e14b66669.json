@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "471e14b66669",
+    "source_url": "https://raw.githubusercontent.com/HVgiang86/ks-chat/e29ef0344da700e3e93a506917dad6935c1c3536/swagger.yaml",
+    "fetched_at": "2026-06-08T10:29:04.112814+00:00",
+    "content_hash": "31ee332a3b1f0bcc446820981afd9475dee4b7ac18ea6eae0434de602367d8bf",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "KSChat API Documentation",
+    "openapi_version": "openapi_3",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

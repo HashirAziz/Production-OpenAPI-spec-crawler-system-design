@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8776bae6600b",
+    "source_url": "https://raw.githubusercontent.com/Thitiwat47/Website-e-commerce/127c64962b478f037c88701be1caf9ca93a2999a/swagger.yaml",
+    "fetched_at": "2026-06-08T10:29:10.869985+00:00",
+    "content_hash": "12020927a823051f4c8d9103740159cba331e13886d9e0d6fdbdfbbfd9320aa6",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Website E-commerce API",
+    "openapi_version": "openapi_3",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0b13ed4929e2",
+    "source_url": "https://raw.githubusercontent.com/c1cromwell/echoapp/0eb46357e4e08210ca260954c3d3a9f2c0f96dfd/openapi.yaml",
+    "fetched_at": "2026-06-08T10:28:25.321461+00:00",
+    "content_hash": "33777e319449356da278d19d8ce9dfc7eb1f2a4073833854847a2fcc21c38e7b",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "ECHO Platform API",
+    "openapi_version": "openapi_3",
+    "paths_count": 54,
+    "path_diff": null
+  }
+]

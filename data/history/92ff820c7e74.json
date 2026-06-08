@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "92ff820c7e74",
+    "source_url": "https://raw.githubusercontent.com/observantio/notifier/0281cb69d13988b6409fa808707c4636d79c4fc5/openapi.yaml",
+    "fetched_at": "2026-06-08T10:28:31.176631+00:00",
+    "content_hash": "db277c9a077d61e94ce3b412525abfcb4345ae9ddd58ad36217708c5a6489618",
+    "info_version": "0.0.5",
+    "status": "new",
+    "title": "Notifier",
+    "openapi_version": "openapi_3",
+    "paths_count": 42,
+    "path_diff": null
+  }
+]

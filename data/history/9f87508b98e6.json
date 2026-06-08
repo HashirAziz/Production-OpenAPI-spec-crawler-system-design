@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9f87508b98e6",
+    "source_url": "https://raw.githubusercontent.com/mabbasbangash97/ai-copilot-plugin/ab93a50c0649c47be87bd0070fdecbd82011167b/openapi.yaml",
+    "fetched_at": "2026-06-08T10:28:29.651341+00:00",
+    "content_hash": "f1dd292607cb2f7274928aa579258946117fc64dd37619d6da83e2f7aecd748c",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Demo Plugin API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

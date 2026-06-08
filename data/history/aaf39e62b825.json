@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "aaf39e62b825",
+    "source_url": "https://raw.githubusercontent.com/pablomarambio/miniswitch/d20bf05e821f53297c0057e18a65fc3412ebea4b/swagger.yaml",
+    "fetched_at": "2026-06-08T10:29:14.661331+00:00",
+    "content_hash": "57c0a081999e85d7cd95c6ecc54faa85e52cd4b27ff3a561a6a44169e8194de4",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "MiniSwitch",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2968b73ef04f",
+    "source_url": "https://raw.githubusercontent.com/ppanya/bdd/da63d9fdf844d016b46afdd5d315820220adc0ac/openapi.yaml",
+    "fetched_at": "2026-06-08T10:28:23.626310+00:00",
+    "content_hash": "5072fe8628e660f7bc4c1d569ee669cfc42dd2369e04e21b3a70074a27b81227",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "BDD Template API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9a64aa2cb736",
+    "source_url": "https://raw.githubusercontent.com/metahkg/metahkg-server/a5780d3db61ed15b22e45b014021b889190c692c/openapi.yaml",
+    "fetched_at": "2026-06-08T10:28:33.781747+00:00",
+    "content_hash": "697594bd1f073ccfbc33db11c9841ea8f7c31e900687bc04a8210164b0cd4321",
+    "info_version": "6.15.1-dev",
+    "status": "new",
+    "title": "Metahkg Api",
+    "openapi_version": "openapi_3",
+    "paths_count": 62,
+    "path_diff": null
+  }
+]

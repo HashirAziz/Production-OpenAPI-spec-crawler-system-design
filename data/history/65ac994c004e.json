@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "65ac994c004e",
+    "source_url": "https://raw.githubusercontent.com/christianrosales777/Volunteer_Availability_API/08c973bd0de42610ddc63ddef3e17b623b983333/swagger.yaml",
+    "fetched_at": "2026-06-08T10:29:12.125621+00:00",
+    "content_hash": "cf8a83789da988ca3a81c9ba4e94ce9a16ccc5297f1d8164acf34da78a5adcee",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Volunteer Availability API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

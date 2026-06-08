@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ae002b1e6194",
+    "source_url": "https://raw.githubusercontent.com/OmerJuve2023/microservicios-cibertec/fb8c42a1871254e9d57043dfb18438d31f6de5f5/openapi.yaml",
+    "fetched_at": "2026-06-08T10:28:24.567488+00:00",
+    "content_hash": "a635cca49451c361c1611037419ff13558495102e93758b259587f552a6f09cb",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API Microservicios",
+    "openapi_version": "openapi_3",
+    "paths_count": 22,
+    "path_diff": null
+  }
+]

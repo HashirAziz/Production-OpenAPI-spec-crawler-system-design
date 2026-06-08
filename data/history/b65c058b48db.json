@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b65c058b48db",
+    "source_url": "https://raw.githubusercontent.com/johnkelvinsssss/medical-pubmed/dd4d15c46375f585392d5b27c5e39adb796610cc/openapi.yaml",
+    "fetched_at": "2026-06-08T10:28:30.789258+00:00",
+    "content_hash": "04aff2c1513515d7ace0b3cce9888bf0bbb5c2630a72b36af5e24063735f7586",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "PubMed Plugin",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

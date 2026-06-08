@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f30ea5dfea33",
+    "source_url": "https://raw.githubusercontent.com/nvancuong2/taxApiGoReact/2050365921f506a94e372f2c4a894ff5260a7b64/openapi.yaml",
+    "fetched_at": "2026-06-08T10:28:24.751149+00:00",
+    "content_hash": "534793cb242780bf70cab4e978b9a6166ab945ac3961b10bac794a8d8e3230f4",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Tax API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

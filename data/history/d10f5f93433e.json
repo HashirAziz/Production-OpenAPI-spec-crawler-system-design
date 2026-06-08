@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d10f5f93433e",
+    "source_url": "https://raw.githubusercontent.com/IsseiKitta/web-iot-makers-challenge-2025/c764ebb1160b64899c05e839144d6f07c7bace23/swagger.yaml",
+    "fetched_at": "2026-06-08T10:29:20.249331+00:00",
+    "content_hash": "019706169101a2f03cfcc960caf39a9d105fa02d4b5f5aeb09e3e2ce80674644",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Web IoT Makers Challenge",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

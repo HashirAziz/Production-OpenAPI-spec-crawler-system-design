@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ad215f3aaf66",
+    "source_url": "https://raw.githubusercontent.com/Yecoby/Midterm/50e1640c2c77a1b2f31245bb1ac8a27cde95eadd/swagger.yaml",
+    "fetched_at": "2026-06-08T10:29:17.275796+00:00",
+    "content_hash": "c33f57ae8601350c6cd7d957d887f61b319e18c3153399ced2b75c2ba84f7144",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Node.js Sign-up and Verification API",
+    "openapi_version": "openapi_3",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "fea8ad4521cd",
+    "source_url": "https://raw.githubusercontent.com/OmarHeriche/noClient/0870fe00c9df7e8aa7bd577656cb75a599fff7a6/swagger.yaml",
+    "fetched_at": "2026-06-08T10:29:12.519659+00:00",
+    "content_hash": "289a3cd642b076b0d73b398926eff34ff472e65722c8454aaa0293ae8c33d5b7",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "jobsApi",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]
