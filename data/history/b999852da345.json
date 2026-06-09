@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b999852da345",
+    "source_url": "https://raw.githubusercontent.com/PestaKit/microservice-status/3a60a26c8f67d5ab9ea43697b684ab3950a4e306/swagger.yaml",
+    "fetched_at": "2026-06-09T09:34:56.397108+00:00",
+    "content_hash": "0f163eb23f16a30f8e18d5103a964828e6f3698fa055628e3853a7499e129817",
+    "info_version": "0.2.0",
+    "status": "new",
+    "title": "Status API",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

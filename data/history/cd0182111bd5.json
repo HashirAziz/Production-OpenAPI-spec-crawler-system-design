@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "cd0182111bd5",
+    "source_url": "https://raw.githubusercontent.com/yoonseokham/gpt2-questionAndAnswer/c348ff5ae6b10fe9562d7ac602f8c0b9ac638d2b/swagger.yaml",
+    "fetched_at": "2026-06-09T09:35:07.128173+00:00",
+    "content_hash": "fd429777d4cc7fcc121df482901d901dbbc75e79caf4c3a6063ac6648117f5a4",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "gpt2-questionAndAnswer",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6338c3823f12",
+    "source_url": "https://raw.githubusercontent.com/jzero-io/jzero/b5aca30e6099b368fdfb2bebf11574183b40d0ac/cmd/jzero/.template/swagger/swagger.json.tpl",
+    "fetched_at": "2026-06-09T09:35:12.902775+00:00",
+    "content_hash": "5a6167983a656d41ed9b9d372cfa2afe779667a409818d6f6ee70a930bdd0cea",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "swagger_2",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

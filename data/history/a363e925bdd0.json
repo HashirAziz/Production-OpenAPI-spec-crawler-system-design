@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a363e925bdd0",
+    "source_url": "https://raw.githubusercontent.com/ShchedrinAndrei/exchanger/0d0cc31451f6f2b3fbdb9e0c3749fa4725ff98fe/openapi.yaml",
+    "fetched_at": "2026-06-09T09:34:04.104683+00:00",
+    "content_hash": "e640c627d834ca10555b08ed561a9719934a15d4c2981a3c1d862782d81d0aa8",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Currency Exchange API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

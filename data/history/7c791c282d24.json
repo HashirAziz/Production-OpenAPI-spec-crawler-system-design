@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "7c791c282d24",
+    "source_url": "https://raw.githubusercontent.com/MAIF/izanami/5fa6c186a0bb510a625b4766c12a7ca281962101/swagger.json",
+    "fetched_at": "2026-06-09T09:35:15.845397+00:00",
+    "content_hash": "74a8b0e7b88e3a2c0ab3fff1c805484634ef6952371c0fefd039b056c0276d3d",
+    "info_version": "2.0.0",
+    "status": "new",
+    "title": "Izanami client API",
+    "openapi_version": "openapi_3",
+    "paths_count": 15,
+    "path_diff": null
+  }
+]

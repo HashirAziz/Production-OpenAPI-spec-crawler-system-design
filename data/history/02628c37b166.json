@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "02628c37b166",
+    "source_url": "https://raw.githubusercontent.com/shubham-shewale/url-shortner/96ac646c1f49671748c9d3284b5f43e2a42ede33/openapi.yaml",
+    "fetched_at": "2026-06-09T09:34:08.917216+00:00",
+    "content_hash": "a8d49c8d4830fc93da50e4ebd2c15100a29fe95e87590a2dc273dbe843aefffd",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "URL Shortener API",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

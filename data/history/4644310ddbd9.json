@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4644310ddbd9",
+    "source_url": "https://raw.githubusercontent.com/tomaszbarwicki/testing/b6a0b4e2133605ff1a715b445aed6da4d4b0e813/openapi.yaml",
+    "fetched_at": "2026-06-09T09:34:14.021467+00:00",
+    "content_hash": "6fe83b73d41839136d4aec957bf77714717c98828b8b501125590c8cca2f8131",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Sample API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

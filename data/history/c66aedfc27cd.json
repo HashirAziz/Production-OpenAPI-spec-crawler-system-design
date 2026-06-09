@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c66aedfc27cd",
+    "source_url": "https://raw.githubusercontent.com/aquaticcalf/multistream/5adc8f71a1f14cb58b664eb6aa2b626f8043dcd1/openapi.yaml",
+    "fetched_at": "2026-06-09T09:34:00.589218+00:00",
+    "content_hash": "c6f520a6b9a60867988801c10fdc6e9bfe0e6ed2b29ac3ddb84452a2da0215ff",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "multistream",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

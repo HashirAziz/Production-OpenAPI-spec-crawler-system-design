@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "be7b2130561a",
+    "source_url": "https://raw.githubusercontent.com/codebreaker3008/book-manager-api/d4553275345717b58dbc5533238d4fecbc7a2c95/openapi.yaml",
+    "fetched_at": "2026-06-09T09:34:07.537509+00:00",
+    "content_hash": "f04c764b946a5711778a4c16eecc2fa32b6cd96ddfc998d7c73bcc2592f39ece",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Book Manager API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

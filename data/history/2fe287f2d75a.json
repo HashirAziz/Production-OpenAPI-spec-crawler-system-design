@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2fe287f2d75a",
+    "source_url": "https://raw.githubusercontent.com/susch19/Smarthome/1a0f97a2c7b02479f99ff4cc1065ebcf4c45165a/lib/swagger_jsons/swagger.json.bak",
+    "fetched_at": "2026-06-09T09:35:17.547111+00:00",
+    "content_hash": "a07ae1156091b61899fe8a022165bdea154071941ff3405837af5fb1734989fa",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "AppBrokerASP",
+    "openapi_version": "openapi_3",
+    "paths_count": 19,
+    "path_diff": null
+  }
+]

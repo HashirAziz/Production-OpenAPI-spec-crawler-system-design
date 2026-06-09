@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ff637cb8d4e7",
+    "source_url": "https://raw.githubusercontent.com/rvanbruggen/HackoladeGithubRepo/7b8f85fba571525d99aafb347b42b4296eb37be6/4-Topical%20demos/API/API%20-%20Strava/stravaswagger.json",
+    "fetched_at": "2026-06-09T09:35:28.126740+00:00",
+    "content_hash": "eb2f1d0ff8d37a3e5fbf1223eb6192647503cc39950e5cea8a2e7855ec0cf3f7",
+    "info_version": "3.0.0",
+    "status": "new",
+    "title": "Strava API v3",
+    "openapi_version": "swagger_2",
+    "paths_count": 32,
+    "path_diff": null
+  }
+]

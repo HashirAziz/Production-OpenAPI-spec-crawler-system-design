@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "09b0a18cc313",
+    "source_url": "https://raw.githubusercontent.com/SaiSaraswathi06/rabbitMQ-notification-service-resubmission/fbc24dda9cf31583ae1b56a8c109dc1f4f384729/openapi.yaml",
+    "fetched_at": "2026-06-09T09:34:05.288975+00:00",
+    "content_hash": "0d6e0d134d878980d0182b2dc42082caaeb7b268d901631f3e6852478c8fadc3",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Notification API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

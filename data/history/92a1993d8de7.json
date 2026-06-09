@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "92a1993d8de7",
+    "source_url": "https://raw.githubusercontent.com/somenath203/Online-Shirt-Store-API/ba12bd12aad556737eac307283501d4e5d4e72c5/swagger.yaml",
+    "fetched_at": "2026-06-09T09:35:06.946089+00:00",
+    "content_hash": "575fd6fbd91a0eab7b3895347323d1715eb88097419cacdf2262885085115948",
+    "info_version": "1.1.0",
+    "status": "new",
+    "title": "Tshirt store API",
+    "openapi_version": "openapi_3",
+    "paths_count": 28,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c268c61bfddc",
+    "source_url": "https://raw.githubusercontent.com/Sagnick-0106/backbone/0d636b5bcfcfad1e157bc7041b8e96d7fa99c097/swagger.yaml",
+    "fetched_at": "2026-06-09T09:34:53.929472+00:00",
+    "content_hash": "87907e81c5a1adf7a6035f12987ee1c65b753652d03a095d1613bd041d367ac5",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "backbone",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

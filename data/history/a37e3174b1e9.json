@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a37e3174b1e9",
+    "source_url": "https://raw.githubusercontent.com/tmwe-dev/tmwengine/5f5152f5b7c06c41f26b988f51b635beb1f2c347/tmwenginej/openapi.yaml",
+    "fetched_at": "2026-06-09T09:34:10.820239+00:00",
+    "content_hash": "87a8d5d9b6b4920a4b61482b803511e1090c796cb1988597e4c6d46cce93eaef",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "TMWE ERP Email API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

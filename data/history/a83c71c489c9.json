@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a83c71c489c9",
+    "source_url": "https://raw.githubusercontent.com/OctoPK/SAE_S3/e37da800980ba8a09a8c09e98d8e8bdf1115844a/openapi.yaml",
+    "fetched_at": "2026-06-09T09:34:02.948387+00:00",
+    "content_hash": "196f30f1b8090f760d383f148bc8b9440829e3f2296be660858a1de5cb951f08",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "SAE3 Group 7",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

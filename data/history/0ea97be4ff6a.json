@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0ea97be4ff6a",
+    "source_url": "https://raw.githubusercontent.com/ThaminduR/go-rest-server/879215bfe9c6c579eaf3b2c1489e5079ad8aa230/openapi.yaml",
+    "fetched_at": "2026-06-09T09:34:03.144450+00:00",
+    "content_hash": "c0e85cd4ff2abacaa69dd1c31c0fb88ccb9a1a9e9758ef476be8754ab3d09e5d",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Go REST Server API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

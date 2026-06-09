@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "559ad31d13e4",
+    "source_url": "https://raw.githubusercontent.com/tryAGI/HeyGen/5824d1e00feb735ba62a73a0d824f2041a81eb28/src/libs/HeyGen/openapi.yaml",
+    "fetched_at": "2026-06-09T09:34:09.580495+00:00",
+    "content_hash": "5721803015370260bd85f348f6ec5181040f481cbc45266c0ac93e6b53655249",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "HeyGen API",
+    "openapi_version": "openapi_3",
+    "paths_count": 35,
+    "path_diff": null
+  }
+]

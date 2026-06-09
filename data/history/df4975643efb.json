@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "df4975643efb",
+    "source_url": "https://raw.githubusercontent.com/BLyndon/cli-golang-quiz/a986f621b52d7a00611c7761de4fbe2b28ad8f7f/openapi.yaml",
+    "fetched_at": "2026-06-09T09:34:00.349969+00:00",
+    "content_hash": "905f2248ecd16b94e43f0b40841ba8785a3d15fcfe58c3d33f88dcc2031b0f91",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Quiz API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

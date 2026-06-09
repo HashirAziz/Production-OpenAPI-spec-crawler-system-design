@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b29f89f22ced",
+    "source_url": "https://raw.githubusercontent.com/bliotti/SkaApp/58a7fa4ef4a266571667fa160abee4c02696c4e0/openapi.yaml",
+    "fetched_at": "2026-06-09T09:34:07.970879+00:00",
+    "content_hash": "9a9592b15d1c51a29c8847d3c12c195fc4af42996ec54bfd152086a75c337290",
+    "info_version": "0.1",
+    "status": "new",
+    "title": "SkaApp",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

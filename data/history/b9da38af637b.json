@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b9da38af637b",
+    "source_url": "https://raw.githubusercontent.com/clhenrick/oam-dynamic-tiler/66c0bc4d88c3c6fdbfa6dd5a2a8d6d3711e0fc92/swagger.yaml",
+    "fetched_at": "2026-06-09T09:34:55.983368+00:00",
+    "content_hash": "f951c29cceb94c8cd1442db8f7775692a349f09a5dbf1d14d227cdb3ebb43ef4",
+    "info_version": "2016-10-12T00:34:01Z",
+    "status": "new",
+    "title": "OpenAerialMap",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

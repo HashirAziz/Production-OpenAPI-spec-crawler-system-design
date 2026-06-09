@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2899258cbfaa",
+    "source_url": "https://raw.githubusercontent.com/speakeasy-sdks/drdroid-py/877f1ea6c401194a72774c00aee11337eb35c2d5/openapi.yaml",
+    "fetched_at": "2026-06-09T09:34:14.227520+00:00",
+    "content_hash": "2519d16f7a9d1c91ce3d74e4e9e303e682d14aaae6e718bef6657800e9e82a17",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Sample",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

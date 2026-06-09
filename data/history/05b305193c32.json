@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "05b305193c32",
+    "source_url": "https://raw.githubusercontent.com/Rikenunes8/feup-lbaw-L.EIC_QA/aca45e2ffa3022f2a2cd3a41d43d192223cd6c1c/openapi.yaml",
+    "fetched_at": "2026-06-09T09:34:06.348488+00:00",
+    "content_hash": "55ff9ef3711c855b2760c5c3c56802c07769b650f928973ec01af21833f45379",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "LBAW L.EIC Q&A Web API",
+    "openapi_version": "openapi_3",
+    "paths_count": 50,
+    "path_diff": null
+  }
+]

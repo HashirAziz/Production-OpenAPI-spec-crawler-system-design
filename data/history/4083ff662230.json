@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4083ff662230",
+    "source_url": "https://raw.githubusercontent.com/bringauto/fleet-protocol-http-api/ab96c3ac6bc10abbe75b307db5f794abb96584f2/openapi.yaml",
+    "fetched_at": "2026-06-09T09:33:59.365310+00:00",
+    "content_hash": "e25d66502f7a329efcd7f9ee00de81ee7c61b1d9acb53637cf36b2e1b9c11c5f",
+    "info_version": "2.9.4",
+    "status": "new",
+    "title": "Fleet v2 HTTP API",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

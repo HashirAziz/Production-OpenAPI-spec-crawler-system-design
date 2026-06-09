@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "58e810a93589",
+    "source_url": "https://raw.githubusercontent.com/Prernagupta110/continuous_deployment/857fb7a2f73defc57b7cc03ce766af63ed327f75/openapi.yaml",
+    "fetched_at": "2026-06-09T09:34:12.643472+00:00",
+    "content_hash": "dc24a5ece800132779863e93a34708b3780005773975c431347e7866ab5708cb",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "FastAPI",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

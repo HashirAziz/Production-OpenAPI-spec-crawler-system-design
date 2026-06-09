@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0e122c56bd9f",
+    "source_url": "https://raw.githubusercontent.com/cwyu57/saas-subscription-server/c08b081ab0236970311a893e22e9174afccaf48e/swagger.yaml",
+    "fetched_at": "2026-06-09T09:35:04.146495+00:00",
+    "content_hash": "e151f26acb7e5ae07bc8b1bac63827525f84009e2472936011ae5eba79b8885a",
+    "info_version": "0.0.0",
+    "status": "new",
+    "title": "SAAS Subescription Server API",
+    "openapi_version": "openapi_3",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2937a80b42d6",
+    "source_url": "https://raw.githubusercontent.com/Pramit3129/GroupAI/c5da13d638e0ab2c1efb62c3cf79bca955d0fc33/swagger.yaml",
+    "fetched_at": "2026-06-09T09:35:06.048862+00:00",
+    "content_hash": "6f332789a30411c65ef10988f62cf0db22ab9ef809cced8484bc8c66985d093a",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Meeting Transcription & Team Management API",
+    "openapi_version": "openapi_3",
+    "paths_count": 26,
+    "path_diff": null
+  }
+]

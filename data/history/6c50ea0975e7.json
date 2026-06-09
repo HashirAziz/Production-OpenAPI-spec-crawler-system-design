@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6c50ea0975e7",
+    "source_url": "https://raw.githubusercontent.com/ausgerechnet/cwb-cads/c0be9a53688ac12c3520f70778809940d7c7a937/openapi.json",
+    "fetched_at": "2026-06-09T09:34:43.918254+00:00",
+    "content_hash": "9fe4b095e73fe8ca7a0f582ed0513f940c0b7e025c1e15e7c86a72c9ea91937f",
+    "info_version": "0.3.0.dev66",
+    "status": "new",
+    "title": "cwb-cads",
+    "openapi_version": "openapi_3",
+    "paths_count": 81,
+    "path_diff": null
+  }
+]

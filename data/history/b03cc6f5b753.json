@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b03cc6f5b753",
+    "source_url": "https://raw.githubusercontent.com/MountainWonders-G24/code/b5852d1918faeaad5ebb9223d069de313e221a09/openapi.yaml",
+    "fetched_at": "2026-06-09T09:34:12.253492+00:00",
+    "content_hash": "67e0fd8f700f97fd366fa3ed3db7d01ca1f3d884e1cd53b16c27cbb42d189f10",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Mountains Wonders - OpenAPI 3.0",
+    "openapi_version": "unknown",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

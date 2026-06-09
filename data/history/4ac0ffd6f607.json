@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4ac0ffd6f607",
+    "source_url": "https://raw.githubusercontent.com/Pavankumar12343/Customer-Management-API/7f9981aab9b3ebf057f988e5a1f64902598baecf/openapi.yaml",
+    "fetched_at": "2026-06-09T09:34:05.119035+00:00",
+    "content_hash": "10af4f2075c62517ca6246cbfa9d7616792c2c9e343e15a5a401c7f5dad8f0cc",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Customer Management API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

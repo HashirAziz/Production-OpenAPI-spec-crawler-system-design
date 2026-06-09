@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "78a4d32ae911",
+    "source_url": "https://raw.githubusercontent.com/matthewpi/access-oidc/8ec112c26dfac3bd32eedd007471a511213117d8/openapi.yaml",
+    "fetched_at": "2026-06-09T09:34:01.459620+00:00",
+    "content_hash": "4edc573414f14c8bc8da5d53f0dffa00d744a9bef387889b0db3a88deecafbae",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Access OIDC",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

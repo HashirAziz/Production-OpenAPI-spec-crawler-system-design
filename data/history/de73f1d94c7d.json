@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "de73f1d94c7d",
+    "source_url": "https://raw.githubusercontent.com/adtjha/random/a69ebb83aca413a07c49e3e8216ae91d6f9b2aa7/openapi.yaml",
+    "fetched_at": "2026-06-09T09:34:12.453455+00:00",
+    "content_hash": "4ebe35555cd54b0fce6546b90b21d0b7bada2acaaba9f67cf2a787a690848fff",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Ping India Test",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

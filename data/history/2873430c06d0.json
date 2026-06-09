@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2873430c06d0",
+    "source_url": "https://raw.githubusercontent.com/bywatersolutions/custom-koha-plugin-quickcirc/1acb107c29d6222b9fc653394003cfd40201bb21/Koha/Plugin/Com/ByWaterSolutions/Quickcirc/openapi.jsonbu",
+    "fetched_at": "2026-06-09T09:34:32.373031+00:00",
+    "content_hash": "cfcd294cff5662eb67517121748d7a7c22d302fcd59456f9b7f172ca59535d0e",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "unknown",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

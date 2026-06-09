@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c33e91770592",
+    "source_url": "https://raw.githubusercontent.com/Hathoute/file-sharing-backend/a3387ce37106f3d5eca638bf5b2150de4c1f3363/openapi.yaml",
+    "fetched_at": "2026-06-09T09:33:59.982979+00:00",
+    "content_hash": "fec6f898ef52924b950137390fea9a689c6810f95706198f0a0adc377654039c",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "File sharing backend",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

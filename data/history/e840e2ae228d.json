@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e840e2ae228d",
+    "source_url": "https://raw.githubusercontent.com/CampusCribs/campuscribs-openapi-spec/44fba3fd47001a1036eece7316ecc0c41566505e/openapi.yaml",
+    "fetched_at": "2026-06-09T09:34:10.368474+00:00",
+    "content_hash": "c6575a50730b569f1841a80fac1d8f7dbed63cd6daafe50579f3904fe3826f69",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "CampusCribs",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

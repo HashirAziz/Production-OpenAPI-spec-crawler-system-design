@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a1214523bce4",
+    "source_url": "https://raw.githubusercontent.com/litesql/ha/f050235c1d6636620635493098b1d5d32f32c34c/openapi.yaml",
+    "fetched_at": "2026-06-09T09:34:12.928362+00:00",
+    "content_hash": "db77ab02b130b6b0b2b76fd248181e24112292d494bf40ab52dfb47a852bfe0f",
+    "info_version": "0.12.0",
+    "status": "new",
+    "title": "HA SQLite Cluster API",
+    "openapi_version": "openapi_3",
+    "paths_count": 18,
+    "path_diff": null
+  }
+]

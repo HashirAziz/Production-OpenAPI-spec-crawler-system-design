@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c7200bce0458",
+    "source_url": "https://raw.githubusercontent.com/sumuduliyanage/Configuration-Service/e9b043f0af88fcd78c327ee1e3e9f81568753ed2/openapi.yaml",
+    "fetched_at": "2026-06-09T09:34:05.672427+00:00",
+    "content_hash": "ca3a4b9488119f1ae8f2d04aa32dd224759d1c1b79fa55e0a6a4e4a9deddaf8e",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Environment Variables API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

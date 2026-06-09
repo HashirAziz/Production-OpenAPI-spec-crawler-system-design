@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e75107f3d50b",
+    "source_url": "https://raw.githubusercontent.com/geek/portal-spec/f6e85c5c3b259e569098de8ab20e5ce2b9f5037a/spec/swagger.yaml",
+    "fetched_at": "2026-06-09T09:35:01.346084+00:00",
+    "content_hash": "13875fe5c081971fb048cd5b8b29b71da4a52cbd7d653b11ac7b84a2635491ec",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Portal API Documentation",
+    "openapi_version": "swagger_2",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

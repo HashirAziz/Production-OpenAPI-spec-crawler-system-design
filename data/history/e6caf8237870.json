@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e6caf8237870",
+    "source_url": "https://raw.githubusercontent.com/BrownEdgar/sequelize_app/dd8512ee8b41ef4c0ef227661b026b9b4d419e50/swagger.yaml",
+    "fetched_at": "2026-06-09T09:35:08.780199+00:00",
+    "content_hash": "953fb80794c3e4c172b3e7cf13a58b87d0b2bf40f698b616ff95d72fbe257847",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API Documentation",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

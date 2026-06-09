@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "86036c03818f",
+    "source_url": "https://raw.githubusercontent.com/bubelovv/reviewers-assigner/698865ece83bfb37002121d0382c0101ea508eb7/openapi.yaml",
+    "fetched_at": "2026-06-09T09:34:04.928433+00:00",
+    "content_hash": "1bd9c63a1147fda971983cc770280a0ef5ba36e57aa94135c9c15a53683c4808",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "PR Reviewer Assignment Service (Test Task, Fall 2025)",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

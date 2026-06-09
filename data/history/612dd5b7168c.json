@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "612dd5b7168c",
+    "source_url": "https://raw.githubusercontent.com/mikk369/employeeEngagementPlatform/90ab95ce5e12d75763de3167eb1781721ede67ae/swagger.yaml",
+    "fetched_at": "2026-06-09T09:35:08.018360+00:00",
+    "content_hash": "ab4b99d463df71e26d86df54c7d7e41d2fe33875a5d469513daf7b1002fd4b33",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "employeeEngagementPlatform",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

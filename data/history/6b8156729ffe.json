@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6b8156729ffe",
+    "source_url": "https://raw.githubusercontent.com/WhogiTheRaccoon/personal-multiuse-api/c583aaa00c0dd918a60948905ef0bf6683f9fa0f/swagger.yaml",
+    "fetched_at": "2026-06-09T09:35:03.146096+00:00",
+    "content_hash": "3e3526ab64e1992c34a1ae9daacc202e3911be0f046c1f311bd047c8083449b4",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Chit's Api Documentation",
+    "openapi_version": "swagger_2",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5386086dc51b",
+    "source_url": "https://raw.githubusercontent.com/VeeamHub/veeam-aws-sdk-go/62cbe9fd005f12569b2221c0bdbe4d6902207d9e/swagger.yaml",
+    "fetched_at": "2026-06-09T09:34:57.949221+00:00",
+    "content_hash": "c58eb497c3137a3f0638e581568125e72573947930306c78f12edd9badbf7f76",
+    "info_version": "1.0-rev0",
+    "status": "new",
+    "title": "Veeam Backup for AWS public API 1.0",
+    "openapi_version": "swagger_2",
+    "paths_count": 136,
+    "path_diff": null
+  }
+]

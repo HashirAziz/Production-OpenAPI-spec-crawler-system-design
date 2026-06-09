@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d604b28db6d0",
+    "source_url": "https://raw.githubusercontent.com/LuizFelipeNeves/go-whatsapp-web-multidevice/62ecc0648f14e038622f633c3b553ec4fd6474d7/openapi.yaml",
+    "fetched_at": "2026-06-09T09:34:11.608599+00:00",
+    "content_hash": "41dabd5855c5998f076fa6a89a57d33923e5f19357febc61089a3592b8a220d3",
+    "info_version": "6.12.0",
+    "status": "new",
+    "title": "WhatsApp API MultiDevice",
+    "openapi_version": "openapi_3",
+    "paths_count": 57,
+    "path_diff": null
+  }
+]

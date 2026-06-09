@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2b1d042bb91d",
+    "source_url": "https://raw.githubusercontent.com/GLD-Privacy/reference-search-api/d800faaf0791b67e1fd92afe0eebbbd22f2b288a/openapi.yaml",
+    "fetched_at": "2026-06-09T09:34:04.558294+00:00",
+    "content_hash": "fbd0962e4bb328bc4260f698a80ce7b979026433fdc85336f5fcb9e6b3ace45f",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Reference Search API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

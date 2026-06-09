@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "14ce398b9f84",
+    "source_url": "https://raw.githubusercontent.com/JustShadowFN/API-BACK-END-E3/f82fe2a817d00d7142cea6c8417c1916e7f62c08/swagger.yaml",
+    "fetched_at": "2026-06-09T09:35:07.374484+00:00",
+    "content_hash": "e0ac6ee2a9eb19d35a5e483a5fe853af7440741dc824c649df83cfea72352e7d",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "QVL TEST API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

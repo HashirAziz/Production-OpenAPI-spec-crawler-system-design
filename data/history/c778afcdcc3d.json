@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c778afcdcc3d",
+    "source_url": "https://raw.githubusercontent.com/lab9k/qr_code_service/361be8a6430a79b057e4beeb528b3c1fd142f820/swagger.yaml",
+    "fetched_at": "2026-06-09T09:35:02.045203+00:00",
+    "content_hash": "fdfe289b7906677b6bac2f75a2ea5a73ac41568dbb1940ec4606786a1758f7e7",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Qr code generator api",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

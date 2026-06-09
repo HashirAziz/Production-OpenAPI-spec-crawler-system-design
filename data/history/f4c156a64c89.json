@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f4c156a64c89",
+    "source_url": "https://raw.githubusercontent.com/Ivcota/backend-engineer-interview-for-candidates-dockerized/63b1aba11c511fb1cb43b4cca97d410a311e42c0/openapi.yaml",
+    "fetched_at": "2026-06-09T09:34:03.468670+00:00",
+    "content_hash": "be7f632ae65047803ffc5c7b856a99b1bcc25b8d7e223a2589c6fab7044d6b27",
+    "info_version": "2022-03-11",
+    "status": "new",
+    "title": "Paid Leave API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

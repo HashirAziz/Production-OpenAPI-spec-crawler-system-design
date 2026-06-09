@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e8d82fa06ca1",
+    "source_url": "https://raw.githubusercontent.com/Aqib2607/construct_edge/2cf16482c7920656fc72b9063c13d85a698e535f/openapi.yaml",
+    "fetched_at": "2026-06-09T09:34:03.714493+00:00",
+    "content_hash": "3b105b4e8a5fd3ab988cd8f018a34902d2c4a92af09fa11d356fb604da874933",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "ConstructEdge API",
+    "openapi_version": "openapi_3",
+    "paths_count": 16,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e08f5d66b15e",
+    "source_url": "https://raw.githubusercontent.com/digis-georoc/database-api/0d675ca52a8a44caf5524db4bc5c8840aa9df79a/docs/swagger.json.license",
+    "fetched_at": "2026-06-09T09:35:28.476206+00:00",
+    "content_hash": "b57c51a39ef2b490536b15c35ba6ff4ce040bc36e8ab212847e502e2de96429f",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "unknown",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

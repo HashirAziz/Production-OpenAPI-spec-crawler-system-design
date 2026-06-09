@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0450caec79ab",
+    "source_url": "https://raw.githubusercontent.com/fauz2323/api_binance/f9565acfb6511adbd153667e357d1502595953f8/swagger.yaml",
+    "fetched_at": "2026-06-09T09:35:05.364191+00:00",
+    "content_hash": "ce0fc2d442f853c7b0bc33032852c0f8e7a3f7fb3f69b04bc7c2fa8872b9d1e9",
+    "info_version": "1.2.0",
+    "status": "new",
+    "title": "Binance API Service",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

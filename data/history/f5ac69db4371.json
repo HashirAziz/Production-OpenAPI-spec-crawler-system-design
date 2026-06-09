@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f5ac69db4371",
+    "source_url": "https://raw.githubusercontent.com/vastsa/FileCodeBoxFronted/5bdd9197bca1b04fb20c1f27f9174abfc2262983/openapi.json",
+    "fetched_at": "2026-06-09T09:34:39.015111+00:00",
+    "content_hash": "0ef6e3d3aa56e3be4a3c09c272541b8f59e1e14af32f6f1a7b9b62ba0e63713d",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "FastAPI",
+    "openapi_version": "openapi_3",
+    "paths_count": 19,
+    "path_diff": null
+  }
+]

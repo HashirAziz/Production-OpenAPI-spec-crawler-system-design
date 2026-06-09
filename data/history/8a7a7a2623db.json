@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8a7a7a2623db",
+    "source_url": "https://raw.githubusercontent.com/tmacro/eventd/e45590b45a205d0190bf7792c324502190f8f8d5/openapi.yaml",
+    "fetched_at": "2026-06-09T09:34:13.853018+00:00",
+    "content_hash": "f8846586bbc8b2f741ce085bb90f324e651850ed16ae4dcdcf1e93c12122d3b8",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "eventd",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

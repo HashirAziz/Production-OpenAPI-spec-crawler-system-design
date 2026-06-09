@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b08042877f9c",
+    "source_url": "https://raw.githubusercontent.com/prometheus-coding/key-combo-frontend/2c3fb6080d894ead3050122229852ccf6b775d78/openapi.yaml",
+    "fetched_at": "2026-06-09T09:34:02.418200+00:00",
+    "content_hash": "2b61493a275f9d43c4b07e70ee7474e82c6a6fca1454cff219db2fc649808535",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "K-Combo API",
+    "openapi_version": "openapi_3",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

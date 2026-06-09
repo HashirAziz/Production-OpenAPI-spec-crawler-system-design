@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f378fe1f5369",
+    "source_url": "https://raw.githubusercontent.com/ibm-garage-ref-storefront/storefront-mobile/c53cd2d43627ee9fbf4617fbcfa0aebd9b40ee4e/ibm/adapterGenerator/adapter-generator/resources/sampleswagger.json",
+    "fetched_at": "2026-06-09T09:35:35.607028+00:00",
+    "content_hash": "8b43fc38da14102b53247af501a6de1ca0002f63da3b29dd50b2fcebf06f78c5",
+    "info_version": "v1",
+    "status": "new",
+    "title": "Swagger spec for our REST API",
+    "openapi_version": "swagger_2",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "69fb15a94175",
+    "source_url": "https://raw.githubusercontent.com/Tobalx/NULLCATIA/b624daf8579f7887f7553041e16f7a6562166824/swagger.yaml",
+    "fetched_at": "2026-06-09T09:35:06.248256+00:00",
+    "content_hash": "efdeb6a2dbe21204438198859685e87803581b2e69d01144bd15e540252c5680",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API de NULLCATIA",
+    "openapi_version": "openapi_3",
+    "paths_count": 14,
+    "path_diff": null
+  }
+]

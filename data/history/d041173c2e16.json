@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d041173c2e16",
+    "source_url": "https://raw.githubusercontent.com/maqsatto/ap2-assignment-1/da05021c70be29807e11d55d813d41cd5c24eb39/openapi.yaml",
+    "fetched_at": "2026-06-09T09:34:02.196012+00:00",
+    "content_hash": "5d872c6c7b25a108b53e934c429fab6b6c730b1e07ce4473dbf628ed51b7e80c",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Order & Payment Microservices API",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

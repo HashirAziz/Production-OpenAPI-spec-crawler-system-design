@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6e442dbf61ba",
+    "source_url": "https://raw.githubusercontent.com/dimahc/Upfluence-SSE-API/3598f45687af0085681006381232b0b2f5954d08/openapi.yaml",
+    "fetched_at": "2026-06-09T09:34:04.313435+00:00",
+    "content_hash": "ac7461b48ce0a8c2f7727fb9bee40dac7e441539e48b88f7c7219387c11ebb61",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Upfluence SSE Stream Analyzer",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

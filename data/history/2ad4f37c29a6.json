@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2ad4f37c29a6",
+    "source_url": "https://raw.githubusercontent.com/ST3llar1988/Android-Finance-App/8d523538c9adf32e6b5fbc3bac697425c8faeb4a/openapi.yaml",
+    "fetched_at": "2026-06-09T09:34:06.061181+00:00",
+    "content_hash": "39456f0987348b119450f8434676e85d7114505f19e5a94e7b43a36402b5478e",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Loan Eligibility India API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

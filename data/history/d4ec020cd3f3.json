@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d4ec020cd3f3",
+    "source_url": "https://raw.githubusercontent.com/trsiddiqui/nextclerk/a66ca04516f44a02815534420959fe471307cf90/openapi.yaml",
+    "fetched_at": "2026-06-09T09:34:01.640740+00:00",
+    "content_hash": "7f346d89c0d711db8168e09893e52ddab9cde6f7e974227e1e4044660414fe52",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "VCS: Operational Menu API for Publishing",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

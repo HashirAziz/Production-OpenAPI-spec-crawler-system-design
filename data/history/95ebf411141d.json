@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "95ebf411141d",
+    "source_url": "https://raw.githubusercontent.com/kvaksin/rdvapp/1cc8f1f85ef41eafd5a37141030e5469aeab3c1b/openapi.yaml",
+    "fetched_at": "2026-06-09T09:34:07.744111+00:00",
+    "content_hash": "242c895c3deeef4169684fd6def216df03f9e8100d6f38b3db6a2be58e38d707",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "RDV API",
+    "openapi_version": "openapi_3",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

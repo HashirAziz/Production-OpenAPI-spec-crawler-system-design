@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3f09990a0791",
+    "source_url": "https://raw.githubusercontent.com/stannisl/pull-request-service/1facab67096f945f0e544200cbedaf2788afcbb9/openapi.yaml",
+    "fetched_at": "2026-06-09T09:34:01.823777+00:00",
+    "content_hash": "6697bf19f777158f3db61ab285a13668b0c7aa9f9c3dffde950069bc2e824bde",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "PR Reviewer Assignment Service (Test Task, Fall 2025)",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

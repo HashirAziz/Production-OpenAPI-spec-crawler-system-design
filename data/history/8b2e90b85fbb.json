@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8b2e90b85fbb",
+    "source_url": "https://raw.githubusercontent.com/speakeasy-api/developer-docs/4671a767e23d651f216c418426e2cd0eeef8f2fb/openapi/frameworks/assets/flask/openapi.yaml.txt",
+    "fetched_at": "2026-06-09T09:33:53.521995+00:00",
+    "content_hash": "5fa2d6d0eb0eb22205dfec993f239579f6f18a58585854611cc43e4212a83200",
+    "info_version": "v0.0.1",
+    "status": "new",
+    "title": "Library API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

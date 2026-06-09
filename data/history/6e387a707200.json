@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6e387a707200",
+    "source_url": "https://raw.githubusercontent.com/artur-calderon/calio/00cdfb03c4a935997140a09a9cb985f0cf6fbd7c/openapi.yaml",
+    "fetched_at": "2026-06-09T09:34:07.136934+00:00",
+    "content_hash": "21f62e14e64b5cc7f824bb78c921da303a16efbfd69a189cfac2799a9821190b",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Calio API",
+    "openapi_version": "openapi_3",
+    "paths_count": 16,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6290a66e8ee5",
+    "source_url": "https://raw.githubusercontent.com/ichimaru001/node-render-testing/12a509a272c90d99dae365b7debb8d6b52a1264a/swagger.yaml",
+    "fetched_at": "2026-06-09T09:35:04.337782+00:00",
+    "content_hash": "dd4f6b182242ae30ff9c6410f9f9d5fb2b27725a605d12acc6c660046d1b8218",
+    "info_version": "1.0.0-oas3",
+    "status": "new",
+    "title": "06-Jobs-API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

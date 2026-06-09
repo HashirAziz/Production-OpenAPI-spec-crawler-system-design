@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "562104ed1667",
+    "source_url": "https://raw.githubusercontent.com/loveyou162/api-gearvn/63f05c2539ab2c365d06fcdfc7a8eadff80c1353/swagger.yaml",
+    "fetched_at": "2026-06-09T09:34:56.615974+00:00",
+    "content_hash": "3513893951b49b1987ce35b6805824945d12c58474ccdd71b119877487e63498",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API Documentation GearVN",
+    "openapi_version": "openapi_3",
+    "paths_count": 18,
+    "path_diff": null
+  }
+]

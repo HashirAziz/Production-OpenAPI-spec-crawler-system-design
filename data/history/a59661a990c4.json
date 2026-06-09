@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a59661a990c4",
+    "source_url": "https://raw.githubusercontent.com/arvindreddy422/nodejs-api-backend/c0a7c2f8ebc5ba8ca1672bb7c290a3b6622e2d01/swagger.yaml",
+    "fetched_at": "2026-06-09T09:35:07.804534+00:00",
+    "content_hash": "9b69ed102181ae078abb518d8312d0c263b56d77b1a50403e93239ac18dd23db",
+    "info_version": "1.1.0",
+    "status": "new",
+    "title": "Express API",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]
