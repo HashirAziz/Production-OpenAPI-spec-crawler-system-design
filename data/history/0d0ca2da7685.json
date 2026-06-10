@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0d0ca2da7685",
+    "source_url": "https://raw.githubusercontent.com/Unusual-Organisation/backend/768879b694f81ff7a8817c4f6d37c8202b2e638b/swagger.yaml",
+    "fetched_at": "2026-06-10T09:51:42.210167+00:00",
+    "content_hash": "7b4c559c1080632a35ef15b5f8f192199914a358b7ee01aec77d8e70ada576de",
+    "info_version": "0.2.0",
+    "status": "new",
+    "title": "Unusual Organisation API",
+    "openapi_version": "openapi_3",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

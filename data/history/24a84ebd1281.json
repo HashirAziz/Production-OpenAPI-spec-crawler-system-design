@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "24a84ebd1281",
+    "source_url": "https://raw.githubusercontent.com/hoangsonww/ToDo-App-NextJS-Fullstack/e5ceb6cc78da892c29f7f550532dfb3969720eea/openapi.yaml",
+    "fetched_at": "2026-06-10T09:50:20.338541+00:00",
+    "content_hash": "ae414d1c7cd1df3585b3428431a6f30941ae70aa8de206ac670e667aa0140b69",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "ToDo API Documentation",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

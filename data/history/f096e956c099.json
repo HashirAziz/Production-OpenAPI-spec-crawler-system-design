@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f096e956c099",
+    "source_url": "https://raw.githubusercontent.com/Toowiredd/chatgpt-mcp-server/b274e160eecde3a23b549db339edc94088d3f929/openapi.yaml",
+    "fetched_at": "2026-06-10T09:50:38.149196+00:00",
+    "content_hash": "8bb955e0a4f0f39863b342eee06bce2a174e107ab958f54b563756533e498f15",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Docker VPS Manager API",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

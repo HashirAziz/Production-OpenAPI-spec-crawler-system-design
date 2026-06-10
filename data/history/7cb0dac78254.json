@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "7cb0dac78254",
+    "source_url": "https://raw.githubusercontent.com/Dolor185/tgFood/fc382ae7ae0e97c66baf6e89c359d029d7638490/openapi.yaml",
+    "fetched_at": "2026-06-10T09:50:42.563580+00:00",
+    "content_hash": "6f0932bf5a2cbb7efad92b2ea181cdee18c18785785eccfdfa9d9b949e78bb9c",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "FoodTracker (current Node API draft)",
+    "openapi_version": "openapi_3",
+    "paths_count": 20,
+    "path_diff": null
+  }
+]

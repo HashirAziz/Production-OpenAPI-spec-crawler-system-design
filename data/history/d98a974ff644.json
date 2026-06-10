@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d98a974ff644",
+    "source_url": "https://raw.githubusercontent.com/TimHei123/cscBackendDocunmentatie/6413f2f1af246de7d27ef9d2958a255c53e6c256/swagger.yaml",
+    "fetched_at": "2026-06-10T09:51:39.293980+00:00",
+    "content_hash": "9cd84beb290584682c7177a2e197a9625ac85375c66b36b5a4d985bd8e72be15",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "CSC Self-Service Backend API Documentatie",
+    "openapi_version": "openapi_3",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

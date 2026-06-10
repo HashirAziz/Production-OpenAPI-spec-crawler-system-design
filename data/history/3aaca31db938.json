@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3aaca31db938",
+    "source_url": "https://raw.githubusercontent.com/RodionShapoval5758/GitHub-Release-Notification-API/e94c994429eb23efe6b03a88aa153de507be786d/swagger.yaml",
+    "fetched_at": "2026-06-10T09:51:33.229888+00:00",
+    "content_hash": "93011bdbb34eb129629df8b7faa266c969faec58cea0dc36b915e7f820fa3c76",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "GitHub Release Notification API",
+    "openapi_version": "swagger_2",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

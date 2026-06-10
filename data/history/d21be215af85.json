@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d21be215af85",
+    "source_url": "https://raw.githubusercontent.com/Vasyl808/python_labs/ff1906faee165e5f7f33863ff5cfd254f8f4e0e3/swagger.yaml",
+    "fetched_at": "2026-06-10T09:51:49.629619+00:00",
+    "content_hash": "183fadd16a2e78e81613c7038c10200b2c506fcc1f1d5955f4dbd2fb9a1e3637",
+    "info_version": "1.0.11",
+    "status": "new",
+    "title": "Pharmacy - OpenAPI 3.0",
+    "openapi_version": "openapi_3",
+    "paths_count": 15,
+    "path_diff": null
+  }
+]

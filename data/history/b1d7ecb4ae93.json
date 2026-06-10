@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b1d7ecb4ae93",
+    "source_url": "https://raw.githubusercontent.com/PabloPerdolie/apartment-service/4ece66dae0db0bc464dd5043b781c33ebe5b03e9/internal/openapi/openapi.yaml",
+    "fetched_at": "2026-06-10T09:50:41.472506+00:00",
+    "content_hash": "e7d17ec2c726384f2a97a31b78fb245942d96348672895b8b12f7e4150b6750a",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Тестовое задание для отбора на Backend Bootcamp",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

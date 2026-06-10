@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3a244b997620",
+    "source_url": "https://raw.githubusercontent.com/fredpottier/KBGPT/084ab3695a882e525ee27de5da9746483946feb4/src/knowbase/api/openapi.json.bak",
+    "fetched_at": "2026-06-10T09:51:07.077564+00:00",
+    "content_hash": "8547d44ab4cff7aead1ee36f79fee332efe974e77f76395defc2e12628af3e8f",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "SAP KB Search Tool",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

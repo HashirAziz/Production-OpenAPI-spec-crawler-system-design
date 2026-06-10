@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "db4627f41a5d",
+    "source_url": "https://raw.githubusercontent.com/rasifix/orienteering.api/e9b6b04b62abedc07892383ba7a1e3c22302f521/openapi.yaml",
+    "fetched_at": "2026-06-10T09:50:41.991307+00:00",
+    "content_hash": "5b25f3a6b31d2d7788e2d3dc7bba7df11367cd0cdd6fa3ae6db103fe027eb41e",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Orienteering API",
+    "openapi_version": "openapi_3",
+    "paths_count": 15,
+    "path_diff": null
+  }
+]

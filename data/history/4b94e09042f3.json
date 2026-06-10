@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4b94e09042f3",
+    "source_url": "https://raw.githubusercontent.com/cadedaniel/kuberay/08572b449c23a03f973696d50ffd1b9bf500be52/proto/kuberay_api.swagger.json",
+    "fetched_at": "2026-06-10T09:52:10.481318+00:00",
+    "content_hash": "be117516d3bf7f22c595b000c87cc0a2cfda2a8107597eefa4bbcc90b982a66b",
+    "info_version": "0.4.0",
+    "status": "new",
+    "title": "KubeRay API",
+    "openapi_version": "swagger_2",
+    "paths_count": 16,
+    "path_diff": null
+  }
+]

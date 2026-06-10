@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "25a03239b54b",
+    "source_url": "https://raw.githubusercontent.com/junioweb/precificacao/c9d1fa117bf1bae19a80cc70a09c5a91c47c713f/swagger.yaml",
+    "fetched_at": "2026-06-10T09:51:41.013575+00:00",
+    "content_hash": "687a3bf2a4525de72274e5430d8db36f66a8356308ef1017a490fd00aebfa639",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Precificação",
+    "openapi_version": "swagger_2",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "bc57921c5bc6",
+    "source_url": "https://raw.githubusercontent.com/Tim2319/simple-twitter-backend/e531c7537a6323c79dd0d452c7d1e6eb0ffedbdb/swagger.yaml",
+    "fetched_at": "2026-06-10T09:51:29.741127+00:00",
+    "content_hash": "3888a5679bac860c8e4b112ec7a8855db0ff8db14647336b748d71f213e68bc8",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Simple Twitter API",
+    "openapi_version": "openapi_3",
+    "paths_count": 23,
+    "path_diff": null
+  }
+]

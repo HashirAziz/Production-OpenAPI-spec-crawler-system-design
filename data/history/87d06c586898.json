@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "87d06c586898",
+    "source_url": "https://raw.githubusercontent.com/Tosif145/MERN-project/d0d45849ad61fe35cc41c3b7665645c9049959e1/backend/docs/swagger.json.txt",
+    "fetched_at": "2026-06-10T09:52:00.467913+00:00",
+    "content_hash": "b21c9ca865048661cb0299858bd0183dd66959c8490ed99315069b927961df08",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API Documentation",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

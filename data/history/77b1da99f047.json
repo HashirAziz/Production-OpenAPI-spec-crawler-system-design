@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "77b1da99f047",
+    "source_url": "https://raw.githubusercontent.com/sspangsberg/MEN_RESTAPI_EASV_S23/cd17b0136b4bdf5fa99936d20afb31ea6d70ba48/swagger.yaml",
+    "fetched_at": "2026-06-10T09:51:39.618363+00:00",
+    "content_hash": "e755fa4786b9a2bde75558335aa44b5ff71142c1b715f3daf7ce56fc1f7f912a",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "MEN REST-API",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

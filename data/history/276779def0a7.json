@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "276779def0a7",
+    "source_url": "https://raw.githubusercontent.com/smammadov1994/fitness-coach-ai/5309032d829f2c1aaf4663c3adfdcb5ec5008173/swagger.yaml",
+    "fetched_at": "2026-06-10T09:51:48.914975+00:00",
+    "content_hash": "0a1828f395d9cec90d6287d402374ab09244076d3474b39cbbff2d084f58a3ff",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Fitness Coach AI Agent API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

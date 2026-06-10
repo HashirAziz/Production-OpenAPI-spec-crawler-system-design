@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ca62455dfd2b",
+    "source_url": "https://raw.githubusercontent.com/MaxMac99/photonic/896cd4904783d7b067678dea5438642facba3b22/openapi.yaml",
+    "fetched_at": "2026-06-10T09:50:42.274337+00:00",
+    "content_hash": "52c8f14fe93c17458dbf9b20be047730aed82ecda86d34528abeb30deb5a2e7b",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "infrastructure",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

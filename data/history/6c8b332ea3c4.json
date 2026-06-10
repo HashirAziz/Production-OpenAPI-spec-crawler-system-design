@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6c8b332ea3c4",
+    "source_url": "https://raw.githubusercontent.com/Anastasia-2-0/arhite_hw11/2c1a8d86f73c616d438ee617398cd85bb66c2f98/openApi/openapi.yaml",
+    "fetched_at": "2026-06-10T09:50:36.556887+00:00",
+    "content_hash": "210d07e6966f58e580a67f0f338c0514b1f7fb5128f1a9f4a343cb2bf20f0527",
+    "info_version": "1.0.11",
+    "status": "new",
+    "title": "Robot service 3.0",
+    "openapi_version": "openapi_3",
+    "paths_count": 13,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "fd6c1a0383de",
+    "source_url": "https://raw.githubusercontent.com/voyagermesh/python-old/f8b45938ae35eba81485434725013cc3b5d2229d/voyager/swagger.json.unprocessed",
+    "fetched_at": "2026-06-10T09:52:17.810098+00:00",
+    "content_hash": "924190c39cb4e23d8d3fbed871af256d4492cc40203c9209dacde106d5bc2a2e",
+    "info_version": "v6.0.0",
+    "status": "new",
+    "title": "Voyager",
+    "openapi_version": "swagger_2",
+    "paths_count": 15,
+    "path_diff": null
+  }
+]

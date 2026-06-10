@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "bb447e850743",
+    "source_url": "https://raw.githubusercontent.com/ya-team/alion-admin-api/b5776b6efa3baf8a620906f64f98c63553478c06/swagger.yaml",
+    "fetched_at": "2026-06-10T09:51:36.751956+00:00",
+    "content_hash": "33d2d5915c55837b83dc220cc2176c388b01d3f0027a77be2fdd83c27fd36854",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Alion Admin API",
+    "openapi_version": "openapi_3",
+    "paths_count": 23,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "877c3b7055db",
+    "source_url": "https://raw.githubusercontent.com/nuanced-dev/lsp/081f9c8b8d5a70194b223d8c1327db87efe64a74/openapi.json",
+    "fetched_at": "2026-06-10T09:51:17.631941+00:00",
+    "content_hash": "0399973289f944949b6ae55607e78450af701e4615d79ebb444bf00c1b2a23c7",
+    "info_version": "0.5.0",
+    "status": "new",
+    "title": "nuanced-lsp",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

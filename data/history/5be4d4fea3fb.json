@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5be4d4fea3fb",
+    "source_url": "https://raw.githubusercontent.com/KazukiKandaKK/chart-js-app/34366a6413bced0550d92d33fdfdc3ea3685f3ec/swagger.yaml",
+    "fetched_at": "2026-06-10T09:51:51.126731+00:00",
+    "content_hash": "e5db01a266cd01668cf8f99394fe01de01d4ba0d799d12e97a2062995b7ba713",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "chart-js-app API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

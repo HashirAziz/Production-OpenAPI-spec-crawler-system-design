@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "857c2a1cebe3",
+    "source_url": "https://raw.githubusercontent.com/like2foxes/chirpy/dbe288ed5d14784e991468c0e331cfa2ee0100b9/openapi.yaml",
+    "fetched_at": "2026-06-10T09:50:37.488106+00:00",
+    "content_hash": "9b5e2b2fb76bc1767e3d48163385e5973ae129c26252fdc3e7ca64fb6357840b",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Chirpy",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

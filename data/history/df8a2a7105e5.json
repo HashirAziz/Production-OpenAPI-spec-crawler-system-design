@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "df8a2a7105e5",
+    "source_url": "https://raw.githubusercontent.com/miia-m/nodejs_shop/2fafd733b1133ab7df6c0be3e4530f4c17ecce95/swagger.yaml",
+    "fetched_at": "2026-06-10T09:51:43.466694+00:00",
+    "content_hash": "3b9ba487f96afeb7b4217bb72a854a706974f2070b3e5668f09e698da7ca074a",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Nodejs shop",
+    "openapi_version": "openapi_3",
+    "paths_count": 14,
+    "path_diff": null
+  }
+]

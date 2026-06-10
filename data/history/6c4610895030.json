@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6c4610895030",
+    "source_url": "https://raw.githubusercontent.com/huypham12/clone-X/0eeb93c0a7bb4e5f8d89eac227d323dc165a0837/swagger.yaml",
+    "fetched_at": "2026-06-10T09:51:38.455241+00:00",
+    "content_hash": "89f967a807f2d045e8dd78aaf15020d9e44afeb923cc4eb89e81f776846b9f92",
+    "info_version": "1.0.12",
+    "status": "new",
+    "title": "Clone X",
+    "openapi_version": "openapi_3",
+    "paths_count": 13,
+    "path_diff": null
+  }
+]

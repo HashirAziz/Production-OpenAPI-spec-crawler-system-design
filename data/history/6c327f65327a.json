@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6c327f65327a",
+    "source_url": "https://raw.githubusercontent.com/Central-University-IT-prod/prod-final-2025-individual-backend-task/cd599ab508380cd4e2d0881a8fe6897457371484/openapi.yaml",
+    "fetched_at": "2026-06-10T09:50:41.163787+00:00",
+    "content_hash": "6f694d21fbc7f5e495e1b61042e7e3cac1cd5262993553566d5fd184396dafdb",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "PROD Backend 2025 Advertising Platform API",
+    "openapi_version": "openapi_3",
+    "paths_count": 14,
+    "path_diff": null
+  }
+]

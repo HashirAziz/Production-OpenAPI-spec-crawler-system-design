@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6022a1f1a18b",
+    "source_url": "https://raw.githubusercontent.com/RomanPerezUniva/diplo-cloud-notificacion-service2/0a2d1e1ebc45d212884047630d0b68383ca1ea94/src/main/resources/openapi.yaml",
+    "fetched_at": "2026-06-10T09:50:41.708387+00:00",
+    "content_hash": "b816caece08529534a8be81cab442a8255d6ff18bb427564e8f11894abaf33c7",
+    "info_version": "v1",
+    "status": "new",
+    "title": "Pixup Notificacion Microservice Endpoints",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]
