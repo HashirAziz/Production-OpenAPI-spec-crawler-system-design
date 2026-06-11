@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "cea32445bcb5",
+    "source_url": "https://raw.githubusercontent.com/lucat1/unibo_88566_progetto/9d710ac89b0b59a96c1c6bb5417cba5e7a1dd0a2/openapi.json",
+    "fetched_at": "2026-06-11T10:16:53.243169+00:00",
+    "content_hash": "2cfb90f459da96af973a00b1f5602bbd74d04e945dcf340623e71ce8df23cfda",
+    "info_version": "0.0.0",
+    "status": "new",
+    "title": "Animal House",
+    "openapi_version": "openapi_3",
+    "paths_count": 31,
+    "path_diff": null
+  }
+]

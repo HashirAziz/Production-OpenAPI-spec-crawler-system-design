@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "be2f645c4e1e",
+    "source_url": "https://raw.githubusercontent.com/Druxys/PodoBear-API/1e9177917b01c21a38c93e0ae718c715117b387e/swagger.json",
+    "fetched_at": "2026-06-11T10:17:38.984888+00:00",
+    "content_hash": "a86be1ec8d2e2467cc4fca62d2775181bddbdc1d4793dbc76ca7950b95ebfc69",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Podobear-NodeJS-CRUD-REST-API",
+    "openapi_version": "swagger_2",
+    "paths_count": 15,
+    "path_diff": null
+  }
+]

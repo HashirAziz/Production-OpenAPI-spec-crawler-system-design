@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e71f4c4c986e",
+    "source_url": "https://raw.githubusercontent.com/andela/heimdal-ah-backend/ea6c1aaafce7be1ba57a9f71378ec78b6ee2078a/swagger.json",
+    "fetched_at": "2026-06-11T10:17:36.427588+00:00",
+    "content_hash": "b1cd3e622819fe2a0de0f678eb769a79b13104de0cf4b3be7fd39bab2587d25b",
+    "info_version": "v1",
+    "status": "new",
+    "title": "Author's Haven",
+    "openapi_version": "swagger_2",
+    "paths_count": 46,
+    "path_diff": null
+  }
+]

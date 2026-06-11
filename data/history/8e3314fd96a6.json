@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8e3314fd96a6",
+    "source_url": "https://raw.githubusercontent.com/buduan/Lottery-Tool-Backend/4b6b862b81da3894f66f47bc3b8d44c10f00ebb2/openapi.json",
+    "fetched_at": "2026-06-11T10:16:54.003784+00:00",
+    "content_hash": "10c5b51c76271e9d2fe3145619222a3dadea2e511a1fee94c7a5fdca74a157aa",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "抽奖系统后端API",
+    "openapi_version": "openapi_3",
+    "paths_count": 24,
+    "path_diff": null
+  }
+]

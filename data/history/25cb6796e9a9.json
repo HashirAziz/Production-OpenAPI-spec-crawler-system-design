@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "25cb6796e9a9",
+    "source_url": "https://raw.githubusercontent.com/dunkeroni/Invoke_AIHordeNodes/e91000b47bf12d52e3fcea7a9a86df9b563129e6/swagger.json",
+    "fetched_at": "2026-06-11T10:17:35.101226+00:00",
+    "content_hash": "3d751a6650909476e5cc056cbf10d9f226deb796945df8e68fd411fbe46e3eea",
+    "info_version": "2.0",
+    "status": "new",
+    "title": "AI Horde",
+    "openapi_version": "swagger_2",
+    "paths_count": 41,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5982089eac8b",
+    "source_url": "https://raw.githubusercontent.com/hestturia/Safe-Refuge-API/799baad8f2565ad56045e0edab89f21b329ad1cd/swagger.yaml",
+    "fetched_at": "2026-06-11T10:17:12.805923+00:00",
+    "content_hash": "6420191a33ddd57ef4dca9d362e4a80627c76ec1557e111f7fa8de1e86c225c4",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API SAFE-REFUGE",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

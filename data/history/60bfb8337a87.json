@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "60bfb8337a87",
+    "source_url": "https://raw.githubusercontent.com/gvolpe/servant-api/d9c827f9dcf2b9103e14fce1013437e5f00beba7/swagger.json",
+    "fetched_at": "2026-06-11T10:17:43.400242+00:00",
+    "content_hash": "b131d840acd9585841596f7076ee947577fda94071bd41b6857ef0094a5de3e5",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Servant Demo API",
+    "openapi_version": "swagger_2",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

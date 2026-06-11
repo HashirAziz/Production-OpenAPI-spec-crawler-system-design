@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6ba212fef795",
+    "source_url": "https://raw.githubusercontent.com/af-inet/swagger2markup-easy/117662ec3c9d48bae099ec388cc7c5cd352caff2/swagger.yaml",
+    "fetched_at": "2026-06-11T10:17:11.017704+00:00",
+    "content_hash": "375fd354c51eda5a5d3cf87f12e4ba426469a3eb468ac6906553ec24f59288e2",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Swagger Petstore",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

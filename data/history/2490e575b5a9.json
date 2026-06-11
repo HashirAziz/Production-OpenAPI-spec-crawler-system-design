@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2490e575b5a9",
+    "source_url": "https://raw.githubusercontent.com/sebastien-lb/alfred-brain/0045e9b2be1ead5d5ef42b69f103ebc516c78cfa/swagger.json",
+    "fetched_at": "2026-06-11T10:17:38.774706+00:00",
+    "content_hash": "6dcf27545dffeb3946504370fd38401f26e587e4bbd7ba522a62340bc5c56b5c",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Alfred API",
+    "openapi_version": "swagger_2",
+    "paths_count": 31,
+    "path_diff": null
+  }
+]

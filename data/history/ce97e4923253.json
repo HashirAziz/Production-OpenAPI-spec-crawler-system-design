@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ce97e4923253",
+    "source_url": "https://raw.githubusercontent.com/batleforc/ProxyAuthK8S/a71711dddaaced340f9bf851123353ca12cd90eb/swagger.json",
+    "fetched_at": "2026-06-11T10:17:42.164236+00:00",
+    "content_hash": "a419510f85460757a8f8fa6af96ef0173f2c9b037fddf82c153f5b639e67dd2a",
+    "info_version": "0.1.9",
+    "status": "new",
+    "title": "ProxyAuthK8S",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

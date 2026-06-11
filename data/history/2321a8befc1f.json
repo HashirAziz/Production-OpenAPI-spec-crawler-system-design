@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2321a8befc1f",
+    "source_url": "https://raw.githubusercontent.com/mch1307/gomotics/ad2a25c8866ddfe4b3cb5e6fb8cecf58b43529d8/swagger.json",
+    "fetched_at": "2026-06-11T10:17:30.553727+00:00",
+    "content_hash": "9d2f44f42c6c8933b6fb3f461382aa3009631e3fd68db045d5c5587e0899d140",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "swagger_2",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

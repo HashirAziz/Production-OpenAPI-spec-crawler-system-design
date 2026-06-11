@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f3ced44f8de7",
+    "source_url": "https://raw.githubusercontent.com/rkureel/nitd-results/204c8b930e4b0fe3cc5b543edca83fd119f4b926/swagger.yaml",
+    "fetched_at": "2026-06-11T10:17:04.369205+00:00",
+    "content_hash": "48a8819ff91b1613fa115c964356666163028da75cf5df393c86b6cd0091c030",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "NITD Results API",
+    "openapi_version": "swagger_2",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

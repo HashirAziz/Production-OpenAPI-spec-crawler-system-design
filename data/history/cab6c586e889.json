@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "cab6c586e889",
+    "source_url": "https://raw.githubusercontent.com/phillipjad/temporal/c0c9c5c7a978f0d57042e8e7e46d26d09c801628/openapi.yaml",
+    "fetched_at": "2026-06-11T10:16:24.748554+00:00",
+    "content_hash": "f80c1b9c9a1e7389746c566ea5df045668ab787388a1ec2d7333e46cd194cc99",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Temporal AI API",
+    "openapi_version": "openapi_3",
+    "paths_count": 19,
+    "path_diff": null
+  }
+]

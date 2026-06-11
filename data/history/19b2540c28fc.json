@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "19b2540c28fc",
+    "source_url": "https://raw.githubusercontent.com/routemobile/Viber-Business-Messages-API/e8c72f7460f18d733b3fa49d426bfc6d891170d5/openapi.yaml",
+    "fetched_at": "2026-06-11T10:16:24.119484+00:00",
+    "content_hash": "0f7831b70d4502c273782c85dff4775eba7844c48cfb4012a770e3e8e3fa6372",
+    "info_version": "1.5.0",
+    "status": "new",
+    "title": "Route Mobile Viber OpenAPI Specification",
+    "openapi_version": "openapi_3",
+    "paths_count": 15,
+    "path_diff": null
+  }
+]

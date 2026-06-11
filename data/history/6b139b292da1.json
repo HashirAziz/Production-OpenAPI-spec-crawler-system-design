@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6b139b292da1",
+    "source_url": "https://raw.githubusercontent.com/aoxa/jobs-api/847509ff4b72a436d4f14aa514bbec4dac75bcdb/swagger.yaml",
+    "fetched_at": "2026-06-11T10:17:14.545938+00:00",
+    "content_hash": "5c98061f0b78e9803b1a6c1a952cccdd8d2cb24aefc08d08de0f4ef2a61f162f",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Jobs API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

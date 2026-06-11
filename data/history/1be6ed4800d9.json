@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1be6ed4800d9",
+    "source_url": "https://raw.githubusercontent.com/sk-sohel01/rbcpoc/5ebf69fb23728d76b36b135343a67a1ca87c4f6e/account-service/openapi.yaml.bak",
+    "fetched_at": "2026-06-11T10:16:18.516683+00:00",
+    "content_hash": "4f1044c6715bf45a7cc39017d47d8543b6800fa07fe23641264c86dafbd337af",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Account Service - TraderX",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

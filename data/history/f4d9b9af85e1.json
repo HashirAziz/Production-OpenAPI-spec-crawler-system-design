@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f4d9b9af85e1",
+    "source_url": "https://raw.githubusercontent.com/netgsm/netgsm-sms-js/33ca38622067e3730479aded9e56f6b1151bfeb5/openapi.json",
+    "fetched_at": "2026-06-11T10:16:51.624186+00:00",
+    "content_hash": "9b728d109dc796d8dd166616d5be2425f4530703ef059ec0a561709421509ae3",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "NETGSM SMS API",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a0f14e938e0e",
+    "source_url": "https://raw.githubusercontent.com/mujjazi/cypress_automation/a753ec6f057e7352a1205b3f38b691140ae6e614/swagger.json",
+    "fetched_at": "2026-06-11T10:17:43.205666+00:00",
+    "content_hash": "e0862ff0e1b3af9ac06f73806bd9356a2e074989f85480934bcc957f09dc510f",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Swagger Petstore",
+    "openapi_version": "swagger_2",
+    "paths_count": 14,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "08d862c13381",
+    "source_url": "https://raw.githubusercontent.com/wahyudi124/smartrack-backend/de78de96dcac6204d36626f6f0043ea0ee8a615c/swagger.json",
+    "fetched_at": "2026-06-11T10:17:41.563767+00:00",
+    "content_hash": "ff7b2f4b25220d6770f91f43f8f12840d3eb3f64f23b7415a9497565c7f2bb70",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Documentation for SmartRack",
+    "openapi_version": "openapi_3",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ba32e19e66e8",
+    "source_url": "https://raw.githubusercontent.com/Soongsil-Developers/22sdc-issue-modeling/533d71c013d45f79c1c7c0eafef1fd7532799e79/Swagger.yaml",
+    "fetched_at": "2026-06-11T10:17:12.198648+00:00",
+    "content_hash": "7b2873b1bc53461544120caccceefbae1c9281f2448beebe75b6bcfc3aaf67a7",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "FastAPI",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

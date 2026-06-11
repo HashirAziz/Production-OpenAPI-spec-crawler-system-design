@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e352e4d3d02f",
+    "source_url": "https://raw.githubusercontent.com/jonasbn/perl-mojolicious-plugin-openapi-tutorial-hello-world/96123c7f5b56212d1b3252d808791593f3d9deea/openapi.json",
+    "fetched_at": "2026-06-11T10:16:49.421127+00:00",
+    "content_hash": "e6938848eb6e999ead6cd173e4eebd7dee0acd1926ffc3b79636a24849eb781a",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Hello World example",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

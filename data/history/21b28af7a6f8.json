@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "21b28af7a6f8",
+    "source_url": "https://raw.githubusercontent.com/fredrikskatland/loplabbet-plugin/04103d217ae1a984a3b3185ed5519411b0efd543/openapi.yaml",
+    "fetched_at": "2026-06-11T10:16:24.961753+00:00",
+    "content_hash": "f8ab5fbc4e969bab1b24d74bd52fe214bb18451834c653aabf470cb87322714b",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Loplabbet product retrieval API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

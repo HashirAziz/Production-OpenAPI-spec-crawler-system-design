@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d57f99521fe5",
+    "source_url": "https://raw.githubusercontent.com/GalaxyGuan12/graduate_course/377e82947cb4a265265892ccdd643fe95d6b2bdb/swagger.json",
+    "fetched_at": "2026-06-11T10:17:43.823075+00:00",
+    "content_hash": "d0c1aeaf9fb7a0b18e7104ca90ffe9ec465e73f5887523ba2fb2844a4c1dee15",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Uber API",
+    "openapi_version": "swagger_2",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

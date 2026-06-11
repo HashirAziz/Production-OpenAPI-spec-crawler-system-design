@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d2f155ba8c78",
+    "source_url": "https://raw.githubusercontent.com/tamalsaha/kube-openapi-generator/6607d1e208965e3a09a0ee6d1f2de7e462939150/swagger.json",
+    "fetched_at": "2026-06-11T10:17:44.342070+00:00",
+    "content_hash": "43c53ed3a15e7e037b46a5c1ead72be282eb96cc512ca0e5978f9320a423cd88",
+    "info_version": "v0",
+    "status": "new",
+    "title": "stash-server",
+    "openapi_version": "swagger_2",
+    "paths_count": 29,
+    "path_diff": null
+  }
+]

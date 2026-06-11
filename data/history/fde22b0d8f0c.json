@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "fde22b0d8f0c",
+    "source_url": "https://raw.githubusercontent.com/janithht/GoStreamBalancer/0efeb30527a8719bfae83a6cdd125d3f11134093/OpenAPI.yaml",
+    "fetched_at": "2026-06-11T10:16:18.083983+00:00",
+    "content_hash": "8033ce9f20d701946f5f6ec0ad5026fbb739171bc568d6ef9f79deae3e57e914",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "GoStream Load Balancer API",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ae3a73edf9be",
+    "source_url": "https://raw.githubusercontent.com/chainofsecrets/testnet-secretapi/a9183212866418782a4491a2f40e25c62890e0ec/swagger.yaml",
+    "fetched_at": "2026-06-11T10:17:04.160411+00:00",
+    "content_hash": "15a3c9a6c8aef624f5ba0984e275432b71ec6c4afa3b64ba31b22e77d9ce5c31",
+    "info_version": "3.0",
+    "status": "new",
+    "title": "Testnet Secret API for Secret Network",
+    "openapi_version": "swagger_2",
+    "paths_count": 83,
+    "path_diff": null
+  }
+]

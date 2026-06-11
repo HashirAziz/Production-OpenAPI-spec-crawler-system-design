@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d117ce9b5618",
+    "source_url": "https://raw.githubusercontent.com/emerson-franca/InputTags/c894b494f5923a3e6f81c299a37e3c3503fe42ee/swagger.yaml",
+    "fetched_at": "2026-06-11T10:17:10.848309+00:00",
+    "content_hash": "1959ac284ac14cac811ef64eed279b4e5c7002aefd39a22a7e24743cac89e31c",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Desafio Tags Input",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

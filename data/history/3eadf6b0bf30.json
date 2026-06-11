@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3eadf6b0bf30",
+    "source_url": "https://raw.githubusercontent.com/rosuH/YSL/b29af7bec4d1ba273d69f9ef6a393e92c95ad926/openapi.json",
+    "fetched_at": "2026-06-11T10:16:44.454359+00:00",
+    "content_hash": "1e6479a4ee21fc7ec822214213d92c5d899893f3ba7f7d75368ef3f28695ba0b",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Yellowstone Sound Atlas Static Resources",
+    "openapi_version": "openapi_3",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

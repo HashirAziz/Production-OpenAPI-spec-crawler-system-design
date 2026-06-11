@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "499c50e3d7af",
+    "source_url": "https://raw.githubusercontent.com/benjaminpochat/legibot/c7bfd39462e79c38f70f49f8483a461c38439d16/mcp-server/src/main/openapi/legifrance-openapi.json.original",
+    "fetched_at": "2026-06-11T10:16:46.185554+00:00",
+    "content_hash": "c4fc76530eafacadc5ddb850d403309eaf27a292fd6ea2354eff7d9c70830aa0",
+    "info_version": "2.4.2",
+    "status": "new",
+    "title": "Légifrance",
+    "openapi_version": "swagger_2",
+    "paths_count": 68,
+    "path_diff": null
+  }
+]

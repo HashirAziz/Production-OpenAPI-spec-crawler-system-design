@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3e0eef2705df",
+    "source_url": "https://raw.githubusercontent.com/ZeroWangZY/compiling-mate-server/21e1e8423ae5e6fc2eb3f9c0c113db713db7cac9/swagger.json",
+    "fetched_at": "2026-06-11T10:17:39.380909+00:00",
+    "content_hash": "114c2d8392c9715e0413906c239121b83cba46545c84e4464ac6ac3f821afa16",
+    "info_version": "2.3.1",
+    "status": "new",
+    "title": "compiling-mate API",
+    "openapi_version": "swagger_2",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

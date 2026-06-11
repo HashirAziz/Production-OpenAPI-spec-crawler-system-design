@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9085171541b7",
+    "source_url": "https://raw.githubusercontent.com/hadeli/website/7001990150bdb86d6788c57ba2831da452a6f35d/swagger.yaml",
+    "fetched_at": "2026-06-11T10:17:08.170942+00:00",
+    "content_hash": "28b51f3d3171c3502d6b2356a9bd653e42ca42c60ea8af0a1522899fce50cf9c",
+    "info_version": "5.0.0",
+    "status": "new",
+    "title": "Oasis-Scantrad",
+    "openapi_version": "swagger_2",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

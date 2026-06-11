@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "370d6e878785",
+    "source_url": "https://raw.githubusercontent.com/ClubCorey/tipjar-plugin/af3ec0fb30b8ea310d69f1ab71dba26e1c5a7875/openapi.yaml",
+    "fetched_at": "2026-06-11T10:16:24.495837+00:00",
+    "content_hash": "494fed2f7e98a9c39847dcd1fdc45923a660b82f1904649a0978566e60b39f71",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "TipJar API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "93096bfa53ff",
+    "source_url": "https://raw.githubusercontent.com/kostarusin/power-pulse-back-end-node-js/dcf609b278293e88dcb390652afedf64c57e5deb/swagger.json",
+    "fetched_at": "2026-06-11T10:17:41.015840+00:00",
+    "content_hash": "b9d9a60539af3389d12339df10d7543e296c1be299afc4494b532247e16c6f86",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API description for powerpulse project",
+    "openapi_version": "openapi_3",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

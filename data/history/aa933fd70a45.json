@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "aa933fd70a45",
+    "source_url": "https://raw.githubusercontent.com/open-network-infrastructure/dribdat-api/d215108b05e3861d77343c44aaa56b8ec34dc710/swagger.yaml",
+    "fetched_at": "2026-06-11T10:17:18.023941+00:00",
+    "content_hash": "cfe075f6f929c5b6eca74748eb7b42bc8468bfa2746211d07d07605a5843ee01",
+    "info_version": "2.0.0",
+    "status": "new",
+    "title": "dribdat",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

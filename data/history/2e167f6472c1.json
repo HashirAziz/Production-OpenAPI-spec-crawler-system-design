@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2e167f6472c1",
+    "source_url": "https://raw.githubusercontent.com/alex90bar/microservice-dialog/67b0bbb1eadf3e86cbdb03b75885b7ade7194f8e/swagger.yaml",
+    "fetched_at": "2026-06-11T10:17:09.459672+00:00",
+    "content_hash": "c006b530ba3dfa261f75cecdd931baa8c3a879122ec096a03e8272ffc5d1a2d8",
+    "info_version": "v0",
+    "status": "new",
+    "title": "OpenAPI definition",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

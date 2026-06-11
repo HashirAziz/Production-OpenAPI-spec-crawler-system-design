@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9822905738f1",
+    "source_url": "https://raw.githubusercontent.com/soofaloofa/swagger-demo/301378e6e7175798add748c6771a7b7547f27ccf/swagger.json",
+    "fetched_at": "2026-06-11T10:17:33.306280+00:00",
+    "content_hash": "6f3cb0461db934e9c36f0ff02e5f9974076b6b4d7e9add40eea2d5c0df3a714b",
+    "info_version": "1.0.1",
+    "status": "new",
+    "title": "Player API",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

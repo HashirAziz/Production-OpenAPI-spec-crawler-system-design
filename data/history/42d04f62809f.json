@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "42d04f62809f",
+    "source_url": "https://raw.githubusercontent.com/digitalhealthpass/sample-dhp-enterprise-api/eac3736d64620a333f7b69c71cc51afe2d03e235/swagger.json",
+    "fetched_at": "2026-06-11T10:17:40.201848+00:00",
+    "content_hash": "d5e71bb30bf80e5270f675949ed46e8754e2e3fd7fc6b42756a424a2939e2cf6",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "DHP Enterprise Service API",
+    "openapi_version": "openapi_3",
+    "paths_count": 14,
+    "path_diff": null
+  }
+]

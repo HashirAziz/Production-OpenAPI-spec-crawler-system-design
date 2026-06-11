@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "94ec0a03b558",
+    "source_url": "https://raw.githubusercontent.com/aron-binoy/phishing/5c8410147bee6daf25b242453aa7556b3b0c0757/swagger.json",
+    "fetched_at": "2026-06-11T10:17:45.021206+00:00",
+    "content_hash": "ba733917aa5096f563e12ace9b2af3622938326e2874c15888631eaaa5c6e79d",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "XSS Test",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

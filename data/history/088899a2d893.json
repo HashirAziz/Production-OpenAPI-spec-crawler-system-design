@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "088899a2d893",
+    "source_url": "https://raw.githubusercontent.com/ec-council-learning/AI-for-Cybersecurity-and-Bug-Bounty-Hunting/14722f6999b2e948a98f9eb8f7fe93afdea76840/openapi.json",
+    "fetched_at": "2026-06-11T10:16:47.847078+00:00",
+    "content_hash": "ff0d04b01534a1cc2ff983f2430e9eff4c53804df7b35a2ba10073b6bf1e72ec",
+    "info_version": "1.1.0",
+    "status": "new",
+    "title": "MCP Recon API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

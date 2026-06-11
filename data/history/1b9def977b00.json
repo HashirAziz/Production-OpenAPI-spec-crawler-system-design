@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1b9def977b00",
+    "source_url": "https://raw.githubusercontent.com/Sathya-B/Angular-.NetCore-MongoDB/91e71bf4f720e810cbe8a9726e10a552d8b0b29c/swagger.yaml",
+    "fetched_at": "2026-06-11T10:17:10.439876+00:00",
+    "content_hash": "275b5850b3294eeec15ae36db369aab2e52fce8c8f55ad7c368097782cb15e2a",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Arthur Clive Swagger",
+    "openapi_version": "swagger_2",
+    "paths_count": 23,
+    "path_diff": null
+  }
+]

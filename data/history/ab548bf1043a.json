@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ab548bf1043a",
+    "source_url": "https://raw.githubusercontent.com/25th-floor/ttrack-server/3ec72e1986ee9a061b728b2f2fda88c62750a9ba/swagger.json",
+    "fetched_at": "2026-06-11T10:17:32.910088+00:00",
+    "content_hash": "acc994ee92f9782a9a25f2df9d15617d371bf988d6a1b819a965e4e8f644ae0f",
+    "info_version": "0.3.2",
+    "status": "new",
+    "title": "ttrack API",
+    "openapi_version": "swagger_2",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

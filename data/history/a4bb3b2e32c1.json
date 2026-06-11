@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a4bb3b2e32c1",
+    "source_url": "https://raw.githubusercontent.com/team-openpm/openpm/8c040c59bb0e36ea5ffa38d12e1db514d3d49de6/openapi.json",
+    "fetched_at": "2026-06-11T10:16:34.289645+00:00",
+    "content_hash": "586e2dd4f865c6c24901f830a10ba051156bdaa429dbdf3c73cc264cbc644c87",
+    "info_version": "0.0.8",
+    "status": "new",
+    "title": "openpm",
+    "openapi_version": "openapi_3",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

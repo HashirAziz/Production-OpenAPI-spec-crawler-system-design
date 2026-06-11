@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "416f964b799a",
+    "source_url": "https://raw.githubusercontent.com/beantownpub/orders_api/078499f39656a628ee0301cf5e53db5a7e12b742/swagger.yaml",
+    "fetched_at": "2026-06-11T10:17:05.698585+00:00",
+    "content_hash": "b1c481702107dc269126bebf70bcb3a359277eaaffaa4fb61f3641e36f6d4cdf",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "Orders API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

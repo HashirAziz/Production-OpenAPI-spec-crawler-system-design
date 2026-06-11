@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "79b6c63b70c0",
+    "source_url": "https://raw.githubusercontent.com/cmwylie19/task-mongo/75235484a972186abeeced156c234e60ca73fe1c/OpenAPI.yaml",
+    "fetched_at": "2026-06-11T10:16:13.672261+00:00",
+    "content_hash": "71227bdad52dae06de6c63585e3760d02f5ffe174213461eb7f09dfd12aa2c0f",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Task Service Demo",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

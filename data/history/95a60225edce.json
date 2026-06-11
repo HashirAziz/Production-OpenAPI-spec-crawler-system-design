@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "95a60225edce",
+    "source_url": "https://raw.githubusercontent.com/vitwit/JS-SDKGen/22f6371a3f5cd5ab0f9d3a5212b1feab4ded3917/swagger.json",
+    "fetched_at": "2026-06-11T10:17:30.785835+00:00",
+    "content_hash": "ee23c4d612a790fa9b156de0f74ea223c002ac1b2b7c6ad0d6c7e5b9a74e41f0",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Swagger Petstore",
+    "openapi_version": "swagger_2",
+    "paths_count": 14,
+    "path_diff": null
+  }
+]

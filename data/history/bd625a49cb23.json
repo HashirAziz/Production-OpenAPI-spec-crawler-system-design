@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "bd625a49cb23",
+    "source_url": "https://raw.githubusercontent.com/UniversityofHelsinki/orgrek-backend/63f125c1f94142e7f312742456e440c92a72129e/swagger.json",
+    "fetched_at": "2026-06-11T10:17:39.705023+00:00",
+    "content_hash": "1ded35cdcaea7b641e2929e9dfc48cc948c23cd3f3c9f6a4a279d311a728e8c7",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Organisation Registry Backend API",
+    "openapi_version": "openapi_3",
+    "paths_count": 46,
+    "path_diff": null
+  }
+]

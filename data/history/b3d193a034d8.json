@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b3d193a034d8",
+    "source_url": "https://raw.githubusercontent.com/CamiloCastro-23/API-Documentation-misw4204-2024-12-desarrollo-de-sw-en-la-nube/8d8e59bb905e924f349ceab8b54fbb637d377010/swagger.yaml",
+    "fetched_at": "2026-06-11T10:17:06.204148+00:00",
+    "content_hash": "b7f75f276343a71402f87cde0334ca8dfbdbcb28ab2e80497ff6be9723bccc5b",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "FastAPI",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

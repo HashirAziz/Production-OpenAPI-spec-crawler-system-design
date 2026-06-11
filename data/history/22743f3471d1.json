@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "22743f3471d1",
+    "source_url": "https://raw.githubusercontent.com/Bayer-Group/COLID-Registration-Service/9adfd76f66b85ebdfa8fe66491d4325f5af8ae11/swagger.json",
+    "fetched_at": "2026-06-11T10:17:31.159059+00:00",
+    "content_hash": "367003f794ec2cf78503de11cbf094c2a95316ff4bd46a0e156f7e8758d515b5",
+    "info_version": "v1",
+    "status": "new",
+    "title": "My API",
+    "openapi_version": "swagger_2",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

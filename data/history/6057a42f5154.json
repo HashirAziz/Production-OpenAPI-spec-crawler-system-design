@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6057a42f5154",
+    "source_url": "https://raw.githubusercontent.com/datawhalechina/whale-web/76f22496327bacc26c0fe56160cfaf0f213bb322/openapi.yaml",
+    "fetched_at": "2026-06-11T10:16:23.369921+00:00",
+    "content_hash": "267e3ec2b0bbfe2794e5ce8b7377cac480830289a99065fcb7a0dafa013c4868",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Bluewhale",
+    "openapi_version": "openapi_3",
+    "paths_count": 12,
+    "path_diff": null
+  }
+]

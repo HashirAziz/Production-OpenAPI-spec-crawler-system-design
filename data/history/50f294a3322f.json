@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "50f294a3322f",
+    "source_url": "https://raw.githubusercontent.com/Crackbit0/bailgada/7580617a2234c87c150b3cd1126324cf50837ec7/swagger.yaml",
+    "fetched_at": "2026-06-11T10:17:06.950653+00:00",
+    "content_hash": "9be355da0abe06bb45adedb9652cb520e55c341658c1254523c76c6500b143b7",
+    "info_version": "production",
+    "status": "new",
+    "title": "XSS Attack BY M0X0101",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b271a9841e11",
+    "source_url": "https://raw.githubusercontent.com/NickVolynkin/testapi/5f9e0dc7587ae0c8a19701985f15168e54910a21/swagger.yaml",
+    "fetched_at": "2026-06-11T10:17:11.614540+00:00",
+    "content_hash": "f10fb99925f8ff7c0949a3e416a8b66709284899b809ff8c8d00fb8aeac23b12",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Test API",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

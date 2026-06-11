@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f8c9abae3d63",
+    "source_url": "https://raw.githubusercontent.com/kateqwerty001/task-manager/db987b66124ea543771988d4ecf4fd591615777a/terraform/openapi.yaml.tpl",
+    "fetched_at": "2026-06-11T10:16:09.999280+00:00",
+    "content_hash": "dfcb1713b97206f121abaab560d4d5468ac1288b114f21da0dc03978ea0869cf",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Task Manager API",
+    "openapi_version": "swagger_2",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

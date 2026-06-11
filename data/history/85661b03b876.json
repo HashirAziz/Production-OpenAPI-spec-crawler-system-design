@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "85661b03b876",
+    "source_url": "https://raw.githubusercontent.com/nubium/searchapi/bb8fc484f9228fa6851cf131d9585f358d6de78f/swagger.json",
+    "fetched_at": "2026-06-11T10:17:40.785772+00:00",
+    "content_hash": "74e4ef523f25be3596aae7d5177fa256f52c38ce40fe754949b38da192a887e3",
+    "info_version": null,
+    "status": "new",
+    "title": "Ulož.to API",
+    "openapi_version": "swagger_2",
+    "paths_count": 22,
+    "path_diff": null
+  }
+]

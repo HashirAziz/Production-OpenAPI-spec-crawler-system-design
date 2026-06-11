@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "885da28fd8a5",
+    "source_url": "https://raw.githubusercontent.com/avalokkumar/swagger-demo/51a7159e376371870b762bafec99943d3f2824f8/api/swagger/swagger.yaml.bak",
+    "fetched_at": "2026-06-11T10:17:02.447704+00:00",
+    "content_hash": "e5c9c531e6f6d4630f488d9e43b7a154c8e62dcb4833cbb690283608974bf37b",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "Hello World App",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "82afcc12ba6e",
+    "source_url": "https://raw.githubusercontent.com/Onix-Systems/ucat-hustav-server/622845acc88e86dbd0c09f1f07a79a6580106090/swagger.json",
+    "fetched_at": "2026-06-11T10:17:44.734720+00:00",
+    "content_hash": "c7cde7aec3a9ef05c7325a78316996069e0d6c1ef7adbe82e058ce18269f459c",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Hustav",
+    "openapi_version": "swagger_2",
+    "paths_count": 15,
+    "path_diff": null
+  }
+]

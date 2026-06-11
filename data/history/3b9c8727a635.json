@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3b9c8727a635",
+    "source_url": "https://raw.githubusercontent.com/thehapyone/code-interpreter/2cdc7c792c17b48825acb3d92e1b2df625d034ee/openapi.json",
+    "fetched_at": "2026-06-11T10:16:51.123166+00:00",
+    "content_hash": "8a6f657a7e052b4c9594bc8ade7be4b8d757f332b38e367e3e0281c1e4b8d7fc",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "MCP Code Interpreter",
+    "openapi_version": "openapi_3",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

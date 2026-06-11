@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "68dbde09070d",
+    "source_url": "https://raw.githubusercontent.com/mattwillis47/temp-jobs-api/d2365a4d9f63756d84cf264bb3179c493cc5bb09/swagger.yaml",
+    "fetched_at": "2026-06-11T10:17:15.875410+00:00",
+    "content_hash": "8b25be832ea745878a6cb8a598b591756ab5c98cda9b42a843b67af00ee6a0ff",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Jobs API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

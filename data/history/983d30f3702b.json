@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "983d30f3702b",
+    "source_url": "https://raw.githubusercontent.com/razvanguta/SmartLight/654429442e2aa8885a01d079fd7d9d318f261e13/swagger.json",
+    "fetched_at": "2026-06-11T10:17:41.805017+00:00",
+    "content_hash": "67fe081b632e8dc9191403bba27b1fc1c3afc72d0aa2ac47fbd813b041799c76",
+    "info_version": "V1.0",
+    "status": "new",
+    "title": "Smart Light",
+    "openapi_version": "openapi_3",
+    "paths_count": 27,
+    "path_diff": null
+  }
+]

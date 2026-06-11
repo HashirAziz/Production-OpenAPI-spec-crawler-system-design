@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5a503af4aaf2",
+    "source_url": "https://raw.githubusercontent.com/amida-tech/recruitment-registry/3db482239fca5bbcfe93f95fe3a76ea09d358182/swagger.json",
+    "fetched_at": "2026-06-11T10:17:28.230090+00:00",
+    "content_hash": "93920c8fe00c2ba694244d1365fa09a4ebced9c53781022cd42ec82d1bc66779",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Recruitment Registry",
+    "openapi_version": "swagger_2",
+    "paths_count": 93,
+    "path_diff": null
+  }
+]

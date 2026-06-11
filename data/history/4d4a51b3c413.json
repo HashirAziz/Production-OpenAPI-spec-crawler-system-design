@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4d4a51b3c413",
+    "source_url": "https://raw.githubusercontent.com/opengeospatial/wfs3hackathon/a56b0eb2bd0f48fc51c815f6abc606562117aa66/openapi.json",
+    "fetched_at": "2026-06-11T10:16:36.418424+00:00",
+    "content_hash": "b93f9a7fd5acae4def4a7d212424113dbd49036ffc5ec16b1ec46e2b2bae61f2",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Liegenschaftskataster (NRW)",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

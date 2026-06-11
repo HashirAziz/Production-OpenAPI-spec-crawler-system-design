@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "850d32a0bd01",
+    "source_url": "https://raw.githubusercontent.com/r33drichards/mcp-js/1f6f41010c92e5ddf0e1af254afd29e5285d3063/openapi.json",
+    "fetched_at": "2026-06-11T10:16:39.068807+00:00",
+    "content_hash": "9a064f87b87b37bada03dd138d442e2076fd42ec6bac81ddb4d284cd047f5093",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "mcp-v8",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

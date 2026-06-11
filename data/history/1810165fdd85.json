@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1810165fdd85",
+    "source_url": "https://raw.githubusercontent.com/IGNE-Agency/vite-react-template/a89a5b13b5d2560a2e2990c50afe351685e76e8c/openapi.json",
+    "fetched_at": "2026-06-11T10:16:53.438689+00:00",
+    "content_hash": "083bd003206e8adaefc01b34d4afd067e8b0a0aee62e40aaba4b608fff8d9310",
+    "info_version": "2.0.0",
+    "status": "new",
+    "title": "Example API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

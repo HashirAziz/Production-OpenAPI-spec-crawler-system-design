@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "732cc80adee3",
+    "source_url": "https://raw.githubusercontent.com/phoenix-initiative/core-api-spec/79cb2ee61cde0052a42f77fe78ffcea6e9532fe9/swagger.json",
+    "fetched_at": "2026-06-11T10:17:42.793891+00:00",
+    "content_hash": "e613b4166f4c578690b329244227647d8952e05d0d111804e42818518630fd56",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "Phoenix",
+    "openapi_version": "swagger_2",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

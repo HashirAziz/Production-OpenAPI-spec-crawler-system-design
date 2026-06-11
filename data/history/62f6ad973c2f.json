@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "62f6ad973c2f",
+    "source_url": "https://raw.githubusercontent.com/gingeleski/cucumber-spring-security-tests/4076bbdbbddd9370b27eb977c8e1a54b013354f7/openapi.json",
+    "fetched_at": "2026-06-11T10:16:47.042439+00:00",
+    "content_hash": "4419afd913ff7df739ae97757c98498388be233137b968a171b22d860d12607d",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "RoomBook Spring Security Sample",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

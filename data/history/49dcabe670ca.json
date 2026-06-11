@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "49dcabe670ca",
+    "source_url": "https://raw.githubusercontent.com/purnama354/sejiwa/109ff23d803e30a8bd38dfba2b4a2bfb2ff5200a/swagger.yaml",
+    "fetched_at": "2026-06-11T10:17:08.745662+00:00",
+    "content_hash": "35b27288de994ae083eaf56ba0863fb7b964129765d4d0dd4f41e637250a7faa",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Sejiwa API",
+    "openapi_version": "swagger_2",
+    "paths_count": 37,
+    "path_diff": null
+  }
+]

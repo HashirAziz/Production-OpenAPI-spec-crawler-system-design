@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5b198a01cbe7",
+    "source_url": "https://raw.githubusercontent.com/timothy-odofin/agenthub-fe/fc5fcf4358607b71518a1506057753efe452f71b/openapi.json",
+    "fetched_at": "2026-06-11T10:16:53.675109+00:00",
+    "content_hash": "bc4da13faf6d207a54a7332010ea12ffe183830cdb9e52031f81b5b10f800eb6",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "AgentHub API",
+    "openapi_version": "openapi_3",
+    "paths_count": 18,
+    "path_diff": null
+  }
+]

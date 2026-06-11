@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "35fee07dc59c",
+    "source_url": "https://raw.githubusercontent.com/EsotericTech/langgraph-client/26fccd6535deec9a8053e6a8a8d6fe7fb7e76c47/openapi.json",
+    "fetched_at": "2026-06-11T10:16:50.858212+00:00",
+    "content_hash": "fb6e72dcd450f3c7bff78e145e8efa1a86b7e072610bba63e88f6d8d8530bee1",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "LangGraph Platform",
+    "openapi_version": "openapi_3",
+    "paths_count": 36,
+    "path_diff": null
+  }
+]

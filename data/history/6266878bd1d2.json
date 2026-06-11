@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6266878bd1d2",
+    "source_url": "https://raw.githubusercontent.com/tamarathefunone-lang/todo-app-copilot/e8179c2f065c0a0a076c6b194f3bbdf3bfeb38c4/swagger.yaml",
+    "fetched_at": "2026-06-11T10:17:14.942982+00:00",
+    "content_hash": "2cfb8547e3da5883f2bcef8eb3b2ceb19e8911dfd67ae08e2abf872c3d1c3695",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Todo Task Manager API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

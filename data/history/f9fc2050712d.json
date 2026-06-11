@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f9fc2050712d",
+    "source_url": "https://raw.githubusercontent.com/todorowww/hotel_api/cb39c263286fe5e8cf16e9581094ad20f5f2477e/public/swagger.json.1",
+    "fetched_at": "2026-06-11T10:17:38.355028+00:00",
+    "content_hash": "9d7a52735cef7868223c965edec1db4f55b01eb3d0fd0992853015c892e2ec0f",
+    "info_version": "1.0.6",
+    "status": "new",
+    "title": "Swagger Petstore",
+    "openapi_version": "swagger_2",
+    "paths_count": 14,
+    "path_diff": null
+  }
+]

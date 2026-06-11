@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "944e3d8d83dc",
+    "source_url": "https://raw.githubusercontent.com/trigger-maker/awg-control/2613eb6b7804822ea4d5f709231e6be4de465db0/swagger.yaml",
+    "fetched_at": "2026-06-11T10:17:16.284317+00:00",
+    "content_hash": "56106cd662c7db279fea5e8e1cc3a040bf8ff0fdc9b2d988b1cd8ff8bd38399c",
+    "info_version": "1.1.0",
+    "status": "new",
+    "title": "awg-control API",
+    "openapi_version": "openapi_3",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

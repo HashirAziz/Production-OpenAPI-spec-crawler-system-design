@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e6ce5d0f491e",
+    "source_url": "https://raw.githubusercontent.com/FaisalKhan2000/ShopifyNode-Express.js-E-commerce-Backend-Solution/a7944c768d06f7e20e5ca9e61a7409532a3a6f6a/swagger.yaml",
+    "fetched_at": "2026-06-11T10:17:15.252027+00:00",
+    "content_hash": "c8f0f51c9a5d5c707cd99d65fe40ad8789ff46a2c34b43ff13a0642ab2e130d6",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "E-Commerce API",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

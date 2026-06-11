@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "996cc1e34c13",
+    "source_url": "https://raw.githubusercontent.com/MyRealChoco/ArbeitMate_Swagger_API/97408841f5ece31f236d1360bc11b4fd4101b75e/swagger.yaml",
+    "fetched_at": "2026-06-11T10:17:06.544252+00:00",
+    "content_hash": "104c3b81d76aec80d38a95afb48a29ba0d0cb8a622640c9deab7457491e8ddfa",
+    "info_version": "v0",
+    "status": "new",
+    "title": "OpenAPI definition",
+    "openapi_version": "openapi_3",
+    "paths_count": 50,
+    "path_diff": null
+  }
+]

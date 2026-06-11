@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a18f5d15f11a",
+    "source_url": "https://raw.githubusercontent.com/afbora/event-driven-notification/cfa0f907d21063a55219bb02a337da13b382114c/internal/adapters/http/openapi.yaml.embed",
+    "fetched_at": "2026-06-11T10:16:15.741308+00:00",
+    "content_hash": "6cde7fd8426ed1a1d8c9d1783ef2cc9415dd0d6b6d32f4ced42ea6ebc35fa443",
+    "info_version": "0.2.0",
+    "status": "new",
+    "title": "Notification System API",
+    "openapi_version": "openapi_3",
+    "paths_count": 12,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "22d0d23dac5c",
+    "source_url": "https://raw.githubusercontent.com/StayTunedAds/staytuned-android-sdk-demo/8cb4b5b0b9391985f1bcd1a74b9177fe7338bc93/swagger.json",
+    "fetched_at": "2026-06-11T10:17:43.618226+00:00",
+    "content_hash": "4c12a9e7f52cec9389fbe3afb948a97861d0a92ea272dfe990d97f23f2317b35",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Staytuned API V1",
+    "openapi_version": "swagger_2",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

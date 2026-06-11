@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0d32a418c0c6",
+    "source_url": "https://raw.githubusercontent.com/sagar-1m/COHORT-TaskManager/59b3ecccf796d5e5aadefa8f7b93fe68f37e8bc8/swagger.json",
+    "fetched_at": "2026-06-11T10:17:37.666891+00:00",
+    "content_hash": "ee579861e43b26260d63c9bdad74b439d2709a483beeb905d7af0e9cbb2a9113",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Mega Project Management API",
+    "openapi_version": "openapi_3",
+    "paths_count": 43,
+    "path_diff": null
+  }
+]

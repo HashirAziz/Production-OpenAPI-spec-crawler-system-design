@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "06f0d33c266b",
+    "source_url": "https://raw.githubusercontent.com/jarinykanen/infotaulu-api-spec/b80466930e5b031bccfaea118c9ab1a92afdbd33/swagger.yaml",
+    "fetched_at": "2026-06-11T10:17:13.876370+00:00",
+    "content_hash": "d4d2703d2e2bf77064fd337210705a375c167b326714e090cec3e80c29d52f0d",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Infotaulu API-spec",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

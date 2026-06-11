@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f06ac0650f17",
+    "source_url": "https://raw.githubusercontent.com/mjgillespie/swaggy-lambda/94b041f8743c8e1e0e8b62dc5ee1f48f92676916/swagger.json",
+    "fetched_at": "2026-06-11T10:17:37.367468+00:00",
+    "content_hash": "ff620fa07132ee0fbc241d20d1cd049856e25d1d2c904b184d82d50900762c67",
+    "info_version": "{{version}}",
+    "status": "new",
+    "title": "Lambda",
+    "openapi_version": "swagger_2",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

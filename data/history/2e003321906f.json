@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2e003321906f",
+    "source_url": "https://raw.githubusercontent.com/Instaken/se4458-bill-payment-api/0af1a270d938c2406bfdab9fe2a989a9d715926e/swagger.yaml",
+    "fetched_at": "2026-06-11T10:17:08.373987+00:00",
+    "content_hash": "0b65568bb0aec2fdb8e3d7a7225f8770f0b1fb080e482e51b309cea634264fc3",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Mobile Provider Bill Payment API",
+    "openapi_version": "swagger_2",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

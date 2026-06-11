@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "409b35f2f8d7",
+    "source_url": "https://raw.githubusercontent.com/Investigamer/hexproof.io/8c27a326f59ad5102a338827baa6140bdfcf0ae6/openapi.json",
+    "fetched_at": "2026-06-11T10:16:51.410725+00:00",
+    "content_hash": "3cf810f1967fdb5e18622e63e7401cbb0cdeca4ad8615150994c8f8b92215a76",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Hexproof API",
+    "openapi_version": "openapi_3",
+    "paths_count": 15,
+    "path_diff": null
+  }
+]
