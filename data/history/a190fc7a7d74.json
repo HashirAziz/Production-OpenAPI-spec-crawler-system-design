@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a190fc7a7d74",
+    "source_url": "https://raw.githubusercontent.com/rajfaizan/sequelize/aabcf90c9ac124e204f49989a00c61154648de14/swagger.yaml",
+    "fetched_at": "2026-06-12T10:04:54.290686+00:00",
+    "content_hash": "5fac7e29ce4190e3f9fe430d8eeb54740eb3475a31dfddd9cb28d45f91c0e9b1",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API Title",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

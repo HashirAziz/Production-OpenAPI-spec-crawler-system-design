@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ce6a8465fc52",
+    "source_url": "https://raw.githubusercontent.com/kumarharsh24/Daily-Mental-Health-Check-in-System/ce3bc2309d9d1ef9f19a881fb9cf32693f5e8829/swagger.yaml",
+    "fetched_at": "2026-06-12T10:04:52.043599+00:00",
+    "content_hash": "8f8339f6562800d987776803de6edb98e9b6de81a6c8f7b3d704cbd82bd33d15",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Daily Mental Health Check-in System",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

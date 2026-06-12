@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e734ad79b0fe",
+    "source_url": "https://raw.githubusercontent.com/qlyriatt/subs/bf0c35ba8617c66d2ae6df27138163b5a4051bbd/swagger.yaml",
+    "fetched_at": "2026-06-12T10:04:50.295193+00:00",
+    "content_hash": "3492cc80f9e2d93e80fd389a3e46052eada0752feee5688071d0c5133405c976",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Subscription Service API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

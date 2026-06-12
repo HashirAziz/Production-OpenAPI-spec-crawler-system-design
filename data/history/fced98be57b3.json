@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "fced98be57b3",
+    "source_url": "https://raw.githubusercontent.com/Francescosommellaa/kyroo/2eca633569da7ff587b81b05185549be7c82e505/openapi.yaml",
+    "fetched_at": "2026-06-12T10:04:01.026653+00:00",
+    "content_hash": "e832b3ad0cd5008ead97f9d7b1f0af9cf687e5f69150c33d7d53ef5ee92d5c73",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "KYROO API",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ca3f1336983c",
+    "source_url": "https://raw.githubusercontent.com/CosetteN/workout/b030b7503e6acadd2cc270928961081c7b6349b7/swagger.yaml",
+    "fetched_at": "2026-06-12T10:04:59.777152+00:00",
+    "content_hash": "04626c89b6286cc1b6843ee1d796293a0a33b3bc0984c43f0cc63956ecc0b47c",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Workout",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

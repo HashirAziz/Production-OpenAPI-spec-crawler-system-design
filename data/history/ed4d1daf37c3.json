@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ed4d1daf37c3",
+    "source_url": "https://raw.githubusercontent.com/davidsilvestrehenao-hub/lmstudio-internet-wrapper/0b1b71f435d4d43341564e7f681f98d3b46d6619/openapi.yaml",
+    "fetched_at": "2026-06-12T10:04:01.514925+00:00",
+    "content_hash": "a8b9cb750fed2476fc040c8af1e337a07b44843dd7cd70d89b7a458c32c0db20",
+    "info_version": "3.1.0",
+    "status": "new",
+    "title": "LM Studio Internet Wrapper API",
+    "openapi_version": "openapi_3",
+    "paths_count": 13,
+    "path_diff": null
+  }
+]

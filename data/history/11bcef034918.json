@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "11bcef034918",
+    "source_url": "https://raw.githubusercontent.com/Emmanuelmelvin/ratter-engine/e7b08d87be3803a5d63c17f5c3873e99af4e1ebe/openAPI.json",
+    "fetched_at": "2026-06-12T10:04:13.696934+00:00",
+    "content_hash": "8f53b809c80682f65ce2a9262d5dd9dee60fd9a8e323faf08d144cbc08cc8a27",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "LocalDNS API",
+    "openapi_version": "openapi_3",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

@@ -127,7 +127,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:03:49.858091+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:16:02.617291+00:00",
+    "fetched_at": "2026-06-12T10:03:36.514357+00:00",
     "history_file": "history/4761b86d5d65.json"
   },
   "ec6a5b1a5d08": {
@@ -255,7 +255,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:03:55.516610+00:00",
     "last_updated_at": "2026-05-18T15:03:55.516610+00:00",
-    "fetched_at": "2026-06-11T10:16:29.597386+00:00",
+    "fetched_at": "2026-06-12T10:04:05.674481+00:00",
     "history_file": "history/14f643993342.json"
   },
   "da81b22f1d2d": {
@@ -311,7 +311,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:03:59.028896+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:16:56.458988+00:00",
+    "fetched_at": "2026-06-12T10:04:38.792996+00:00",
     "history_file": "history/756e25461b0a.json"
   },
   "58b2bb9ac5cf": {
@@ -351,7 +351,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:03:59.687756+00:00",
     "last_updated_at": "2026-05-18T15:03:59.687756+00:00",
-    "fetched_at": "2026-06-11T10:16:58.827894+00:00",
+    "fetched_at": "2026-06-12T10:04:42.509261+00:00",
     "history_file": "history/bcd05d6d3e65.json"
   },
   "a94743524614": {
@@ -371,7 +371,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:04:00.016689+00:00",
     "last_updated_at": "2026-05-18T15:04:00.016689+00:00",
-    "fetched_at": "2026-06-11T10:17:02.881275+00:00",
+    "fetched_at": "2026-06-12T10:04:40.617194+00:00",
     "history_file": "history/a94743524614.json"
   },
   "a365985f8f4d": {
@@ -461,7 +461,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:04:03.692897+00:00",
     "last_updated_at": "2026-05-18T15:04:03.692897+00:00",
-    "fetched_at": "2026-06-11T10:17:21.652565+00:00",
+    "fetched_at": "2026-06-12T10:05:06.932983+00:00",
     "history_file": "history/7ca0a50317ef.json"
   },
   "92e23825e61d": {
@@ -507,7 +507,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:16:54.069363+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:16:09.073277+00:00",
+    "fetched_at": "2026-06-12T10:03:43.790965+00:00",
     "history_file": "history/3e0c66ba55ca.json"
   },
   "1b801d651c62": {
@@ -594,7 +594,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:16:54.873030+00:00",
     "last_updated_at": "2026-05-18T15:16:54.873030+00:00",
-    "fetched_at": "2026-06-11T10:16:02.791776+00:00",
+    "fetched_at": "2026-06-12T10:03:36.726845+00:00",
     "history_file": "history/642987f0357b.json"
   },
   "54930dd904d8": {
@@ -612,7 +612,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:16:55.105324+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:16:03.316862+00:00",
+    "fetched_at": "2026-06-12T10:03:37.259672+00:00",
     "history_file": "history/54930dd904d8.json"
   },
   "187c71abf5cd": {
@@ -648,7 +648,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:16:55.472761+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:16:16.966823+00:00",
+    "fetched_at": "2026-06-12T10:03:52.413689+00:00",
     "history_file": "history/75c89fa16d52.json"
   },
   "0c48015e289d": {
@@ -818,7 +818,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:16:58.069357+00:00",
     "last_updated_at": "2026-05-18T15:16:58.069357+00:00",
-    "fetched_at": "2026-06-10T09:50:14.366346+00:00",
+    "fetched_at": "2026-06-12T10:03:53.857848+00:00",
     "history_file": "history/2d74220a80bf.json"
   },
   "bc79f8714d88": {
@@ -888,7 +888,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:16:59.069241+00:00",
     "last_updated_at": "2026-05-18T15:16:59.069241+00:00",
-    "fetched_at": "2026-06-06T08:29:01.115842+00:00",
+    "fetched_at": "2026-06-12T10:03:42.295294+00:00",
     "history_file": "history/c802cd4efd87.json"
   },
   "cd6c1435e853": {
@@ -906,7 +906,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:16:59.556883+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-10T09:50:15.537157+00:00",
+    "fetched_at": "2026-06-12T10:03:49.068902+00:00",
     "history_file": "history/cd6c1435e853.json"
   },
   "181307936761": {
@@ -929,7 +929,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:16:59.759629+00:00",
     "last_updated_at": "2026-05-18T15:16:59.759629+00:00",
-    "fetched_at": "2026-06-11T10:16:10.845424+00:00",
+    "fetched_at": "2026-06-12T10:03:38.882542+00:00",
     "history_file": "history/181307936761.json"
   },
   "a5c89136744b": {
@@ -1070,7 +1070,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:17:01.163021+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:16:11.620363+00:00",
+    "fetched_at": "2026-06-12T10:03:50.854999+00:00",
     "history_file": "history/e4b3e8505389.json"
   },
   "5bcacdc1a2b0": {
@@ -1088,7 +1088,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:17:01.411297+00:00",
     "last_updated_at": "2026-05-18T15:17:01.411297+00:00",
-    "fetched_at": "2026-06-07T08:50:02.178525+00:00",
+    "fetched_at": "2026-06-12T10:03:44.389882+00:00",
     "history_file": "history/5bcacdc1a2b0.json"
   },
   "c76ee9672884": {
@@ -1218,7 +1218,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:17:02.999212+00:00",
     "last_updated_at": "2026-05-18T15:17:02.999212+00:00",
-    "fetched_at": "2026-06-07T08:50:00.178862+00:00",
+    "fetched_at": "2026-06-12T10:03:50.655531+00:00",
     "history_file": "history/946a60350341.json"
   },
   "7fc11904e2eb": {
@@ -1236,7 +1236,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:17:03.197221+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:16:12.709764+00:00",
+    "fetched_at": "2026-06-12T10:03:39.584218+00:00",
     "history_file": "history/7fc11904e2eb.json"
   },
   "37af16653cc8": {
@@ -1254,7 +1254,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:17:03.443105+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:16:08.877979+00:00",
+    "fetched_at": "2026-06-12T10:03:45.698738+00:00",
     "history_file": "history/37af16653cc8.json"
   },
   "c5cc2f1fdd1a": {
@@ -1390,7 +1390,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:17:05.174211+00:00",
     "last_updated_at": "2026-05-18T15:17:05.174211+00:00",
-    "fetched_at": "2026-06-11T10:16:22.381197+00:00",
+    "fetched_at": "2026-06-12T10:03:50.453462+00:00",
     "history_file": "history/1f28402d106c.json"
   },
   "5a8459999e9d": {
@@ -1514,7 +1514,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:17:06.582693+00:00",
     "last_updated_at": "2026-05-18T15:17:06.582693+00:00",
-    "fetched_at": "2026-06-11T10:16:18.155771+00:00",
+    "fetched_at": "2026-06-12T10:03:54.050843+00:00",
     "history_file": "history/4733a200795f.json"
   },
   "e21fb7546856": {
@@ -1532,7 +1532,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:17:06.805949+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-08T10:28:14.952773+00:00",
+    "fetched_at": "2026-06-12T10:03:47.938627+00:00",
     "history_file": "history/e21fb7546856.json"
   },
   "92f84d958f7f": {
@@ -1682,7 +1682,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:17:08.583008+00:00",
     "last_updated_at": "2026-05-18T15:17:08.583008+00:00",
-    "fetched_at": "2026-06-11T10:16:11.988953+00:00",
+    "fetched_at": "2026-06-12T10:03:52.670389+00:00",
     "history_file": "history/a55dacb63a7d.json"
   },
   "8bd9e3145a97": {
@@ -2290,7 +2290,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:17:15.341464+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:16:05.697364+00:00",
+    "fetched_at": "2026-06-12T10:03:41.831745+00:00",
     "history_file": "history/eddc96c37d3d.json"
   },
   "c2043ac5ba75": {
@@ -2403,7 +2403,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:17:16.426631+00:00",
     "last_updated_at": "2026-05-18T15:17:16.426631+00:00",
-    "fetched_at": "2026-06-11T10:16:22.973981+00:00",
+    "fetched_at": "2026-06-12T10:03:58.602325+00:00",
     "history_file": "history/7c5b98158508.json"
   },
   "6b798842d881": {
@@ -2423,7 +2423,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:17:16.625021+00:00",
     "last_updated_at": "2026-05-18T15:17:16.625021+00:00",
-    "fetched_at": "2026-06-04T09:50:38.436768+00:00",
+    "fetched_at": "2026-06-12T10:03:45.459934+00:00",
     "history_file": "history/6b798842d881.json"
   },
   "77d0b3565d72": {
@@ -2501,7 +2501,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:17:22.667922+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:16:28.726963+00:00",
+    "fetched_at": "2026-06-12T10:04:04.731470+00:00",
     "history_file": "history/e6c5daa0502c.json"
   },
   "90374053011d": {
@@ -2521,7 +2521,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:17:22.855325+00:00",
     "last_updated_at": "2026-05-18T15:17:22.855325+00:00",
-    "fetched_at": "2026-06-11T10:16:30.254863+00:00",
+    "fetched_at": "2026-06-12T10:04:06.436221+00:00",
     "history_file": "history/90374053011d.json"
   },
   "a3e546357a87": {
@@ -2595,7 +2595,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:17:23.912889+00:00",
     "last_updated_at": "2026-05-18T15:17:23.912889+00:00",
-    "fetched_at": "2026-06-11T10:16:31.140092+00:00",
+    "fetched_at": "2026-06-12T10:04:07.498028+00:00",
     "history_file": "history/89cb79826076.json"
   },
   "dac6440a9051": {
@@ -2738,7 +2738,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:17:26.125614+00:00",
     "last_updated_at": "2026-05-18T15:17:26.125614+00:00",
-    "fetched_at": "2026-06-10T09:51:00.119293+00:00",
+    "fetched_at": "2026-06-12T10:04:22.177634+00:00",
     "history_file": "history/301033da8e4e.json"
   },
   "11a85b7d5cd9": {
@@ -2756,7 +2756,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:17:26.409931+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:16:30.095374+00:00",
+    "fetched_at": "2026-06-12T10:04:06.179806+00:00",
     "history_file": "history/11a85b7d5cd9.json"
   },
   "406234fe91f9": {
@@ -2774,7 +2774,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:17:26.672902+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-10T09:51:00.457075+00:00",
+    "fetched_at": "2026-06-12T10:04:26.381078+00:00",
     "history_file": "history/406234fe91f9.json"
   },
   "64949084a205": {
@@ -2828,7 +2828,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:17:27.210376+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:16:34.359839+00:00",
+    "fetched_at": "2026-06-12T10:04:12.449925+00:00",
     "history_file": "history/094a4ccc1a63.json"
   },
   "7fda956b88f1": {
@@ -2864,7 +2864,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:17:27.587808+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-10T09:50:51.817364+00:00",
+    "fetched_at": "2026-06-12T10:04:33.406072+00:00",
     "history_file": "history/6baddefa239d.json"
   },
   "b80e54384958": {
@@ -2900,7 +2900,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:17:28.118747+00:00",
     "last_updated_at": "2026-05-18T15:17:28.118747+00:00",
-    "fetched_at": "2026-06-10T09:51:03.295047+00:00",
+    "fetched_at": "2026-06-12T10:04:11.621602+00:00",
     "history_file": "history/70b10a43182b.json"
   },
   "983035ef021e": {
@@ -2922,7 +2922,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:17:28.496616+00:00",
     "last_updated_at": "2026-05-18T15:17:28.496616+00:00",
-    "fetched_at": "2026-06-11T10:16:34.806502+00:00",
+    "fetched_at": "2026-06-12T10:04:12.217306+00:00",
     "history_file": "history/983035ef021e.json"
   },
   "ed2457da4689": {
@@ -3025,7 +3025,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:17:29.806638+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:16:52.508344+00:00",
+    "fetched_at": "2026-06-12T10:04:12.691387+00:00",
     "history_file": "history/97b05f6dd55d.json"
   },
   "72d5d237c18d": {
@@ -3043,7 +3043,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:17:29.993818+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:16:35.377858+00:00",
+    "fetched_at": "2026-06-12T10:04:14.095097+00:00",
     "history_file": "history/72d5d237c18d.json"
   },
   "549a2672a756": {
@@ -3135,7 +3135,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:17:31.697295+00:00",
     "last_updated_at": "2026-05-18T15:17:31.697295+00:00",
-    "fetched_at": "2026-06-10T09:51:06.029378+00:00",
+    "fetched_at": "2026-06-12T10:04:13.769527+00:00",
     "history_file": "history/d92e7551220f.json"
   },
   "b82eed301bb7": {
@@ -3229,7 +3229,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:17:32.903111+00:00",
     "last_updated_at": "2026-05-18T15:17:32.903111+00:00",
-    "fetched_at": "2026-06-04T09:51:01.778149+00:00",
+    "fetched_at": "2026-06-12T10:04:34.485130+00:00",
     "history_file": "history/a71b2f21d0f1.json"
   },
   "ece2cb732131": {
@@ -3416,7 +3416,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:17:36.227063+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:16:33.013595+00:00",
+    "fetched_at": "2026-06-12T10:04:25.696133+00:00",
     "history_file": "history/da77b93ab17e.json"
   },
   "880b03b75967": {
@@ -3645,7 +3645,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:17:38.597816+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-02T10:15:58.242842+00:00",
+    "fetched_at": "2026-06-12T10:04:21.775891+00:00",
     "history_file": "history/e1912e553edf.json"
   },
   "22c3b2383adc": {
@@ -3665,7 +3665,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:17:38.800125+00:00",
     "last_updated_at": "2026-05-18T15:17:38.800125+00:00",
-    "fetched_at": "2026-06-04T09:51:04.007244+00:00",
+    "fetched_at": "2026-06-12T10:04:25.893978+00:00",
     "history_file": "history/22c3b2383adc.json"
   },
   "0a609f84d644": {
@@ -3683,7 +3683,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:17:39.059490+00:00",
     "last_updated_at": "2026-05-18T15:17:39.059490+00:00",
-    "fetched_at": "2026-06-11T10:16:43.017644+00:00",
+    "fetched_at": "2026-06-12T10:04:22.557885+00:00",
     "history_file": "history/0a609f84d644.json"
   },
   "c1d32dbbc594": {
@@ -3999,7 +3999,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:17:44.670385+00:00",
     "last_updated_at": "2026-05-18T15:17:44.670385+00:00",
-    "fetched_at": "2026-06-10T09:50:51.564056+00:00",
+    "fetched_at": "2026-06-12T10:04:10.438696+00:00",
     "history_file": "history/c269a68cc1a2.json"
   },
   "2302ca8ae567": {
@@ -4062,7 +4062,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:17:45.204301+00:00",
     "last_updated_at": "2026-05-18T15:17:45.204301+00:00",
-    "fetched_at": "2026-06-03T10:52:01.242374+00:00",
+    "fetched_at": "2026-06-12T10:04:28.526984+00:00",
     "history_file": "history/d949a97199fd.json"
   },
   "60c8e8238731": {
@@ -4253,7 +4253,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:17:47.720573+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-08T10:28:45.160078+00:00",
+    "fetched_at": "2026-06-12T10:04:13.338893+00:00",
     "history_file": "history/8d72052472bd.json"
   },
   "0524faa735d6": {
@@ -4311,7 +4311,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:17:48.501952+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:16:48.652654+00:00",
+    "fetched_at": "2026-06-12T10:04:32.956973+00:00",
     "history_file": "history/c870b09248d7.json"
   },
   "1a786169a12e": {
@@ -4356,7 +4356,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:17:52.932766+00:00",
     "last_updated_at": "2026-05-18T15:17:52.932766+00:00",
-    "fetched_at": "2026-06-09T09:34:49.843635+00:00",
+    "fetched_at": "2026-06-12T10:04:40.344841+00:00",
     "history_file": "history/e5568e095228.json"
   },
   "2ead1f6fe712": {
@@ -4374,7 +4374,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:17:53.153611+00:00",
     "last_updated_at": "2026-05-18T15:17:53.153611+00:00",
-    "fetched_at": "2026-06-11T10:16:58.275349+00:00",
+    "fetched_at": "2026-06-12T10:04:56.485663+00:00",
     "history_file": "history/2ead1f6fe712.json"
   },
   "6ec3d1d30f1b": {
@@ -4721,7 +4721,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:17:55.955369+00:00",
     "last_updated_at": "2026-05-18T15:17:55.955369+00:00",
-    "fetched_at": "2026-06-10T09:51:42.932249+00:00",
+    "fetched_at": "2026-06-12T10:04:47.690024+00:00",
     "history_file": "history/3b811dae39f4.json"
   },
   "1480a4c9d8c8": {
@@ -4745,7 +4745,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:17:56.163621+00:00",
     "last_updated_at": "2026-05-18T15:17:56.163621+00:00",
-    "fetched_at": "2026-06-10T09:51:44.861714+00:00",
+    "fetched_at": "2026-06-12T10:04:56.279661+00:00",
     "history_file": "history/1480a4c9d8c8.json"
   },
   "dbaf223234bf": {
@@ -4803,7 +4803,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:17:57.036711+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:16:58.670497+00:00",
+    "fetched_at": "2026-06-12T10:04:43.719777+00:00",
     "history_file": "history/cd62003116d2.json"
   },
   "fab8769c23c0": {
@@ -4821,7 +4821,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:17:57.197764+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:16:56.992204+00:00",
+    "fetched_at": "2026-06-12T10:04:39.427899+00:00",
     "history_file": "history/fab8769c23c0.json"
   },
   "4754cde94a1a": {
@@ -4861,7 +4861,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:17:57.680533+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:16:59.774502+00:00",
+    "fetched_at": "2026-06-12T10:04:46.995568+00:00",
     "history_file": "history/97ebaf0868b6.json"
   },
   "79ef8e54316e": {
@@ -4879,7 +4879,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:17:57.883968+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:16:59.251024+00:00",
+    "fetched_at": "2026-06-12T10:04:43.928223+00:00",
     "history_file": "history/79ef8e54316e.json"
   },
   "a5a921b1ae31": {
@@ -4955,7 +4955,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:17:58.649715+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-10T09:51:35.165618+00:00",
+    "fetched_at": "2026-06-12T10:04:55.814045+00:00",
     "history_file": "history/4d85f055c350.json"
   },
   "94b1e4aab22a": {
@@ -4991,7 +4991,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:17:59.010100+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-07T08:50:54.207570+00:00",
+    "fetched_at": "2026-06-12T10:04:46.784966+00:00",
     "history_file": "history/16b20e4e56a5.json"
   },
   "23a2962b2b87": {
@@ -5051,7 +5051,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:17:59.537669+00:00",
     "last_updated_at": "2026-05-18T15:17:59.537669+00:00",
-    "fetched_at": "2026-06-02T10:16:32.478673+00:00",
+    "fetched_at": "2026-06-12T10:05:02.432693+00:00",
     "history_file": "history/b9bef33fd4e6.json"
   },
   "3f446556ce6f": {
@@ -5075,7 +5075,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:17:59.783613+00:00",
     "last_updated_at": "2026-05-18T15:17:59.783613+00:00",
-    "fetched_at": "2026-06-11T10:16:58.061900+00:00",
+    "fetched_at": "2026-06-12T10:04:42.071275+00:00",
     "history_file": "history/3f446556ce6f.json"
   },
   "5d4036cb185f": {
@@ -5131,7 +5131,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:18:00.332138+00:00",
     "last_updated_at": "2026-05-18T15:18:00.332138+00:00",
-    "fetched_at": "2026-06-11T10:16:56.642183+00:00",
+    "fetched_at": "2026-06-12T10:04:39.012302+00:00",
     "history_file": "history/bc1b12bd6afc.json"
   },
   "37e8cbc29557": {
@@ -5149,7 +5149,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:18:00.480586+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-10T09:51:26.623650+00:00",
+    "fetched_at": "2026-06-12T10:04:42.296492+00:00",
     "history_file": "history/37e8cbc29557.json"
   },
   "97da385bfd89": {
@@ -5291,7 +5291,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:18:01.990162+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:16:58.454010+00:00",
+    "fetched_at": "2026-06-12T10:04:43.317665+00:00",
     "history_file": "history/79df7046746a.json"
   },
   "83703d5c5df8": {
@@ -5311,7 +5311,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:18:02.203779+00:00",
     "last_updated_at": "2026-05-18T15:18:02.203779+00:00",
-    "fetched_at": "2026-06-11T10:17:02.693849+00:00",
+    "fetched_at": "2026-06-12T10:04:45.480436+00:00",
     "history_file": "history/83703d5c5df8.json"
   },
   "c353897e2c15": {
@@ -5676,10 +5676,10 @@
     "paths_count": 6,
     "latest_info_version": "1.0.0",
     "latest_hash": "21a8efd638489d326f5d1b23fa8824dc0023793b9ea7b9264532ab5da36065c8",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-05-18T15:18:06.276605+00:00",
     "last_updated_at": "2026-05-18T15:18:06.276605+00:00",
-    "fetched_at": "2026-05-18T15:18:06.276605+00:00",
+    "fetched_at": "2026-06-12T10:04:58.638007+00:00",
     "history_file": "history/fce5e3ac0486.json"
   },
   "0eda41575261": {
@@ -5958,7 +5958,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:18:09.331291+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:17:00.171625+00:00",
+    "fetched_at": "2026-06-12T10:04:45.695644+00:00",
     "history_file": "history/3b227cbecf4b.json"
   },
   "b9d826e75e30": {
@@ -6039,7 +6039,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:18:10.206555+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-10T09:51:34.920207+00:00",
+    "fetched_at": "2026-06-12T10:04:49.642365+00:00",
     "history_file": "history/523540234422.json"
   },
   "6cc8a8247603": {
@@ -6107,7 +6107,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:18:10.910101+00:00",
     "last_updated_at": "2026-05-18T15:18:10.910101+00:00",
-    "fetched_at": "2026-06-10T09:51:33.866004+00:00",
+    "fetched_at": "2026-06-12T10:04:42.722838+00:00",
     "history_file": "history/1d7326380675.json"
   },
   "48e1e5566d8f": {
@@ -6201,7 +6201,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:18:12.298193+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:16:57.180663+00:00",
+    "fetched_at": "2026-06-12T10:04:39.629388+00:00",
     "history_file": "history/017183a0847d.json"
   },
   "bf9ccce0c466": {
@@ -6509,7 +6509,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:18:19.847105+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:17:21.843392+00:00",
+    "fetched_at": "2026-06-12T10:05:07.142433+00:00",
     "history_file": "history/59685e5ca520.json"
   },
   "aef697ce7353": {
@@ -6529,7 +6529,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:18:20.044889+00:00",
     "last_updated_at": "2026-05-18T15:18:20.044889+00:00",
-    "fetched_at": "2026-06-11T10:17:22.116319+00:00",
+    "fetched_at": "2026-06-12T10:05:07.519067+00:00",
     "history_file": "history/aef697ce7353.json"
   },
   "0dd62175757d": {
@@ -6567,7 +6567,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:18:20.424459+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:17:26.658963+00:00",
+    "fetched_at": "2026-06-12T10:05:12.675956+00:00",
     "history_file": "history/50dc89e17cc3.json"
   },
   "606a0834f66e": {
@@ -6714,7 +6714,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:18:22.223569+00:00",
     "last_updated_at": "2026-05-18T15:18:22.223569+00:00",
-    "fetched_at": "2026-06-11T10:17:21.261436+00:00",
+    "fetched_at": "2026-06-12T10:05:06.200002+00:00",
     "history_file": "history/5843cc52d022.json"
   },
   "42ced9fccabc": {
@@ -6808,7 +6808,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:18:23.418123+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:17:28.915737+00:00",
+    "fetched_at": "2026-06-12T10:05:15.183119+00:00",
     "history_file": "history/0c30211a5a18.json"
   },
   "e3199e51366d": {
@@ -7001,7 +7001,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:18:25.978524+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:17:26.473908+00:00",
+    "fetched_at": "2026-06-12T10:05:12.355563+00:00",
     "history_file": "history/80b04c0792eb.json"
   },
   "ce2b08864ff6": {
@@ -7077,7 +7077,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:18:27.352060+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:17:30.047990+00:00",
+    "fetched_at": "2026-06-12T10:05:16.375030+00:00",
     "history_file": "history/568fba0b4fcc.json"
   },
   "e131b71ba3dc": {
@@ -7113,7 +7113,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:18:28.105006+00:00",
     "last_updated_at": "2026-05-18T15:18:28.105006+00:00",
-    "fetched_at": "2026-06-11T10:17:36.875899+00:00",
+    "fetched_at": "2026-06-12T10:05:24.226493+00:00",
     "history_file": "history/1e5776421c10.json"
   },
   "bce70042b16f": {
@@ -7169,7 +7169,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:18:28.685817+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:17:31.791390+00:00",
+    "fetched_at": "2026-06-12T10:05:18.625991+00:00",
     "history_file": "history/3b4b8ac27f7b.json"
   },
   "2df1be115477": {
@@ -7187,7 +7187,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:18:28.936045+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:17:41.088297+00:00",
+    "fetched_at": "2026-06-12T10:05:28.945947+00:00",
     "history_file": "history/2df1be115477.json"
   },
   "5cd154482b38": {
@@ -7409,7 +7409,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:18:31.563195+00:00",
     "last_updated_at": "2026-05-18T15:18:31.563195+00:00",
-    "fetched_at": "2026-06-11T10:17:40.290051+00:00",
+    "fetched_at": "2026-06-12T10:05:27.843132+00:00",
     "history_file": "history/9f032df9e84b.json"
   },
   "e444b3e1a1bf": {
@@ -7447,7 +7447,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:18:31.968720+00:00",
     "last_updated_at": "2026-05-18T15:18:31.968720+00:00",
-    "fetched_at": "2026-06-11T10:17:25.389672+00:00",
+    "fetched_at": "2026-06-12T10:05:11.152344+00:00",
     "history_file": "history/1bf36a14a590.json"
   },
   "07cc76f2d951": {
@@ -7483,7 +7483,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:18:32.454972+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:17:26.878358+00:00",
+    "fetched_at": "2026-06-12T10:05:12.907218+00:00",
     "history_file": "history/d2f1ec3f42ce.json"
   },
   "55c6bbb9e456": {
@@ -7503,7 +7503,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:18:32.683081+00:00",
     "last_updated_at": "2026-05-18T15:18:32.683081+00:00",
-    "fetched_at": "2026-06-11T10:17:38.429064+00:00",
+    "fetched_at": "2026-06-12T10:05:25.883212+00:00",
     "history_file": "history/55c6bbb9e456.json"
   },
   "42381e8a51b5": {
@@ -7580,7 +7580,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:18:33.371037+00:00",
     "last_updated_at": "2026-05-18T15:18:33.371037+00:00",
-    "fetched_at": "2026-06-11T10:17:25.710853+00:00",
+    "fetched_at": "2026-06-12T10:05:11.552944+00:00",
     "history_file": "history/4bb4d44f9330.json"
   },
   "94ebb6b48718": {
@@ -7793,7 +7793,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-18T15:18:36.463925+00:00",
     "last_updated_at": "2026-05-18T15:18:36.463925+00:00",
-    "fetched_at": "2026-06-11T10:17:37.739691+00:00",
+    "fetched_at": "2026-06-12T10:05:25.214297+00:00",
     "history_file": "history/e4f0004ad7cb.json"
   },
   "28aaafd2598b": {
@@ -7992,7 +7992,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:18:39.037300+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:17:23.131128+00:00",
+    "fetched_at": "2026-06-12T10:05:08.696464+00:00",
     "history_file": "history/b4ba181e3bbe.json"
   },
   "19115fc8fa93": {
@@ -8260,7 +8260,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:18:42.744873+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:17:27.310366+00:00",
+    "fetched_at": "2026-06-12T10:05:13.377619+00:00",
     "history_file": "history/afbe2d2ea7ae.json"
   },
   "a3b3419dc3bd": {
@@ -8278,7 +8278,7 @@
     "status": "error",
     "first_seen_at": "2026-05-18T15:18:42.926430+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:17:28.712390+00:00",
+    "fetched_at": "2026-06-12T10:05:14.956354+00:00",
     "history_file": "history/a3b3419dc3bd.json"
   },
   "cb9e297fcd29": {
@@ -8484,7 +8484,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-19T09:35:14.237975+00:00",
     "last_updated_at": "2026-05-19T09:35:14.237975+00:00",
-    "fetched_at": "2026-06-06T08:28:58.401326+00:00",
+    "fetched_at": "2026-06-12T10:03:40.640829+00:00",
     "history_file": "history/1d34ac3e5ab3.json"
   },
   "7649b5901df5": {
@@ -8867,7 +8867,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-19T09:35:21.546103+00:00",
     "last_updated_at": "2026-05-19T09:35:21.546103+00:00",
-    "fetched_at": "2026-05-31T08:39:22.794093+00:00",
+    "fetched_at": "2026-06-12T10:03:51.775782+00:00",
     "history_file": "history/6aa3151e8e65.json"
   },
   "d7824836d3cc": {
@@ -8954,7 +8954,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-19T09:35:22.786782+00:00",
     "last_updated_at": "2026-05-19T09:35:22.786782+00:00",
-    "fetched_at": "2026-06-11T10:16:21.724886+00:00",
+    "fetched_at": "2026-06-12T10:03:43.164441+00:00",
     "history_file": "history/007646c76283.json"
   },
   "301249012a7a": {
@@ -9189,7 +9189,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-19T09:35:26.113695+00:00",
     "last_updated_at": "2026-05-19T09:35:26.113695+00:00",
-    "fetched_at": "2026-05-30T08:23:14.633565+00:00",
+    "fetched_at": "2026-06-12T10:03:57.686901+00:00",
     "history_file": "history/95cbca9cc197.json"
   },
   "7a5055bd6775": {
@@ -9309,7 +9309,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-19T09:35:28.253037+00:00",
     "last_updated_at": "2026-05-19T09:35:28.253037+00:00",
-    "fetched_at": "2026-06-01T11:23:18.143735+00:00",
+    "fetched_at": "2026-06-12T10:03:49.936125+00:00",
     "history_file": "history/232fe7e5bc71.json"
   },
   "1853946e2d5c": {
@@ -9594,7 +9594,7 @@
     "status": "error",
     "first_seen_at": "2026-05-19T09:35:32.411623+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-07T08:50:14.920681+00:00",
+    "fetched_at": "2026-06-12T10:03:46.670770+00:00",
     "history_file": "history/cf8fb8a98f23.json"
   },
   "6cf0bed2d860": {
@@ -9697,7 +9697,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-19T09:35:33.416520+00:00",
     "last_updated_at": "2026-05-19T09:35:33.416520+00:00",
-    "fetched_at": "2026-06-10T09:50:21.818911+00:00",
+    "fetched_at": "2026-06-12T10:03:58.382352+00:00",
     "history_file": "history/c626e8de0cad.json"
   },
   "27ad7faa1cb5": {
@@ -10100,7 +10100,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-19T09:35:54.004825+00:00",
     "last_updated_at": "2026-05-19T09:35:54.004825+00:00",
-    "fetched_at": "2026-06-10T09:50:50.089403+00:00",
+    "fetched_at": "2026-06-12T10:04:27.130312+00:00",
     "history_file": "history/4328a8718784.json"
   },
   "73b3cfd37880": {
@@ -10205,7 +10205,7 @@
     "status": "error",
     "first_seen_at": "2026-05-19T09:35:57.023941+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:16:33.952969+00:00",
+    "fetched_at": "2026-06-12T10:04:10.218621+00:00",
     "history_file": "history/7c1f92474899.json"
   },
   "ab7f7d1ef01f": {
@@ -10288,7 +10288,7 @@
     "status": "error",
     "first_seen_at": "2026-05-19T09:35:58.575699+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:16:31.422359+00:00",
+    "fetched_at": "2026-06-12T10:04:07.796036+00:00",
     "history_file": "history/bb60c72be792.json"
   },
   "6561743c4679": {
@@ -10435,7 +10435,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-19T09:36:14.435248+00:00",
     "last_updated_at": "2026-05-19T09:36:14.435248+00:00",
-    "fetched_at": "2026-06-11T10:17:00.943122+00:00",
+    "fetched_at": "2026-06-12T10:04:46.116351+00:00",
     "history_file": "history/9f6ebdf0931f.json"
   },
   "779e8bdb687d": {
@@ -10505,7 +10505,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-19T09:36:15.569487+00:00",
     "last_updated_at": "2026-05-19T09:36:15.569487+00:00",
-    "fetched_at": "2026-06-10T09:51:40.527289+00:00",
+    "fetched_at": "2026-06-12T10:04:44.209949+00:00",
     "history_file": "history/a2a75e16759c.json"
   },
   "d8ed9d3f19cd": {
@@ -10551,7 +10551,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-19T09:36:16.407274+00:00",
     "last_updated_at": "2026-05-19T09:36:16.407274+00:00",
-    "fetched_at": "2026-06-11T10:17:05.076221+00:00",
+    "fetched_at": "2026-06-12T10:04:41.812869+00:00",
     "history_file": "history/1312110652d8.json"
   },
   "78328fd393d3": {
@@ -10656,7 +10656,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-19T09:36:18.414135+00:00",
     "last_updated_at": "2026-05-19T09:36:18.414135+00:00",
-    "fetched_at": "2026-06-11T10:16:57.373095+00:00",
+    "fetched_at": "2026-06-12T10:04:39.840334+00:00",
     "history_file": "history/56c9867dd879.json"
   },
   "fc825145e3e9": {
@@ -10801,7 +10801,7 @@
     "status": "error",
     "first_seen_at": "2026-05-19T09:36:20.175685+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-10T09:51:35.776728+00:00",
+    "fetched_at": "2026-06-12T10:04:45.057610+00:00",
     "history_file": "history/f456e53e86f9.json"
   },
   "0436793cfaf5": {
@@ -11287,7 +11287,7 @@
     "status": "error",
     "first_seen_at": "2026-05-19T09:36:37.573915+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:17:32.013939+00:00",
+    "fetched_at": "2026-06-12T10:05:18.864060+00:00",
     "history_file": "history/903e094ebb3b.json"
   },
   "09992dbbf80e": {
@@ -11350,7 +11350,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-19T09:36:38.436482+00:00",
     "last_updated_at": "2026-05-19T09:36:38.436482+00:00",
-    "fetched_at": "2026-06-11T10:17:34.131730+00:00",
+    "fetched_at": "2026-06-12T10:05:21.391070+00:00",
     "history_file": "history/dc61b5b9d05e.json"
   },
   "e5d8962817e4": {
@@ -11665,7 +11665,7 @@
     "status": "error",
     "first_seen_at": "2026-05-19T09:36:51.198221+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:17:24.046749+00:00",
+    "fetched_at": "2026-06-12T10:05:09.859458+00:00",
     "history_file": "history/c0b4a0f24b29.json"
   },
   "fce9d76af85c": {
@@ -11730,7 +11730,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-19T09:40:03.634305+00:00",
     "last_updated_at": "2026-05-19T09:40:03.634305+00:00",
-    "fetched_at": "2026-06-10T09:51:33.567842+00:00",
+    "fetched_at": "2026-06-12T10:04:45.890766+00:00",
     "history_file": "history/64f5619584b4.json"
   },
   "8139459ce62e": {
@@ -11766,7 +11766,7 @@
     "status": "error",
     "first_seen_at": "2026-05-19T09:40:04.076982+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:17:01.783525+00:00",
+    "fetched_at": "2026-06-12T10:04:44.827843+00:00",
     "history_file": "history/127093465baf.json"
   },
   "5c1fcee37daf": {
@@ -11814,7 +11814,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-19T09:40:04.776940+00:00",
     "last_updated_at": "2026-05-19T09:40:04.776940+00:00",
-    "fetched_at": "2026-06-11T10:16:59.024322+00:00",
+    "fetched_at": "2026-06-12T10:04:41.490510+00:00",
     "history_file": "history/e08013d29e78.json"
   },
   "c51ecc36c04d": {
@@ -11835,7 +11835,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-19T09:40:05.528327+00:00",
     "last_updated_at": "2026-05-19T09:40:05.528327+00:00",
-    "fetched_at": "2026-06-11T10:16:57.627830+00:00",
+    "fetched_at": "2026-06-12T10:04:40.099968+00:00",
     "history_file": "history/c51ecc36c04d.json"
   },
   "35c14e7d469e": {
@@ -12718,7 +12718,7 @@
     "status": "error",
     "first_seen_at": "2026-05-20T08:59:55.516502+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-10T09:50:16.472694+00:00",
+    "fetched_at": "2026-06-12T10:03:53.643298+00:00",
     "history_file": "history/0d1d17f4fd41.json"
   },
   "40094be63d3e": {
@@ -12843,7 +12843,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-20T09:00:02.691959+00:00",
     "last_updated_at": "2026-05-20T09:00:02.691959+00:00",
-    "fetched_at": "2026-06-11T10:16:03.663302+00:00",
+    "fetched_at": "2026-06-12T10:03:37.488901+00:00",
     "history_file": "history/dfb129007f45.json"
   },
   "893fa2dea1ad": {
@@ -12870,7 +12870,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-20T09:00:03.145678+00:00",
     "last_updated_at": "2026-05-20T09:00:03.145678+00:00",
-    "fetched_at": "2026-06-11T10:16:16.403005+00:00",
+    "fetched_at": "2026-06-12T10:03:39.318047+00:00",
     "history_file": "history/893fa2dea1ad.json"
   },
   "f84ef403270e": {
@@ -12933,7 +12933,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-20T09:00:05.226877+00:00",
     "last_updated_at": "2026-05-20T09:00:05.226877+00:00",
-    "fetched_at": "2026-06-11T10:16:21.529617+00:00",
+    "fetched_at": "2026-06-12T10:03:42.952680+00:00",
     "history_file": "history/9af888c75c44.json"
   },
   "20fcbab9833a": {
@@ -12961,7 +12961,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-20T09:00:06.242045+00:00",
     "last_updated_at": "2026-05-20T09:00:06.242045+00:00",
-    "fetched_at": "2026-06-03T10:51:15.049590+00:00",
+    "fetched_at": "2026-06-12T10:03:46.972208+00:00",
     "history_file": "history/20fcbab9833a.json"
   },
   "54ef1dbf0ba3": {
@@ -12979,7 +12979,7 @@
     "status": "error",
     "first_seen_at": "2026-05-20T09:00:06.760663+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-07T08:50:08.690104+00:00",
+    "fetched_at": "2026-06-12T10:03:59.628655+00:00",
     "history_file": "history/54ef1dbf0ba3.json"
   },
   "b60d7d4b2d44": {
@@ -13017,7 +13017,7 @@
     "status": "error",
     "first_seen_at": "2026-05-20T09:00:07.627460+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:16:11.449883+00:00",
+    "fetched_at": "2026-06-12T10:03:41.228318+00:00",
     "history_file": "history/2af2175fcdbd.json"
   },
   "2e241a5a619b": {
@@ -14027,7 +14027,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-20T09:00:58.137288+00:00",
     "last_updated_at": "2026-05-20T09:00:58.137288+00:00",
-    "fetched_at": "2026-06-09T09:34:35.911001+00:00",
+    "fetched_at": "2026-06-12T10:04:21.148455+00:00",
     "history_file": "history/ea8eaa5ec6d9.json"
   },
   "77e9b089d707": {
@@ -14124,7 +14124,7 @@
     "status": "error",
     "first_seen_at": "2026-05-20T09:01:00.444211+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:16:48.850188+00:00",
+    "fetched_at": "2026-06-12T10:04:29.795252+00:00",
     "history_file": "history/b7786e734458.json"
   },
   "a7a5ffb21534": {
@@ -14160,7 +14160,7 @@
     "status": "error",
     "first_seen_at": "2026-05-20T09:01:01.502745+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-05-21T09:32:44.551738+00:00",
+    "fetched_at": "2026-06-12T10:04:32.546783+00:00",
     "history_file": "history/e38ac60c25fb.json"
   },
   "be37f970acc1": {
@@ -14286,7 +14286,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-20T09:01:14.468898+00:00",
     "last_updated_at": "2026-05-20T09:01:14.468898+00:00",
-    "fetched_at": "2026-06-11T10:16:52.796484+00:00",
+    "fetched_at": "2026-06-12T10:04:29.083259+00:00",
     "history_file": "history/672d3267db86.json"
   },
   "6dbaf9ccd23f": {
@@ -14411,7 +14411,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-20T09:01:43.815938+00:00",
     "last_updated_at": "2026-05-20T09:01:43.815938+00:00",
-    "fetched_at": "2026-06-11T10:17:01.965795+00:00",
+    "fetched_at": "2026-06-12T10:04:41.249489+00:00",
     "history_file": "history/f66117ae1951.json"
   },
   "f449274b07b5": {
@@ -15146,7 +15146,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-20T09:02:26.531649+00:00",
     "last_updated_at": "2026-05-20T09:02:26.531649+00:00",
-    "fetched_at": "2026-06-11T10:17:29.273698+00:00",
+    "fetched_at": "2026-06-12T10:05:15.659764+00:00",
     "history_file": "history/54f788ed066c.json"
   },
   "2d52726b3566": {
@@ -15322,7 +15322,7 @@
     "status": "error",
     "first_seen_at": "2026-05-21T09:31:57.869018+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:16:06.284630+00:00",
+    "fetched_at": "2026-06-12T10:03:51.972829+00:00",
     "history_file": "history/b939de8aa9e4.json"
   },
   "8f36c03090fd": {
@@ -15453,7 +15453,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-21T09:32:04.336579+00:00",
     "last_updated_at": "2026-05-21T09:32:04.336579+00:00",
-    "fetched_at": "2026-06-04T09:50:37.206703+00:00",
+    "fetched_at": "2026-06-12T10:03:58.841486+00:00",
     "history_file": "history/cb8215377e7c.json"
   },
   "1e6bcc2064cf": {
@@ -15471,7 +15471,7 @@
     "status": "error",
     "first_seen_at": "2026-05-21T09:32:06.341558+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:16:17.294923+00:00",
+    "fetched_at": "2026-06-12T10:03:57.487709+00:00",
     "history_file": "history/1e6bcc2064cf.json"
   },
   "3e52368ef330": {
@@ -15509,7 +15509,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-21T09:32:07.098608+00:00",
     "last_updated_at": "2026-05-21T09:32:07.098608+00:00",
-    "fetched_at": "2026-06-06T08:29:01.724485+00:00",
+    "fetched_at": "2026-06-12T10:03:51.551582+00:00",
     "history_file": "history/36139d66a979.json"
   },
   "30690f8a648d": {
@@ -15542,7 +15542,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-21T09:32:07.654024+00:00",
     "last_updated_at": "2026-05-21T09:32:07.654024+00:00",
-    "fetched_at": "2026-06-05T09:38:45.677748+00:00",
+    "fetched_at": "2026-06-12T10:03:55.590631+00:00",
     "history_file": "history/30690f8a648d.json"
   },
   "2f0a88f53888": {
@@ -15569,7 +15569,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-21T09:32:08.751258+00:00",
     "last_updated_at": "2026-05-21T09:32:08.751258+00:00",
-    "fetched_at": "2026-06-05T09:39:07.143392+00:00",
+    "fetched_at": "2026-06-12T10:03:47.370844+00:00",
     "history_file": "history/2f0a88f53888.json"
   },
   "362be263716f": {
@@ -15773,7 +15773,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-21T09:32:12.924257+00:00",
     "last_updated_at": "2026-05-21T09:32:12.924257+00:00",
-    "fetched_at": "2026-06-06T08:28:53.911530+00:00",
+    "fetched_at": "2026-06-12T10:03:51.269134+00:00",
     "history_file": "history/1c98fb073d8d.json"
   },
   "c4a9345d4452": {
@@ -15860,7 +15860,7 @@
     "status": "error",
     "first_seen_at": "2026-05-21T09:32:15.694408+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:16:10.642708+00:00",
+    "fetched_at": "2026-06-12T10:03:50.263721+00:00",
     "history_file": "history/8ea8530ba872.json"
   },
   "55ff7c4e2a0e": {
@@ -16089,7 +16089,7 @@
     "status": "error",
     "first_seen_at": "2026-05-21T09:32:25.618003+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-05T09:39:47.090385+00:00",
+    "fetched_at": "2026-06-12T10:04:14.938317+00:00",
     "history_file": "history/77c82a245485.json"
   },
   "d79175b42aa8": {
@@ -16274,7 +16274,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-21T09:32:29.820547+00:00",
     "last_updated_at": "2026-05-21T09:32:29.820547+00:00",
-    "fetched_at": "2026-06-10T09:50:53.414819+00:00",
+    "fetched_at": "2026-06-12T10:04:08.190679+00:00",
     "history_file": "history/380fe9eeeaa4.json"
   },
   "1ed75b86a902": {
@@ -16609,7 +16609,7 @@
     "status": "error",
     "first_seen_at": "2026-05-21T09:32:41.866299+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-06T08:29:23.179689+00:00",
+    "fetched_at": "2026-06-12T10:04:30.072640+00:00",
     "history_file": "history/e6d709643aac.json"
   },
   "79720e3eb546": {
@@ -16663,7 +16663,7 @@
     "status": "error",
     "first_seen_at": "2026-05-21T09:32:45.440806+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:16:30.795749+00:00",
+    "fetched_at": "2026-06-12T10:04:07.019870+00:00",
     "history_file": "history/168111990b1e.json"
   },
   "41fa00cf5e69": {
@@ -16701,7 +16701,7 @@
     "status": "error",
     "first_seen_at": "2026-05-21T09:32:46.465539+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:16:50.097425+00:00",
+    "fetched_at": "2026-06-12T10:04:34.275965+00:00",
     "history_file": "history/640523f557a5.json"
   },
   "292527699c3d": {
@@ -16719,7 +16719,7 @@
     "status": "error",
     "first_seen_at": "2026-05-21T09:32:53.850570+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:16:59.601679+00:00",
+    "fetched_at": "2026-06-12T10:04:40.840301+00:00",
     "history_file": "history/292527699c3d.json"
   },
   "a74cb9198515": {
@@ -18425,7 +18425,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-21T09:33:26.702604+00:00",
     "last_updated_at": "2026-05-21T09:33:26.702604+00:00",
-    "fetched_at": "2026-06-11T10:17:20.824052+00:00",
+    "fetched_at": "2026-06-12T10:05:05.709327+00:00",
     "history_file": "history/4ba0d425aecf.json"
   },
   "885e8e6c8274": {
@@ -18749,7 +18749,7 @@
     "status": "error",
     "first_seen_at": "2026-05-21T09:33:31.685305+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:17:30.249589+00:00",
+    "fetched_at": "2026-06-12T10:05:16.610237+00:00",
     "history_file": "history/8649bc031cec.json"
   },
   "d87a01519046": {
@@ -19920,7 +19920,7 @@
     "status": "error",
     "first_seen_at": "2026-05-22T08:55:10.336785+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-08T10:28:33.183151+00:00",
+    "fetched_at": "2026-06-12T10:03:40.419889+00:00",
     "history_file": "history/bc7c7568e0de.json"
   },
   "9931a77a84b8": {
@@ -19940,7 +19940,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-22T08:55:10.479066+00:00",
     "last_updated_at": "2026-05-22T08:55:10.479066+00:00",
-    "fetched_at": "2026-06-11T10:16:03.916846+00:00",
+    "fetched_at": "2026-06-12T10:03:37.682375+00:00",
     "history_file": "history/9931a77a84b8.json"
   },
   "84b7fc3292d5": {
@@ -19958,7 +19958,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-22T08:55:13.246518+00:00",
     "last_updated_at": "2026-05-22T08:55:13.246518+00:00",
-    "fetched_at": "2026-06-07T08:50:06.124088+00:00",
+    "fetched_at": "2026-06-12T10:03:53.310471+00:00",
     "history_file": "history/84b7fc3292d5.json"
   },
   "e3949c5cfe1a": {
@@ -20123,7 +20123,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-22T08:55:18.944209+00:00",
     "last_updated_at": "2026-05-22T08:55:18.944209+00:00",
-    "fetched_at": "2026-06-03T10:51:03.465112+00:00",
+    "fetched_at": "2026-06-12T10:03:59.343243+00:00",
     "history_file": "history/86d980cf222c.json"
   },
   "737aaf880d3c": {
@@ -20197,7 +20197,7 @@
     "status": "error",
     "first_seen_at": "2026-05-22T08:55:22.950946+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-09T09:33:58.033608+00:00",
+    "fetched_at": "2026-06-12T10:03:46.464344+00:00",
     "history_file": "history/03d974cfda14.json"
   },
   "01d040f171f5": {
@@ -20709,7 +20709,7 @@
     "status": "error",
     "first_seen_at": "2026-05-22T08:55:39.491303+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-10T09:51:09.776025+00:00",
+    "fetched_at": "2026-06-12T10:04:18.769016+00:00",
     "history_file": "history/41113e31433f.json"
   },
   "8b1822b81642": {
@@ -24130,7 +24130,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-23T08:12:32.939569+00:00",
     "last_updated_at": "2026-05-23T08:12:32.939569+00:00",
-    "fetched_at": "2026-06-02T10:15:20.061634+00:00",
+    "fetched_at": "2026-06-12T10:03:40.208277+00:00",
     "history_file": "history/21088c3cc21f.json"
   },
   "0f1c2cd98121": {
@@ -24172,7 +24172,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-23T08:12:33.476687+00:00",
     "last_updated_at": "2026-05-23T08:12:33.476687+00:00",
-    "fetched_at": "2026-06-07T08:50:01.170972+00:00",
+    "fetched_at": "2026-06-12T10:03:59.087459+00:00",
     "history_file": "history/2bd66710504d.json"
   },
   "107a5608ff5a": {
@@ -24264,7 +24264,7 @@
     "status": "error",
     "first_seen_at": "2026-05-23T08:12:43.493330+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-10T09:50:18.504906+00:00",
+    "fetched_at": "2026-06-12T10:03:39.783098+00:00",
     "history_file": "history/47d7b4cc0092.json"
   },
   "cc44d0f4f585": {
@@ -24297,7 +24297,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-23T08:12:43.729763+00:00",
     "last_updated_at": "2026-05-23T08:12:43.729763+00:00",
-    "fetched_at": "2026-06-05T09:38:52.368455+00:00",
+    "fetched_at": "2026-06-12T10:03:49.292431+00:00",
     "history_file": "history/cc44d0f4f585.json"
   },
   "789f52fdb973": {
@@ -25977,7 +25977,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-23T08:13:59.273149+00:00",
     "last_updated_at": "2026-05-23T08:13:59.273149+00:00",
-    "fetched_at": "2026-06-11T10:17:33.377130+00:00",
+    "fetched_at": "2026-06-12T10:05:20.572103+00:00",
     "history_file": "history/7355bd25173d.json"
   },
   "a10c89015fec": {
@@ -27471,7 +27471,7 @@
     "status": "error",
     "first_seen_at": "2026-05-24T08:24:15.575415+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-07T08:49:59.236966+00:00",
+    "fetched_at": "2026-06-12T10:03:48.664220+00:00",
     "history_file": "history/c75da0c1ebc5.json"
   },
   "36e88bd50e8f": {
@@ -27713,7 +27713,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-24T08:24:25.796744+00:00",
     "last_updated_at": "2026-05-24T08:24:25.796744+00:00",
-    "fetched_at": "2026-06-06T08:28:57.262711+00:00",
+    "fetched_at": "2026-06-12T10:03:52.886780+00:00",
     "history_file": "history/cb71027a5d6d.json"
   },
   "7c302635d52b": {
@@ -29754,7 +29754,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-24T08:25:54.352364+00:00",
     "last_updated_at": "2026-05-24T08:25:54.352364+00:00",
-    "fetched_at": "2026-06-11T10:17:35.582055+00:00",
+    "fetched_at": "2026-06-12T10:05:22.829437+00:00",
     "history_file": "history/9ecb84506c43.json"
   },
   "98dc1ce5def5": {
@@ -29880,7 +29880,7 @@
     "status": "error",
     "first_seen_at": "2026-05-24T08:25:56.450545+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:17:23.865576+00:00",
+    "fetched_at": "2026-06-12T10:05:09.621892+00:00",
     "history_file": "history/e635f2b6a2c9.json"
   },
   "48a4544d429c": {
@@ -30413,7 +30413,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-24T08:26:08.662874+00:00",
     "last_updated_at": "2026-05-24T08:26:08.662874+00:00",
-    "fetched_at": "2026-06-11T10:17:29.809419+00:00",
+    "fetched_at": "2026-06-12T10:05:16.095112+00:00",
     "history_file": "history/7af8555732c9.json"
   },
   "b366971e38f9": {
@@ -30471,7 +30471,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-24T08:26:09.574475+00:00",
     "last_updated_at": "2026-05-24T08:26:09.574475+00:00",
-    "fetched_at": "2026-06-11T10:17:25.105267+00:00",
+    "fetched_at": "2026-06-12T10:05:10.930166+00:00",
     "history_file": "history/d016f28fd033.json"
   },
   "74605a87dd2a": {
@@ -34268,7 +34268,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-26T09:45:19.035376+00:00",
     "last_updated_at": "2026-05-26T09:45:19.035376+00:00",
-    "fetched_at": "2026-06-10T09:51:25.477419+00:00",
+    "fetched_at": "2026-06-12T10:04:56.036613+00:00",
     "history_file": "history/1635a79dea36.json"
   },
   "dd6f71114795": {
@@ -35922,7 +35922,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-27T09:38:42.321661+00:00",
     "last_updated_at": "2026-05-27T09:38:42.321661+00:00",
-    "fetched_at": "2026-06-11T10:16:32.379780+00:00",
+    "fetched_at": "2026-06-12T10:04:08.846042+00:00",
     "history_file": "history/94904e2ee9c1.json"
   },
   "153c3b3af7f4": {
@@ -36809,7 +36809,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-27T09:39:21.549014+00:00",
     "last_updated_at": "2026-05-27T09:39:21.549014+00:00",
-    "fetched_at": "2026-06-09T09:34:54.223696+00:00",
+    "fetched_at": "2026-06-12T10:04:53.689018+00:00",
     "history_file": "history/a1117f4e72b2.json"
   },
   "b39ecc0609cf": {
@@ -39439,7 +39439,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-28T09:56:00.232876+00:00",
     "last_updated_at": "2026-05-28T09:56:00.232876+00:00",
-    "fetched_at": "2026-06-07T08:50:50.107607+00:00",
+    "fetched_at": "2026-06-12T10:04:51.667293+00:00",
     "history_file": "history/450cffe9524a.json"
   },
   "ce69d30a7124": {
@@ -41209,10 +41209,10 @@
     "paths_count": 5,
     "latest_info_version": "1.0.0",
     "latest_hash": "b9a6f72f3123b12cf60d3ec1397713b3bf088a8ec46940bfade144ce7db1b0df",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-05-29T09:45:44.821240+00:00",
     "last_updated_at": "2026-05-29T09:45:44.821240+00:00",
-    "fetched_at": "2026-05-29T09:45:44.821240+00:00",
+    "fetched_at": "2026-06-12T10:04:51.042729+00:00",
     "history_file": "history/3f594c056cd9.json"
   },
   "0dab48c1241e": {
@@ -41579,7 +41579,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-29T09:45:50.838258+00:00",
     "last_updated_at": "2026-05-29T09:45:50.838258+00:00",
-    "fetched_at": "2026-06-06T08:29:38.083121+00:00",
+    "fetched_at": "2026-06-12T10:04:54.574675+00:00",
     "history_file": "history/59abbd15e987.json"
   },
   "8babf035c750": {
@@ -42960,7 +42960,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-30T08:23:36.754696+00:00",
     "last_updated_at": "2026-05-30T08:23:36.754696+00:00",
-    "fetched_at": "2026-06-10T09:51:11.403573+00:00",
+    "fetched_at": "2026-06-12T10:04:20.358768+00:00",
     "history_file": "history/0cd18b1dda24.json"
   },
   "3f12e605e1aa": {
@@ -43724,7 +43724,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-30T08:23:54.320938+00:00",
     "last_updated_at": "2026-05-30T08:23:54.320938+00:00",
-    "fetched_at": "2026-05-31T08:40:06.966398+00:00",
+    "fetched_at": "2026-06-12T10:04:54.839008+00:00",
     "history_file": "history/1d331e12c14c.json"
   },
   "0ddb14eeadd7": {
@@ -45404,7 +45404,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-05-31T08:40:21.553897+00:00",
     "last_updated_at": "2026-05-31T08:40:21.553897+00:00",
-    "fetched_at": "2026-06-11T10:17:31.438926+00:00",
+    "fetched_at": "2026-06-12T10:05:18.180706+00:00",
     "history_file": "history/d0aa3e41ba29.json"
   },
   "acc4b6cc4ee0": {
@@ -47497,7 +47497,7 @@
     "status": "error",
     "first_seen_at": "2026-06-02T10:15:32.539015+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-10T09:51:01.555463+00:00",
+    "fetched_at": "2026-06-12T10:04:30.372774+00:00",
     "history_file": "history/724ff51cf50e.json"
   },
   "8d7116a618d9": {
@@ -47533,7 +47533,7 @@
     "status": "error",
     "first_seen_at": "2026-06-02T10:15:35.263674+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:16:46.478313+00:00",
+    "fetched_at": "2026-06-12T10:04:27.843917+00:00",
     "history_file": "history/ca0a7cd08492.json"
   },
   "b4bb5e06ec0d": {
@@ -47588,7 +47588,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-06-02T10:15:38.068240+00:00",
     "last_updated_at": "2026-06-02T10:15:38.068240+00:00",
-    "fetched_at": "2026-06-10T09:51:07.422388+00:00",
+    "fetched_at": "2026-06-12T10:04:31.184579+00:00",
     "history_file": "history/6a99181306e6.json"
   },
   "aef851d072e7": {
@@ -48334,7 +48334,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-06-02T10:16:46.944321+00:00",
     "last_updated_at": "2026-06-02T10:16:46.944321+00:00",
-    "fetched_at": "2026-06-11T10:17:22.293649+00:00",
+    "fetched_at": "2026-06-12T10:05:07.739187+00:00",
     "history_file": "history/f4313ea4be7b.json"
   },
   "13cca18035c6": {
@@ -50414,7 +50414,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-06-03T10:52:50.109531+00:00",
     "last_updated_at": "2026-06-03T10:52:50.109531+00:00",
-    "fetched_at": "2026-06-11T10:17:35.843853+00:00",
+    "fetched_at": "2026-06-12T10:05:23.112535+00:00",
     "history_file": "history/cd33ab35d4d5.json"
   },
   "02049e3034f0": {
@@ -50469,7 +50469,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-06-03T10:53:02.415076+00:00",
     "last_updated_at": "2026-06-03T10:53:02.415076+00:00",
-    "fetched_at": "2026-06-11T10:17:27.536291+00:00",
+    "fetched_at": "2026-06-12T10:05:13.568952+00:00",
     "history_file": "history/b3c76d68aad9.json"
   },
   "1a76e98c2199": {
@@ -51908,7 +51908,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-06-04T09:51:46.386096+00:00",
     "last_updated_at": "2026-06-04T09:51:46.386096+00:00",
-    "fetched_at": "2026-06-11T10:17:33.923537+00:00",
+    "fetched_at": "2026-06-12T10:05:21.186889+00:00",
     "history_file": "history/1b03f79f8ccc.json"
   },
   "14d9d00ee1f5": {
@@ -52103,7 +52103,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-06-05T09:38:40.335280+00:00",
     "last_updated_at": "2026-06-05T09:38:40.335280+00:00",
-    "fetched_at": "2026-06-11T10:16:03.059944+00:00",
+    "fetched_at": "2026-06-12T10:03:37.031656+00:00",
     "history_file": "history/e1bc535367a1.json"
   },
   "448efbc28c41": {
@@ -52274,7 +52274,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-06-05T09:38:46.545743+00:00",
     "last_updated_at": "2026-06-05T09:38:46.545743+00:00",
-    "fetched_at": "2026-06-07T08:49:58.985390+00:00",
+    "fetched_at": "2026-06-12T10:03:46.128126+00:00",
     "history_file": "history/a9accbc39006.json"
   },
   "c6a38be38e1d": {
@@ -52292,7 +52292,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-06-05T09:38:47.559715+00:00",
     "last_updated_at": "2026-06-05T09:38:47.559715+00:00",
-    "fetched_at": "2026-06-11T10:16:19.336835+00:00",
+    "fetched_at": "2026-06-12T10:03:47.646841+00:00",
     "history_file": "history/c6a38be38e1d.json"
   },
   "f3f1dd77520c": {
@@ -52386,10 +52386,10 @@
     "paths_count": 2,
     "latest_info_version": "1.0.0",
     "latest_hash": "2207ed0f748befd55dd00f387728b5d4b273452abd07a2aaa8a96199cd7777b7",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:38:53.439170+00:00",
     "last_updated_at": "2026-06-05T09:38:53.439170+00:00",
-    "fetched_at": "2026-06-05T09:38:53.439170+00:00",
+    "fetched_at": "2026-06-12T10:03:38.630103+00:00",
     "history_file": "history/ab83c0409544.json"
   },
   "efacd997f1cc": {
@@ -52524,7 +52524,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-06-05T09:38:57.768627+00:00",
     "last_updated_at": "2026-06-05T09:38:57.768627+00:00",
-    "fetched_at": "2026-06-11T10:16:21.908926+00:00",
+    "fetched_at": "2026-06-12T10:03:41.513515+00:00",
     "history_file": "history/a3e97c975d09.json"
   },
   "8ec78cd55ae6": {
@@ -52584,10 +52584,10 @@
     "paths_count": 1,
     "latest_info_version": "v1",
     "latest_hash": "dfac934aefcf50535039ddcebcef2ffd0c2fa5393d96a5722c114d1a4cbaa5a6",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-05T09:38:59.556556+00:00",
     "last_updated_at": "2026-06-05T09:38:59.556556+00:00",
-    "fetched_at": "2026-06-05T09:38:59.556556+00:00",
+    "fetched_at": "2026-06-12T10:03:43.994485+00:00",
     "history_file": "history/0523ac8fc5a0.json"
   },
   "db05076ca941": {
@@ -52623,7 +52623,7 @@
     "status": "error",
     "first_seen_at": "2026-06-05T09:39:00.057751+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:16:13.743035+00:00",
+    "fetched_at": "2026-06-12T10:03:54.719567+00:00",
     "history_file": "history/e41f1551f4d7.json"
   },
   "1c1190620a84": {
@@ -52873,7 +52873,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-06-05T09:39:05.519477+00:00",
     "last_updated_at": "2026-06-05T09:39:05.519477+00:00",
-    "fetched_at": "2026-06-11T10:16:10.234280+00:00",
+    "fetched_at": "2026-06-12T10:03:45.934115+00:00",
     "history_file": "history/1dd6dae39049.json"
   },
   "8576d7a2e655": {
@@ -52947,7 +52947,7 @@
     "status": "error",
     "first_seen_at": "2026-06-05T09:39:10.222822+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:16:28.562168+00:00",
+    "fetched_at": "2026-06-12T10:04:04.541945+00:00",
     "history_file": "history/a8747eeb47e7.json"
   },
   "b636b8c2098c": {
@@ -53100,7 +53100,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-06-05T09:39:15.513603+00:00",
     "last_updated_at": "2026-06-05T09:39:15.513603+00:00",
-    "fetched_at": "2026-06-07T08:50:21.805220+00:00",
+    "fetched_at": "2026-06-12T10:04:09.870736+00:00",
     "history_file": "history/5ee82787105b.json"
   },
   "0771c7ac7bdd": {
@@ -53201,7 +53201,7 @@
     "status": "error",
     "first_seen_at": "2026-06-05T09:39:23.043018+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-06T08:29:15.047694+00:00",
+    "fetched_at": "2026-06-12T10:04:14.299555+00:00",
     "history_file": "history/733063045245.json"
   },
   "1ea7b2bf8c20": {
@@ -53219,7 +53219,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-06-05T09:39:25.591641+00:00",
     "last_updated_at": "2026-06-05T09:39:25.591641+00:00",
-    "fetched_at": "2026-06-11T10:16:41.215717+00:00",
+    "fetched_at": "2026-06-12T10:04:16.519934+00:00",
     "history_file": "history/1ea7b2bf8c20.json"
   },
   "abe1ae2ed252": {
@@ -53255,7 +53255,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-06-05T09:39:26.780914+00:00",
     "last_updated_at": "2026-06-05T09:39:26.780914+00:00",
-    "fetched_at": "2026-06-06T08:29:26.053982+00:00",
+    "fetched_at": "2026-06-12T10:04:17.015037+00:00",
     "history_file": "history/fbe4e0ae684c.json"
   },
   "5c989791eb46": {
@@ -53291,7 +53291,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-06-05T09:39:27.680721+00:00",
     "last_updated_at": "2026-06-05T09:39:27.680721+00:00",
-    "fetched_at": "2026-06-11T10:16:42.834074+00:00",
+    "fetched_at": "2026-06-12T10:04:18.535229+00:00",
     "history_file": "history/e08b11ac2af7.json"
   },
   "a035e02d42b4": {
@@ -53329,7 +53329,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-06-05T09:39:28.841336+00:00",
     "last_updated_at": "2026-06-05T09:39:28.841336+00:00",
-    "fetched_at": "2026-06-11T10:16:38.684844+00:00",
+    "fetched_at": "2026-06-12T10:04:19.036382+00:00",
     "history_file": "history/3e626584bb12.json"
   },
   "35d3dddf49ab": {
@@ -53728,7 +53728,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-06-05T09:39:53.826200+00:00",
     "last_updated_at": "2026-06-05T09:39:53.826200+00:00",
-    "fetched_at": "2026-06-11T10:16:56.300988+00:00",
+    "fetched_at": "2026-06-12T10:04:38.589137+00:00",
     "history_file": "history/17bf77fea168.json"
   },
   "6243f4b77fe9": {
@@ -53746,7 +53746,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-06-05T09:39:54.627899+00:00",
     "last_updated_at": "2026-06-05T09:39:54.627899+00:00",
-    "fetched_at": "2026-06-11T10:16:56.820595+00:00",
+    "fetched_at": "2026-06-12T10:04:39.224902+00:00",
     "history_file": "history/6243f4b77fe9.json"
   },
   "31e63eb9cbef": {
@@ -53784,7 +53784,7 @@
     "status": "error",
     "first_seen_at": "2026-06-05T09:39:58.109517+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:17:03.446245+00:00",
+    "fetched_at": "2026-06-12T10:04:46.380578+00:00",
     "history_file": "history/8c388b6d68b6.json"
   },
   "cdd8102cafb3": {
@@ -54056,7 +54056,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:02.829986+00:00",
     "last_updated_at": "2026-06-05T09:40:02.829986+00:00",
-    "fetched_at": "2026-06-06T08:29:35.619853+00:00",
+    "fetched_at": "2026-06-12T10:04:57.563227+00:00",
     "history_file": "history/bbe5a92ff43c.json"
   },
   "a4e353306a0d": {
@@ -54076,7 +54076,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:03.083202+00:00",
     "last_updated_at": "2026-06-05T09:40:03.083202+00:00",
-    "fetched_at": "2026-06-06T08:29:35.794950+00:00",
+    "fetched_at": "2026-06-12T10:04:57.822802+00:00",
     "history_file": "history/a4e353306a0d.json"
   },
   "3d5671fad9b7": {
@@ -54337,7 +54337,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:07.380612+00:00",
     "last_updated_at": "2026-06-05T09:40:07.380612+00:00",
-    "fetched_at": "2026-06-06T08:29:38.432784+00:00",
+    "fetched_at": "2026-06-12T10:05:00.405162+00:00",
     "history_file": "history/07bea5b19488.json"
   },
   "b5efcb67d7ca": {
@@ -54715,7 +54715,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:13.762830+00:00",
     "last_updated_at": "2026-06-05T09:40:13.762830+00:00",
-    "fetched_at": "2026-06-06T08:29:42.680844+00:00",
+    "fetched_at": "2026-06-12T10:04:55.348663+00:00",
     "history_file": "history/ac2a34ef5fb9.json"
   },
   "f47cb8b9354c": {
@@ -54735,7 +54735,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:14.031863+00:00",
     "last_updated_at": "2026-06-05T09:40:14.031863+00:00",
-    "fetched_at": "2026-06-08T10:29:14.921239+00:00",
+    "fetched_at": "2026-06-12T10:05:02.230556+00:00",
     "history_file": "history/f47cb8b9354c.json"
   },
   "c9c6a6fd4e92": {
@@ -55239,7 +55239,7 @@
     "status": "error",
     "first_seen_at": "2026-06-05T09:40:27.558275+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:17:21.074487+00:00",
+    "fetched_at": "2026-06-12T10:05:06.017903+00:00",
     "history_file": "history/bc8a02476c9a.json"
   },
   "00af324b7a16": {
@@ -55259,7 +55259,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:30.014638+00:00",
     "last_updated_at": "2026-06-05T09:40:30.014638+00:00",
-    "fetched_at": "2026-06-11T10:17:22.559615+00:00",
+    "fetched_at": "2026-06-12T10:05:08.005740+00:00",
     "history_file": "history/00af324b7a16.json"
   },
   "8ae651881e64": {
@@ -55316,7 +55316,7 @@
     "status": "error",
     "first_seen_at": "2026-06-05T09:40:35.954670+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:17:26.303987+00:00",
+    "fetched_at": "2026-06-12T10:05:12.145591+00:00",
     "history_file": "history/751a2753b1ce.json"
   },
   "c339e77937c6": {
@@ -55442,7 +55442,7 @@
     "status": "error",
     "first_seen_at": "2026-06-05T09:40:40.726013+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:17:33.542317+00:00",
+    "fetched_at": "2026-06-12T10:05:20.774194+00:00",
     "history_file": "history/ec60c50c93af.json"
   },
   "9937ffff6f59": {
@@ -55534,7 +55534,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:44.525224+00:00",
     "last_updated_at": "2026-06-05T09:40:44.525224+00:00",
-    "fetched_at": "2026-06-11T10:17:22.912874+00:00",
+    "fetched_at": "2026-06-12T10:05:08.455170+00:00",
     "history_file": "history/6a3995693fd7.json"
   },
   "cdf73191274c": {
@@ -55666,7 +55666,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:48.879390+00:00",
     "last_updated_at": "2026-06-05T09:40:48.879390+00:00",
-    "fetched_at": "2026-06-11T10:17:28.467406+00:00",
+    "fetched_at": "2026-06-12T10:05:14.734253+00:00",
     "history_file": "history/915cab282258.json"
   },
   "743290342595": {
@@ -55756,7 +55756,7 @@
     "status": "error",
     "first_seen_at": "2026-06-05T09:40:52.286341+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:17:28.302197+00:00",
+    "fetched_at": "2026-06-12T10:05:14.418508+00:00",
     "history_file": "history/8134546cb336.json"
   },
   "232b8e9b6645": {
@@ -55792,7 +55792,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:55.762306+00:00",
     "last_updated_at": "2026-06-05T09:40:55.762306+00:00",
-    "fetched_at": "2026-06-11T10:17:29.610400+00:00",
+    "fetched_at": "2026-06-12T10:05:15.886196+00:00",
     "history_file": "history/7087013d6ab2.json"
   },
   "6c30637a721f": {
@@ -55832,7 +55832,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-06-05T09:40:56.944680+00:00",
     "last_updated_at": "2026-06-05T09:40:56.944680+00:00",
-    "fetched_at": "2026-06-11T10:17:24.697240+00:00",
+    "fetched_at": "2026-06-12T10:05:10.478665+00:00",
     "history_file": "history/bfb214cc1967.json"
   },
   "6217e3a6b42b": {
@@ -55850,7 +55850,7 @@
     "status": "error",
     "first_seen_at": "2026-06-05T09:40:57.835536+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:17:30.859808+00:00",
+    "fetched_at": "2026-06-12T10:05:17.414953+00:00",
     "history_file": "history/6217e3a6b42b.json"
   },
   "09dc4576752e": {
@@ -55951,7 +55951,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-06-05T09:41:01.003219+00:00",
     "last_updated_at": "2026-06-05T09:41:01.003219+00:00",
-    "fetched_at": "2026-06-11T10:17:32.982277+00:00",
+    "fetched_at": "2026-06-12T10:05:20.094803+00:00",
     "history_file": "history/15c877885b99.json"
   },
   "ef95a8b9fcdf": {
@@ -55969,7 +55969,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-06-05T09:41:01.790724+00:00",
     "last_updated_at": "2026-06-05T09:41:01.790724+00:00",
-    "fetched_at": "2026-06-11T10:17:31.635428+00:00",
+    "fetched_at": "2026-06-12T10:05:18.388702+00:00",
     "history_file": "history/ef95a8b9fcdf.json"
   },
   "1436c9551534": {
@@ -56029,7 +56029,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-06-05T09:41:03.790104+00:00",
     "last_updated_at": "2026-06-05T09:41:03.790104+00:00",
-    "fetched_at": "2026-06-11T10:17:32.182985+00:00",
+    "fetched_at": "2026-06-12T10:05:19.147917+00:00",
     "history_file": "history/34e99ca8f7b4.json"
   },
   "2d59339e3594": {
@@ -56067,7 +56067,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-06-05T09:41:05.005682+00:00",
     "last_updated_at": "2026-06-05T09:41:05.005682+00:00",
-    "fetched_at": "2026-06-11T10:17:33.723393+00:00",
+    "fetched_at": "2026-06-12T10:05:20.973360+00:00",
     "history_file": "history/3e2b47c5cbbe.json"
   },
   "6dac9ba9f4b8": {
@@ -56085,7 +56085,7 @@
     "status": "error",
     "first_seen_at": "2026-06-05T09:41:05.865297+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:17:34.355579+00:00",
+    "fetched_at": "2026-06-12T10:05:21.651787+00:00",
     "history_file": "history/6dac9ba9f4b8.json"
   },
   "4a33e8a2b4b9": {
@@ -56103,7 +56103,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-06-05T09:41:06.216704+00:00",
     "last_updated_at": "2026-06-05T09:41:06.216704+00:00",
-    "fetched_at": "2026-06-11T10:17:23.312987+00:00",
+    "fetched_at": "2026-06-12T10:05:08.919200+00:00",
     "history_file": "history/4a33e8a2b4b9.json"
   },
   "9dea50f6875d": {
@@ -56141,7 +56141,7 @@
     "status": "error",
     "first_seen_at": "2026-06-05T09:41:07.117136+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:17:45.112688+00:00",
+    "fetched_at": "2026-06-12T10:05:33.130966+00:00",
     "history_file": "history/5f1d6ad8df5e.json"
   },
   "cb5ba4b0e44b": {
@@ -56164,7 +56164,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-06-05T09:41:07.838809+00:00",
     "last_updated_at": "2026-06-05T09:41:07.838809+00:00",
-    "fetched_at": "2026-06-11T10:17:35.174260+00:00",
+    "fetched_at": "2026-06-12T10:05:22.343969+00:00",
     "history_file": "history/cb5ba4b0e44b.json"
   },
   "73f21bf2ddd1": {
@@ -56345,7 +56345,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-06-06T08:28:54.414525+00:00",
     "last_updated_at": "2026-06-06T08:28:54.414525+00:00",
-    "fetched_at": "2026-06-07T08:50:07.187685+00:00",
+    "fetched_at": "2026-06-12T10:03:54.942812+00:00",
     "history_file": "history/de0f19621f40.json"
   },
   "c616f84c355c": {
@@ -56402,7 +56402,7 @@
     "status": "error",
     "first_seen_at": "2026-06-06T08:28:55.648215+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-07T08:49:57.790219+00:00",
+    "fetched_at": "2026-06-12T10:03:42.755683+00:00",
     "history_file": "history/41378771a87b.json"
   },
   "f0dadd89d803": {
@@ -56421,10 +56421,10 @@
     "paths_count": 1,
     "latest_info_version": "0.1.0",
     "latest_hash": "f9ab7c42c1b0ac5c937994943e70ffce6bb728d22ccb7fe7af963939264a82be",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-06T08:28:57.560085+00:00",
     "last_updated_at": "2026-06-06T08:28:57.560085+00:00",
-    "fetched_at": "2026-06-06T08:28:57.560085+00:00",
+    "fetched_at": "2026-06-12T10:03:57.955386+00:00",
     "history_file": "history/f0dadd89d803.json"
   },
   "6f7c76711b48": {
@@ -56523,7 +56523,7 @@
     "status": "error",
     "first_seen_at": "2026-06-06T08:29:02.163916+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-07T08:50:06.916889+00:00",
+    "fetched_at": "2026-06-12T10:03:48.349165+00:00",
     "history_file": "history/c867ff2377b1.json"
   },
   "adbf22566249": {
@@ -56601,7 +56601,7 @@
     "status": "error",
     "first_seen_at": "2026-06-06T08:29:04.322674+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:16:08.394436+00:00",
+    "fetched_at": "2026-06-12T10:03:51.087926+00:00",
     "history_file": "history/4892003ec4f3.json"
   },
   "3aaa5d3972da": {
@@ -56856,7 +56856,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-06-06T08:29:16.477834+00:00",
     "last_updated_at": "2026-06-06T08:29:16.477834+00:00",
-    "fetched_at": "2026-06-08T10:28:48.492125+00:00",
+    "fetched_at": "2026-06-12T10:04:16.715963+00:00",
     "history_file": "history/8473e0210200.json"
   },
   "b975371a53f1": {
@@ -56974,7 +56974,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-06-06T08:29:18.373603+00:00",
     "last_updated_at": "2026-06-06T08:29:18.373603+00:00",
-    "fetched_at": "2026-06-07T08:50:28.151265+00:00",
+    "fetched_at": "2026-06-12T10:04:19.452921+00:00",
     "history_file": "history/3a7604987ef6.json"
   },
   "aafee93afc78": {
@@ -57064,7 +57064,7 @@
     "status": "error",
     "first_seen_at": "2026-06-06T08:29:26.793551+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:16:41.883100+00:00",
+    "fetched_at": "2026-06-12T10:04:21.971022+00:00",
     "history_file": "history/dd05c4be37be.json"
   },
   "7453f128f450": {
@@ -57109,7 +57109,7 @@
     "status": "error",
     "first_seen_at": "2026-06-06T08:29:49.556020+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:17:20.663797+00:00",
+    "fetched_at": "2026-06-12T10:05:05.507682+00:00",
     "history_file": "history/1a9d967d6064.json"
   },
   "2c7a52f32c8c": {
@@ -57152,7 +57152,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-06-07T08:49:58.593114+00:00",
     "last_updated_at": "2026-06-07T08:49:58.593114+00:00",
-    "fetched_at": "2026-06-11T10:16:06.457592+00:00",
+    "fetched_at": "2026-06-12T10:03:40.000013+00:00",
     "history_file": "history/1cce65443042.json"
   },
   "fc9ecc949cf2": {
@@ -57273,7 +57273,7 @@
     "status": "error",
     "first_seen_at": "2026-06-07T08:50:10.573053+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:16:20.737913+00:00",
+    "fetched_at": "2026-06-12T10:03:43.576301+00:00",
     "history_file": "history/4970214c5dfb.json"
   },
   "9d04623bb469": {
@@ -57299,10 +57299,10 @@
     "paths_count": 12,
     "latest_info_version": "1.0.0",
     "latest_hash": "410f9b23cfc6253f20395371d27f7811ffd20a7c30a9517f776f032f7ef7b748",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-07T08:50:10.860275+00:00",
     "last_updated_at": "2026-06-07T08:50:10.860275+00:00",
-    "fetched_at": "2026-06-07T08:50:10.860275+00:00",
+    "fetched_at": "2026-06-12T10:03:54.336067+00:00",
     "history_file": "history/9d04623bb469.json"
   },
   "c8e087896ead": {
@@ -57388,10 +57388,10 @@
     "paths_count": 3,
     "latest_info_version": "1.0.0",
     "latest_hash": "ee00105714674a41f285c18769975b9eb25773f699062fc6114f4ab16387d5e2",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-07T08:50:12.455228+00:00",
     "last_updated_at": "2026-06-07T08:50:12.455228+00:00",
-    "fetched_at": "2026-06-07T08:50:12.455228+00:00",
+    "fetched_at": "2026-06-12T10:03:57.274734+00:00",
     "history_file": "history/38591cdbd324.json"
   },
   "6df17adb1fed": {
@@ -57546,10 +57546,10 @@
     "paths_count": 92,
     "latest_info_version": "14.12",
     "latest_hash": "98bbabca918ce4dc2bbc4a0c76631870683bf5419091d276f4b5920b16a56ebb",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-07T08:50:22.491840+00:00",
     "last_updated_at": "2026-06-07T08:50:22.491840+00:00",
-    "fetched_at": "2026-06-07T08:50:22.491840+00:00",
+    "fetched_at": "2026-06-12T10:04:11.014289+00:00",
     "history_file": "history/67d127c8416b.json"
   },
   "d82a8e24a491": {
@@ -57634,7 +57634,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-06-07T08:50:26.584545+00:00",
     "last_updated_at": "2026-06-07T08:50:26.584545+00:00",
-    "fetched_at": "2026-06-11T10:16:36.486264+00:00",
+    "fetched_at": "2026-06-12T10:04:15.948224+00:00",
     "history_file": "history/354266f387d1.json"
   },
   "af4a98bcbce4": {
@@ -57658,7 +57658,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-06-07T08:50:26.786703+00:00",
     "last_updated_at": "2026-06-07T08:50:26.786703+00:00",
-    "fetched_at": "2026-06-11T10:16:36.717799+00:00",
+    "fetched_at": "2026-06-12T10:04:16.216762+00:00",
     "history_file": "history/af4a98bcbce4.json"
   },
   "c6ca0c966eb1": {
@@ -57676,7 +57676,7 @@
     "status": "error",
     "first_seen_at": "2026-06-07T08:50:27.162006+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:16:40.043049+00:00",
+    "fetched_at": "2026-06-12T10:04:21.546541+00:00",
     "history_file": "history/c6ca0c966eb1.json"
   },
   "07f5b331432d": {
@@ -57699,7 +57699,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-06-07T08:50:29.432832+00:00",
     "last_updated_at": "2026-06-07T08:50:29.432832+00:00",
-    "fetched_at": "2026-06-11T10:16:39.827753+00:00",
+    "fetched_at": "2026-06-12T10:04:20.917352+00:00",
     "history_file": "history/07f5b331432d.json"
   },
   "8bd1e4fe52bf": {
@@ -57717,7 +57717,7 @@
     "status": "error",
     "first_seen_at": "2026-06-07T08:50:29.927171+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:16:41.709252+00:00",
+    "fetched_at": "2026-06-12T10:04:17.565278+00:00",
     "history_file": "history/8bd1e4fe52bf.json"
   },
   "33e0704453c7": {
@@ -57880,7 +57880,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-06-07T08:50:33.371017+00:00",
     "last_updated_at": "2026-06-07T08:50:33.371017+00:00",
-    "fetched_at": "2026-06-11T10:16:44.938897+00:00",
+    "fetched_at": "2026-06-12T10:04:23.700592+00:00",
     "history_file": "history/3a215c90d75b.json"
   },
   "c97442fc3136": {
@@ -57975,10 +57975,10 @@
     "paths_count": 15,
     "latest_info_version": "0.1.0",
     "latest_hash": "efaa150e92948cdd99543d71f0d22643ced7d91ee21a03c186b016ec554fa624",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-07T08:50:34.804364+00:00",
     "last_updated_at": "2026-06-07T08:50:34.804364+00:00",
-    "fetched_at": "2026-06-07T08:50:34.804364+00:00",
+    "fetched_at": "2026-06-12T10:04:10.747121+00:00",
     "history_file": "history/e2103af444c1.json"
   },
   "0af61aebefa0": {
@@ -58157,7 +58157,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-06-07T08:50:41.906642+00:00",
     "last_updated_at": "2026-06-07T08:50:41.906642+00:00",
-    "fetched_at": "2026-06-11T10:17:11.687367+00:00",
+    "fetched_at": "2026-06-12T10:04:49.306966+00:00",
     "history_file": "history/c9c87659ab46.json"
   },
   "a2b664663b44": {
@@ -58195,7 +58195,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-06-07T08:50:43.415274+00:00",
     "last_updated_at": "2026-06-07T08:50:43.415274+00:00",
-    "fetched_at": "2026-06-11T10:16:59.441319+00:00",
+    "fetched_at": "2026-06-12T10:04:41.056107+00:00",
     "history_file": "history/114dd118a663.json"
   },
   "48de41f4f423": {
@@ -58212,10 +58212,10 @@
     "paths_count": 1,
     "latest_info_version": "1.0",
     "latest_hash": "f1902c57d169394814bd24f61770cde41382b11f34ff3c7055bdc4a8e7d29783",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-07T08:50:44.751873+00:00",
     "last_updated_at": "2026-06-07T08:50:44.751873+00:00",
-    "fetched_at": "2026-06-07T08:50:44.751873+00:00",
+    "fetched_at": "2026-06-12T10:04:45.247139+00:00",
     "history_file": "history/48de41f4f423.json"
   },
   "d085aa338d9e": {
@@ -58233,7 +58233,7 @@
     "status": "error",
     "first_seen_at": "2026-06-07T08:50:44.919797+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-08T10:29:02.559907+00:00",
+    "fetched_at": "2026-06-12T10:05:01.814655+00:00",
     "history_file": "history/d085aa338d9e.json"
   },
   "dadaa3792be7": {
@@ -58274,10 +58274,10 @@
     "paths_count": 13,
     "latest_info_version": "1.0.11",
     "latest_hash": "03bf89212912d366ae97926d8e633daa90e04aaba8355588481521d440f2b869",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-07T08:50:45.748052+00:00",
     "last_updated_at": "2026-06-07T08:50:45.748052+00:00",
-    "fetched_at": "2026-06-07T08:50:45.748052+00:00",
+    "fetched_at": "2026-06-12T10:04:48.809812+00:00",
     "history_file": "history/bf42268f0c80.json"
   },
   "3b516844d7cf": {
@@ -58770,10 +58770,10 @@
     "paths_count": 2,
     "latest_info_version": "1.0.0",
     "latest_hash": "7beba744423876b4fa1a10e358dc7c8806198b2b794c9bf710de8057ca234847",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-07T08:50:52.821719+00:00",
     "last_updated_at": "2026-06-07T08:50:52.821719+00:00",
-    "fetched_at": "2026-06-07T08:50:52.821719+00:00",
+    "fetched_at": "2026-06-12T10:04:55.581984+00:00",
     "history_file": "history/dd6aba83585d.json"
   },
   "4f4057f751ea": {
@@ -58848,7 +58848,7 @@
     "status": "error",
     "first_seen_at": "2026-06-07T08:50:53.837822+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:17:02.160088+00:00",
+    "fetched_at": "2026-06-12T10:04:46.594654+00:00",
     "history_file": "history/2727c84036c7.json"
   },
   "abbbdca675a3": {
@@ -58947,10 +58947,10 @@
     "paths_count": 1,
     "latest_info_version": "1.0.0",
     "latest_hash": "840caef8f10099e4971852e86a2ff88feff12296de5fe91e02a9c1a421ace78d",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-07T08:50:55.029372+00:00",
     "last_updated_at": "2026-06-07T08:50:55.029372+00:00",
-    "fetched_at": "2026-06-07T08:50:55.029372+00:00",
+    "fetched_at": "2026-06-12T10:04:57.137775+00:00",
     "history_file": "history/42424dd42519.json"
   },
   "83e50d564462": {
@@ -59009,10 +59009,10 @@
     "paths_count": 1,
     "latest_info_version": "1.0.0",
     "latest_hash": "f0ae53ecada8fb4b34ba4e3e79ed8e0f744ae75f94b7b67f7580494df52f87f0",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-07T08:50:55.685200+00:00",
     "last_updated_at": "2026-06-07T08:50:55.685200+00:00",
-    "fetched_at": "2026-06-07T08:50:55.685200+00:00",
+    "fetched_at": "2026-06-12T10:04:58.868129+00:00",
     "history_file": "history/87096ffb49aa.json"
   },
   "ba8c4740823f": {
@@ -59067,10 +59067,10 @@
     "paths_count": 9,
     "latest_info_version": "1.0.0",
     "latest_hash": "2492eca360a7ac391c562aa745db712ace7d691ae32808f5d19db8357e938fc9",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-07T08:50:56.519187+00:00",
     "last_updated_at": "2026-06-07T08:50:56.519187+00:00",
-    "fetched_at": "2026-06-07T08:50:56.519187+00:00",
+    "fetched_at": "2026-06-12T10:04:59.392868+00:00",
     "history_file": "history/91990b0ca9c3.json"
   },
   "0141845ec789": {
@@ -59231,10 +59231,10 @@
     "paths_count": 5,
     "latest_info_version": "1.0.0",
     "latest_hash": "5ef8148f7bbf13e28750ff7a5dbef2787c32d6cb9159e35dff7b5220e302c265",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-07T08:50:58.303170+00:00",
     "last_updated_at": "2026-06-07T08:50:58.303170+00:00",
-    "fetched_at": "2026-06-07T08:50:58.303170+00:00",
+    "fetched_at": "2026-06-12T10:04:47.903775+00:00",
     "history_file": "history/d934cafd30fd.json"
   },
   "395dada0564d": {
@@ -59252,7 +59252,7 @@
     "status": "error",
     "first_seen_at": "2026-06-07T08:50:58.676475+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-07T08:50:58.676475+00:00",
+    "fetched_at": "2026-06-12T10:04:44.415657+00:00",
     "history_file": "history/395dada0564d.json"
   },
   "77284211914e": {
@@ -59306,7 +59306,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-06-07T08:51:10.286319+00:00",
     "last_updated_at": "2026-06-07T08:51:10.286319+00:00",
-    "fetched_at": "2026-06-11T10:17:27.086084+00:00",
+    "fetched_at": "2026-06-12T10:05:13.124387+00:00",
     "history_file": "history/4bed8e1d7b3c.json"
   },
   "99fdd0a1c17b": {
@@ -59349,7 +59349,7 @@
     "status": "error",
     "first_seen_at": "2026-06-07T08:51:13.415979+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:17:29.118802+00:00",
+    "fetched_at": "2026-06-12T10:05:15.471855+00:00",
     "history_file": "history/420446ca1b9b.json"
   },
   "b5ba3c02a89f": {
@@ -59391,7 +59391,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-06-07T08:51:18.813774+00:00",
     "last_updated_at": "2026-06-07T08:51:18.813774+00:00",
-    "fetched_at": "2026-06-11T10:17:35.365674+00:00",
+    "fetched_at": "2026-06-12T10:05:22.570339+00:00",
     "history_file": "history/de5d1184ea9e.json"
   },
   "66766fe9088c": {
@@ -59413,7 +59413,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-06-07T08:51:18.992131+00:00",
     "last_updated_at": "2026-06-07T08:51:18.992131+00:00",
-    "fetched_at": "2026-06-11T10:17:32.588771+00:00",
+    "fetched_at": "2026-06-12T10:05:19.649386+00:00",
     "history_file": "history/66766fe9088c.json"
   },
   "82dddd9691cd": {
@@ -61058,7 +61058,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-06-08T10:28:40.264941+00:00",
     "last_updated_at": "2026-06-08T10:28:40.264941+00:00",
-    "fetched_at": "2026-06-11T10:16:37.021200+00:00",
+    "fetched_at": "2026-06-12T10:04:17.763130+00:00",
     "history_file": "history/e3ffa8049728.json"
   },
   "46a40f25cfa0": {
@@ -61083,7 +61083,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-06-08T10:28:41.108812+00:00",
     "last_updated_at": "2026-06-08T10:28:41.108812+00:00",
-    "fetched_at": "2026-06-11T10:16:29.810064+00:00",
+    "fetched_at": "2026-06-12T10:04:05.872269+00:00",
     "history_file": "history/46a40f25cfa0.json"
   },
   "edec4f6455ee": {
@@ -62322,7 +62322,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-06-08T10:29:06.223951+00:00",
     "last_updated_at": "2026-06-08T10:29:06.223951+00:00",
-    "fetched_at": "2026-06-11T10:17:07.653241+00:00",
+    "fetched_at": "2026-06-12T10:04:57.338323+00:00",
     "history_file": "history/9d6fef0dd3ba.json"
   },
   "e66c2eb82c08": {
@@ -62950,7 +62950,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-06-08T10:29:13.929404+00:00",
     "last_updated_at": "2026-06-08T10:29:13.929404+00:00",
-    "fetched_at": "2026-06-11T10:17:12.269478+00:00",
+    "fetched_at": "2026-06-12T10:05:02.017136+00:00",
     "history_file": "history/9f0c9a202f3e.json"
   },
   "8fd516dab6fb": {
@@ -63431,7 +63431,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-06-09T09:33:53.356681+00:00",
     "last_updated_at": "2026-06-09T09:33:53.356681+00:00",
-    "fetched_at": "2026-06-11T10:16:04.909452+00:00",
+    "fetched_at": "2026-06-12T10:03:38.360167+00:00",
     "history_file": "history/8b2e90b85fbb.json"
   },
   "6247520db27c": {
@@ -64693,7 +64693,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-06-09T09:34:32.254727+00:00",
     "last_updated_at": "2026-06-09T09:34:32.254727+00:00",
-    "fetched_at": "2026-06-11T10:16:35.999205+00:00",
+    "fetched_at": "2026-06-12T10:04:13.104363+00:00",
     "history_file": "history/2873430c06d0.json"
   },
   "f5ac69db4371": {
@@ -64729,7 +64729,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-06-09T09:34:40.027457+00:00",
     "last_updated_at": "2026-06-09T09:34:40.027457+00:00",
-    "fetched_at": "2026-06-10T09:51:13.352532+00:00",
+    "fetched_at": "2026-06-12T10:04:23.221540+00:00",
     "history_file": "history/b1febb196f51.json"
   },
   "244f3c4aeead": {
@@ -65413,7 +65413,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-06-09T09:35:12.773370+00:00",
     "last_updated_at": "2026-06-09T09:35:12.773370+00:00",
-    "fetched_at": "2026-06-11T10:17:21.478705+00:00",
+    "fetched_at": "2026-06-12T10:05:06.566229+00:00",
     "history_file": "history/6338c3823f12.json"
   },
   "b4fecb78dfe8": {
@@ -65545,7 +65545,7 @@
     "status": "error",
     "first_seen_at": "2026-06-09T09:35:23.582330+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:17:41.279690+00:00",
+    "fetched_at": "2026-06-12T10:05:29.154039+00:00",
     "history_file": "history/f1481d5dfa91.json"
   },
   "c9074ce53c18": {
@@ -65637,7 +65637,7 @@
     "status": "error",
     "first_seen_at": "2026-06-09T09:35:28.197006+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:17:24.931550+00:00",
+    "fetched_at": "2026-06-12T10:05:10.739993+00:00",
     "history_file": "history/3094f0c1a715.json"
   },
   "e08f5d66b15e": {
@@ -66105,10 +66105,10 @@
     "paths_count": 13,
     "latest_info_version": "1.0.0",
     "latest_hash": "c187fc5e9eb4450104329101141979e1f167e748c3a68ef47335e20c804dfcd8",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-10T09:50:57.220580+00:00",
     "last_updated_at": "2026-06-10T09:50:57.220580+00:00",
-    "fetched_at": "2026-06-10T09:50:57.220580+00:00",
+    "fetched_at": "2026-06-12T10:04:20.623992+00:00",
     "history_file": "history/f1bce35727f1.json"
   },
   "8c8b1257c357": {
@@ -66766,7 +66766,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-06-10T09:52:02.062884+00:00",
     "last_updated_at": "2026-06-10T09:52:02.062884+00:00",
-    "fetched_at": "2026-06-11T10:17:36.500555+00:00",
+    "fetched_at": "2026-06-12T10:05:23.817291+00:00",
     "history_file": "history/d0e4080acfba.json"
   },
   "4b94e09042f3": {
@@ -66804,7 +66804,7 @@
     "status": "unchanged",
     "first_seen_at": "2026-06-10T09:52:17.456242+00:00",
     "last_updated_at": "2026-06-10T09:52:17.456242+00:00",
-    "fetched_at": "2026-06-11T10:17:24.267388+00:00",
+    "fetched_at": "2026-06-12T10:05:10.057978+00:00",
     "history_file": "history/fd6c1a0383de.json"
   },
   "901b19f5e300": {
@@ -66883,7 +66883,7 @@
     "status": "error",
     "first_seen_at": "2026-06-11T10:16:04.537457+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:16:04.537457+00:00",
+    "fetched_at": "2026-06-12T10:03:38.139353+00:00",
     "history_file": "history/cbca735e790b.json"
   },
   "e6b62da5f3c7": {
@@ -67011,10 +67011,10 @@
     "paths_count": 3,
     "latest_info_version": "1.0.0",
     "latest_hash": "71227bdad52dae06de6c63585e3760d02f5ffe174213461eb7f09dfd12aa2c0f",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-11T10:16:13.532968+00:00",
     "last_updated_at": "2026-06-11T10:16:13.532968+00:00",
-    "fetched_at": "2026-06-11T10:16:13.532968+00:00",
+    "fetched_at": "2026-06-12T10:03:55.148649+00:00",
     "history_file": "history/79b6c63b70c0.json"
   },
   "c521ef774b75": {
@@ -67072,10 +67072,10 @@
     "paths_count": 12,
     "latest_info_version": "0.2.0",
     "latest_hash": "6cde7fd8426ed1a1d8c9d1783ef2cc9415dd0d6b6d32f4ced42ea6ebc35fa443",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-11T10:16:15.579946+00:00",
     "last_updated_at": "2026-06-11T10:16:15.579946+00:00",
-    "fetched_at": "2026-06-11T10:16:15.579946+00:00",
+    "fetched_at": "2026-06-12T10:03:58.138759+00:00",
     "history_file": "history/a18f5d15f11a.json"
   },
   "78bd5bc0f31d": {
@@ -67093,7 +67093,7 @@
     "status": "error",
     "first_seen_at": "2026-06-11T10:16:17.135071+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:16:17.135071+00:00",
+    "fetched_at": "2026-06-12T10:03:59.906497+00:00",
     "history_file": "history/78bd5bc0f31d.json"
   },
   "fde22b0d8f0c": {
@@ -67380,10 +67380,10 @@
     "paths_count": 9,
     "latest_info_version": "0.0.8",
     "latest_hash": "586e2dd4f865c6c24901f830a10ba051156bdaa429dbdf3c73cc264cbc644c87",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-11T10:16:34.138377+00:00",
     "last_updated_at": "2026-06-11T10:16:34.138377+00:00",
-    "fetched_at": "2026-06-11T10:16:34.138377+00:00",
+    "fetched_at": "2026-06-12T10:04:28.308740+00:00",
     "history_file": "history/a4bb3b2e32c1.json"
   },
   "2da516a02d00": {
@@ -67423,10 +67423,10 @@
     "paths_count": 8,
     "latest_info_version": "1.0.0",
     "latest_hash": "b93f9a7fd5acae4def4a7d212424113dbd49036ffc5ec16b1ec46e2b2bae61f2",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-11T10:16:36.244332+00:00",
     "last_updated_at": "2026-06-11T10:16:36.244332+00:00",
-    "fetched_at": "2026-06-11T10:16:36.244332+00:00",
+    "fetched_at": "2026-06-12T10:04:15.680365+00:00",
     "history_file": "history/4d4a51b3c413.json"
   },
   "5ac3d2933026": {
@@ -67459,10 +67459,10 @@
     "paths_count": 8,
     "latest_info_version": "0.1.0",
     "latest_hash": "9a064f87b87b37bada03dd138d442e2076fd42ec6bac81ddb4d284cd047f5093",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-11T10:16:38.932948+00:00",
     "last_updated_at": "2026-06-11T10:16:38.932948+00:00",
-    "fetched_at": "2026-06-11T10:16:38.932948+00:00",
+    "fetched_at": "2026-06-12T10:04:19.681860+00:00",
     "history_file": "history/850d32a0bd01.json"
   },
   "3c7169670d91": {
@@ -67497,10 +67497,10 @@
     "paths_count": 60,
     "latest_info_version": "1.0.0",
     "latest_hash": "e1f18f20e581973ddfe66ff645b09189edb5ba9b61160af2eaf4c7e5a69d1dc7",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-11T10:16:40.437635+00:00",
     "last_updated_at": "2026-06-11T10:16:40.437635+00:00",
-    "fetched_at": "2026-06-11T10:16:40.437635+00:00",
+    "fetched_at": "2026-06-12T10:04:15.158354+00:00",
     "history_file": "history/f36f879ae579.json"
   },
   "dab525198610": {
@@ -67515,10 +67515,10 @@
     "paths_count": 1,
     "latest_info_version": "1.0.0",
     "latest_hash": "0db9a6886c5351d0f42d47c267b526b6532d1504aa748c63b1d7aee2750e1b84",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-11T10:16:41.386410+00:00",
     "last_updated_at": "2026-06-11T10:16:41.386410+00:00",
-    "fetched_at": "2026-06-11T10:16:41.386410+00:00",
+    "fetched_at": "2026-06-12T10:04:17.332463+00:00",
     "history_file": "history/dab525198610.json"
   },
   "ece472a7d4e7": {
@@ -67593,10 +67593,10 @@
     "paths_count": 6,
     "latest_info_version": "1.0.0",
     "latest_hash": "e0a063a870b387a838c2589a74c21bad1668557470d0d444244fe47bc9790405",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-11T10:16:44.745744+00:00",
     "last_updated_at": "2026-06-11T10:16:44.745744+00:00",
-    "fetched_at": "2026-06-11T10:16:44.745744+00:00",
+    "fetched_at": "2026-06-12T10:04:23.483531+00:00",
     "history_file": "history/5c5e0d0d7617.json"
   },
   "fa827b096284": {
@@ -67639,10 +67639,10 @@
     "paths_count": 68,
     "latest_info_version": "2.4.2",
     "latest_hash": "c4fc76530eafacadc5ddb850d403309eaf27a292fd6ea2354eff7d9c70830aa0",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-11T10:16:45.536192+00:00",
     "last_updated_at": "2026-06-11T10:16:45.536192+00:00",
-    "fetched_at": "2026-06-11T10:16:45.536192+00:00",
+    "fetched_at": "2026-06-12T10:04:23.949684+00:00",
     "history_file": "history/499c50e3d7af.json"
   },
   "0dde8be620a5": {
@@ -67660,10 +67660,10 @@
     "paths_count": 13,
     "latest_info_version": "1.0.0",
     "latest_hash": "c187fc5e9eb4450104329101141979e1f167e748c3a68ef47335e20c804dfcd8",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-11T10:16:46.659209+00:00",
     "last_updated_at": "2026-06-11T10:16:46.659209+00:00",
-    "fetched_at": "2026-06-11T10:16:46.659209+00:00",
+    "fetched_at": "2026-06-12T10:04:25.434111+00:00",
     "history_file": "history/0dde8be620a5.json"
   },
   "62f6ad973c2f": {
@@ -67707,7 +67707,7 @@
     "status": "error",
     "first_seen_at": "2026-06-11T10:16:47.112429+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:16:47.112429+00:00",
+    "fetched_at": "2026-06-12T10:04:07.998477+00:00",
     "history_file": "history/8f3420ecf6ff.json"
   },
   "088899a2d893": {
@@ -67801,10 +67801,10 @@
     "paths_count": 36,
     "latest_info_version": "0.1.0",
     "latest_hash": "fb6e72dcd450f3c7bff78e145e8efa1a86b7e072610bba63e88f6d8d8530bee1",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-11T10:16:50.393008+00:00",
     "last_updated_at": "2026-06-11T10:16:50.393008+00:00",
-    "fetched_at": "2026-06-11T10:16:50.393008+00:00",
+    "fetched_at": "2026-06-12T10:04:31.800165+00:00",
     "history_file": "history/35fee07dc59c.json"
   },
   "3b9c8727a635": {
@@ -67997,10 +67997,10 @@
     "paths_count": 2,
     "latest_info_version": "0.0.1",
     "latest_hash": "e5c9c531e6f6d4630f488d9e43b7a154c8e62dcb4833cbb690283608974bf37b",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-11T10:17:02.345650+00:00",
     "last_updated_at": "2026-06-11T10:17:02.345650+00:00",
-    "fetched_at": "2026-06-11T10:17:02.345650+00:00",
+    "fetched_at": "2026-06-12T10:05:01.380440+00:00",
     "history_file": "history/885da28fd8a5.json"
   },
   "cb5a5ec703a5": {
@@ -68049,10 +68049,10 @@
     "paths_count": 83,
     "latest_info_version": "3.0",
     "latest_hash": "15a3c9a6c8aef624f5ba0984e275432b71ec6c4afa3b64ba31b22e77d9ce5c31",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-11T10:17:03.819534+00:00",
     "last_updated_at": "2026-06-11T10:17:03.819534+00:00",
-    "fetched_at": "2026-06-11T10:17:03.819534+00:00",
+    "fetched_at": "2026-06-12T10:04:48.115779+00:00",
     "history_file": "history/ae3a73edf9be.json"
   },
   "f3ced44f8de7": {
@@ -68067,10 +68067,10 @@
     "paths_count": 3,
     "latest_info_version": "1.0.0",
     "latest_hash": "48a8819ff91b1613fa115c964356666163028da75cf5df393c86b6cd0091c030",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-11T10:17:04.232080+00:00",
     "last_updated_at": "2026-06-11T10:17:04.232080+00:00",
-    "fetched_at": "2026-06-11T10:17:04.232080+00:00",
+    "fetched_at": "2026-06-12T10:04:48.563350+00:00",
     "history_file": "history/f3ced44f8de7.json"
   },
   "416f964b799a": {
@@ -68369,10 +68369,10 @@
     "paths_count": 2,
     "latest_info_version": "1.0.0",
     "latest_hash": "f10fb99925f8ff7c0949a3e416a8b66709284899b809ff8c8d00fb8aeac23b12",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-11T10:17:11.500866+00:00",
     "last_updated_at": "2026-06-11T10:17:11.500866+00:00",
-    "fetched_at": "2026-06-11T10:17:11.500866+00:00",
+    "fetched_at": "2026-06-12T10:05:00.884991+00:00",
     "history_file": "history/b271a9841e11.json"
   },
   "ba32e19e66e8": {
@@ -68387,10 +68387,10 @@
     "paths_count": 2,
     "latest_info_version": "0.1.0",
     "latest_hash": "7b2873b1bc53461544120caccceefbae1c9281f2448beebe75b6bcfc3aaf67a7",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-11T10:17:12.076289+00:00",
     "last_updated_at": "2026-06-11T10:17:12.076289+00:00",
-    "fetched_at": "2026-06-11T10:17:12.076289+00:00",
+    "fetched_at": "2026-06-12T10:04:43.527084+00:00",
     "history_file": "history/ba32e19e66e8.json"
   },
   "5982089eac8b": {
@@ -68407,10 +68407,10 @@
     "paths_count": 2,
     "latest_info_version": "1.0.0",
     "latest_hash": "6420191a33ddd57ef4dca9d362e4a80627c76ec1557e111f7fa8de1e86c225c4",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-11T10:17:12.686344+00:00",
     "last_updated_at": "2026-06-11T10:17:12.686344+00:00",
-    "fetched_at": "2026-06-11T10:17:12.686344+00:00",
+    "fetched_at": "2026-06-12T10:04:50.367330+00:00",
     "history_file": "history/5982089eac8b.json"
   },
   "aea4fb304570": {
@@ -68604,10 +68604,10 @@
     "paths_count": 7,
     "latest_info_version": "1.0.0",
     "latest_hash": "4bf920f15aac4a0d9bf1178e8c37f18fe31028c6250235431a6ab4b88b520567",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-11T10:17:15.325103+00:00",
     "last_updated_at": "2026-06-11T10:17:15.325103+00:00",
-    "fetched_at": "2026-06-11T10:17:15.325103+00:00",
+    "fetched_at": "2026-06-12T10:04:52.677592+00:00",
     "history_file": "history/f3c4bf66106a.json"
   },
   "6d01f28874e1": {
@@ -68624,10 +68624,10 @@
     "paths_count": 7,
     "latest_info_version": "1.1.0",
     "latest_hash": "4851af102411aa42033d953bb76573925f3a4a68f6e7437718f4dacf7a5910ea",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-11T10:17:15.563574+00:00",
     "last_updated_at": "2026-06-11T10:17:15.563574+00:00",
-    "fetched_at": "2026-06-11T10:17:15.563574+00:00",
+    "fetched_at": "2026-06-12T10:04:52.923834+00:00",
     "history_file": "history/6d01f28874e1.json"
   },
   "68dbde09070d": {
@@ -68753,10 +68753,10 @@
     "paths_count": 93,
     "latest_info_version": "1.0",
     "latest_hash": "93920c8fe00c2ba694244d1365fa09a4ebced9c53781022cd42ec82d1bc66779",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-11T10:17:27.733705+00:00",
     "last_updated_at": "2026-06-11T10:17:27.733705+00:00",
-    "fetched_at": "2026-06-11T10:17:27.733705+00:00",
+    "fetched_at": "2026-06-12T10:05:13.788714+00:00",
     "history_file": "history/5a503af4aaf2.json"
   },
   "2321a8befc1f": {
@@ -68771,10 +68771,10 @@
     "paths_count": 3,
     "latest_info_version": null,
     "latest_hash": "9d2f44f42c6c8933b6fb3f461382aa3009631e3fd68db045d5c5587e0899d140",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-11T10:17:30.416908+00:00",
     "last_updated_at": "2026-06-11T10:17:30.416908+00:00",
-    "fetched_at": "2026-06-11T10:17:30.416908+00:00",
+    "fetched_at": "2026-06-12T10:05:16.978806+00:00",
     "history_file": "history/2321a8befc1f.json"
   },
   "95a60225edce": {
@@ -68796,10 +68796,10 @@
     "paths_count": 14,
     "latest_info_version": "1.0.0",
     "latest_hash": "ee23c4d612a790fa9b156de0f74ea223c002ac1b2b7c6ad0d6c7e5b9a74e41f0",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-11T10:17:30.625593+00:00",
     "last_updated_at": "2026-06-11T10:17:30.625593+00:00",
-    "fetched_at": "2026-06-11T10:17:30.625593+00:00",
+    "fetched_at": "2026-06-12T10:05:17.192558+00:00",
     "history_file": "history/95a60225edce.json"
   },
   "22743f3471d1": {
@@ -68814,10 +68814,10 @@
     "paths_count": 4,
     "latest_info_version": "v1",
     "latest_hash": "367003f794ec2cf78503de11cbf094c2a95316ff4bd46a0e156f7e8758d515b5",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-11T10:17:31.025570+00:00",
     "last_updated_at": "2026-06-11T10:17:31.025570+00:00",
-    "fetched_at": "2026-06-11T10:17:31.025570+00:00",
+    "fetched_at": "2026-06-12T10:05:17.733808+00:00",
     "history_file": "history/22743f3471d1.json"
   },
   "d4c19c90887e": {
@@ -68838,10 +68838,10 @@
     "paths_count": 3,
     "latest_info_version": "1.0.0",
     "latest_hash": "c1c50c7500f94b2f4e8bc0c1333c40e09bb9c3e8bb9a7b7e225fc54decdf6788",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-11T10:17:31.231659+00:00",
     "last_updated_at": "2026-06-11T10:17:31.231659+00:00",
-    "fetched_at": "2026-06-11T10:17:31.231659+00:00",
+    "fetched_at": "2026-06-12T10:05:17.939191+00:00",
     "history_file": "history/d4c19c90887e.json"
   },
   "ab548bf1043a": {
@@ -68858,10 +68858,10 @@
     "paths_count": 6,
     "latest_info_version": "0.3.2",
     "latest_hash": "acc994ee92f9782a9a25f2df9d15617d371bf988d6a1b819a965e4e8f644ae0f",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-11T10:17:32.768221+00:00",
     "last_updated_at": "2026-06-11T10:17:32.768221+00:00",
-    "fetched_at": "2026-06-11T10:17:32.768221+00:00",
+    "fetched_at": "2026-06-12T10:05:19.854083+00:00",
     "history_file": "history/ab548bf1043a.json"
   },
   "9822905738f1": {
@@ -68876,10 +68876,10 @@
     "paths_count": 1,
     "latest_info_version": "1.0.1",
     "latest_hash": "6f3cb0461db934e9c36f0ff02e5f9974076b6b4d7e9add40eea2d5c0df3a714b",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-11T10:17:33.169146+00:00",
     "last_updated_at": "2026-06-11T10:17:33.169146+00:00",
-    "fetched_at": "2026-06-11T10:17:33.169146+00:00",
+    "fetched_at": "2026-06-12T10:05:20.386453+00:00",
     "history_file": "history/9822905738f1.json"
   },
   "25cb6796e9a9": {
@@ -68896,10 +68896,10 @@
     "paths_count": 41,
     "latest_info_version": "2.0",
     "latest_hash": "3d751a6650909476e5cc056cbf10d9f226deb796945df8e68fd411fbe46e3eea",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-11T10:17:34.540919+00:00",
     "last_updated_at": "2026-06-11T10:17:34.540919+00:00",
-    "fetched_at": "2026-06-11T10:17:34.540919+00:00",
+    "fetched_at": "2026-06-12T10:05:21.858213+00:00",
     "history_file": "history/25cb6796e9a9.json"
   },
   "e71f4c4c986e": {
@@ -68930,10 +68930,10 @@
     "paths_count": 46,
     "latest_info_version": "v1",
     "latest_hash": "b1cd3e622819fe2a0de0f678eb769a79b13104de0cf4b3be7fd39bab2587d25b",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-11T10:17:36.140791+00:00",
     "last_updated_at": "2026-06-11T10:17:36.140791+00:00",
-    "fetched_at": "2026-06-11T10:17:36.140791+00:00",
+    "fetched_at": "2026-06-12T10:05:23.425395+00:00",
     "history_file": "history/e71f4c4c986e.json"
   },
   "c011e33e60b8": {
@@ -68950,10 +68950,10 @@
     "paths_count": 1,
     "latest_info_version": "0.1",
     "latest_hash": "c081aa52d01e3ac5f7620d97aa96c6dce5ae7ee4a4ada1faba48abdb9fb0e6bd",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-11T10:17:36.680443+00:00",
     "last_updated_at": "2026-06-11T10:17:36.680443+00:00",
-    "fetched_at": "2026-06-11T10:17:36.680443+00:00",
+    "fetched_at": "2026-06-12T10:05:24.011964+00:00",
     "history_file": "history/c011e33e60b8.json"
   },
   "ae69899308aa": {
@@ -68971,7 +68971,7 @@
     "status": "error",
     "first_seen_at": "2026-06-11T10:17:37.054255+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:17:37.054255+00:00",
+    "fetched_at": "2026-06-12T10:05:24.433332+00:00",
     "history_file": "history/ae69899308aa.json"
   },
   "f06ac0650f17": {
@@ -68988,10 +68988,10 @@
     "paths_count": 4,
     "latest_info_version": "{{version}}",
     "latest_hash": "ff620fa07132ee0fbc241d20d1cd049856e25d1d2c904b184d82d50900762c67",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-11T10:17:37.241726+00:00",
     "last_updated_at": "2026-06-11T10:17:37.241726+00:00",
-    "fetched_at": "2026-06-11T10:17:37.241726+00:00",
+    "fetched_at": "2026-06-12T10:05:24.630325+00:00",
     "history_file": "history/f06ac0650f17.json"
   },
   "0d32a418c0c6": {
@@ -69008,10 +69008,10 @@
     "paths_count": 43,
     "latest_info_version": "1.0.0",
     "latest_hash": "ee579861e43b26260d63c9bdad74b439d2709a483beeb905d7af0e9cbb2a9113",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-11T10:17:37.442343+00:00",
     "last_updated_at": "2026-06-11T10:17:37.442343+00:00",
-    "fetched_at": "2026-06-11T10:17:37.442343+00:00",
+    "fetched_at": "2026-06-12T10:05:24.877171+00:00",
     "history_file": "history/0d32a418c0c6.json"
   },
   "f9fc2050712d": {
@@ -69033,10 +69033,10 @@
     "paths_count": 14,
     "latest_info_version": "1.0.6",
     "latest_hash": "9d7a52735cef7868223c965edec1db4f55b01eb3d0fd0992853015c892e2ec0f",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-11T10:17:38.160889+00:00",
     "last_updated_at": "2026-06-11T10:17:38.160889+00:00",
-    "fetched_at": "2026-06-11T10:17:38.160889+00:00",
+    "fetched_at": "2026-06-12T10:05:25.652385+00:00",
     "history_file": "history/f9fc2050712d.json"
   },
   "2490e575b5a9": {
@@ -69065,10 +69065,10 @@
     "paths_count": 31,
     "latest_info_version": "1.0.0",
     "latest_hash": "6dcf27545dffeb3946504370fd38401f26e587e4bbd7ba522a62340bc5c56b5c",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-11T10:17:38.634002+00:00",
     "last_updated_at": "2026-06-11T10:17:38.634002+00:00",
-    "fetched_at": "2026-06-11T10:17:38.634002+00:00",
+    "fetched_at": "2026-06-12T10:05:26.095566+00:00",
     "history_file": "history/2490e575b5a9.json"
   },
   "be2f645c4e1e": {
@@ -69086,10 +69086,10 @@
     "paths_count": 15,
     "latest_info_version": "1.0.0",
     "latest_hash": "a86be1ec8d2e2467cc4fca62d2775181bddbdc1d4793dbc76ca7950b95ebfc69",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-11T10:17:38.847826+00:00",
     "last_updated_at": "2026-06-11T10:17:38.847826+00:00",
-    "fetched_at": "2026-06-11T10:17:38.847826+00:00",
+    "fetched_at": "2026-06-12T10:05:26.352493+00:00",
     "history_file": "history/be2f645c4e1e.json"
   },
   "319a72d7f816": {
@@ -69106,10 +69106,10 @@
     "paths_count": 1,
     "latest_info_version": "1.0.1",
     "latest_hash": "df3502d58e297af57d26019c932817522d04177e29109ec80195f96f9b134b59",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-11T10:17:39.057357+00:00",
     "last_updated_at": "2026-06-11T10:17:39.057357+00:00",
-    "fetched_at": "2026-06-11T10:17:39.057357+00:00",
+    "fetched_at": "2026-06-12T10:05:26.594130+00:00",
     "history_file": "history/319a72d7f816.json"
   },
   "3e0eef2705df": {
@@ -69127,10 +69127,10 @@
     "paths_count": 3,
     "latest_info_version": "2.3.1",
     "latest_hash": "114c2d8392c9715e0413906c239121b83cba46545c84e4464ac6ac3f821afa16",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-11T10:17:39.238254+00:00",
     "last_updated_at": "2026-06-11T10:17:39.238254+00:00",
-    "fetched_at": "2026-06-11T10:17:39.238254+00:00",
+    "fetched_at": "2026-06-12T10:05:26.817524+00:00",
     "history_file": "history/3e0eef2705df.json"
   },
   "bd625a49cb23": {
@@ -69145,10 +69145,10 @@
     "paths_count": 46,
     "latest_info_version": "1.0.0",
     "latest_hash": "1ded35cdcaea7b641e2929e9dfc48cc948c23cd3f3c9f6a4a279d311a728e8c7",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-11T10:17:39.453030+00:00",
     "last_updated_at": "2026-06-11T10:17:39.453030+00:00",
-    "fetched_at": "2026-06-11T10:17:39.453030+00:00",
+    "fetched_at": "2026-06-12T10:05:27.046493+00:00",
     "history_file": "history/bd625a49cb23.json"
   },
   "330e6321b16b": {
@@ -69166,7 +69166,7 @@
     "status": "error",
     "first_seen_at": "2026-06-11T10:17:39.776767+00:00",
     "last_updated_at": "",
-    "fetched_at": "2026-06-11T10:17:39.776767+00:00",
+    "fetched_at": "2026-06-12T10:05:27.375232+00:00",
     "history_file": "history/330e6321b16b.json"
   },
   "42d04f62809f": {
@@ -69191,10 +69191,10 @@
     "paths_count": 14,
     "latest_info_version": "1.0.0",
     "latest_hash": "d5e71bb30bf80e5270f675949ed46e8754e2e3fd7fc6b42756a424a2939e2cf6",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-11T10:17:39.976267+00:00",
     "last_updated_at": "2026-06-11T10:17:39.976267+00:00",
-    "fetched_at": "2026-06-11T10:17:39.976267+00:00",
+    "fetched_at": "2026-06-12T10:05:27.578011+00:00",
     "history_file": "history/42d04f62809f.json"
   },
   "85661b03b876": {
@@ -69211,10 +69211,10 @@
     "paths_count": 22,
     "latest_info_version": null,
     "latest_hash": "74e4ef523f25be3596aae7d5177fa256f52c38ce40fe754949b38da192a887e3",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-11T10:17:40.490539+00:00",
     "last_updated_at": "2026-06-11T10:17:40.490539+00:00",
-    "fetched_at": "2026-06-11T10:17:40.490539+00:00",
+    "fetched_at": "2026-06-12T10:05:28.162754+00:00",
     "history_file": "history/85661b03b876.json"
   },
   "93096bfa53ff": {
@@ -69237,10 +69237,10 @@
     "paths_count": 10,
     "latest_info_version": "1.0.0",
     "latest_hash": "b9d9a60539af3389d12339df10d7543e296c1be299afc4494b532247e16c6f86",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-11T10:17:40.857899+00:00",
     "last_updated_at": "2026-06-11T10:17:40.857899+00:00",
-    "fetched_at": "2026-06-11T10:17:40.857899+00:00",
+    "fetched_at": "2026-06-12T10:05:28.557274+00:00",
     "history_file": "history/93096bfa53ff.json"
   },
   "08d862c13381": {
@@ -69255,10 +69255,10 @@
     "paths_count": 0,
     "latest_info_version": "1.0.0",
     "latest_hash": "ff7b2f4b25220d6770f91f43f8f12840d3eb3f64f23b7415a9497565c7f2bb70",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-11T10:17:41.463637+00:00",
     "last_updated_at": "2026-06-11T10:17:41.463637+00:00",
-    "fetched_at": "2026-06-11T10:17:41.463637+00:00",
+    "fetched_at": "2026-06-12T10:05:29.352334+00:00",
     "history_file": "history/08d862c13381.json"
   },
   "983d30f3702b": {
@@ -69280,10 +69280,10 @@
     "paths_count": 27,
     "latest_info_version": "V1.0",
     "latest_hash": "67fe081b632e8dc9191403bba27b1fc1c3afc72d0aa2ac47fbd813b041799c76",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-11T10:17:41.636116+00:00",
     "last_updated_at": "2026-06-11T10:17:41.636116+00:00",
-    "fetched_at": "2026-06-11T10:17:41.636116+00:00",
+    "fetched_at": "2026-06-12T10:05:29.546935+00:00",
     "history_file": "history/983d30f3702b.json"
   },
   "ce97e4923253": {
@@ -69305,10 +69305,10 @@
     "paths_count": 5,
     "latest_info_version": "0.1.9",
     "latest_hash": "a419510f85460757a8f8fa6af96ef0173f2c9b037fddf82c153f5b639e67dd2a",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-11T10:17:41.877656+00:00",
     "last_updated_at": "2026-06-11T10:17:41.877656+00:00",
-    "fetched_at": "2026-06-11T10:17:41.877656+00:00",
+    "fetched_at": "2026-06-12T10:05:29.805734+00:00",
     "history_file": "history/ce97e4923253.json"
   },
   "45c12424e2f3": {
@@ -69331,10 +69331,10 @@
     "paths_count": 15,
     "latest_info_version": "1.0.0",
     "latest_hash": "7dd8e693477fbecd521ba9081190bad9b88711f4d48ddd67fe56925cd566813e",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-11T10:17:42.236242+00:00",
     "last_updated_at": "2026-06-11T10:17:42.236242+00:00",
-    "fetched_at": "2026-06-11T10:17:42.236242+00:00",
+    "fetched_at": "2026-06-12T10:05:30.169977+00:00",
     "history_file": "history/45c12424e2f3.json"
   },
   "732cc80adee3": {
@@ -69351,10 +69351,10 @@
     "paths_count": 5,
     "latest_info_version": "0.0.1",
     "latest_hash": "e613b4166f4c578690b329244227647d8952e05d0d111804e42818518630fd56",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-11T10:17:42.661593+00:00",
     "last_updated_at": "2026-06-11T10:17:42.661593+00:00",
-    "fetched_at": "2026-06-11T10:17:42.661593+00:00",
+    "fetched_at": "2026-06-12T10:05:30.621551+00:00",
     "history_file": "history/732cc80adee3.json"
   },
   "cf36e916a531": {
@@ -69371,10 +69371,10 @@
     "paths_count": 5,
     "latest_info_version": "1.0",
     "latest_hash": "6497357df10cb9739c405b7c8fde7b589cf238da7b0e2e7a47b81ad3321bda43",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-11T10:17:42.868901+00:00",
     "last_updated_at": "2026-06-11T10:17:42.868901+00:00",
-    "fetched_at": "2026-06-11T10:17:42.868901+00:00",
+    "fetched_at": "2026-06-12T10:05:30.848485+00:00",
     "history_file": "history/cf36e916a531.json"
   },
   "a0f14e938e0e": {
@@ -69396,10 +69396,10 @@
     "paths_count": 14,
     "latest_info_version": "1.0.0",
     "latest_hash": "e0862ff0e1b3af9ac06f73806bd9356a2e074989f85480934bcc957f09dc510f",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-11T10:17:43.048328+00:00",
     "last_updated_at": "2026-06-11T10:17:43.048328+00:00",
-    "fetched_at": "2026-06-11T10:17:43.048328+00:00",
+    "fetched_at": "2026-06-12T10:05:31.066797+00:00",
     "history_file": "history/a0f14e938e0e.json"
   },
   "60bfb8337a87": {
@@ -69414,10 +69414,10 @@
     "paths_count": 4,
     "latest_info_version": "1.0",
     "latest_hash": "b131d840acd9585841596f7076ee947577fda94071bd41b6857ef0094a5de3e5",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-11T10:17:43.279335+00:00",
     "last_updated_at": "2026-06-11T10:17:43.279335+00:00",
-    "fetched_at": "2026-06-11T10:17:43.279335+00:00",
+    "fetched_at": "2026-06-12T10:05:31.316117+00:00",
     "history_file": "history/60bfb8337a87.json"
   },
   "22d0d23dac5c": {
@@ -69434,10 +69434,10 @@
     "paths_count": 6,
     "latest_info_version": "1.0.0",
     "latest_hash": "4c12a9e7f52cec9389fbe3afb948a97861d0a92ea272dfe990d97f23f2317b35",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-11T10:17:43.472607+00:00",
     "last_updated_at": "2026-06-11T10:17:43.472607+00:00",
-    "fetched_at": "2026-06-11T10:17:43.472607+00:00",
+    "fetched_at": "2026-06-12T10:05:31.504907+00:00",
     "history_file": "history/22d0d23dac5c.json"
   },
   "d57f99521fe5": {
@@ -69454,10 +69454,10 @@
     "paths_count": 5,
     "latest_info_version": "1.0.0",
     "latest_hash": "d0c1aeaf9fb7a0b18e7104ca90ffe9ec465e73f5887523ba2fb2844a4c1dee15",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-11T10:17:43.691331+00:00",
     "last_updated_at": "2026-06-11T10:17:43.691331+00:00",
-    "fetched_at": "2026-06-11T10:17:43.691331+00:00",
+    "fetched_at": "2026-06-12T10:05:31.906994+00:00",
     "history_file": "history/d57f99521fe5.json"
   },
   "d2f155ba8c78": {
@@ -69472,10 +69472,10 @@
     "paths_count": 29,
     "latest_info_version": "v0",
     "latest_hash": "43c53ed3a15e7e037b46a5c1ead72be282eb96cc512ca0e5978f9320a423cd88",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-11T10:17:43.896141+00:00",
     "last_updated_at": "2026-06-11T10:17:43.896141+00:00",
-    "fetched_at": "2026-06-11T10:17:43.896141+00:00",
+    "fetched_at": "2026-06-12T10:05:32.130380+00:00",
     "history_file": "history/d2f155ba8c78.json"
   },
   "82afcc12ba6e": {
@@ -69497,10 +69497,10 @@
     "paths_count": 15,
     "latest_info_version": "1.0.0",
     "latest_hash": "c7cde7aec3a9ef05c7325a78316996069e0d6c1ef7adbe82e058ce18269f459c",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-11T10:17:44.415661+00:00",
     "last_updated_at": "2026-06-11T10:17:44.415661+00:00",
-    "fetched_at": "2026-06-11T10:17:44.415661+00:00",
+    "fetched_at": "2026-06-12T10:05:32.666703+00:00",
     "history_file": "history/82afcc12ba6e.json"
   },
   "94ec0a03b558": {
@@ -69515,10 +69515,1674 @@
     "paths_count": 1,
     "latest_info_version": "1.0",
     "latest_hash": "ba733917aa5096f563e12ace9b2af3622938326e2874c15888631eaaa5c6e79d",
-    "status": "new",
+    "status": "unchanged",
     "first_seen_at": "2026-06-11T10:17:44.807855+00:00",
     "last_updated_at": "2026-06-11T10:17:44.807855+00:00",
-    "fetched_at": "2026-06-11T10:17:44.807855+00:00",
+    "fetched_at": "2026-06-12T10:05:32.928379+00:00",
     "history_file": "history/94ec0a03b558.json"
+  },
+  "5b87f0243b01": {
+    "spec_id": "5b87f0243b01",
+    "id": "github:octobox/octobox/openapi.yaml",
+    "source_url": "https://raw.githubusercontent.com/octobox/octobox/b485f01db42e16ba8e4a24e182eb30b404f87dc4/openapi.yaml",
+    "title": "Octobox",
+    "description": "Octobox helps you manage your GitHub notifications efficiently so you can spend more time getting things done. It provides several features to manage GitHub notifications, including archived states, starred notifications, extended filtering, and pinned searches.",
+    "openapi_version": "openapi_3",
+    "servers": [
+      "http://localhost:3000",
+      "https://octobox.io"
+    ],
+    "tags": [
+      "Notifications",
+      "Users",
+      "Pinned Searches"
+    ],
+    "paths_count": 14,
+    "latest_info_version": "1.0.0",
+    "latest_hash": "97190ddfcb2779db6a5cf047723e80d66f2862d772454122722e401898e9057b",
+    "status": "new",
+    "first_seen_at": "2026-06-12T10:03:36.266065+00:00",
+    "last_updated_at": "2026-06-12T10:03:36.266065+00:00",
+    "fetched_at": "2026-06-12T10:03:36.266065+00:00",
+    "history_file": "history/5b87f0243b01.json"
+  },
+  "e6f8994d96a5": {
+    "spec_id": "e6f8994d96a5",
+    "id": "github:ManuGH/xg2g/openapi.yaml.snippet",
+    "source_url": "https://raw.githubusercontent.com/ManuGH/xg2g/9454a33d5d28c052ec5cb64635af3a4590c279d9/backend/api/openapi.yaml.snippet",
+    "title": null,
+    "description": null,
+    "openapi_version": "unknown",
+    "servers": [],
+    "tags": [],
+    "paths_count": 0,
+    "latest_info_version": null,
+    "latest_hash": "246dcc256f57f316c6d1b8ec1e0cb4e9396f326a50fd6797185abd709a97c696",
+    "status": "new",
+    "first_seen_at": "2026-06-12T10:03:37.882879+00:00",
+    "last_updated_at": "2026-06-12T10:03:37.882879+00:00",
+    "fetched_at": "2026-06-12T10:03:37.882879+00:00",
+    "history_file": "history/e6f8994d96a5.json"
+  },
+  "b7a075725522": {
+    "spec_id": "b7a075725522",
+    "id": "",
+    "source_url": "https://raw.githubusercontent.com/gxcsoccer/AlphaArena/0820f0d0874878cd010a4bddf099324eb18434ba/docs/api/openapi.yaml.bak",
+    "title": null,
+    "description": null,
+    "openapi_version": "unknown",
+    "servers": [],
+    "tags": [],
+    "paths_count": 0,
+    "latest_info_version": null,
+    "latest_hash": null,
+    "status": "error",
+    "first_seen_at": "2026-06-12T10:03:39.124829+00:00",
+    "last_updated_at": "",
+    "fetched_at": "2026-06-12T10:03:39.124829+00:00",
+    "history_file": "history/b7a075725522.json"
+  },
+  "475042899881": {
+    "spec_id": "475042899881",
+    "id": "",
+    "source_url": "https://raw.githubusercontent.com/gbv/ePuSta-Server/dbf2b750bf057450e10af6d54d8b37699d1bf684/rest-api/Epusta-1.0.x.openapi.yaml.template",
+    "title": null,
+    "description": null,
+    "openapi_version": "unknown",
+    "servers": [],
+    "tags": [],
+    "paths_count": 0,
+    "latest_info_version": null,
+    "latest_hash": null,
+    "status": "error",
+    "first_seen_at": "2026-06-12T10:03:41.010476+00:00",
+    "last_updated_at": "",
+    "fetched_at": "2026-06-12T10:03:41.010476+00:00",
+    "history_file": "history/475042899881.json"
+  },
+  "3dac969eb982": {
+    "spec_id": "3dac969eb982",
+    "id": "",
+    "source_url": "https://raw.githubusercontent.com/NorthernTechHQ/nt-gui/ea78676b36f4fee5b3d72e6c841d0edbec95b8b8/packages/testing/src/openapi.yaml.d.ts",
+    "title": null,
+    "description": null,
+    "openapi_version": "unknown",
+    "servers": [],
+    "tags": [],
+    "paths_count": 0,
+    "latest_info_version": null,
+    "latest_hash": null,
+    "status": "error",
+    "first_seen_at": "2026-06-12T10:03:42.106428+00:00",
+    "last_updated_at": "",
+    "fetched_at": "2026-06-12T10:03:42.106428+00:00",
+    "history_file": "history/3dac969eb982.json"
+  },
+  "4d642d047bd9": {
+    "spec_id": "4d642d047bd9",
+    "id": "github:kateqwerty001/task-manager/openapi.yaml.tpl",
+    "source_url": "https://raw.githubusercontent.com/kateqwerty001/task-manager/cbd1d417e999c418c153b2ca8f0d42a9b71ec1dd/terraform/openapi.yaml.tpl",
+    "title": "Task Manager API",
+    "description": "Task CRUD API for the Task Manager course project",
+    "openapi_version": "swagger_2",
+    "servers": [],
+    "tags": [],
+    "paths_count": 4,
+    "latest_info_version": "1.0.0",
+    "latest_hash": "dfcb1713b97206f121abaab560d4d5468ac1288b114f21da0dc03978ea0869cf",
+    "status": "new",
+    "first_seen_at": "2026-06-12T10:03:43.372182+00:00",
+    "last_updated_at": "2026-06-12T10:03:43.372182+00:00",
+    "fetched_at": "2026-06-12T10:03:43.372182+00:00",
+    "history_file": "history/4d642d047bd9.json"
+  },
+  "a2b698cd6733": {
+    "spec_id": "a2b698cd6733",
+    "id": "",
+    "source_url": "https://raw.githubusercontent.com/metalagman/tgbotspec/797b5152bd64c6049109e0faae5c5bac657ceb40/internal/openapi/openapi.yaml.gotmpl",
+    "title": null,
+    "description": null,
+    "openapi_version": "unknown",
+    "servers": [],
+    "tags": [],
+    "paths_count": 0,
+    "latest_info_version": null,
+    "latest_hash": null,
+    "status": "error",
+    "first_seen_at": "2026-06-12T10:03:44.198615+00:00",
+    "last_updated_at": "",
+    "fetched_at": "2026-06-12T10:03:44.198615+00:00",
+    "history_file": "history/a2b698cd6733.json"
+  },
+  "d250cfe13704": {
+    "spec_id": "d250cfe13704",
+    "id": "github:papadopouloskyriakos/agentic-chatops/openapi.yaml.tmpl",
+    "source_url": "https://raw.githubusercontent.com/papadopouloskyriakos/agentic-chatops/f2e74df89ed173a4c3d0b9f017935e987ce56e9b/bootstrap-pack/templates/openapi.yaml.tmpl",
+    "title": "<project-slug> API",
+    "description": "Sync API contracts for <project-slug>. Workers generate code FROM this contract;\nthey don't invent endpoints.",
+    "openapi_version": "openapi_3",
+    "servers": [
+      "http://localhost:8080",
+      "https://api.example.net"
+    ],
+    "tags": [],
+    "paths_count": 1,
+    "latest_info_version": "0.1.0",
+    "latest_hash": "6361053a75f64ad139a01608bd6d32eb6e4cb5427e862ee67080f7524fcd7aa4",
+    "status": "new",
+    "first_seen_at": "2026-06-12T10:03:44.629643+00:00",
+    "last_updated_at": "2026-06-12T10:03:44.629643+00:00",
+    "fetched_at": "2026-06-12T10:03:44.629643+00:00",
+    "history_file": "history/d250cfe13704.json"
+  },
+  "58ce179999b4": {
+    "spec_id": "58ce179999b4",
+    "id": "github:Redocly/website/openapi.yaml~",
+    "source_url": "https://raw.githubusercontent.com/Redocly/website/a55074a6684eb65ffd3f7126ab5c306a30bda7f1/learn/openapi/openapi-visual-reference/openapi.yaml~",
+    "title": "Example",
+    "description": "# My API description in Markdown\n\nThis is a sample of an info description.",
+    "openapi_version": "openapi_3",
+    "servers": [
+      "https://{project}.redocly.com",
+      "https://api.remockly.com"
+    ],
+    "tags": [
+      "Alpha",
+      "Beta",
+      "Gamma"
+    ],
+    "paths_count": 3,
+    "latest_info_version": null,
+    "latest_hash": "5cd06c2af6d3fb253d714ea0f2e853c7c93d4926c1b925389f7306cf89301f45",
+    "status": "new",
+    "first_seen_at": "2026-06-12T10:03:44.946241+00:00",
+    "last_updated_at": "2026-06-12T10:03:44.946241+00:00",
+    "fetched_at": "2026-06-12T10:03:44.946241+00:00",
+    "history_file": "history/58ce179999b4.json"
+  },
+  "4db263da17a6": {
+    "spec_id": "4db263da17a6",
+    "id": "github:team-dev-docs/mdx-parse-test-developer-docs/openapi.yaml.txt",
+    "source_url": "https://raw.githubusercontent.com/team-dev-docs/mdx-parse-test-developer-docs/aed624afd28d28600c6a23e651ce15c9eb1a78ca/blog/speakeasy-vs-stainless/assets/openapi.yaml.txt",
+    "title": "Bookstore API",
+    "description": "API for a bookstore with categories Programming, Fantasy, and Sci-fi",
+    "openapi_version": "openapi_3",
+    "servers": [
+      "http://127.0.0.1:4010"
+    ],
+    "tags": [
+      "Books",
+      "Orders"
+    ],
+    "paths_count": 6,
+    "latest_info_version": "1.0.0",
+    "latest_hash": "657f0b6c3b60b5229ec092a4dac4f46e10816ca08658075fdbbd98bd0fff0714",
+    "status": "new",
+    "first_seen_at": "2026-06-12T10:03:45.171791+00:00",
+    "last_updated_at": "2026-06-12T10:03:45.171791+00:00",
+    "fetched_at": "2026-06-12T10:03:45.171791+00:00",
+    "history_file": "history/4db263da17a6.json"
+  },
+  "8c860e409381": {
+    "spec_id": "8c860e409381",
+    "id": "",
+    "source_url": "https://raw.githubusercontent.com/francknouama/go-starter/513e5e4c860d7f9fabbf16bc6bd060cdae1e4351/blueprints/web-api-standard/api/openapi.yaml.tmpl",
+    "title": null,
+    "description": null,
+    "openapi_version": "unknown",
+    "servers": [],
+    "tags": [],
+    "paths_count": 0,
+    "latest_info_version": null,
+    "latest_hash": null,
+    "status": "error",
+    "first_seen_at": "2026-06-12T10:03:48.144009+00:00",
+    "last_updated_at": "",
+    "fetched_at": "2026-06-12T10:03:48.144009+00:00",
+    "history_file": "history/8c860e409381.json"
+  },
+  "e6103d13110c": {
+    "spec_id": "e6103d13110c",
+    "id": "github:ankorstore/yokai-petstore-demo/openapi.yaml",
+    "source_url": "https://raw.githubusercontent.com/ankorstore/yokai-petstore-demo/42c50f838ab21e28d164ed29e409191e27a9b261/openapi.yaml",
+    "title": "Swagger Petstore",
+    "description": "A sample API that uses a petstore as an example to demonstrate features in the OpenAPI 3.0 specification",
+    "openapi_version": "openapi_3",
+    "servers": [
+      "https://petstore.swagger.io/api"
+    ],
+    "tags": [],
+    "paths_count": 4,
+    "latest_info_version": "1.0.0",
+    "latest_hash": "ad5c47d3c4ae8eea98c538416e2e8affec66480c51855a263f65cf2c2f09415f",
+    "status": "new",
+    "first_seen_at": "2026-06-12T10:03:48.847069+00:00",
+    "last_updated_at": "2026-06-12T10:03:48.847069+00:00",
+    "fetched_at": "2026-06-12T10:03:48.847069+00:00",
+    "history_file": "history/e6103d13110c.json"
+  },
+  "49f437811c5a": {
+    "spec_id": "49f437811c5a",
+    "id": "github:jukasdrj/swiftwing/talaria-openapi.yaml.tmp",
+    "source_url": "https://raw.githubusercontent.com/jukasdrj/swiftwing/32a9ffaedebf1f2e6d626d90e38a9e2e2e775d14/swiftwing/OpenAPI/talaria-openapi.yaml.tmp",
+    "title": "Talaria V3 API",
+    "description": "High-speed bookshelf scanning API with Gemini Vision",
+    "openapi_version": "openapi_3",
+    "servers": [
+      "https://api.oooefam.net",
+      "http://localhost:8787"
+    ],
+    "tags": [
+      "Scans",
+      "Books",
+      "Admin"
+    ],
+    "paths_count": 9,
+    "latest_info_version": "3.7.0",
+    "latest_hash": "d4035cbe0386cab53154e801ba4dd4f9ff4fb7392d659bde5ccaf0e4022260c4",
+    "status": "new",
+    "first_seen_at": "2026-06-12T10:03:52.161275+00:00",
+    "last_updated_at": "2026-06-12T10:03:52.161275+00:00",
+    "fetched_at": "2026-06-12T10:03:52.161275+00:00",
+    "history_file": "history/49f437811c5a.json"
+  },
+  "99b054cdb6f3": {
+    "spec_id": "99b054cdb6f3",
+    "id": "github:getmentor/getmentor-backend/openAPI.yaml",
+    "source_url": "https://raw.githubusercontent.com/getmentor/getmentor-backend/cfb5b7819f00986c426caec99f208b1b1d0015e9/openAPI.yaml",
+    "title": "Get Mentor",
+    "description": null,
+    "openapi_version": "openapi_3",
+    "servers": [
+      "https://getmentor.dev",
+      "http://localhost:8000/"
+    ],
+    "tags": [],
+    "paths_count": 2,
+    "latest_info_version": "1.0.0",
+    "latest_hash": "d43d0012ecc5b2c5e8ae908d942cdc63bd38f091c41d1486e644186f72e0f99a",
+    "status": "new",
+    "first_seen_at": "2026-06-12T10:03:55.373201+00:00",
+    "last_updated_at": "2026-06-12T10:03:55.373201+00:00",
+    "fetched_at": "2026-06-12T10:03:55.373201+00:00",
+    "history_file": "history/99b054cdb6f3.json"
+  },
+  "5d7f9e0ef8f6": {
+    "spec_id": "5d7f9e0ef8f6",
+    "id": "github:mayornaca/qlify-platform/openapi.yaml",
+    "source_url": "https://raw.githubusercontent.com/mayornaca/qlify-platform/31d6725303c3a4dc2f309062c74015e61ae7d3a3/openapi.yaml",
+    "title": "Qlify Platform",
+    "description": null,
+    "openapi_version": "openapi_3",
+    "servers": [
+      "https://app.qlify.craetion.cl/api/v1"
+    ],
+    "tags": [
+      "Applications",
+      "Databases",
+      "Deployments",
+      "Projects",
+      "Resources",
+      "Private Keys",
+      "Servers",
+      "Services",
+      "Teams"
+    ],
+    "paths_count": 60,
+    "latest_info_version": "0.1",
+    "latest_hash": "84b02d1d7df16e4811c0c90ace5ba0fad79bfaa5b507f720103986913336fd2b",
+    "status": "new",
+    "first_seen_at": "2026-06-12T10:03:56.277447+00:00",
+    "last_updated_at": "2026-06-12T10:03:56.277447+00:00",
+    "fetched_at": "2026-06-12T10:03:56.277447+00:00",
+    "history_file": "history/5d7f9e0ef8f6.json"
+  },
+  "415cd3e92941": {
+    "spec_id": "415cd3e92941",
+    "id": "github:tttinh/be002-go-doctor-appointment/openapi.yaml",
+    "source_url": "https://raw.githubusercontent.com/tttinh/be002-go-doctor-appointment/29c0bdd2febea15e884278f784ea13ec82f27271/openapi.yaml",
+    "title": "Doctor Appointment API",
+    "description": "Doctor API documentation",
+    "openapi_version": "openapi_3",
+    "servers": [
+      "http://localhost:8080/api"
+    ],
+    "tags": [
+      "auth",
+      "slot",
+      "appointment",
+      "calendar"
+    ],
+    "paths_count": 9,
+    "latest_info_version": "1.0.0",
+    "latest_hash": "c4c7abb8b1078a420c54e391a026b760de34fc6b82205d877aea4969c97c1c11",
+    "status": "new",
+    "first_seen_at": "2026-06-12T10:03:57.044536+00:00",
+    "last_updated_at": "2026-06-12T10:03:57.044536+00:00",
+    "fetched_at": "2026-06-12T10:03:57.044536+00:00",
+    "history_file": "history/415cd3e92941.json"
+  },
+  "d92a81633c3a": {
+    "spec_id": "d92a81633c3a",
+    "id": "github:alexbatesdev/IdeaAPI/openapi.yaml",
+    "source_url": "https://raw.githubusercontent.com/alexbatesdev/IdeaAPI/10a203f08578155f9ef256bd508a4caa1e814882/openapi.yaml",
+    "title": "FastAPI",
+    "description": null,
+    "openapi_version": "openapi_3",
+    "servers": [
+      "/"
+    ],
+    "tags": [],
+    "paths_count": 2,
+    "latest_info_version": "0.1.0",
+    "latest_hash": "9fb0e64ba7406f67711c6ae319733648c1965d66d3805967b0281033cab525f2",
+    "status": "new",
+    "first_seen_at": "2026-06-12T10:04:00.089655+00:00",
+    "last_updated_at": "2026-06-12T10:04:00.089655+00:00",
+    "fetched_at": "2026-06-12T10:04:00.089655+00:00",
+    "history_file": "history/d92a81633c3a.json"
+  },
+  "112f117e5b1d": {
+    "spec_id": "112f117e5b1d",
+    "id": "github:InferSoft-inc/Infersoft-Dotnet-Examples/openapi.yaml",
+    "source_url": "https://raw.githubusercontent.com/InferSoft-inc/Infersoft-Dotnet-Examples/ba254ebd17d2f4bc605f64085e18f82dd626aa51/openapi.yaml",
+    "title": "Infersoft REST API",
+    "description": null,
+    "openapi_version": "openapi_3",
+    "servers": [
+      "https://api.infersoft.com"
+    ],
+    "tags": [],
+    "paths_count": 14,
+    "latest_info_version": "1.0.0",
+    "latest_hash": "129b523b761f8289a563b9fc87f3bb80a725823c5ff74af7de4054e9d9225ef4",
+    "status": "new",
+    "first_seen_at": "2026-06-12T10:04:00.316349+00:00",
+    "last_updated_at": "2026-06-12T10:04:00.316349+00:00",
+    "fetched_at": "2026-06-12T10:04:00.316349+00:00",
+    "history_file": "history/112f117e5b1d.json"
+  },
+  "35adf532e17a": {
+    "spec_id": "35adf532e17a",
+    "id": "github:Sergey-Yachmennikov/highload-testing-presentation/openapi.yaml",
+    "source_url": "https://raw.githubusercontent.com/Sergey-Yachmennikov/highload-testing-presentation/45c77ab5d595ffed3196d277dc433e0da17dfe63/openapi.yaml",
+    "title": "Highload Testing Presentation API",
+    "description": "Demo API for load testing presentation. Contains intentionally \"good\" and \"bad\"\nendpoints to demonstrate common performance problems and their solutions.",
+    "openapi_version": "openapi_3",
+    "servers": [
+      "http://localhost:8082"
+    ],
+    "tags": [
+      "Products",
+      "Orders"
+    ],
+    "paths_count": 10,
+    "latest_info_version": "0.0.1-SNAPSHOT",
+    "latest_hash": "1793c9ee141fa944f9da65ada3cf37900e81275efaadc7d2a7d0a88ac7881d51",
+    "status": "new",
+    "first_seen_at": "2026-06-12T10:04:00.630059+00:00",
+    "last_updated_at": "2026-06-12T10:04:00.630059+00:00",
+    "fetched_at": "2026-06-12T10:04:00.630059+00:00",
+    "history_file": "history/35adf532e17a.json"
+  },
+  "fced98be57b3": {
+    "spec_id": "fced98be57b3",
+    "id": "github:Francescosommellaa/kyroo/openapi.yaml",
+    "source_url": "https://raw.githubusercontent.com/Francescosommellaa/kyroo/2eca633569da7ff587b81b05185549be7c82e505/openapi.yaml",
+    "title": "KYROO API",
+    "description": "API per l'applicazione KYROO",
+    "openapi_version": "openapi_3",
+    "servers": [],
+    "tags": [],
+    "paths_count": 5,
+    "latest_info_version": "0.0.1",
+    "latest_hash": "e832b3ad0cd5008ead97f9d7b1f0af9cf687e5f69150c33d7d53ef5ee92d5c73",
+    "status": "new",
+    "first_seen_at": "2026-06-12T10:04:00.874427+00:00",
+    "last_updated_at": "2026-06-12T10:04:00.874427+00:00",
+    "fetched_at": "2026-06-12T10:04:00.874427+00:00",
+    "history_file": "history/fced98be57b3.json"
+  },
+  "05825eada4b9": {
+    "spec_id": "05825eada4b9",
+    "id": "github:andreypotkas/nodejs-aws-shop-backend/openapi.yaml",
+    "source_url": "https://raw.githubusercontent.com/andreypotkas/nodejs-aws-shop-backend/771defc2af1e259c4ef7752bff28f0c9aa73f4a5/openapi.yaml",
+    "title": "Product API",
+    "description": null,
+    "openapi_version": "openapi_3",
+    "servers": [
+      "https://3coawsqalb.execute-api.eu-west-1.amazonaws.com/"
+    ],
+    "tags": [],
+    "paths_count": 2,
+    "latest_info_version": "1.0.0",
+    "latest_hash": "b66fce8f25057c51dd7d2e542c8db3307c4ee16999cd639fe3937a83aefe7e02",
+    "status": "new",
+    "first_seen_at": "2026-06-12T10:04:01.110206+00:00",
+    "last_updated_at": "2026-06-12T10:04:01.110206+00:00",
+    "fetched_at": "2026-06-12T10:04:01.110206+00:00",
+    "history_file": "history/05825eada4b9.json"
+  },
+  "ed4d1daf37c3": {
+    "spec_id": "ed4d1daf37c3",
+    "id": "github:davidsilvestrehenao-hub/lmstudio-internet-wrapper/openapi.yaml",
+    "source_url": "https://raw.githubusercontent.com/davidsilvestrehenao-hub/lmstudio-internet-wrapper/0b1b71f435d4d43341564e7f681f98d3b46d6619/openapi.yaml",
+    "title": "LM Studio Internet Wrapper API",
+    "description": "API for interacting with LM Studio with internet access and tool capabilities",
+    "openapi_version": "openapi_3",
+    "servers": [
+      "http://localhost:3000"
+    ],
+    "tags": [],
+    "paths_count": 13,
+    "latest_info_version": "3.1.0",
+    "latest_hash": "a8b9cb750fed2476fc040c8af1e337a07b44843dd7cd70d89b7a458c32c0db20",
+    "status": "new",
+    "first_seen_at": "2026-06-12T10:04:01.317262+00:00",
+    "last_updated_at": "2026-06-12T10:04:01.317262+00:00",
+    "fetched_at": "2026-06-12T10:04:01.317262+00:00",
+    "history_file": "history/ed4d1daf37c3.json"
+  },
+  "f0e6a8345215": {
+    "spec_id": "f0e6a8345215",
+    "id": "github:Bzcasper/bank-statement-parser-api/openapi.yaml",
+    "source_url": "https://raw.githubusercontent.com/Bzcasper/bank-statement-parser-api/b20b9bffd48ff5b10bcc6277ec162a4887d36d8d/openapi.yaml",
+    "title": "Bank Statement Parser API",
+    "description": "Extract transactions, categorize spending, detect income, and deliver structured financial intelligence from any bank statement PDF.\n\n## Features\n- **Universal PDF Support**: Works with statements from any bank\n- **AI-Enhanced Extraction**: Combines regex + GPT-4 for accuracy\n- **Smart Categorization**: 30+ transaction categories\n- **Recurring Detection**: Identifies subscriptions & bills\n- **Anomaly Analysis**: Flags suspicious transactions\n- **Cash Flow Analytics**: Income, spending, trends",
+    "openapi_version": "openapi_3",
+    "servers": [
+      "https://bank-statement-parser-api.p.rapidapi.com"
+    ],
+    "tags": [
+      "Parse",
+      "Validate"
+    ],
+    "paths_count": 3,
+    "latest_info_version": "2.0.0",
+    "latest_hash": "9a146c82bec87aba5ae8d0b7a4f6c30b4dcee3fe0eb755125188707449dd36d5",
+    "status": "new",
+    "first_seen_at": "2026-06-12T10:04:01.585661+00:00",
+    "last_updated_at": "2026-06-12T10:04:01.585661+00:00",
+    "fetched_at": "2026-06-12T10:04:01.585661+00:00",
+    "history_file": "history/f0e6a8345215.json"
+  },
+  "0b71de0734db": {
+    "spec_id": "0b71de0734db",
+    "id": "github:makarblch/Software-architecture-system-design/openapi.yaml",
+    "source_url": "https://raw.githubusercontent.com/makarblch/Software-architecture-system-design/7e35212834bad7b9fa87cc95c3b42162ef2b467a/openapi.yaml",
+    "title": "Borzoifit Calendar Integration API",
+    "description": "API для интеграции с Google Calendar и Yandex Calendar, реализованное в микросервисе borzoifit-calendar.",
+    "openapi_version": "openapi_3",
+    "servers": [
+      "https://api.borzoifit.ru/calendar"
+    ],
+    "tags": [],
+    "paths_count": 6,
+    "latest_info_version": "1.1.0",
+    "latest_hash": "fbd23312a462b53c17dfa9b49d0905790fc2e978a06b0a18f36fbb157f9b2eae",
+    "status": "new",
+    "first_seen_at": "2026-06-12T10:04:01.808451+00:00",
+    "last_updated_at": "2026-06-12T10:04:01.808451+00:00",
+    "fetched_at": "2026-06-12T10:04:01.808451+00:00",
+    "history_file": "history/0b71de0734db.json"
+  },
+  "dbf04370382e": {
+    "spec_id": "dbf04370382e",
+    "id": "github:error311/FileRise/openapi.json.dist",
+    "source_url": "https://raw.githubusercontent.com/error311/FileRise/444461fbcb021700f2d3c0866d928e24d79a576b/openapi.json.dist",
+    "title": "FileRise API",
+    "description": null,
+    "openapi_version": "openapi_3",
+    "servers": [
+      "/"
+    ],
+    "tags": [
+      "Admin",
+      "Users",
+      "Auth",
+      "Files",
+      "Shares",
+      "Trash",
+      "Tags",
+      "Folders",
+      "Shared Folders",
+      "Media",
+      "ONLYOFFICE",
+      "Pro",
+      "TOTP",
+      "Config",
+      "Uploads"
+    ],
+    "paths_count": 111,
+    "latest_info_version": "3.3.2",
+    "latest_hash": "93b26a9a9afae99e8263cd4200283fdc30955280b68a6310c71f7e94acbfd7f4",
+    "status": "new",
+    "first_seen_at": "2026-06-12T10:04:04.919675+00:00",
+    "last_updated_at": "2026-06-12T10:04:04.919675+00:00",
+    "fetched_at": "2026-06-12T10:04:04.919675+00:00",
+    "history_file": "history/dbf04370382e.json"
+  },
+  "a9297b371758": {
+    "spec_id": "a9297b371758",
+    "id": "github:nextcloud/polls/openapi.json.license",
+    "source_url": "https://raw.githubusercontent.com/nextcloud/polls/22046192565ba589e63405ca9ebbb400f3e17c2f/openapi.json.license",
+    "title": null,
+    "description": null,
+    "openapi_version": "unknown",
+    "servers": [],
+    "tags": [],
+    "paths_count": 0,
+    "latest_info_version": null,
+    "latest_hash": "50b8f20dc83c9c858fe6798f5203b03d39fe22200314160a53b869b00bb0fd0e",
+    "status": "new",
+    "first_seen_at": "2026-06-12T10:04:05.472517+00:00",
+    "last_updated_at": "2026-06-12T10:04:05.472517+00:00",
+    "fetched_at": "2026-06-12T10:04:05.472517+00:00",
+    "history_file": "history/a9297b371758.json"
+  },
+  "06ecbaf31404": {
+    "spec_id": "06ecbaf31404",
+    "id": "github:tezos/tezos-mirror/alpha-mempool-openapi.json.ext",
+    "source_url": "https://raw.githubusercontent.com/tezos/tezos-mirror/a3d8bc591f9c13ee88b3894af6a4a2efbff1f11f/docs/api/alpha-mempool-openapi.json.ext",
+    "title": "Octez Mempool RPC",
+    "description": "The RPC API for the mempool served by the Octez node.",
+    "openapi_version": "openapi_3",
+    "servers": [],
+    "tags": [],
+    "paths_count": 7,
+    "latest_info_version": "Octez 24.0~rc1+dev (build: 0) (991d8266)",
+    "latest_hash": "ec0c1bc4d6db122c569863ec29e45ac2ce920114488a79963a103a963bcefe55",
+    "status": "new",
+    "first_seen_at": "2026-06-12T10:04:06.673087+00:00",
+    "last_updated_at": "2026-06-12T10:04:06.673087+00:00",
+    "fetched_at": "2026-06-12T10:04:06.673087+00:00",
+    "history_file": "history/06ecbaf31404.json"
+  },
+  "c79b68a87062": {
+    "spec_id": "c79b68a87062",
+    "id": "",
+    "source_url": "https://raw.githubusercontent.com/notnotype/neuro-book/8cfebc6aeb435a269f687e0f1959da8fe33b9303/server/routes/_openapi.json.get.ts",
+    "title": null,
+    "description": null,
+    "openapi_version": "unknown",
+    "servers": [],
+    "tags": [],
+    "paths_count": 0,
+    "latest_info_version": null,
+    "latest_hash": null,
+    "status": "error",
+    "first_seen_at": "2026-06-12T10:04:07.296436+00:00",
+    "last_updated_at": "",
+    "fetched_at": "2026-06-12T10:04:07.296436+00:00",
+    "history_file": "history/c79b68a87062.json"
+  },
+  "154512850071": {
+    "spec_id": "154512850071",
+    "id": "github:pagopa/pagopa-mock-ec/_openapi.json.tpl",
+    "source_url": "https://raw.githubusercontent.com/pagopa/pagopa-mock-ec/377c64ef0270fbce8d07185cee5fc889e8e0b9f4/infra/api/mock-ec-service/v1/_openapi.json.tpl",
+    "title": "_mock_ec",
+    "description": "Api and Models",
+    "openapi_version": "openapi_3",
+    "servers": [
+      "https://${host}"
+    ],
+    "tags": [],
+    "paths_count": 1,
+    "latest_info_version": "1.0",
+    "latest_hash": "76c4aa1441b093d5e6ce39a0d8c4e171e61f51cf59ab4bf05f4f0a8ede6eb91b",
+    "status": "new",
+    "first_seen_at": "2026-06-12T10:04:09.280512+00:00",
+    "last_updated_at": "2026-06-12T10:04:09.280512+00:00",
+    "fetched_at": "2026-06-12T10:04:09.280512+00:00",
+    "history_file": "history/154512850071.json"
+  },
+  "cb224de85669": {
+    "spec_id": "cb224de85669",
+    "id": "",
+    "source_url": "https://raw.githubusercontent.com/Appmixer-ai/appmixer-connectors/f02c441b053daeefcfcd84824ead49404b520637/src/appmixer/connectwise/openapi.json-patch",
+    "title": null,
+    "description": null,
+    "openapi_version": "unknown",
+    "servers": [],
+    "tags": [],
+    "paths_count": 0,
+    "latest_info_version": null,
+    "latest_hash": null,
+    "status": "error",
+    "first_seen_at": "2026-06-12T10:04:09.478990+00:00",
+    "last_updated_at": "",
+    "fetched_at": "2026-06-12T10:04:09.478990+00:00",
+    "history_file": "history/cb224de85669.json"
+  },
+  "d78ea4869d65": {
+    "spec_id": "d78ea4869d65",
+    "id": "",
+    "source_url": "https://raw.githubusercontent.com/fairdataihub/posters-science/98588bac78127a797d8aecd5268054e438ae2266/server/routes/api-docs/openapi.json.get.ts",
+    "title": null,
+    "description": null,
+    "openapi_version": "unknown",
+    "servers": [],
+    "tags": [],
+    "paths_count": 0,
+    "latest_info_version": null,
+    "latest_hash": null,
+    "status": "error",
+    "first_seen_at": "2026-06-12T10:04:09.709038+00:00",
+    "last_updated_at": "",
+    "fetched_at": "2026-06-12T10:04:09.709038+00:00",
+    "history_file": "history/d78ea4869d65.json"
+  },
+  "042f993996ee": {
+    "spec_id": "042f993996ee",
+    "id": "",
+    "source_url": "https://raw.githubusercontent.com/rivet-dev/rivet/032954854248e73b79cc9531308caac71067c219/website/src/pages/metadata/skills/[skill]/openapi.json.ts",
+    "title": null,
+    "description": null,
+    "openapi_version": "unknown",
+    "servers": [],
+    "tags": [],
+    "paths_count": 0,
+    "latest_info_version": null,
+    "latest_hash": null,
+    "status": "error",
+    "first_seen_at": "2026-06-12T10:04:12.895430+00:00",
+    "last_updated_at": "",
+    "fetched_at": "2026-06-12T10:04:12.895430+00:00",
+    "history_file": "history/042f993996ee.json"
+  },
+  "11bcef034918": {
+    "spec_id": "11bcef034918",
+    "id": "github:Emmanuelmelvin/ratter-engine/openAPI.json",
+    "source_url": "https://raw.githubusercontent.com/Emmanuelmelvin/ratter-engine/e7b08d87be3803a5d63c17f5c3873e99af4e1ebe/openAPI.json",
+    "title": "LocalDNS API",
+    "description": "Backend API for LocalDNS",
+    "openapi_version": "openapi_3",
+    "servers": [
+      "http://localhost:4322"
+    ],
+    "tags": [],
+    "paths_count": 11,
+    "latest_info_version": "1.0.0",
+    "latest_hash": "8f53b809c80682f65ce2a9262d5dd9dee60fd9a8e323faf08d144cbc08cc8a27",
+    "status": "new",
+    "first_seen_at": "2026-06-12T10:04:13.558124+00:00",
+    "last_updated_at": "2026-06-12T10:04:13.558124+00:00",
+    "fetched_at": "2026-06-12T10:04:13.558124+00:00",
+    "history_file": "history/11bcef034918.json"
+  },
+  "c875c804e46a": {
+    "spec_id": "c875c804e46a",
+    "id": "",
+    "source_url": "https://raw.githubusercontent.com/kiki-core-stack/management-backend/4e708685ed823c036a6ed95cbaca7a95fe7a908d/src/routes/docs/openapi.json.get.dev.ts",
+    "title": null,
+    "description": null,
+    "openapi_version": "unknown",
+    "servers": [],
+    "tags": [],
+    "paths_count": 0,
+    "latest_info_version": null,
+    "latest_hash": null,
+    "status": "error",
+    "first_seen_at": "2026-06-12T10:04:19.917599+00:00",
+    "last_updated_at": "",
+    "fetched_at": "2026-06-12T10:04:19.917599+00:00",
+    "history_file": "history/c875c804e46a.json"
+  },
+  "cf7adc0d20bf": {
+    "spec_id": "cf7adc0d20bf",
+    "id": "github:SURFnet/eduhub-validator/ooapi.openapi.json.license",
+    "source_url": "https://raw.githubusercontent.com/SURFnet/eduhub-validator/9d9d68db37734e5c356a40773f3939cdfd427a7b/profiles/ooapi.openapi.json.license",
+    "title": null,
+    "description": null,
+    "openapi_version": "unknown",
+    "servers": [],
+    "tags": [],
+    "paths_count": 0,
+    "latest_info_version": null,
+    "latest_hash": "414a4bade3d4c071109c84244a3c406f90057c1128327862cc1781328b760f05",
+    "status": "new",
+    "first_seen_at": "2026-06-12T10:04:20.144473+00:00",
+    "last_updated_at": "2026-06-12T10:04:20.144473+00:00",
+    "fetched_at": "2026-06-12T10:04:20.144473+00:00",
+    "history_file": "history/cf7adc0d20bf.json"
+  },
+  "78fa106ff993": {
+    "spec_id": "78fa106ff993",
+    "id": "github:ampache/ampache.github.io/openapi.json",
+    "source_url": "https://raw.githubusercontent.com/ampache/ampache.github.io/7eb180cf1fe03f720462b901ea393515eedc939e/openapi.json",
+    "title": "Ampache REST API",
+    "description": "OpenAPI 3.0 specification for Ampache REST API, based on the official documentation and RESTful path conventions.",
+    "openapi_version": "openapi_3",
+    "servers": [
+      "{ampacheUrl}/rest/{apiVersion}/{format}"
+    ],
+    "tags": [
+      "Authentication",
+      "Albums",
+      "Artists",
+      "Songs",
+      "Playlists",
+      "Bookmarks",
+      "Search",
+      "Catalogs",
+      "Genres",
+      "Labels",
+      "Licenses",
+      "Browsing, Indexes and Lists",
+      "Streaming and Downloads",
+      "Artwork",
+      "Videos",
+      "Podcasts",
+      "Live Streams",
+      "Shares",
+      "Social",
+      "Now Playing",
+      "Users",
+      "Preferences",
+      "Maintenance",
+      "Ratings and Flags",
+      "Playback Control",
+      "Utilities"
+    ],
+    "paths_count": 164,
+    "latest_info_version": "6.9.1",
+    "latest_hash": "9abb9bf6d3bf654c422679dc2cd3b2b8352eb6d8937e4771c440bcafb98980be",
+    "status": "new",
+    "first_seen_at": "2026-06-12T10:04:24.718434+00:00",
+    "last_updated_at": "2026-06-12T10:04:24.718434+00:00",
+    "fetched_at": "2026-06-12T10:04:24.718434+00:00",
+    "history_file": "history/78fa106ff993.json"
+  },
+  "190abe885a98": {
+    "spec_id": "190abe885a98",
+    "id": "github:ju6ge/paperless-llm-workflows/openapi.json",
+    "source_url": "https://raw.githubusercontent.com/ju6ge/paperless-llm-workflows/a601a7c16241c6bcd3d557a0a48bf7140a90de55/openapi.json",
+    "title": "paperless-llm-workflows",
+    "description": null,
+    "openapi_version": "openapi_3",
+    "servers": [],
+    "tags": [],
+    "paths_count": 3,
+    "latest_info_version": "0.3.0",
+    "latest_hash": "1a8cf78b520adcaabe49c2303f15dca8abab0c17f1463efba86057c1e9f2adcc",
+    "status": "new",
+    "first_seen_at": "2026-06-12T10:04:26.175307+00:00",
+    "last_updated_at": "2026-06-12T10:04:26.175307+00:00",
+    "fetched_at": "2026-06-12T10:04:26.175307+00:00",
+    "history_file": "history/190abe885a98.json"
+  },
+  "02dda30d74fa": {
+    "spec_id": "02dda30d74fa",
+    "id": "github:Meeting-BaaS/meeting-mcp/openapi.json",
+    "source_url": "https://raw.githubusercontent.com/Meeting-BaaS/meeting-mcp/715d6cbb2289817b805b61698d2ad0589ebd1edf/openapi.json",
+    "title": "Meeting BaaS API",
+    "description": "Meeting BaaS API",
+    "openapi_version": "openapi_3",
+    "servers": [
+      "https://api.meetingbaas.com"
+    ],
+    "tags": [],
+    "paths_count": 13,
+    "latest_info_version": "1.1",
+    "latest_hash": "c5043fa10d1742b199ce8a12e9531b3c2953797938c3ba1d6df3b8fc87cb6f81",
+    "status": "new",
+    "first_seen_at": "2026-06-12T10:04:26.592458+00:00",
+    "last_updated_at": "2026-06-12T10:04:26.592458+00:00",
+    "fetched_at": "2026-06-12T10:04:26.592458+00:00",
+    "history_file": "history/02dda30d74fa.json"
+  },
+  "182656cf61ea": {
+    "spec_id": "182656cf61ea",
+    "id": "github:SURFnet/eduhub-validator/eduxchange.openapi.json.license",
+    "source_url": "https://raw.githubusercontent.com/SURFnet/eduhub-validator/9d9d68db37734e5c356a40773f3939cdfd427a7b/profiles/eduxchange.openapi.json.license",
+    "title": null,
+    "description": null,
+    "openapi_version": "unknown",
+    "servers": [],
+    "tags": [],
+    "paths_count": 0,
+    "latest_info_version": null,
+    "latest_hash": "414a4bade3d4c071109c84244a3c406f90057c1128327862cc1781328b760f05",
+    "status": "new",
+    "first_seen_at": "2026-06-12T10:04:26.942626+00:00",
+    "last_updated_at": "2026-06-12T10:04:26.942626+00:00",
+    "fetched_at": "2026-06-12T10:04:26.942626+00:00",
+    "history_file": "history/182656cf61ea.json"
+  },
+  "6c6b3168acf7": {
+    "spec_id": "6c6b3168acf7",
+    "id": "",
+    "source_url": "https://raw.githubusercontent.com/ardatan/feTS/f150624edf4195d84f730abb5a70bb3888365fc0/examples/trpc-openapi/src/pages/api/openapi.json.ts",
+    "title": null,
+    "description": null,
+    "openapi_version": "unknown",
+    "servers": [],
+    "tags": [],
+    "paths_count": 0,
+    "latest_info_version": null,
+    "latest_hash": null,
+    "status": "error",
+    "first_seen_at": "2026-06-12T10:04:27.417547+00:00",
+    "last_updated_at": "",
+    "fetched_at": "2026-06-12T10:04:27.417547+00:00",
+    "history_file": "history/6c6b3168acf7.json"
+  },
+  "e3d917c5db07": {
+    "spec_id": "e3d917c5db07",
+    "id": "",
+    "source_url": "https://raw.githubusercontent.com/H4HWV2011/msjarvis-public-docs/f05b5903049c0e9f5d9dd70cb7b318eaad16b429/api_specs/openapi.json.md",
+    "title": null,
+    "description": null,
+    "openapi_version": "unknown",
+    "servers": [],
+    "tags": [],
+    "paths_count": 0,
+    "latest_info_version": null,
+    "latest_hash": null,
+    "status": "error",
+    "first_seen_at": "2026-06-12T10:04:27.636375+00:00",
+    "last_updated_at": "",
+    "fetched_at": "2026-06-12T10:04:27.636375+00:00",
+    "history_file": "history/e3d917c5db07.json"
+  },
+  "13aa4d5b4006": {
+    "spec_id": "13aa4d5b4006",
+    "id": "github:suyashb734/cliagents/openapi.json",
+    "source_url": "https://raw.githubusercontent.com/suyashb734/cliagents/40804745f464e33939902dae1a806bf22e4df578/openapi.json",
+    "title": "cliagents API",
+    "description": "REST API for AI agent orchestration. Supports multiple AI CLI tools (Claude Code, Gemini CLI, Codex CLI, etc.) via a unified HTTP interface.",
+    "openapi_version": "openapi_3",
+    "servers": [
+      "http://localhost:4001"
+    ],
+    "tags": [
+      "System",
+      "Adapters",
+      "Sessions",
+      "Messages",
+      "Files",
+      "OpenAI Compatible"
+    ],
+    "paths_count": 13,
+    "latest_info_version": "1.0.0",
+    "latest_hash": "e965d2e96a52965243b91b3dd9f494d81cf0969309434fc8b34032a09f80a67d",
+    "status": "new",
+    "first_seen_at": "2026-06-12T10:04:28.038758+00:00",
+    "last_updated_at": "2026-06-12T10:04:28.038758+00:00",
+    "fetched_at": "2026-06-12T10:04:28.038758+00:00",
+    "history_file": "history/13aa4d5b4006.json"
+  },
+  "72d651fade3a": {
+    "spec_id": "72d651fade3a",
+    "id": "github:speakeasy-api/guide-fastify-example/openapi.json",
+    "source_url": "https://raw.githubusercontent.com/speakeasy-api/guide-fastify-example/f6d556a2da464e41734fa67b5114439c8c652a0f/openapi.json",
+    "title": "Speakeasy Bar API",
+    "description": "This is a sample API for Speakeasy Bar.",
+    "openapi_version": "openapi_3",
+    "servers": [
+      "http://localhost"
+    ],
+    "tags": [
+      "drinks"
+    ],
+    "paths_count": 2,
+    "latest_info_version": "1.0.1",
+    "latest_hash": "0eb7a09e1ec80f0d135a4255274ce64f2b7ae597d2bb614afc1a9a683f52033e",
+    "status": "new",
+    "first_seen_at": "2026-06-12T10:04:28.833961+00:00",
+    "last_updated_at": "2026-06-12T10:04:28.833961+00:00",
+    "fetched_at": "2026-06-12T10:04:28.833961+00:00",
+    "history_file": "history/72d651fade3a.json"
+  },
+  "b9fcccc10d15": {
+    "spec_id": "b9fcccc10d15",
+    "id": "github:usedetail/cli/openapi.json",
+    "source_url": "https://raw.githubusercontent.com/usedetail/cli/0b3844b19d2774f01c32906681586e67a4c9a284/openapi.json",
+    "title": "Detail Public API",
+    "description": "Public API for programmatic access to Detail bug findings.",
+    "openapi_version": "openapi_3",
+    "servers": [
+      "https://api.detail.dev"
+    ],
+    "tags": [],
+    "paths_count": 10,
+    "latest_info_version": "1.0.0",
+    "latest_hash": "686009bc435a425b637afddf5c0c0ad06208a35bce0a6f979f0a031df41134b4",
+    "status": "new",
+    "first_seen_at": "2026-06-12T10:04:29.282791+00:00",
+    "last_updated_at": "2026-06-12T10:04:29.282791+00:00",
+    "fetched_at": "2026-06-12T10:04:29.282791+00:00",
+    "history_file": "history/b9fcccc10d15.json"
+  },
+  "a13f447b4007": {
+    "spec_id": "a13f447b4007",
+    "id": "github:application-research/estuary-docusaurus/openapi.json",
+    "source_url": "https://raw.githubusercontent.com/application-research/estuary-docusaurus/e6586661619c5be835ff31732773ea585d5dc2ee/openapi.json",
+    "title": "Estuary API",
+    "description": "This is the API for the Estuary application.",
+    "openapi_version": "openapi_3",
+    "servers": [
+      "//api.estuary.tech"
+    ],
+    "tags": [],
+    "paths_count": 70,
+    "latest_info_version": "0.0.0",
+    "latest_hash": "356c2ca66f30e57729eee99c54efb090b6c8b8d0b5d32e34a3cbdd1a7656acff",
+    "status": "new",
+    "first_seen_at": "2026-06-12T10:04:30.753624+00:00",
+    "last_updated_at": "2026-06-12T10:04:30.753624+00:00",
+    "fetched_at": "2026-06-12T10:04:30.753624+00:00",
+    "history_file": "history/a13f447b4007.json"
+  },
+  "34a8ebc0f294": {
+    "spec_id": "34a8ebc0f294",
+    "id": "github:checkly/docs/openapi.json.backup",
+    "source_url": "https://raw.githubusercontent.com/checkly/docs/e4e853f5f63bdd6796acc49653665eb84efc3c84/api-reference/openapi.json.backup",
+    "title": "Checkly Public API",
+    "description": "The Checkly Public API allows you to programmatically manage your monitoring checks, alerts, and more. If you have any questions, please do not hesitate to get in touch with us.",
+    "openapi_version": "openapi_3",
+    "servers": [
+      "https://api.checklyhq.com"
+    ],
+    "tags": [],
+    "paths_count": 22,
+    "latest_info_version": "v1",
+    "latest_hash": "961ef3524d3e44e630029563dbb4270e7c9960c0f35d4e82469e51c86d5d6b96",
+    "status": "new",
+    "first_seen_at": "2026-06-12T10:04:31.501308+00:00",
+    "last_updated_at": "2026-06-12T10:04:31.501308+00:00",
+    "fetched_at": "2026-06-12T10:04:31.501308+00:00",
+    "history_file": "history/34a8ebc0f294.json"
+  },
+  "3bb6357e0cc4": {
+    "spec_id": "3bb6357e0cc4",
+    "id": "github:SUNET/gnap-client-js/openapi.json",
+    "source_url": "https://raw.githubusercontent.com/SUNET/gnap-client-js/8feca8c264c79a5a28f8fef1203e08d95f2e7f38/openapi.json",
+    "title": "FastAPI",
+    "description": null,
+    "openapi_version": "openapi_3",
+    "servers": [
+      "/auth"
+    ],
+    "tags": [],
+    "paths_count": 13,
+    "latest_info_version": "0.1.0",
+    "latest_hash": "a5a5fb26515b152a716361f74e3d8c2013ffa60307a7f65d8efb81f2f41bddbb",
+    "status": "new",
+    "first_seen_at": "2026-06-12T10:04:32.256203+00:00",
+    "last_updated_at": "2026-06-12T10:04:32.256203+00:00",
+    "fetched_at": "2026-06-12T10:04:32.256203+00:00",
+    "history_file": "history/3bb6357e0cc4.json"
+  },
+  "bd5c005bd514": {
+    "spec_id": "bd5c005bd514",
+    "id": "github:WorldHealthOrganization/smart-html/StructureDefinition-CWT.openapi.json2",
+    "source_url": "https://raw.githubusercontent.com/WorldHealthOrganization/smart-html/f226515c645511edf7a0aa7d83bbff36c47f80d5/trust/schemas/StructureDefinition-CWT.openapi.json2",
+    "title": "CBOR Web Token (CWT) Claim API",
+    "description": "Logical Model for Data elements in CBOR Web Token (CWT) https://www.iana.org/assignments/cwt/cwt.xhtml",
+    "openapi_version": "openapi_3",
+    "servers": [],
+    "tags": [],
+    "paths_count": 1,
+    "latest_info_version": "1.0.0",
+    "latest_hash": "0db9a6886c5351d0f42d47c267b526b6532d1504aa748c63b1d7aee2750e1b84",
+    "status": "new",
+    "first_seen_at": "2026-06-12T10:04:32.747921+00:00",
+    "last_updated_at": "2026-06-12T10:04:32.747921+00:00",
+    "fetched_at": "2026-06-12T10:04:32.747921+00:00",
+    "history_file": "history/bd5c005bd514.json"
+  },
+  "f355dd625d7e": {
+    "spec_id": "f355dd625d7e",
+    "id": "github:nextcloud/files_retention/openapi.json",
+    "source_url": "https://raw.githubusercontent.com/nextcloud/files_retention/fd585ec8cce71cbcbbde784e31394fb0a39d91af/openapi.json",
+    "title": "files_retention",
+    "description": "This application allows for automatic deletion of files after a given time.",
+    "openapi_version": "openapi_3",
+    "servers": [],
+    "tags": [],
+    "paths_count": 2,
+    "latest_info_version": "0.0.1",
+    "latest_hash": "db5a22e1e7d3548643b78c3f49d68a2998fa7a813ffd68a397d6c1ad6d8187d3",
+    "status": "new",
+    "first_seen_at": "2026-06-12T10:04:33.157903+00:00",
+    "last_updated_at": "2026-06-12T10:04:33.157903+00:00",
+    "fetched_at": "2026-06-12T10:04:33.157903+00:00",
+    "history_file": "history/f355dd625d7e.json"
+  },
+  "a785b4eb4db5": {
+    "spec_id": "a785b4eb4db5",
+    "id": "github:cedricziel/assistant/openapi.json",
+    "source_url": "https://raw.githubusercontent.com/cedricziel/assistant/d79ef5e4890e835aba4314e52f2b7034257a75ce/openapi.json",
+    "title": "Assistant API",
+    "description": "AI assistant API — A2A protocol (Agent-to-Agent), chat, and workflow management.\n\n**Authentication**: protected endpoints require `Authorization: Bearer <token>`.\nThe token is set via `--auth-token` / `ASSISTANT_WEB_TOKEN` on the server.",
+    "openapi_version": "openapi_3",
+    "servers": [
+      "/"
+    ],
+    "tags": [
+      "capabilities",
+      "commands",
+      "conversations",
+      "agent-card",
+      "messages",
+      "tasks",
+      "push-notifications",
+      "personas",
+      "skills",
+      "webhooks",
+      "agents",
+      "analytics",
+      "workflows",
+      "attachments",
+      "web-push",
+      "oauth",
+      "orgs",
+      "users",
+      "account",
+      "spaces",
+      "members",
+      "api-keys",
+      "catalog",
+      "interfaces",
+      "bindings",
+      "templates"
+    ],
+    "paths_count": 93,
+    "latest_info_version": "0.1.165",
+    "latest_hash": "d01faddd288251702ce50e59cb2a25a5f71e9ff10ff01f2a195d9dfc39e89c64",
+    "status": "new",
+    "first_seen_at": "2026-06-12T10:04:33.616105+00:00",
+    "last_updated_at": "2026-06-12T10:04:33.616105+00:00",
+    "fetched_at": "2026-06-12T10:04:33.616105+00:00",
+    "history_file": "history/a785b4eb4db5.json"
+  },
+  "dcb525922614": {
+    "spec_id": "dcb525922614",
+    "id": "github:webflextech/remote_member_info/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/webflextech/remote_member_info/3daedde180eadd808d661535abb1f628f41cf5c0/swagger.yaml",
+    "title": "remote_member_info",
+    "description": "The API to interface with the db",
+    "openapi_version": "swagger_2",
+    "servers": [
+      "http://localhost/"
+    ],
+    "tags": [],
+    "paths_count": 1,
+    "latest_info_version": "1.0.2",
+    "latest_hash": "b18a1c762aaee2b9defe55195529d17eed112a27ecfd1da018f612e9e48e78fa",
+    "status": "new",
+    "first_seen_at": "2026-06-12T10:04:43.093076+00:00",
+    "last_updated_at": "2026-06-12T10:04:43.093076+00:00",
+    "fetched_at": "2026-06-12T10:04:43.093076+00:00",
+    "history_file": "history/dcb525922614.json"
+  },
+  "a7f596d84364": {
+    "spec_id": "a7f596d84364",
+    "id": "github:JoaoDysarz/Minicurso-Rocket-Python/Swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/JoaoDysarz/Minicurso-Rocket-Python/17814b4c4af09a8aff3eb528dafa822a70a4b84b/Swagger.yaml",
+    "title": "E-commerce API",
+    "description": "API for an e-commerce system",
+    "openapi_version": "swagger_2",
+    "servers": [
+      "http://127.0.0.1:5000/"
+    ],
+    "tags": [],
+    "paths_count": 12,
+    "latest_info_version": "1.0.0",
+    "latest_hash": "4c308eb4d20c629db8bb1bafe9dbbf73c92a30c0b5fb0b489355e5a767be733e",
+    "status": "new",
+    "first_seen_at": "2026-06-12T10:04:44.618827+00:00",
+    "last_updated_at": "2026-06-12T10:04:44.618827+00:00",
+    "fetched_at": "2026-06-12T10:04:44.618827+00:00",
+    "history_file": "history/a7f596d84364.json"
+  },
+  "f760aa6928c4": {
+    "spec_id": "f760aa6928c4",
+    "id": "github:leva4/simpl-api/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/leva4/simpl-api/17e9b96870434a1eef9a319e4604b5e39590abc8/swagger.yaml",
+    "title": "SIMPL Rest API",
+    "description": "API for managing user accounts and their details.",
+    "openapi_version": "openapi_3",
+    "servers": [
+      "http://localhost:5000",
+      "https://5p7ne0s78c.execute-api.eu-central-1.amazonaws.com",
+      "https://4rq0wzrrs6.execute-api.eu-central-1.amazonaws.com"
+    ],
+    "tags": [],
+    "paths_count": 55,
+    "latest_info_version": "1.1.0",
+    "latest_hash": "94cdfd4991ae73be80f492f503a16227e10082fc587994b0e9af2ec7da7d800f",
+    "status": "new",
+    "first_seen_at": "2026-06-12T10:04:47.206821+00:00",
+    "last_updated_at": "2026-06-12T10:04:47.206821+00:00",
+    "fetched_at": "2026-06-12T10:04:47.206821+00:00",
+    "history_file": "history/f760aa6928c4.json"
+  },
+  "13165610c273": {
+    "spec_id": "13165610c273",
+    "id": "github:udohof/UML/Swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/udohof/UML/b0fbc42749a7c5fac59b38f4093cb100288d3635/Swagger.yaml",
+    "title": "Sample API",
+    "description": "API for demonstrating Swagger in Confluence",
+    "openapi_version": "openapi_3",
+    "servers": [],
+    "tags": [],
+    "paths_count": 2,
+    "latest_info_version": "1.0.0",
+    "latest_hash": "8521e10445c6e7887a5a4a885ab71749ab1b2dc878abbde698c6f194350bd397",
+    "status": "new",
+    "first_seen_at": "2026-06-12T10:04:49.083304+00:00",
+    "last_updated_at": "2026-06-12T10:04:49.083304+00:00",
+    "fetched_at": "2026-06-12T10:04:49.083304+00:00",
+    "history_file": "history/13165610c273.json"
+  },
+  "e22927cba466": {
+    "spec_id": "e22927cba466",
+    "id": "github:freexnick/jobs-api/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/freexnick/jobs-api/b3f879bc51cd6e72b2c50a885320705d56d61492/swagger.yaml",
+    "title": "Jobs API",
+    "description": null,
+    "openapi_version": "openapi_3",
+    "servers": [
+      "localhost:3000/api/v1"
+    ],
+    "tags": [
+      "Auth",
+      "Jobs"
+    ],
+    "paths_count": 4,
+    "latest_info_version": "1.0",
+    "latest_hash": "2e3a2c86c18ded6fb12be4a18190663898d3a3ca3b70467995c908d59c819d43",
+    "status": "new",
+    "first_seen_at": "2026-06-12T10:04:49.913467+00:00",
+    "last_updated_at": "2026-06-12T10:04:49.913467+00:00",
+    "fetched_at": "2026-06-12T10:04:49.913467+00:00",
+    "history_file": "history/e22927cba466.json"
+  },
+  "e734ad79b0fe": {
+    "spec_id": "e734ad79b0fe",
+    "id": "github:qlyriatt/subs/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/qlyriatt/subs/bf0c35ba8617c66d2ae6df27138163b5a4051bbd/swagger.yaml",
+    "title": "Subscription Service API",
+    "description": "API for managing subscriptions",
+    "openapi_version": "openapi_3",
+    "servers": [
+      "http://localhost:8080"
+    ],
+    "tags": [],
+    "paths_count": 3,
+    "latest_info_version": "1.0.0",
+    "latest_hash": "3492cc80f9e2d93e80fd389a3e46052eada0752feee5688071d0c5133405c976",
+    "status": "new",
+    "first_seen_at": "2026-06-12T10:04:50.149427+00:00",
+    "last_updated_at": "2026-06-12T10:04:50.149427+00:00",
+    "fetched_at": "2026-06-12T10:04:50.149427+00:00",
+    "history_file": "history/e734ad79b0fe.json"
+  },
+  "cbf107bd4439": {
+    "spec_id": "cbf107bd4439",
+    "id": "github:SanthoshM25/key_value_datastore/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/SanthoshM25/key_value_datastore/7eeccda166a4790d37568e17e9a59f6b13430e09/swagger.yaml",
+    "title": "key_value_datastore API",
+    "description": "This API provides endpoints for a key-value datastore that supports Create, Read,\nand Delete operations for individual objects and in batch. It also supports user\nregistration, authentication, quota enforcement, TTL expiration, and secure multi-tenancy.",
+    "openapi_version": "openapi_3",
+    "servers": [
+      "http://localhost:8080"
+    ],
+    "tags": [],
+    "paths_count": 5,
+    "latest_info_version": "1.0.0",
+    "latest_hash": "2b3afc1111f6a5709e033bf09a676b4fe7cf5a4a89521af259b6ce49ea84021a",
+    "status": "new",
+    "first_seen_at": "2026-06-12T10:04:50.602463+00:00",
+    "last_updated_at": "2026-06-12T10:04:50.602463+00:00",
+    "fetched_at": "2026-06-12T10:04:50.602463+00:00",
+    "history_file": "history/cbf107bd4439.json"
+  },
+  "99173c2aa966": {
+    "spec_id": "99173c2aa966",
+    "id": "github:KuldipKarangiya/CampaignPro-backend/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/KuldipKarangiya/CampaignPro-backend/143c5330e462fa28bede53052729110e768ab346/swagger.yaml",
+    "title": "High-Scalability Campaign Management API",
+    "description": "A robust MERN-stack backend designed to handle millions of records using Node.js Cluster, RabbitMQ, and Redis.\n\n### Core Features:\n- **Bulk Processing**: Efficient CSV parsing and batched MongoDB insertions.\n- **Competing Consumers**: RabbitMQ workers with configurable prefetch and concurrency.\n- **Scalable Search**: Atlas Search (Lucene) integration for global partial & fuzzy matching across millions of contacts.\n- **Targeting System**: Flexible audience selection (Global, Tag-based, or Single Contact).",
+    "openapi_version": "openapi_3",
+    "servers": [
+      "http://localhost:3000"
+    ],
+    "tags": [],
+    "paths_count": 5,
+    "latest_info_version": "1.0.0",
+    "latest_hash": "c0f68c3d280f0359fe1351d7550c48d8da5958a3b4e80960aae96a057af78d0d",
+    "status": "new",
+    "first_seen_at": "2026-06-12T10:04:50.818245+00:00",
+    "last_updated_at": "2026-06-12T10:04:50.818245+00:00",
+    "fetched_at": "2026-06-12T10:04:50.818245+00:00",
+    "history_file": "history/99173c2aa966.json"
+  },
+  "d1664171e216": {
+    "spec_id": "d1664171e216",
+    "id": "github:vanhumbeecka/json-validator/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/vanhumbeecka/json-validator/3c015b379e18af48f7773878557a823aab5f13d0/swagger.yaml",
+    "title": "JSON Schema Validator API",
+    "description": "API for validating JSON against JSON Schema and sharing validations",
+    "openapi_version": "openapi_3",
+    "servers": [
+      "/"
+    ],
+    "tags": [],
+    "paths_count": 3,
+    "latest_info_version": "1.0.0",
+    "latest_hash": "82d08d58f61756da19709a492be3c35a4de6e5fdae1dd48931fa1be76a7c3a88",
+    "status": "new",
+    "first_seen_at": "2026-06-12T10:04:51.231349+00:00",
+    "last_updated_at": "2026-06-12T10:04:51.231349+00:00",
+    "fetched_at": "2026-06-12T10:04:51.231349+00:00",
+    "history_file": "history/d1664171e216.json"
+  },
+  "43b1ea50a4db": {
+    "spec_id": "43b1ea50a4db",
+    "id": "github:marcosvrc/app-db-product/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/marcosvrc/app-db-product/6647808631093aa364ce6bb7a69b3f5f58d35037/swagger.yaml",
+    "title": "Product API",
+    "description": "API para gerenciamento de produtos",
+    "openapi_version": "openapi_3",
+    "servers": [
+      "https://{api-id}.execute-api.{region}.amazonaws.com/{stage}"
+    ],
+    "tags": [
+      "products"
+    ],
+    "paths_count": 3,
+    "latest_info_version": "1.0.0",
+    "latest_hash": "d130ce3a9844579f8010a4a12d8c1b179f462592dc80d776371c4645a1c25ea7",
+    "status": "new",
+    "first_seen_at": "2026-06-12T10:04:51.445362+00:00",
+    "last_updated_at": "2026-06-12T10:04:51.445362+00:00",
+    "fetched_at": "2026-06-12T10:04:51.445362+00:00",
+    "history_file": "history/43b1ea50a4db.json"
+  },
+  "ce6a8465fc52": {
+    "spec_id": "ce6a8465fc52",
+    "id": "github:kumarharsh24/Daily-Mental-Health-Check-in-System/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/kumarharsh24/Daily-Mental-Health-Check-in-System/ce3bc2309d9d1ef9f19a881fb9cf32693f5e8829/swagger.yaml",
+    "title": "Daily Mental Health Check-in System",
+    "description": "A production-ready backend for daily mental health tracking.",
+    "openapi_version": "openapi_3",
+    "servers": [
+      "http://localhost:8000/api"
+    ],
+    "tags": [],
+    "paths_count": 7,
+    "latest_info_version": "1.0.0",
+    "latest_hash": "8f8339f6562800d987776803de6edb98e9b6de81a6c8f7b3d704cbd82bd33d15",
+    "status": "new",
+    "first_seen_at": "2026-06-12T10:04:51.896116+00:00",
+    "last_updated_at": "2026-06-12T10:04:51.896116+00:00",
+    "fetched_at": "2026-06-12T10:04:51.896116+00:00",
+    "history_file": "history/ce6a8465fc52.json"
+  },
+  "1099726b72d4": {
+    "spec_id": "1099726b72d4",
+    "id": "github:senthilkumar508/aws-api-gateway-rest-api-/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/senthilkumar508/aws-api-gateway-rest-api-/93c874ca05073d0f8fdc1f2316dfa9e964f5b221/swagger.yaml",
+    "title": "Books API",
+    "description": "basic CRUD API",
+    "openapi_version": "openapi_3",
+    "servers": [
+      "/"
+    ],
+    "tags": [],
+    "paths_count": 2,
+    "latest_info_version": "1",
+    "latest_hash": "60d5d72730d2e141228217d85278149466f223165e9677bff55d07a9d4bff382",
+    "status": "new",
+    "first_seen_at": "2026-06-12T10:04:52.117047+00:00",
+    "last_updated_at": "2026-06-12T10:04:52.117047+00:00",
+    "fetched_at": "2026-06-12T10:04:52.117047+00:00",
+    "history_file": "history/1099726b72d4.json"
+  },
+  "e4f89f6f0087": {
+    "spec_id": "e4f89f6f0087",
+    "id": "github:tnavInter19/nextNodejs/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/tnavInter19/nextNodejs/0cfb3c23696ed684348cf195625265c34fc46e39/swagger.yaml",
+    "title": "Jobs API",
+    "description": null,
+    "openapi_version": "openapi_3",
+    "servers": [
+      "http://localhost:5000/api/v1"
+    ],
+    "tags": [
+      "Auth",
+      "Jobs"
+    ],
+    "paths_count": 4,
+    "latest_info_version": "1.0",
+    "latest_hash": "e649abc266516646dc3c027a636e431d56f03c6f88d47cd0ac6a40435c5d5442",
+    "status": "new",
+    "first_seen_at": "2026-06-12T10:04:52.327675+00:00",
+    "last_updated_at": "2026-06-12T10:04:52.327675+00:00",
+    "fetched_at": "2026-06-12T10:04:52.327675+00:00",
+    "history_file": "history/e4f89f6f0087.json"
+  },
+  "055eb32eca4f": {
+    "spec_id": "055eb32eca4f",
+    "id": "github:abdllahmaher/TODO-API/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/abdllahmaher/TODO-API/3269b616228a3522fcac5345c6a8b234e1888f86/swagger.yaml",
+    "title": "TODO API",
+    "description": "A comprehensive REST API for managing TODO items",
+    "openapi_version": "openapi_3",
+    "servers": [
+      "http://localhost:3000"
+    ],
+    "tags": [],
+    "paths_count": 4,
+    "latest_info_version": "1.0.0",
+    "latest_hash": "d2d408bea492b26719af1b39fcd409b7a6ddb6b41a724be15d4750d811d58e97",
+    "status": "new",
+    "first_seen_at": "2026-06-12T10:04:53.206986+00:00",
+    "last_updated_at": "2026-06-12T10:04:53.206986+00:00",
+    "fetched_at": "2026-06-12T10:04:53.206986+00:00",
+    "history_file": "history/055eb32eca4f.json"
+  },
+  "0ec946e3894b": {
+    "spec_id": "0ec946e3894b",
+    "id": "github:dhiyochamp/roxiler-system-api/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/dhiyochamp/roxiler-system-api/61d590d508a1e561b1e46da358bbe25005ad7fd9/swagger.yaml",
+    "title": "Roxiler System MERN Stack Coding Challenge API",
+    "description": "📚 **API Documentation for the MERN Stack Coding Challenge** - \nThis API provides endpoints for managing transactions, retrieving statistics, and generating charts in the Roxiler system.",
+    "openapi_version": "openapi_3",
+    "servers": [
+      "http://localhost:5000"
+    ],
+    "tags": [],
+    "paths_count": 6,
+    "latest_info_version": "1.0.0",
+    "latest_hash": "7ea53b42746f6c44d5d54702ddc95a4c404da66ccbbb521afd8bf399d5689d19",
+    "status": "new",
+    "first_seen_at": "2026-06-12T10:04:53.448518+00:00",
+    "last_updated_at": "2026-06-12T10:04:53.448518+00:00",
+    "fetched_at": "2026-06-12T10:04:53.448518+00:00",
+    "history_file": "history/0ec946e3894b.json"
+  },
+  "61e0c1fd6fb1": {
+    "spec_id": "61e0c1fd6fb1",
+    "id": "github:dog-Mangy/qatu-backend/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/dog-Mangy/qatu-backend/e517435b1264706ea61f0b9850b43075008d4fe9/swagger.yaml",
+    "title": "Qatu.API | v1",
+    "description": null,
+    "openapi_version": "openapi_3",
+    "servers": [
+      "http://localhost:5028"
+    ],
+    "tags": [
+      "Products",
+      "Stores"
+    ],
+    "paths_count": 8,
+    "latest_info_version": "1.0.0",
+    "latest_hash": "437b706d83430f7022fe30bc2e6c955fefd3b7390be290f408070da04af03f8f",
+    "status": "new",
+    "first_seen_at": "2026-06-12T10:04:53.899033+00:00",
+    "last_updated_at": "2026-06-12T10:04:53.899033+00:00",
+    "fetched_at": "2026-06-12T10:04:53.899033+00:00",
+    "history_file": "history/61e0c1fd6fb1.json"
+  },
+  "a190fc7a7d74": {
+    "spec_id": "a190fc7a7d74",
+    "id": "github:rajfaizan/sequelize/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/rajfaizan/sequelize/aabcf90c9ac124e204f49989a00c61154648de14/swagger.yaml",
+    "title": "API Title",
+    "description": "OpenAPI specification",
+    "openapi_version": "openapi_3",
+    "servers": [],
+    "tags": [],
+    "paths_count": 3,
+    "latest_info_version": "1.0.0",
+    "latest_hash": "5fac7e29ce4190e3f9fe430d8eeb54740eb3475a31dfddd9cb28d45f91c0e9b1",
+    "status": "new",
+    "first_seen_at": "2026-06-12T10:04:54.150569+00:00",
+    "last_updated_at": "2026-06-12T10:04:54.150569+00:00",
+    "fetched_at": "2026-06-12T10:04:54.150569+00:00",
+    "history_file": "history/a190fc7a7d74.json"
+  },
+  "770241b5a657": {
+    "spec_id": "770241b5a657",
+    "id": "github:mahirsust/nodejs-crud-app-backend/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/mahirsust/nodejs-crud-app-backend/7954714bdb2504c7b4cad0774402eb598882a182/swagger.yaml",
+    "title": "NodeJS Simple CRUD API",
+    "description": "API for performing CRUD operations on products",
+    "openapi_version": "openapi_3",
+    "servers": [],
+    "tags": [
+      "Products"
+    ],
+    "paths_count": 2,
+    "latest_info_version": "1.0.0",
+    "latest_hash": "664c8a7f8bd12335b4851f8705bae2881e0e05cd18fcf34c96ac88ae881d10e3",
+    "status": "new",
+    "first_seen_at": "2026-06-12T10:04:54.369698+00:00",
+    "last_updated_at": "2026-06-12T10:04:54.369698+00:00",
+    "fetched_at": "2026-06-12T10:04:54.369698+00:00",
+    "history_file": "history/770241b5a657.json"
+  },
+  "d399d48df487": {
+    "spec_id": "d399d48df487",
+    "id": "github:sarjis-abdullah/parking-management-api/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/sarjis-abdullah/parking-management-api/5fc78c142b3a4c0ee47e51d1fb4acf51a8cb192b/swagger.yaml",
+    "title": "Trading API",
+    "description": "INAIA Trading API",
+    "openapi_version": "swagger_2",
+    "servers": [
+      "https://api-trading-staging.inaia.cloud/api/v1"
+    ],
+    "tags": [
+      "Trading"
+    ],
+    "paths_count": 1,
+    "latest_info_version": "1",
+    "latest_hash": "13b3dee492d70c0ea00199fa6d0dac3e694b50c97dcb6446db73a937da0edb1b",
+    "status": "new",
+    "first_seen_at": "2026-06-12T10:04:56.690816+00:00",
+    "last_updated_at": "2026-06-12T10:04:56.690816+00:00",
+    "fetched_at": "2026-06-12T10:04:56.690816+00:00",
+    "history_file": "history/d399d48df487.json"
+  },
+  "4addc0ce4b8b": {
+    "spec_id": "4addc0ce4b8b",
+    "id": "github:1244Matt1244/backend_service_assignment/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/1244Matt1244/backend_service_assignment/f6ba2d6881819a6c7ebcf479df848302210e0a9f/swagger.yaml",
+    "title": "Backend Service Assignment API",
+    "description": "This is the Backend Service API for handling MTG cards and Cameras.",
+    "openapi_version": "swagger_2",
+    "servers": [
+      "http://localhost:8080/"
+    ],
+    "tags": [],
+    "paths_count": 3,
+    "latest_info_version": "1.0",
+    "latest_hash": "3eeef1ad8a49659035658997ca12ce74f75cc26a1e68b1ad98dc69fc6cd03a5f",
+    "status": "new",
+    "first_seen_at": "2026-06-12T10:04:56.922505+00:00",
+    "last_updated_at": "2026-06-12T10:04:56.922505+00:00",
+    "fetched_at": "2026-06-12T10:04:56.922505+00:00",
+    "history_file": "history/4addc0ce4b8b.json"
+  },
+  "0903e0ef1203": {
+    "spec_id": "0903e0ef1203",
+    "id": "github:kevine-developer/banqueApi/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/kevine-developer/banqueApi/fdb478910ce2ec7fd3167372eef39950496c5521/swagger.yaml",
+    "title": "Bank Argent API documentation",
+    "description": "Contains all available API endpoints in this codebase",
+    "openapi_version": "swagger_2",
+    "servers": [
+      "http://localhost:3001/api/v1"
+    ],
+    "tags": [],
+    "paths_count": 7,
+    "latest_info_version": "1.0.0",
+    "latest_hash": "cecc7c97b9778f1abeeebe8236b99a619fd019523ec87675d252b862ffa2748e",
+    "status": "new",
+    "first_seen_at": "2026-06-12T10:04:58.173313+00:00",
+    "last_updated_at": "2026-06-12T10:04:58.173313+00:00",
+    "fetched_at": "2026-06-12T10:04:58.173313+00:00",
+    "history_file": "history/0903e0ef1203.json"
+  },
+  "7423ba7448a0": {
+    "spec_id": "7423ba7448a0",
+    "id": "github:vincentvanderweele/wwweeklies-presentations/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/vincentvanderweele/wwweeklies-presentations/5ddaf3b0632d23135d97d70a1de363245771fe54/swagger.yaml",
+    "title": "WWWeeklies API",
+    "description": "Manage WWWeeklies presentations",
+    "openapi_version": "swagger_2",
+    "servers": [
+      "http://localhost:9999/"
+    ],
+    "tags": [],
+    "paths_count": 2,
+    "latest_info_version": "1.0.0",
+    "latest_hash": "1b50f382403ed583446de1c7c6b20447ad630e34939243db3a5541a80e34c8db",
+    "status": "new",
+    "first_seen_at": "2026-06-12T10:04:58.437619+00:00",
+    "last_updated_at": "2026-06-12T10:04:58.437619+00:00",
+    "fetched_at": "2026-06-12T10:04:58.437619+00:00",
+    "history_file": "history/7423ba7448a0.json"
+  },
+  "9596893edfe8": {
+    "spec_id": "9596893edfe8",
+    "id": "github:piccolo-gatto/design_patterns/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/piccolo-gatto/design_patterns/db1238eb1ec9d330b88f7ef8d060827e9505818e/swagger.yaml",
+    "title": "RestAPI",
+    "description": "Набор сервисов для работы с системой учета /ООО Ромашка/",
+    "openapi_version": "swagger_2",
+    "servers": [],
+    "tags": [],
+    "paths_count": 14,
+    "latest_info_version": "1.0.0",
+    "latest_hash": "8e345c1e60c5ba733319cda4db4c1a9fb4202a392b87c54ce28369630667ea51",
+    "status": "new",
+    "first_seen_at": "2026-06-12T10:04:59.145040+00:00",
+    "last_updated_at": "2026-06-12T10:04:59.145040+00:00",
+    "fetched_at": "2026-06-12T10:04:59.145040+00:00",
+    "history_file": "history/9596893edfe8.json"
+  },
+  "ca3f1336983c": {
+    "spec_id": "ca3f1336983c",
+    "id": "github:CosetteN/workout/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/CosetteN/workout/b030b7503e6acadd2cc270928961081c7b6349b7/swagger.yaml",
+    "title": "Workout",
+    "description": "Learning new technologies by building a better workout app.",
+    "openapi_version": "swagger_2",
+    "servers": [
+      "http://polls.apiblueprint.org/"
+    ],
+    "tags": [],
+    "paths_count": 1,
+    "latest_info_version": "1.0",
+    "latest_hash": "04626c89b6286cc1b6843ee1d796293a0a33b3bc0984c43f0cc63956ecc0b47c",
+    "status": "new",
+    "first_seen_at": "2026-06-12T10:04:59.630642+00:00",
+    "last_updated_at": "2026-06-12T10:04:59.630642+00:00",
+    "fetched_at": "2026-06-12T10:04:59.630642+00:00",
+    "history_file": "history/ca3f1336983c.json"
+  },
+  "123f0c029dc4": {
+    "spec_id": "123f0c029dc4",
+    "id": "github:Pruthviraj98/PicPiper/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/Pruthviraj98/PicPiper/4f6b54db4a152ec9af2e83b655df54d8a4c1f54c/swagger.yaml",
+    "title": "AI Photo Search",
+    "description": "AI Photo Search application, built during the Cloud and Big Data course at New York University.",
+    "openapi_version": "swagger_2",
+    "servers": [],
+    "tags": [],
+    "paths_count": 2,
+    "latest_info_version": "1.0.0",
+    "latest_hash": "338efa486c238c0500d51a36170c8093a92180b7ee8fe72682621e7cc13c0d20",
+    "status": "new",
+    "first_seen_at": "2026-06-12T10:04:59.849894+00:00",
+    "last_updated_at": "2026-06-12T10:04:59.849894+00:00",
+    "fetched_at": "2026-06-12T10:04:59.849894+00:00",
+    "history_file": "history/123f0c029dc4.json"
+  },
+  "7619739a24e8": {
+    "spec_id": "7619739a24e8",
+    "id": "github:jnjaruncts/apisecurityplugin/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/jnjaruncts/apisecurityplugin/ccf60781fd2e771afa69288e6781ba94ec470ce9/swagger.yaml",
+    "title": "Sample Service",
+    "description": "Sample Service",
+    "openapi_version": "swagger_2",
+    "servers": [
+      "https://www.servicesauthlb.ford.com/api/Prospect/v3"
+    ],
+    "tags": [
+      "abc-controller"
+    ],
+    "paths_count": 1,
+    "latest_info_version": "1.2.3",
+    "latest_hash": "57409eaba2ff121bea90119694b3dc843249caaaf91dd072ff698026a12fa9b8",
+    "status": "new",
+    "first_seen_at": "2026-06-12T10:05:00.050172+00:00",
+    "last_updated_at": "2026-06-12T10:05:00.050172+00:00",
+    "fetched_at": "2026-06-12T10:05:00.050172+00:00",
+    "history_file": "history/7619739a24e8.json"
+  },
+  "8f9ef3f87255": {
+    "spec_id": "8f9ef3f87255",
+    "id": "github:pnlinh-it/HelloLaravel/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/pnlinh-it/HelloLaravel/92138241b0f9f5f2d158c7f406c9757a1ab66b0d/swagger.yaml",
+    "title": "awdawd",
+    "description": null,
+    "openapi_version": "swagger_2",
+    "servers": [
+      "http://api.keyontravel.com/v1",
+      "https://api.keyontravel.com/v1"
+    ],
+    "tags": [],
+    "paths_count": 1,
+    "latest_info_version": "awd",
+    "latest_hash": "c96b1b3671b989b831c22b0dd4bcf6228628fa27723ec2650256d1e76caa4bfc",
+    "status": "new",
+    "first_seen_at": "2026-06-12T10:05:00.679446+00:00",
+    "last_updated_at": "2026-06-12T10:05:00.679446+00:00",
+    "fetched_at": "2026-06-12T10:05:00.679446+00:00",
+    "history_file": "history/8f9ef3f87255.json"
+  },
+  "3563a7d58d51": {
+    "spec_id": "3563a7d58d51",
+    "id": "github:Halloween47/projet-13_bank-frontend/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/Halloween47/projet-13_bank-frontend/265a76caf1de9b32c9d8926f5f72446153ef1eba/swagger.yaml",
+    "title": "Bank Argent API documentation",
+    "description": "Contains all available API endpoints in this codebase",
+    "openapi_version": "swagger_2",
+    "servers": [
+      "http://localhost:3001/api/v1"
+    ],
+    "tags": [],
+    "paths_count": 2,
+    "latest_info_version": "1.0.0",
+    "latest_hash": "d6ecd015e53f10c0929354e176e9bfd23dc11e0f6a9bd687f7912d967f93f762",
+    "status": "new",
+    "first_seen_at": "2026-06-12T10:05:01.127351+00:00",
+    "last_updated_at": "2026-06-12T10:05:01.127351+00:00",
+    "fetched_at": "2026-06-12T10:05:01.127351+00:00",
+    "history_file": "history/3563a7d58d51.json"
+  },
+  "d43edde627f8": {
+    "spec_id": "d43edde627f8",
+    "id": "github:udacity/ios-short-s3-deploy/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/udacity/ios-short-s3-deploy/1f0bf16aa8a9379571ce3838dd59d3df44ca050b/swagger.yaml",
+    "title": "Salutation Microservice",
+    "description": "A microservice for random salutations.",
+    "openapi_version": "swagger_2",
+    "servers": [],
+    "tags": [],
+    "paths_count": 1,
+    "latest_info_version": "1.0.0",
+    "latest_hash": "5bd76fd2630e949a96edd61be97304ac0df714d0d041ce6ba4eba17761f79cac",
+    "status": "new",
+    "first_seen_at": "2026-06-12T10:05:01.586293+00:00",
+    "last_updated_at": "2026-06-12T10:05:01.586293+00:00",
+    "fetched_at": "2026-06-12T10:05:01.586293+00:00",
+    "history_file": "history/d43edde627f8.json"
   }
 }

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "154512850071",
+    "source_url": "https://raw.githubusercontent.com/pagopa/pagopa-mock-ec/377c64ef0270fbce8d07185cee5fc889e8e0b9f4/infra/api/mock-ec-service/v1/_openapi.json.tpl",
+    "fetched_at": "2026-06-12T10:04:09.406662+00:00",
+    "content_hash": "76c4aa1441b093d5e6ce39a0d8c4e171e61f51cf59ab4bf05f4f0a8ede6eb91b",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "_mock_ec",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4addc0ce4b8b",
+    "source_url": "https://raw.githubusercontent.com/1244Matt1244/backend_service_assignment/f6ba2d6881819a6c7ebcf479df848302210e0a9f/swagger.yaml",
+    "fetched_at": "2026-06-12T10:04:57.054011+00:00",
+    "content_hash": "3eeef1ad8a49659035658997ca12ce74f75cc26a1e68b1ad98dc69fc6cd03a5f",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Backend Service Assignment API",
+    "openapi_version": "swagger_2",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "dcb525922614",
+    "source_url": "https://raw.githubusercontent.com/webflextech/remote_member_info/3daedde180eadd808d661535abb1f628f41cf5c0/swagger.yaml",
+    "fetched_at": "2026-06-12T10:04:43.244916+00:00",
+    "content_hash": "b18a1c762aaee2b9defe55195529d17eed112a27ecfd1da018f612e9e48e78fa",
+    "info_version": "1.0.2",
+    "status": "new",
+    "title": "remote_member_info",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

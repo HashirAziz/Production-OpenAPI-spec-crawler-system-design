@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "99173c2aa966",
+    "source_url": "https://raw.githubusercontent.com/KuldipKarangiya/CampaignPro-backend/143c5330e462fa28bede53052729110e768ab346/swagger.yaml",
+    "fetched_at": "2026-06-12T10:04:50.970629+00:00",
+    "content_hash": "c0f68c3d280f0359fe1351d7550c48d8da5958a3b4e80960aae96a057af78d0d",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "High-Scalability Campaign Management API",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

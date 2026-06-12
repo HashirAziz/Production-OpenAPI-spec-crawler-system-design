@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4db263da17a6",
+    "source_url": "https://raw.githubusercontent.com/team-dev-docs/mdx-parse-test-developer-docs/aed624afd28d28600c6a23e651ce15c9eb1a78ca/blog/speakeasy-vs-stainless/assets/openapi.yaml.txt",
+    "fetched_at": "2026-06-12T10:03:45.387636+00:00",
+    "content_hash": "657f0b6c3b60b5229ec092a4dac4f46e10816ca08658075fdbbd98bd0fff0714",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Bookstore API",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

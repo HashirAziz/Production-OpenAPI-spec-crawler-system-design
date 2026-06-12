@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "13165610c273",
+    "source_url": "https://raw.githubusercontent.com/udohof/UML/b0fbc42749a7c5fac59b38f4093cb100288d3635/Swagger.yaml",
+    "fetched_at": "2026-06-12T10:04:49.235261+00:00",
+    "content_hash": "8521e10445c6e7887a5a4a885ab71749ab1b2dc878abbde698c6f194350bd397",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Sample API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

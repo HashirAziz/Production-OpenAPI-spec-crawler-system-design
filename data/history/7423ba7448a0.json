@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "7423ba7448a0",
+    "source_url": "https://raw.githubusercontent.com/vincentvanderweele/wwweeklies-presentations/5ddaf3b0632d23135d97d70a1de363245771fe54/swagger.yaml",
+    "fetched_at": "2026-06-12T10:04:58.565619+00:00",
+    "content_hash": "1b50f382403ed583446de1c7c6b20447ad630e34939243db3a5541a80e34c8db",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "WWWeeklies API",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

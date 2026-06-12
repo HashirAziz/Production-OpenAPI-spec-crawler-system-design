@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3bb6357e0cc4",
+    "source_url": "https://raw.githubusercontent.com/SUNET/gnap-client-js/8feca8c264c79a5a28f8fef1203e08d95f2e7f38/openapi.json",
+    "fetched_at": "2026-06-12T10:04:32.463008+00:00",
+    "content_hash": "a5a5fb26515b152a716361f74e3d8c2013ffa60307a7f65d8efb81f2f41bddbb",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "FastAPI",
+    "openapi_version": "openapi_3",
+    "paths_count": 13,
+    "path_diff": null
+  }
+]

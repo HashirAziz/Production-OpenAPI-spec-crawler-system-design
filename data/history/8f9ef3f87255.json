@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8f9ef3f87255",
+    "source_url": "https://raw.githubusercontent.com/pnlinh-it/HelloLaravel/92138241b0f9f5f2d158c7f406c9757a1ab66b0d/swagger.yaml",
+    "fetched_at": "2026-06-12T10:05:00.811451+00:00",
+    "content_hash": "c96b1b3671b989b831c22b0dd4bcf6228628fa27723ec2650256d1e76caa4bfc",
+    "info_version": "awd",
+    "status": "new",
+    "title": "awdawd",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

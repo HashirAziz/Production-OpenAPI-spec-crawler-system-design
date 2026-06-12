@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "61e0c1fd6fb1",
+    "source_url": "https://raw.githubusercontent.com/dog-Mangy/qatu-backend/e517435b1264706ea61f0b9850b43075008d4fe9/swagger.yaml",
+    "fetched_at": "2026-06-12T10:04:54.078337+00:00",
+    "content_hash": "437b706d83430f7022fe30bc2e6c955fefd3b7390be290f408070da04af03f8f",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Qatu.API | v1",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

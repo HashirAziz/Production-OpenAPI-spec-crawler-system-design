@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f0e6a8345215",
+    "source_url": "https://raw.githubusercontent.com/Bzcasper/bank-statement-parser-api/b20b9bffd48ff5b10bcc6277ec162a4887d36d8d/openapi.yaml",
+    "fetched_at": "2026-06-12T10:04:01.737296+00:00",
+    "content_hash": "9a146c82bec87aba5ae8d0b7a4f6c30b4dcee3fe0eb755125188707449dd36d5",
+    "info_version": "2.0.0",
+    "status": "new",
+    "title": "Bank Statement Parser API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

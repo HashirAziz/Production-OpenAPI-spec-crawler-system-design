@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "99b054cdb6f3",
+    "source_url": "https://raw.githubusercontent.com/getmentor/getmentor-backend/cfb5b7819f00986c426caec99f208b1b1d0015e9/openAPI.yaml",
+    "fetched_at": "2026-06-12T10:03:55.515602+00:00",
+    "content_hash": "d43d0012ecc5b2c5e8ae908d942cdc63bd38f091c41d1486e644186f72e0f99a",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Get Mentor",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

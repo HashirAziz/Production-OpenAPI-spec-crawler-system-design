@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0ec946e3894b",
+    "source_url": "https://raw.githubusercontent.com/dhiyochamp/roxiler-system-api/61d590d508a1e561b1e46da358bbe25005ad7fd9/swagger.yaml",
+    "fetched_at": "2026-06-12T10:04:53.605515+00:00",
+    "content_hash": "7ea53b42746f6c44d5d54702ddc95a4c404da66ccbbb521afd8bf399d5689d19",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Roxiler System MERN Stack Coding Challenge API",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

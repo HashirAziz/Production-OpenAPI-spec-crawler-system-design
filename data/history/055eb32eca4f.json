@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "055eb32eca4f",
+    "source_url": "https://raw.githubusercontent.com/abdllahmaher/TODO-API/3269b616228a3522fcac5345c6a8b234e1888f86/swagger.yaml",
+    "fetched_at": "2026-06-12T10:04:53.377032+00:00",
+    "content_hash": "d2d408bea492b26719af1b39fcd409b7a6ddb6b41a724be15d4750d811d58e97",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "TODO API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

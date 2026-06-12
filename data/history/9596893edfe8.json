@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9596893edfe8",
+    "source_url": "https://raw.githubusercontent.com/piccolo-gatto/design_patterns/db1238eb1ec9d330b88f7ef8d060827e9505818e/swagger.yaml",
+    "fetched_at": "2026-06-12T10:04:59.320100+00:00",
+    "content_hash": "8e345c1e60c5ba733319cda4db4c1a9fb4202a392b87c54ce28369630667ea51",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "RestAPI",
+    "openapi_version": "swagger_2",
+    "paths_count": 14,
+    "path_diff": null
+  }
+]

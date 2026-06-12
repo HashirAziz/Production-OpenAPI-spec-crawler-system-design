@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1099726b72d4",
+    "source_url": "https://raw.githubusercontent.com/senthilkumar508/aws-api-gateway-rest-api-/93c874ca05073d0f8fdc1f2316dfa9e964f5b221/swagger.yaml",
+    "fetched_at": "2026-06-12T10:04:52.254778+00:00",
+    "content_hash": "60d5d72730d2e141228217d85278149466f223165e9677bff55d07a9d4bff382",
+    "info_version": "1",
+    "status": "new",
+    "title": "Books API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

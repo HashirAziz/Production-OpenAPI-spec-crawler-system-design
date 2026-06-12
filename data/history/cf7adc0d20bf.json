@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "cf7adc0d20bf",
+    "source_url": "https://raw.githubusercontent.com/SURFnet/eduhub-validator/9d9d68db37734e5c356a40773f3939cdfd427a7b/profiles/ooapi.openapi.json.license",
+    "fetched_at": "2026-06-12T10:04:20.289238+00:00",
+    "content_hash": "414a4bade3d4c071109c84244a3c406f90057c1128327862cc1781328b760f05",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "unknown",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

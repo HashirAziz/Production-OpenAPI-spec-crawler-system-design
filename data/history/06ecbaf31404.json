@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "06ecbaf31404",
+    "source_url": "https://raw.githubusercontent.com/tezos/tezos-mirror/a3d8bc591f9c13ee88b3894af6a4a2efbff1f11f/docs/api/alpha-mempool-openapi.json.ext",
+    "fetched_at": "2026-06-12T10:04:06.948965+00:00",
+    "content_hash": "ec0c1bc4d6db122c569863ec29e45ac2ce920114488a79963a103a963bcefe55",
+    "info_version": "Octez 24.0~rc1+dev (build: 0) (991d8266)",
+    "status": "new",
+    "title": "Octez Mempool RPC",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

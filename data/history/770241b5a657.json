@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "770241b5a657",
+    "source_url": "https://raw.githubusercontent.com/mahirsust/nodejs-crud-app-backend/7954714bdb2504c7b4cad0774402eb598882a182/swagger.yaml",
+    "fetched_at": "2026-06-12T10:04:54.502249+00:00",
+    "content_hash": "664c8a7f8bd12335b4851f8705bae2881e0e05cd18fcf34c96ac88ae881d10e3",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "NodeJS Simple CRUD API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d399d48df487",
+    "source_url": "https://raw.githubusercontent.com/sarjis-abdullah/parking-management-api/5fc78c142b3a4c0ee47e51d1fb4acf51a8cb192b/swagger.yaml",
+    "fetched_at": "2026-06-12T10:04:56.848165+00:00",
+    "content_hash": "13b3dee492d70c0ea00199fa6d0dac3e694b50c97dcb6446db73a937da0edb1b",
+    "info_version": "1",
+    "status": "new",
+    "title": "Trading API",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

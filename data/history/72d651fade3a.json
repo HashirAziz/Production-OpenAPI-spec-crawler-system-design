@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "72d651fade3a",
+    "source_url": "https://raw.githubusercontent.com/speakeasy-api/guide-fastify-example/f6d556a2da464e41734fa67b5114439c8c652a0f/openapi.json",
+    "fetched_at": "2026-06-12T10:04:29.012794+00:00",
+    "content_hash": "0eb7a09e1ec80f0d135a4255274ce64f2b7ae597d2bb614afc1a9a683f52033e",
+    "info_version": "1.0.1",
+    "status": "new",
+    "title": "Speakeasy Bar API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

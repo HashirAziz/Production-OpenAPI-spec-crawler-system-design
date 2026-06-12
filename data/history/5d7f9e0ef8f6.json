@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5d7f9e0ef8f6",
+    "source_url": "https://raw.githubusercontent.com/mayornaca/qlify-platform/31d6725303c3a4dc2f309062c74015e61ae7d3a3/openapi.yaml",
+    "fetched_at": "2026-06-12T10:03:56.971596+00:00",
+    "content_hash": "84b02d1d7df16e4811c0c90ace5ba0fad79bfaa5b507f720103986913336fd2b",
+    "info_version": "0.1",
+    "status": "new",
+    "title": "Qlify Platform",
+    "openapi_version": "openapi_3",
+    "paths_count": 60,
+    "path_diff": null
+  }
+]

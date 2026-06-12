@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "43b1ea50a4db",
+    "source_url": "https://raw.githubusercontent.com/marcosvrc/app-db-product/6647808631093aa364ce6bb7a69b3f5f58d35037/swagger.yaml",
+    "fetched_at": "2026-06-12T10:04:51.582329+00:00",
+    "content_hash": "d130ce3a9844579f8010a4a12d8c1b179f462592dc80d776371c4645a1c25ea7",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Product API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

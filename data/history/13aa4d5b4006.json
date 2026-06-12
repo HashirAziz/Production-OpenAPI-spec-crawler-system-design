@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "13aa4d5b4006",
+    "source_url": "https://raw.githubusercontent.com/suyashb734/cliagents/40804745f464e33939902dae1a806bf22e4df578/openapi.json",
+    "fetched_at": "2026-06-12T10:04:28.236914+00:00",
+    "content_hash": "e965d2e96a52965243b91b3dd9f494d81cf0969309434fc8b34032a09f80a67d",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "cliagents API",
+    "openapi_version": "openapi_3",
+    "paths_count": 13,
+    "path_diff": null
+  }
+]

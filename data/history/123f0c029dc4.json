@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "123f0c029dc4",
+    "source_url": "https://raw.githubusercontent.com/Pruthviraj98/PicPiper/4f6b54db4a152ec9af2e83b655df54d8a4c1f54c/swagger.yaml",
+    "fetched_at": "2026-06-12T10:04:59.977640+00:00",
+    "content_hash": "338efa486c238c0500d51a36170c8093a92180b7ee8fe72682621e7cc13c0d20",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "AI Photo Search",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

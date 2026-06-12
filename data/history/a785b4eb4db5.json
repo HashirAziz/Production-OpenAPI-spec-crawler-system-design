@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a785b4eb4db5",
+    "source_url": "https://raw.githubusercontent.com/cedricziel/assistant/d79ef5e4890e835aba4314e52f2b7034257a75ce/openapi.json",
+    "fetched_at": "2026-06-12T10:04:34.203536+00:00",
+    "content_hash": "d01faddd288251702ce50e59cb2a25a5f71e9ff10ff01f2a195d9dfc39e89c64",
+    "info_version": "0.1.165",
+    "status": "new",
+    "title": "Assistant API",
+    "openapi_version": "openapi_3",
+    "paths_count": 93,
+    "path_diff": null
+  }
+]

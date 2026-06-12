@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0b71de0734db",
+    "source_url": "https://raw.githubusercontent.com/makarblch/Software-architecture-system-design/7e35212834bad7b9fa87cc95c3b42162ef2b467a/openapi.yaml",
+    "fetched_at": "2026-06-12T10:04:01.946605+00:00",
+    "content_hash": "fbd23312a462b53c17dfa9b49d0905790fc2e978a06b0a18f36fbb157f9b2eae",
+    "info_version": "1.1.0",
+    "status": "new",
+    "title": "Borzoifit Calendar Integration API",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

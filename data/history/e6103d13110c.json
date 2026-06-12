@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e6103d13110c",
+    "source_url": "https://raw.githubusercontent.com/ankorstore/yokai-petstore-demo/42c50f838ab21e28d164ed29e409191e27a9b261/openapi.yaml",
+    "fetched_at": "2026-06-12T10:03:48.998253+00:00",
+    "content_hash": "ad5c47d3c4ae8eea98c538416e2e8affec66480c51855a263f65cf2c2f09415f",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Swagger Petstore",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "78fa106ff993",
+    "source_url": "https://raw.githubusercontent.com/ampache/ampache.github.io/7eb180cf1fe03f720462b901ea393515eedc939e/openapi.json",
+    "fetched_at": "2026-06-12T10:04:25.361166+00:00",
+    "content_hash": "9abb9bf6d3bf654c422679dc2cd3b2b8352eb6d8937e4771c440bcafb98980be",
+    "info_version": "6.9.1",
+    "status": "new",
+    "title": "Ampache REST API",
+    "openapi_version": "openapi_3",
+    "paths_count": 164,
+    "path_diff": null
+  }
+]

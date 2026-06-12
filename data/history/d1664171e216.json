@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d1664171e216",
+    "source_url": "https://raw.githubusercontent.com/vanhumbeecka/json-validator/3c015b379e18af48f7773878557a823aab5f13d0/swagger.yaml",
+    "fetched_at": "2026-06-12T10:04:51.373770+00:00",
+    "content_hash": "82d08d58f61756da19709a492be3c35a4de6e5fdae1dd48931fa1be76a7c3a88",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "JSON Schema Validator API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

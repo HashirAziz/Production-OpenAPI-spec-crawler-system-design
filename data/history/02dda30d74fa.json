@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "02dda30d74fa",
+    "source_url": "https://raw.githubusercontent.com/Meeting-BaaS/meeting-mcp/715d6cbb2289817b805b61698d2ad0589ebd1edf/openapi.json",
+    "fetched_at": "2026-06-12T10:04:26.871122+00:00",
+    "content_hash": "c5043fa10d1742b199ce8a12e9531b3c2953797938c3ba1d6df3b8fc87cb6f81",
+    "info_version": "1.1",
+    "status": "new",
+    "title": "Meeting BaaS API",
+    "openapi_version": "openapi_3",
+    "paths_count": 13,
+    "path_diff": null
+  }
+]

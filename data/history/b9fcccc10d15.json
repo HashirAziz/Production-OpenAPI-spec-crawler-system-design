@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b9fcccc10d15",
+    "source_url": "https://raw.githubusercontent.com/usedetail/cli/0b3844b19d2774f01c32906681586e67a4c9a284/openapi.json",
+    "fetched_at": "2026-06-12T10:04:29.724064+00:00",
+    "content_hash": "686009bc435a425b637afddf5c0c0ad06208a35bce0a6f979f0a031df41134b4",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Detail Public API",
+    "openapi_version": "openapi_3",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

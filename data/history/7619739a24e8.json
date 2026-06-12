@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "7619739a24e8",
+    "source_url": "https://raw.githubusercontent.com/jnjaruncts/apisecurityplugin/ccf60781fd2e771afa69288e6781ba94ec470ce9/swagger.yaml",
+    "fetched_at": "2026-06-12T10:05:00.332635+00:00",
+    "content_hash": "57409eaba2ff121bea90119694b3dc843249caaaf91dd072ff698026a12fa9b8",
+    "info_version": "1.2.3",
+    "status": "new",
+    "title": "Sample Service",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

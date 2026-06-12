@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "cbf107bd4439",
+    "source_url": "https://raw.githubusercontent.com/SanthoshM25/key_value_datastore/7eeccda166a4790d37568e17e9a59f6b13430e09/swagger.yaml",
+    "fetched_at": "2026-06-12T10:04:50.747025+00:00",
+    "content_hash": "2b3afc1111f6a5709e033bf09a676b4fe7cf5a4a89521af259b6ce49ea84021a",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "key_value_datastore API",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

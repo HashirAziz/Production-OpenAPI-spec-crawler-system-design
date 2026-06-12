@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "35adf532e17a",
+    "source_url": "https://raw.githubusercontent.com/Sergey-Yachmennikov/highload-testing-presentation/45c77ab5d595ffed3196d277dc433e0da17dfe63/openapi.yaml",
+    "fetched_at": "2026-06-12T10:04:00.805054+00:00",
+    "content_hash": "1793c9ee141fa944f9da65ada3cf37900e81275efaadc7d2a7d0a88ac7881d51",
+    "info_version": "0.0.1-SNAPSHOT",
+    "status": "new",
+    "title": "Highload Testing Presentation API",
+    "openapi_version": "openapi_3",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

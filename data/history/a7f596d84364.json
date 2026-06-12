@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a7f596d84364",
+    "source_url": "https://raw.githubusercontent.com/JoaoDysarz/Minicurso-Rocket-Python/17814b4c4af09a8aff3eb528dafa822a70a4b84b/Swagger.yaml",
+    "fetched_at": "2026-06-12T10:04:44.745890+00:00",
+    "content_hash": "4c308eb4d20c629db8bb1bafe9dbbf73c92a30c0b5fb0b489355e5a767be733e",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "E-commerce API",
+    "openapi_version": "swagger_2",
+    "paths_count": 12,
+    "path_diff": null
+  }
+]

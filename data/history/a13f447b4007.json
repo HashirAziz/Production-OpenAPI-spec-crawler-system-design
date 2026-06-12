@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a13f447b4007",
+    "source_url": "https://raw.githubusercontent.com/application-research/estuary-docusaurus/e6586661619c5be835ff31732773ea585d5dc2ee/openapi.json",
+    "fetched_at": "2026-06-12T10:04:31.101854+00:00",
+    "content_hash": "356c2ca66f30e57729eee99c54efb090b6c8b8d0b5d32e34a3cbdd1a7656acff",
+    "info_version": "0.0.0",
+    "status": "new",
+    "title": "Estuary API",
+    "openapi_version": "openapi_3",
+    "paths_count": 70,
+    "path_diff": null
+  }
+]
