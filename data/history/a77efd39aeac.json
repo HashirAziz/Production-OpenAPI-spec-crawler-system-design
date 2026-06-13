@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a77efd39aeac",
+    "source_url": "https://raw.githubusercontent.com/mwmeyer/biorxiv-chatgpt-plugin/b7920daba07d76eda14a0f145e399524a2f9f416/openapi.yaml",
+    "fetched_at": "2026-06-13T08:52:41.043101+00:00",
+    "content_hash": "a0592b9683bdce4b9adc39bdf6acf1c72efc2ed84cb758e73a977d5bd0b13093",
+    "info_version": "v1",
+    "status": "new",
+    "title": "biorxiv Plugin",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

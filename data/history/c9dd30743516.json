@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c9dd30743516",
+    "source_url": "https://raw.githubusercontent.com/runsight-ai/runsight/919671197bad626d2528238910042b173d15acd2/openapi.json",
+    "fetched_at": "2026-06-13T08:53:02.467979+00:00",
+    "content_hash": "345957aeb8b654cd849059af0a75a3878b90daf1f0418fc310e58e124cbe6f65",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "Runsight API",
+    "openapi_version": "openapi_3",
+    "paths_count": 40,
+    "path_diff": null
+  }
+]

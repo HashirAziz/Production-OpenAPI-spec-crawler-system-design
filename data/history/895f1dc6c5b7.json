@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "895f1dc6c5b7",
+    "source_url": "https://raw.githubusercontent.com/ilyas-hallak/readeck-ios/5662924cfbc0830d4132a51d5bedb6e94adefb14/openapi.json",
+    "fetched_at": "2026-06-13T08:52:57.430189+00:00",
+    "content_hash": "5180900048ee5f6f5a6ef7df8b6dee014d58e9d31208cbeca42a0cd6e1b991da",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Readeck API",
+    "openapi_version": "openapi_3",
+    "paths_count": 30,
+    "path_diff": null
+  }
+]

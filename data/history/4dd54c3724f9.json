@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4dd54c3724f9",
+    "source_url": "https://raw.githubusercontent.com/wikimedia/mediawiki-extensions-WikibaseManifest/d559c2c005ad92231a820d3b267b1cfae72aaf7d/openapi.json",
+    "fetched_at": "2026-06-13T08:53:05.712884+00:00",
+    "content_hash": "adfc5b006213b07ae08bc0374cf99dfa0aaa56cd869407838bfc4917caa188a6",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "wikibase-manifest",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

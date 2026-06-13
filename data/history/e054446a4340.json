@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e054446a4340",
+    "source_url": "https://raw.githubusercontent.com/dhia-gharsallaoui/kratos-admin-ui/64bff69be80ff4b2e406d057cb9493cee398d705/openapi.json",
+    "fetched_at": "2026-06-13T08:53:09.493995+00:00",
+    "content_hash": "61d4e30ed1bd127644c4ea1f8f24779e2b64332e0ed8354cbca374a1cfab871d",
+    "info_version": null,
+    "status": "new",
+    "title": "Ory Hydra API",
+    "openapi_version": "openapi_3",
+    "paths_count": 33,
+    "path_diff": null
+  }
+]

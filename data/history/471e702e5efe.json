@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "471e702e5efe",
+    "source_url": "https://raw.githubusercontent.com/jamalsoueidan/booking-store/635a2097f49ccc72a694fbfaa9d9aa156d11deb5/openapi.yaml",
+    "fetched_at": "2026-06-13T08:52:30.827338+00:00",
+    "content_hash": "a95164ee9ba6b5bf3000c421f68108cb5d0bf88cdcb6990f90175b089fb8d7ec",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Booking Shopify Api",
+    "openapi_version": "openapi_3",
+    "paths_count": 58,
+    "path_diff": null
+  }
+]

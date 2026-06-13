@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "eabdf1194371",
+    "source_url": "https://raw.githubusercontent.com/maroan1/deno_API_template/ff26c0c24f3599c0e5d0be11a2cc7cf81269037e/openapi.yaml",
+    "fetched_at": "2026-06-13T08:52:41.256187+00:00",
+    "content_hash": "efb2503f8a42ad73525729d6a6984a994ee8105be9ad2dbec18090c46a59389b",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "My Api",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

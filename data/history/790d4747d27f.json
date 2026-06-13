@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "790d4747d27f",
+    "source_url": "https://raw.githubusercontent.com/speakeasy-sdks/new-test-freeze-sample-sdk/f67b12f3e0f0e79f51d0f2c5b76f2ce2b0eb4ba4/openapi.json",
+    "fetched_at": "2026-06-13T08:53:11.371646+00:00",
+    "content_hash": "f12ac37bff4c090866a8e35c467caa7b5aa4aa33db3226c9bc1a51eff9088caf",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Swagger Petstore",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

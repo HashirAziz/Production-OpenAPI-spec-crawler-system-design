@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "469fd77c2e4f",
+    "source_url": "https://raw.githubusercontent.com/ilkka/rust-backend-starter/c9d34d4f1339a61728ead0559ad09d0af222f49e/openapi.json",
+    "fetched_at": "2026-06-13T08:53:11.160248+00:00",
+    "content_hash": "e4c0650cddcee2d611854686d8f013c974b1406addaed597f827409c5e0cff4e",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "rust-backend-starter",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]
