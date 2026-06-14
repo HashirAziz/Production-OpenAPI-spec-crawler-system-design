@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a950cd753956",
+    "source_url": "https://raw.githubusercontent.com/AniUa-App/AniUA/9f7db8468dc4eb610bd060fb694e8d37875ee4c0/openapi.json",
+    "fetched_at": "2026-06-14T09:27:36.956647+00:00",
+    "content_hash": "368ae651aa315e246ab40630278af0fb5aba9d3e7285b7038c3bd83d333e13b7",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Backend API",
+    "openapi_version": "openapi_3",
+    "paths_count": 19,
+    "path_diff": null
+  }
+]

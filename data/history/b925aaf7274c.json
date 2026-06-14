@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b925aaf7274c",
+    "source_url": "https://raw.githubusercontent.com/srr0bot/Back-StoreList/610c45e2e00533c0c16fbcac57622c2329d193d3/swagger.yaml",
+    "fetched_at": "2026-06-14T09:27:52.642797+00:00",
+    "content_hash": "dc1d5d3804d7cade083703f3d7e3d4aba4172e852aac464d05d01cca0824b882",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "unknown",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

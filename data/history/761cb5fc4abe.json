@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "761cb5fc4abe",
+    "source_url": "https://raw.githubusercontent.com/must-obed/National-Park-Services/f1d333f9d18d85786a78277405e2f80e6f8c5b70/swagger.yaml",
+    "fetched_at": "2026-06-14T09:27:57.412515+00:00",
+    "content_hash": "7adaff600bb54fd7d97b2d5829840665bebc6a5f78c8bec46da99745adcd7def",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Park Services",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

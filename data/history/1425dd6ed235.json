@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1425dd6ed235",
+    "source_url": "https://raw.githubusercontent.com/ellsol/tweet_compression_registry/3b1cc2acbbdc3bfcbe16f2010ac55a4b1c66670c/swagger.yaml",
+    "fetched_at": "2026-06-14T09:27:54.088915+00:00",
+    "content_hash": "dc2ae5c504358880fb8d5c3664956d8793fc46273aa6abce9a66ad1a2856e0fc",
+    "info_version": null,
+    "status": "new",
+    "title": "Identity Provider Service.",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

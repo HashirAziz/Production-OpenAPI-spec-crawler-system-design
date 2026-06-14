@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2aeb377c640f",
+    "source_url": "https://raw.githubusercontent.com/09-ahm-ed-21/orbiton-full/71004af762da89b671c4f37dcf8bf14db538f42d/swagger.yaml",
+    "fetched_at": "2026-06-14T09:27:57.219217+00:00",
+    "content_hash": "c9a07279c1c3edb1a9b6f5802c9a987de7a06b5e84f8b109ade32119bb2783c4",
+    "info_version": "2.0.0",
+    "status": "new",
+    "title": "Orbiton API",
+    "openapi_version": "openapi_3",
+    "paths_count": 23,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3db1a22a9380",
+    "source_url": "https://raw.githubusercontent.com/nextcloud/polls/c20c7f07e432635dfbfd38214b99de1b7b6f001a/openapi.json.license",
+    "fetched_at": "2026-06-14T09:27:17.795754+00:00",
+    "content_hash": "50b8f20dc83c9c858fe6798f5203b03d39fe22200314160a53b869b00bb0fd0e",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "unknown",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

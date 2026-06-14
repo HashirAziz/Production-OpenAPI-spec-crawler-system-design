@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8fab617e2deb",
+    "source_url": "https://raw.githubusercontent.com/garcialuis/Gossip/c9184e94d49db3ffcb77183b6acb8098e76fb971/swagger.yaml",
+    "fetched_at": "2026-06-14T09:27:51.139663+00:00",
+    "content_hash": "568e3c941b36778ba2e0b2c38a110628478f64496bfaf1f6797275366ae4d9e9",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Gossip API",
+    "openapi_version": "swagger_2",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

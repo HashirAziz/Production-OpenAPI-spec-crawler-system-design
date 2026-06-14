@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8de685308772",
+    "source_url": "https://raw.githubusercontent.com/proDataMarket/datagraft-api-documentation/f757dc574d61f85c0268404e9dd5cb3bd53af184/swagger.json",
+    "fetched_at": "2026-06-14T09:28:18.138995+00:00",
+    "content_hash": "67593a4b5257ec0ce5268a5e81597941bedc515bbaae6fe5a9aa8ce82f10f8e3",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "DataGraft Reborn",
+    "openapi_version": "swagger_2",
+    "paths_count": 22,
+    "path_diff": null
+  }
+]

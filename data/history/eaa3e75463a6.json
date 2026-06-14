@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "eaa3e75463a6",
+    "source_url": "https://raw.githubusercontent.com/gminpark0117/Mix-Generator-Backend/f9711cabdba3360e657e1eccd2f83f51aa491d68/swagger.yaml",
+    "fetched_at": "2026-06-14T09:28:00.716372+00:00",
+    "content_hash": "f44d3e600fe28543ce039ed15634a116af3b77f5341b87106acf51aa8dbd3b6f",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "atomix API",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

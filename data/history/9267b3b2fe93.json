@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9267b3b2fe93",
+    "source_url": "https://raw.githubusercontent.com/bethimanideep/Product-Management-API/e4e417dba4eb4e9598123583dcfbd2ce4f5cff31/swagger.yaml",
+    "fetched_at": "2026-06-14T09:27:59.532515+00:00",
+    "content_hash": "d77eef4ea50ded4af780aa56743ddc4dc8e61b25b35fcd2edab6ad50a5ce992c",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Product Management API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

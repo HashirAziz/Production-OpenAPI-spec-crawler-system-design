@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a6a1403e9ad7",
+    "source_url": "https://raw.githubusercontent.com/sk-sohel01/rbcpoc/5ebf69fb23728d76b36b135343a67a1ca87c4f6e/trade-service/openapi.yaml.bak",
+    "fetched_at": "2026-06-14T09:27:05.487274+00:00",
+    "content_hash": "2f892cda9011983f2647fa3e91653ee620ebca985aee017554a298237518e420",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "FINOS TraderX Trade Service",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

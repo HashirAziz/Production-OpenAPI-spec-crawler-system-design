@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "31015401763c",
+    "source_url": "https://raw.githubusercontent.com/Destripador/empleados/c318da0c65d065da75568dc1fba8d6da0a8fa527/openapi.json",
+    "fetched_at": "2026-06-14T09:27:36.698464+00:00",
+    "content_hash": "e60c83b196113244ac85709f0f6cc8b8a5b702ee7d1b3da6981d316db0925566",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "empleados",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

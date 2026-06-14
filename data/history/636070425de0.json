@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "636070425de0",
+    "source_url": "https://raw.githubusercontent.com/agentic-labs/lsproxy/0b7d96cacd8f5f782bf71fcef4b3bc4a347e8af2/openapi.json",
+    "fetched_at": "2026-06-14T09:27:23.024211+00:00",
+    "content_hash": "7740a50d6d4e67d33b22904362421c9bec6476e8bc822315dbbc952936af6a47",
+    "info_version": "0.2.1",
+    "status": "new",
+    "title": "lsproxy",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

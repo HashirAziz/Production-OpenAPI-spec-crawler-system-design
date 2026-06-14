@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e02c0fd7fa82",
+    "source_url": "https://raw.githubusercontent.com/adityanuriskandar17/BE-miniProject/2a3b58a6d402f6e5cb8bdeda54bcfdf3de4fbf3c/swagger.yaml",
+    "fetched_at": "2026-06-14T09:27:58.606742+00:00",
+    "content_hash": "e46e3d5baaacbf53823d1fa21dcd0fc3710901d3678a33a741214736e76432df",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Rails API",
+    "openapi_version": "openapi_3",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

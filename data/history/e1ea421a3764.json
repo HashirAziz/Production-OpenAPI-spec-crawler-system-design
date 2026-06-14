@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e1ea421a3764",
+    "source_url": "https://raw.githubusercontent.com/Bongumenzi2724/Slaschapp-API/695992773ae9a1ea66f064751da05917dc898997/swagger.yaml",
+    "fetched_at": "2026-06-14T09:28:02.652899+00:00",
+    "content_hash": "254aaa058bff829d7b6e7478bac326db34cb6bd98d6f1e0cb9839f683822e0dc",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Slaschapp API Documentation",
+    "openapi_version": "openapi_3",
+    "paths_count": 49,
+    "path_diff": null
+  }
+]

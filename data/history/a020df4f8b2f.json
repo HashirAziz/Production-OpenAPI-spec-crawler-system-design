@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a020df4f8b2f",
+    "source_url": "https://raw.githubusercontent.com/synaptik-labs/express-typescript-mongo-todo-series/4bce9671366d3a3b27dab465b4df5f9ab1eaa981/swagger.json",
+    "fetched_at": "2026-06-14T09:28:24.038634+00:00",
+    "content_hash": "dc23fe0a0a0a3697447c83e2b2524fd4ceea702882f7c188e9bb8ba97f386865",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "todo-server",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

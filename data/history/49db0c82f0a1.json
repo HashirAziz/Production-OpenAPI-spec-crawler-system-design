@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "49db0c82f0a1",
+    "source_url": "https://raw.githubusercontent.com/Central-University-IT-prod/2025-final-command-team-8-Frontend/5c94784eddf14818119b9e0d6ece0377618b61c2/openapi.json",
+    "fetched_at": "2026-06-14T09:27:39.215066+00:00",
+    "content_hash": "2f8f6d7dcac384d8a3413e387eba3f0342e74d8e0f73c15eff9e2ae3203380b5",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "T-lounge Gateway API",
+    "openapi_version": "openapi_3",
+    "paths_count": 21,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "bc8f6d02c5f8",
+    "source_url": "https://raw.githubusercontent.com/rafaerus/API-SEKOLAH/437c752d95ea2e84e4cf4b9747bf1b6779665704/swagger.yaml",
+    "fetched_at": "2026-06-14T09:28:00.488670+00:00",
+    "content_hash": "6e9761b30241fa37cfd3b2fdfabb83b404d7a3bee491440b1f518321fe44a1d3",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API Sekolah - Demo",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

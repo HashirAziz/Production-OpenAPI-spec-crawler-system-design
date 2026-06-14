@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d7f94b4b7945",
+    "source_url": "https://raw.githubusercontent.com/gurdeeep/WisdomHub/042a6f8c00a2eb9c14e187e7d987d9436eacf7c6/swagger.yaml",
+    "fetched_at": "2026-06-14T09:27:59.709200+00:00",
+    "content_hash": "d2e3da053c95b757ddd4243d9a5dc9de3012a8dd23ee847517be6a3d5cde5d09",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "GraphQL API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "29b39f18f101",
+    "source_url": "https://raw.githubusercontent.com/g4rcez/handshake-bargain/4fd11ad0f00f3a300bc298d07b22dd84f578d137/openapi.yaml",
+    "fetched_at": "2026-06-14T09:27:12.819361+00:00",
+    "content_hash": "d8ee4fa00e012ca8168f1d7dc06cbb3b31e0322fd8189aec45af8fb2fdaba13a",
+    "info_version": "version",
+    "status": "new",
+    "title": "app",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

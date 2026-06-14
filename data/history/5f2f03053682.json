@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5f2f03053682",
+    "source_url": "https://raw.githubusercontent.com/nightven/agua_vivo_app_backend/92597ef68a9d22f494023b73acf4ceb2080319b9/swagger.json",
+    "fetched_at": "2026-06-14T09:28:20.462641+00:00",
+    "content_hash": "076988f48693f09708540bb3b1a96d6d7eeafd07c56e23d2bdcb34991583e19b",
+    "info_version": "3.0.0",
+    "status": "new",
+    "title": "Water Tracker paths",
+    "openapi_version": "openapi_3",
+    "paths_count": 16,
+    "path_diff": null
+  }
+]

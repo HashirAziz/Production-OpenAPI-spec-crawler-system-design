@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d66facba4418",
+    "source_url": "https://raw.githubusercontent.com/oxidrive/oxidrive/bbb005dea2897285bf4355bca6b1df8479cfa0cd/openapi.json",
+    "fetched_at": "2026-06-14T09:27:35.433226+00:00",
+    "content_hash": "b8332a4eebbdd79d5703fbecc75d1ea6554d95c184040d27c42f9755c8c1e4b8",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "Oxidrive",
+    "openapi_version": "openapi_3",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c60c08bd9245",
+    "source_url": "https://raw.githubusercontent.com/elexis-eu/dictionary-matrix/7f25ea0d42ab99e9d8db6275745a410647e6e623/openapi.json",
+    "fetched_at": "2026-06-14T09:27:40.042743+00:00",
+    "content_hash": "d557cb7051960bb637c246a49333a4b6215fd5b40199c43fed5a81e632659710",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "ELEXIS Dictionary Matrix",
+    "openapi_version": "openapi_3",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

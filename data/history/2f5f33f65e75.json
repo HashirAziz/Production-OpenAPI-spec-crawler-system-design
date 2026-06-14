@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2f5f33f65e75",
+    "source_url": "https://raw.githubusercontent.com/kazuhitoyokoi/nodegen-handson/9e61e2a94b5d59930246c5dd95f83f168724999f/swagger.yaml",
+    "fetched_at": "2026-06-14T09:27:56.468821+00:00",
+    "content_hash": "5140e89612d249ba81ce036e3d9bd76db3e76a5b25fe0322874a56fc23ceefa7",
+    "info_version": "4.5.1",
+    "status": "new",
+    "title": "ISS Location",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

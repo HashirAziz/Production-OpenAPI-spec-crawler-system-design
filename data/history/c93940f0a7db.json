@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c93940f0a7db",
+    "source_url": "https://raw.githubusercontent.com/srivikas777/fastlane_rag/4a300b47e8782a6090097a7ac6f327b6dbd5ea5c/swagger.yaml",
+    "fetched_at": "2026-06-14T09:28:00.109530+00:00",
+    "content_hash": "672d0b78dc2cac3c3c9fd5ed4bd85ed9b0a87c53c3acf24dbee626dd77d2d5f2",
+    "info_version": "2.0.0",
+    "status": "new",
+    "title": "FastLane RAG Orchestrator API",
+    "openapi_version": "openapi_3",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

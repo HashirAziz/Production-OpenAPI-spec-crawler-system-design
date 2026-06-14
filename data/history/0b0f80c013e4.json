@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0b0f80c013e4",
+    "source_url": "https://raw.githubusercontent.com/DenisNovac/Phonebook/377dabe33ae76ecfbe6a772ce5f6b293344f7350/swagger.yaml",
+    "fetched_at": "2026-06-14T09:27:53.875055+00:00",
+    "content_hash": "4d468624071fb758a549e5773cfbd656a6d416bdd368db256de2d41ff28a5dd0",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "Тестовое задание Naumen",
+    "openapi_version": "swagger_2",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

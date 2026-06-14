@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "042cfec0b554",
+    "source_url": "https://raw.githubusercontent.com/team-dev-docs/mdx-parse-test-developer-docs/aed624afd28d28600c6a23e651ce15c9eb1a78ca/openapi/frameworks/assets/springboot/openapi.yaml.txt",
+    "fetched_at": "2026-06-14T09:27:13.915238+00:00",
+    "content_hash": "7fe13453e1a112ab59b10a83b931ba15c0fce7b41c727bd07d8d3b85c9b2fb0a",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Book Store API",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

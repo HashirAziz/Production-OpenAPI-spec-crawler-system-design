@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "00c4d0a54cb4",
+    "source_url": "https://raw.githubusercontent.com/YussefSalah/iti_node_labs/d72a1cd36ba80fca5e4f0180882520316df7843c/swagger.yaml",
+    "fetched_at": "2026-06-14T09:27:58.032866+00:00",
+    "content_hash": "2073e955b45473746a453906096455a07305fc74c5d1472de50550ab673167e0",
+    "info_version": "2.0.0",
+    "status": "new",
+    "title": "Users and Posts API",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "019d10d1144a",
+    "source_url": "https://raw.githubusercontent.com/Meriem453/StoreMasterApp_Backend/dae162ab07239c7a6c8407ced74e115f31bcb4bc/swagger.json",
+    "fetched_at": "2026-06-14T09:28:22.443338+00:00",
+    "content_hash": "d59c44837e2c4d98802c01c49f36ffc9fce7ed5ee36b009cace57c26bc24a817",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Product & Supplier API",
+    "openapi_version": "openapi_3",
+    "paths_count": 15,
+    "path_diff": null
+  }
+]

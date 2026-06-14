@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5058e8ad9fb3",
+    "source_url": "https://raw.githubusercontent.com/metehansenol/todo-api-with-node-express/7cb12e15bae1ee49bfbcde079a8cc14dc4e9f41e/swagger.json",
+    "fetched_at": "2026-06-14T09:28:23.050842+00:00",
+    "content_hash": "6790555604695ad0c73e8ddf984c81201ade5f58618e44b1df573df0aa4fb348",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Todo Web API",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

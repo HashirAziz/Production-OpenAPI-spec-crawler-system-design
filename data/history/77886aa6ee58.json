@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "77886aa6ee58",
+    "source_url": "https://raw.githubusercontent.com/OpenBanking-Brasil/api-payments/8b493fa74f548c0704b3ce97ab363e1a1736bea4/swagger.yaml",
+    "fetched_at": "2026-06-14T09:27:50.193891+00:00",
+    "content_hash": "1ee893b757443bbc704ccd8ecee3bbff053bf6933c736c2bf14e25abfd2f9622",
+    "info_version": "5.0.0",
+    "status": "new",
+    "title": "API Payment Initiation - Open Finance Brasil",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

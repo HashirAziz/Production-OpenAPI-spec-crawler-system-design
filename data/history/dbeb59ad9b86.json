@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "dbeb59ad9b86",
+    "source_url": "https://raw.githubusercontent.com/teshi24/BabelPal/48dbb178c63d860b2a190ff755c436e60c37d31b/swagger.yaml",
+    "fetched_at": "2026-06-14T09:27:57.004540+00:00",
+    "content_hash": "6a2a85a707d7f21491c9bd9ea9c2dbb09a7f6627eb9c456b4ec194ebc15fb003",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Speech Translation API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

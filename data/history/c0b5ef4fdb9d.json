@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c0b5ef4fdb9d",
+    "source_url": "https://raw.githubusercontent.com/sul-dlss-labs/swagger-go-template/b54bbe8ac2f59b34039c0be4f8d073cd87a6b1b8/swagger.json",
+    "fetched_at": "2026-06-14T09:28:19.411362+00:00",
+    "content_hash": "c7349beeadc3bf75f778a6366f6dc310d01c8892d313c6199c731d03501c2a2b",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "app",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

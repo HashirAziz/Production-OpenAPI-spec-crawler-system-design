@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "083d1e399e26",
+    "source_url": "https://raw.githubusercontent.com/23f2005275/Parking_app_mad_2/5df0671c5eece7c945c68e2ca5782a47228ac138/swagger.yaml",
+    "fetched_at": "2026-06-14T09:27:59.881711+00:00",
+    "content_hash": "6449ca30ab351d9366642cdb445348a36be5cbc4110f86cf69c61333428dc9dc",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Parking App API",
+    "openapi_version": "openapi_3",
+    "paths_count": 16,
+    "path_diff": null
+  }
+]

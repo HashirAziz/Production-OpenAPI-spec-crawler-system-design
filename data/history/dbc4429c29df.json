@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "dbc4429c29df",
+    "source_url": "https://raw.githubusercontent.com/Safan05/NinjaDevs-APIs/f989d97c7c50df092727bd30077fc6aafe1bad05/swagger.yaml",
+    "fetched_at": "2026-06-14T09:27:56.647819+00:00",
+    "content_hash": "262436fc0a83f87b5ec1cb762a85cb83643797f436cb351f12169e0326c6284d",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "NinjaDevs API",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

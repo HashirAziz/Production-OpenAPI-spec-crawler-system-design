@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "bd490386e431",
+    "source_url": "https://raw.githubusercontent.com/BustleBus/BustleBus-backend/0b13528d676e4411d79e9b1143f10c90052519d2/swagger.yaml",
+    "fetched_at": "2026-06-14T09:27:58.227396+00:00",
+    "content_hash": "88da825b171426b2626aac6700d4df1efeee31e1862b5e69a8010e84499c1dcd",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "BustleBus API",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1c0f1618ec1f",
+    "source_url": "https://raw.githubusercontent.com/icroptec/devops-technical-challenge/6fd40cd0a81ef93f71e80885df37db2103b51fc8/swagger.yaml",
+    "fetched_at": "2026-06-14T09:28:00.300756+00:00",
+    "content_hash": "c183d854e2f52e3f4861530bb5033dec2cacda513a88703026e124a666b53372",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "OpenWeather Proxy API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

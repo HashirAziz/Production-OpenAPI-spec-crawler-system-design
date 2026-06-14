@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "87d8619ca505",
+    "source_url": "https://raw.githubusercontent.com/andela/ninjas-ah-backend/01b92179d20112b75d0c7d6f08070162efac33d6/swagger.json",
+    "fetched_at": "2026-06-14T09:28:12.760083+00:00",
+    "content_hash": "6a71e891a48938ff2395e3d91d3e06bde248b94ac5c708760e37585c95ed4ced",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Authors Haven",
+    "openapi_version": "swagger_2",
+    "paths_count": 36,
+    "path_diff": null
+  }
+]

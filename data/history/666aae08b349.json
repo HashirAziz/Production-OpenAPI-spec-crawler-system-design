@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "666aae08b349",
+    "source_url": "https://raw.githubusercontent.com/wangruchao-github/vs-apifox/9c9b3f1ba40faaaab17dbcc1b32a28f3df7395d5/swagger.json",
+    "fetched_at": "2026-06-14T09:28:16.835986+00:00",
+    "content_hash": "3e0e5f5449c81e9428fec3f1b034a546c0ea141f36752106869a6cda6e1b9264",
+    "info_version": "1.0.7",
+    "status": "new",
+    "title": "Swagger Petstore",
+    "openapi_version": "swagger_2",
+    "paths_count": 14,
+    "path_diff": null
+  }
+]

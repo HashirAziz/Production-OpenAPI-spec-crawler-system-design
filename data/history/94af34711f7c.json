@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "94af34711f7c",
+    "source_url": "https://raw.githubusercontent.com/MauroFBrito/PI-2aEntrega/1b8903ad3dec6033595767534d1f2db5091537b5/swagger.yaml",
+    "fetched_at": "2026-06-14T09:27:58.990465+00:00",
+    "content_hash": "32728bc385645d52c83aa0d2eec6d73ab970461cc18b8b0bebcc0241171c9aa5",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API de Vacinação",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

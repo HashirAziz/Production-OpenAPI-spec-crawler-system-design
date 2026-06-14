@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6aa80d8b64ee",
+    "source_url": "https://raw.githubusercontent.com/jacobxy/kratosent/72710eaa6a386b34ca41fefea277fd7f41606d94/openapi.yaml",
+    "fetched_at": "2026-06-14T09:27:13.014480+00:00",
+    "content_hash": "4a5558afa34a22880ad77ff93732f8525c27c7ba322d8de6ff694e0f0f6da6af",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "Department API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

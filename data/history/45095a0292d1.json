@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "45095a0292d1",
+    "source_url": "https://raw.githubusercontent.com/maheshcg853/AppRunnerCx/c9a918ab07d2c0ec46de3bf0b2fee9ba247b6491/swagger.yaml",
+    "fetched_at": "2026-06-14T09:27:57.841761+00:00",
+    "content_hash": "7d1c1c7555812fb40cd7cf9ff3b2972a5761df930a62f3df51f9fd6a275a69e6",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "EMDB API",
+    "openapi_version": "openapi_3",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]
