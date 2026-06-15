@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8e276a877742",
+    "source_url": "https://raw.githubusercontent.com/NoeBerdoz/julius_baer_onboarding/bc88042001e8ec07d6af1c8d0a722af011726c52/openapi.json",
+    "fetched_at": "2026-06-15T11:55:47.130201+00:00",
+    "content_hash": "d5378383ae74aeae0b27ec83bb4d5235404f16db46dcaa0f2019c6c452b470cf",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "Master",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

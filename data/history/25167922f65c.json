@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "25167922f65c",
+    "source_url": "https://raw.githubusercontent.com/edmarfelipe/currency-service/18605dd0911b5616241912ce51a7770e16c8b511/swagger.yaml",
+    "fetched_at": "2026-06-15T11:56:07.994170+00:00",
+    "content_hash": "68f5d51669ba44b4c972993f81843fa16338d98c7e1bdbb6df1693072a329e34",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Currency Service",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

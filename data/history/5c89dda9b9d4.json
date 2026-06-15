@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5c89dda9b9d4",
+    "source_url": "https://raw.githubusercontent.com/surreydigitalservices/sds-addresses/4e365ae70a21e7e75426b49ae37a2d3a59c4ccc5/swagger.json",
+    "fetched_at": "2026-06-15T11:56:42.111674+00:00",
+    "content_hash": "a1f59bff1d239fb6a6a12413f195ca6856dccdd5391eb9800694e0b4be8d53c5",
+    "info_version": "1.1.0",
+    "status": "new",
+    "title": "Surrey Digital Services Address API",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

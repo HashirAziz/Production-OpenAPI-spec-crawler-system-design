@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c898eec9038f",
+    "source_url": "https://raw.githubusercontent.com/descope-sample-apps/descope-fastapi-sample-app/a656c3b57e1fd7a7f855c63edd803965499241b2/openapi.json",
+    "fetched_at": "2026-06-15T11:55:49.101275+00:00",
+    "content_hash": "5fd49926322acd4e56679b898c73783201ea3959de32b94c333feb5f0aec35b0",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "FastAPI",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d5d32409d2b5",
+    "source_url": "https://raw.githubusercontent.com/AmalThomasThettayil/backend-blogApp/773c13ab8888ba604e85adff73f66af87c3ee5ad/swagger.yaml",
+    "fetched_at": "2026-06-15T11:56:12.407502+00:00",
+    "content_hash": "2a8f3a631737780888ebdf9d424b22f2143954d07ccc37d9aa9f254de778e185",
+    "info_version": "1.1.0",
+    "status": "new",
+    "title": "Express-blog application",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

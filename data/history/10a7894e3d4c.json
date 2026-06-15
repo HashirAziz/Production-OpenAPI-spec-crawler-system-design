@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "10a7894e3d4c",
+    "source_url": "https://raw.githubusercontent.com/skybert/largo/2bde6e0428689abe6e91520c24734d429301435f/openapi.yaml",
+    "fetched_at": "2026-06-15T11:55:19.964501+00:00",
+    "content_hash": "6d0053e208efc9257edec46a8430aa05c8277334dd9a01a4ef42c31026e2a57d",
+    "info_version": "42.0.0",
+    "status": "new",
+    "title": "Largo",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

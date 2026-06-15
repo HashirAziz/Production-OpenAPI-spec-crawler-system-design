@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5be24dd1bacf",
+    "source_url": "https://raw.githubusercontent.com/MicahParks/magiclinksdev/77ea4817bf055d692bf27e55e4f9c96e4e215ce0/swagger.yaml",
+    "fetched_at": "2026-06-15T11:56:18.547621+00:00",
+    "content_hash": "642ba5c82199f75850602627d0302bc6a62413bf0ec14c4187ee91b1081971a1",
+    "info_version": "2.0.0",
+    "status": "new",
+    "title": "magiclinks.dev",
+    "openapi_version": "swagger_2",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

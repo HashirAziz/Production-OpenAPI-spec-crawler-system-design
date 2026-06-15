@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "57a270d03ab2",
+    "source_url": "https://raw.githubusercontent.com/Surya07102000/New-Relic-Integration-POC/59e7af944768228e9f58d01b21794534dfccb679/swagger.yaml",
+    "fetched_at": "2026-06-15T11:56:12.919115+00:00",
+    "content_hash": "008b553aec4a8797f0d55650a0286ec42320d9e80ad1dfc5de33207266790d5e",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "New Relic Integration POC API",
+    "openapi_version": "openapi_3",
+    "paths_count": 16,
+    "path_diff": null
+  }
+]

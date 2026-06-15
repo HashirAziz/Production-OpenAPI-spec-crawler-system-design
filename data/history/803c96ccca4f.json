@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "803c96ccca4f",
+    "source_url": "https://raw.githubusercontent.com/cloudmesh/cloudmesh-cc/ad3c03bfe77bec31d87b2e026ff2fdbef024218b/openapi.json",
+    "fetched_at": "2026-06-15T11:55:56.386116+00:00",
+    "content_hash": "9c5f8b8234408bbc10bfac1c7b58a2f5457f8897761dbaf5bab7f40f690d85a9",
+    "info_version": "4.3.8",
+    "status": "new",
+    "title": "cloudmesh-cc",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "7b1a61672b43",
+    "source_url": "https://raw.githubusercontent.com/Magma73/Projet-13-argent-bank/95852a9d162c56951fe30484bd2842a574d4a432/swagger.yaml",
+    "fetched_at": "2026-06-15T11:56:20.994833+00:00",
+    "content_hash": "e5e1ccf5781e7419e8534706aaefb8bf515630f6303b21478f115cee1f9f0e50",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Bank Argent API documentation",
+    "openapi_version": "swagger_2",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e21d1a06da80",
+    "source_url": "https://raw.githubusercontent.com/JuneLXD/DOE_SETO_API/e44b39378e9702398d6a8dcae394366fb8f407ba/swagger.yaml",
+    "fetched_at": "2026-06-15T11:56:11.949328+00:00",
+    "content_hash": "f5a2e0d6436e156a3832b33695dbff32e083cb623e3ec4e115bb4681892a95cd",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "DOE SETO API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

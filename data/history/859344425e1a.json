@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "859344425e1a",
+    "source_url": "https://raw.githubusercontent.com/KostyantynG/Lambda-Authenticator/eeabd2321075909b45703d153638c3aabfe8ab61/swagger.yaml",
+    "fetched_at": "2026-06-15T11:56:14.358185+00:00",
+    "content_hash": "210efe69b1ece7e6291726adead08bd968687f20f1d8e6348e99b481f9518e14",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Authentication API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

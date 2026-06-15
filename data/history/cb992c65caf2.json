@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "cb992c65caf2",
+    "source_url": "https://raw.githubusercontent.com/yagmursabirli/API_Address_Book/79bb3052b6a0559223d978f48f7df793f42a0c10/swagger.yaml",
+    "fetched_at": "2026-06-15T11:56:14.128663+00:00",
+    "content_hash": "8461190a8090e0a69e60735322debe6333d79b2d8d2554cf38257b5e0980a643",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Address Book API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

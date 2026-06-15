@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1fb3484286e1",
+    "source_url": "https://raw.githubusercontent.com/Bnunez17/BRXJJ/395870d6e7e5ffa87828b7f286a919611d470318/swagger.yaml",
+    "fetched_at": "2026-06-15T11:56:12.641236+00:00",
+    "content_hash": "9f64624823dd80558e75d9e3426b579978b10d28d7e3c2d7786d608b4be25973",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API Superhéroes",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

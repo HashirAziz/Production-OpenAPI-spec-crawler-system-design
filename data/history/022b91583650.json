@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "022b91583650",
+    "source_url": "https://raw.githubusercontent.com/brunosenadev/api-ecommerce/5ac8fee0c7480ac3024a8a050a26f2ab71548b03/swagger.yaml",
+    "fetched_at": "2026-06-15T11:56:22.114399+00:00",
+    "content_hash": "7787f091ea748abf951c3d3aa7ec46f702c56b6bfb603efc70783c2bb83fc7e1",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "E-commerce API",
+    "openapi_version": "swagger_2",
+    "paths_count": 12,
+    "path_diff": null
+  }
+]

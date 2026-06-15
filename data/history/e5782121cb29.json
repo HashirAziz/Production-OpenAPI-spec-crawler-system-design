@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e5782121cb29",
+    "source_url": "https://raw.githubusercontent.com/Oderjunkie/mafiaggbot/6306febedbc4634a5417d49ab4dc1b048d16c15a/swagger.yaml",
+    "fetched_at": "2026-06-15T11:56:20.304064+00:00",
+    "content_hash": "842941e834c5bc5b3274aa41ad1fbb847ff00f8eec847dca06171e2d242313e0",
+    "info_version": "0.0.0",
+    "status": "new",
+    "title": "Mafia.gg api",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

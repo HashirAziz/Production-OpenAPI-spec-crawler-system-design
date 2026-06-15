@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a5e34d2e4ed4",
+    "source_url": "https://raw.githubusercontent.com/sallybdiament/Project-23-Blogs-API/f81b3886ff7adececaee57761da1642ac60f6a7b/swagger.yaml",
+    "fetched_at": "2026-06-15T11:56:16.392005+00:00",
+    "content_hash": "a0174182153db78c016223da5c753ff4eb4c4b767e57b6eedfe5deed779c54ed",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Project Blogs API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

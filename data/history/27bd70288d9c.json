@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "27bd70288d9c",
+    "source_url": "https://raw.githubusercontent.com/joschne/loopback4-example-ngx-sdk/79cb2e8a83c75d980cdfc94bc0e7a6efc16e2e9b/openapi.json",
+    "fetched_at": "2026-06-15T11:55:55.806613+00:00",
+    "content_hash": "6a50048b938ee183dae58ad8d12828dff2c6e7ea0b2017d0a9905c915c214a9b",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "LoopBack Application",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

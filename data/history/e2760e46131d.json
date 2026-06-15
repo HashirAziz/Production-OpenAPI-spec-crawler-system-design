@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e2760e46131d",
+    "source_url": "https://raw.githubusercontent.com/charIoT-h2020/chariot-blockchain-keypair-api/32ba80e75ee859eb73c264ea746683f01472dd8f/swagger.yaml",
+    "fetched_at": "2026-06-15T11:56:22.334719+00:00",
+    "content_hash": "8087e9efa3ed1878039aa95007a49dc821bc69878df06a8927b3aa7ed6aa26b4",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "CHARIOT Keypair API",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

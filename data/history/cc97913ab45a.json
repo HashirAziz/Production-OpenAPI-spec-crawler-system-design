@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "cc97913ab45a",
+    "source_url": "https://raw.githubusercontent.com/brucvei/ionic-backend/e4a150a5c1023228a00568a3ffcfcef38d922e1b/swagger.yaml",
+    "fetched_at": "2026-06-15T11:56:10.838032+00:00",
+    "content_hash": "6eb7599fa8efb2a57df4adb30b5e04f30852d05a29fa5147ec0cd68b6e021c76",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Workout Management API",
+    "openapi_version": "openapi_3",
+    "paths_count": 32,
+    "path_diff": null
+  }
+]

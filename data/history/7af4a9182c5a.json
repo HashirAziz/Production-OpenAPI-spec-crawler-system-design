@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "7af4a9182c5a",
+    "source_url": "https://raw.githubusercontent.com/HyperTexts/QuickComm/37ef498072e5c593b2c7c3f80147b92812b94703/openapi.json",
+    "fetched_at": "2026-06-15T11:55:52.867415+00:00",
+    "content_hash": "7542666834865c077869de9b2ceaf82e28d119b20057ef1545c1612d6ebe4d54",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "QuickComm API",
+    "openapi_version": "swagger_2",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

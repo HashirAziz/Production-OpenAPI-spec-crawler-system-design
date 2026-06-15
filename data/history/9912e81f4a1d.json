@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9912e81f4a1d",
+    "source_url": "https://raw.githubusercontent.com/collava/base_ash_template/8561aa301a3706a00ccb753468496cf1a6ceff6c/openapi.json",
+    "fetched_at": "2026-06-15T11:55:54.815859+00:00",
+    "content_hash": "ef059aa83291f44504edd646148ebb8949d96f10978ce16062e1da08a675ca2b",
+    "info_version": "0.1.44",
+    "status": "new",
+    "title": "AshBaseTemplate JSON API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

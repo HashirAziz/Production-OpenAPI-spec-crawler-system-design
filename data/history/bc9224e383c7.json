@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "bc9224e383c7",
+    "source_url": "https://raw.githubusercontent.com/pagopa/pagopa-infra/516c5e83102760e651b98451f4eb36138e278d84/src/next-core/api/monitor/openapi.json.tpl",
+    "fetched_at": "2026-06-15T11:55:31.567796+00:00",
+    "content_hash": "fddefcbcadb719e66dd2bf6598dd30ce61c21e27f09958e373476daefc44163e",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "monitor",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c14856599c61",
+    "source_url": "https://raw.githubusercontent.com/newrelic/k8s-metadata-injection/93d8cdd8246a2eb77b336524b171c389cf660843/openapi.yaml",
+    "fetched_at": "2026-06-15T11:55:10.246223+00:00",
+    "content_hash": "8a90bc2d4cd237a95ca133df7438a8c6869338fb2755b0a24885f00ca8719f7e",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "New Relic Kubernetes Metadata Injection MutatingAdmissionWebhook",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

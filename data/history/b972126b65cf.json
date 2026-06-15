@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b972126b65cf",
+    "source_url": "https://raw.githubusercontent.com/rudashi/optima/ecb91b5d4400daf5f0b1ba18e0264c60719d60b1/openapi.json",
+    "fetched_at": "2026-06-15T11:55:56.030386+00:00",
+    "content_hash": "2d987ebe1ffebc841e7fd45ace68cc57034653816d8dfb133eca49161c35c293",
+    "info_version": "latest",
+    "status": "new",
+    "title": "Optima API docs",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

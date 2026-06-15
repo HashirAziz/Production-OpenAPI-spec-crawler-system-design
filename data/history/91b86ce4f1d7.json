@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "91b86ce4f1d7",
+    "source_url": "https://raw.githubusercontent.com/multideskio/whatsapp-manager/7130e1a064d6298f957b6c05cdc58f2a881dd3d7/swagger.yaml",
+    "fetched_at": "2026-06-15T11:56:13.377019+00:00",
+    "content_hash": "8de829c8e867b815cc892488a931b59ec79a494bf0d8db9a1eb3ae5c3382b149",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "WhatsApp Manager API",
+    "openapi_version": "openapi_3",
+    "paths_count": 32,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "38e7db5945a3",
+    "source_url": "https://raw.githubusercontent.com/boomer-goten/Filmoteka/6a89c4ab67f69eac00abaa4bd1b58ce236feac1c/swagger.yaml",
+    "fetched_at": "2026-06-15T11:56:23.549888+00:00",
+    "content_hash": "4b1d854b380a3172014af70db3aa30fcb87db8e6c8310e6011c3577b615bf8c2",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "Filmoteka",
+    "openapi_version": "swagger_2",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

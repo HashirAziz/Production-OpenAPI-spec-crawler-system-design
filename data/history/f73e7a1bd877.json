@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f73e7a1bd877",
+    "source_url": "https://raw.githubusercontent.com/IIC2513/APIT2/1dfb55e85207688bc23d45e0b0bdf78de971459f/swagger.yaml",
+    "fetched_at": "2026-06-15T11:56:16.180488+00:00",
+    "content_hash": "5fe3b171f8a22cd42a9388a152fb95e1110c2d46757f3ba1c60e8ba2eb3e20ea",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API T2",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]
