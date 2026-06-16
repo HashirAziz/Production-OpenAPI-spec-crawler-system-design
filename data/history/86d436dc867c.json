@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "86d436dc867c",
+    "source_url": "https://raw.githubusercontent.com/codefly-dev/service-python-fastapi/91fe10306d36b4a3d83391a60c231c8754b8d764/templates/factory/openapi/api.swagger.json.tmpl",
+    "fetched_at": "2026-06-16T11:05:09.179655+00:00",
+    "content_hash": "58e090ae96492106f281ea2dbbb450da12a62a31d8585b58f7818f5296522757",
+    "info_version": "0.0.0",
+    "status": "new",
+    "title": "src",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f3688c0bd130",
+    "source_url": "https://raw.githubusercontent.com/golfamigo/JCTOPV2/5c2321cbc30a20a17f23a56ea2be5fec58a050f1/swagger.yaml",
+    "fetched_at": "2026-06-16T11:04:44.772172+00:00",
+    "content_hash": "3043b6551405d93802071fe31b4857233030cf5e545598240d9b186abc9afd0f",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "JCTOP Event Management API",
+    "openapi_version": "openapi_3",
+    "paths_count": 17,
+    "path_diff": null
+  }
+]

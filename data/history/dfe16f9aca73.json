@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "dfe16f9aca73",
+    "source_url": "https://raw.githubusercontent.com/tegaphilip/relux-doc/6703394a303f5d9967fa34b1d0d31da4e693cc09/swagger.yaml",
+    "fetched_at": "2026-06-16T11:04:46.521109+00:00",
+    "content_hash": "d7c280e6cb5e0a6e8b4f08fba793deaf0d89850d84eb0f03f6f7bba3a8fefc25",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Relux Service API",
+    "openapi_version": "swagger_2",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

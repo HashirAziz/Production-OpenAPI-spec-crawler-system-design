@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d64919859fc3",
+    "source_url": "https://raw.githubusercontent.com/AppRoute-FZCO/AppRoute-Public-API-SDK/41b169c7b4f3b5817c49d563096f86eebf33115d/openapi.yaml",
+    "fetched_at": "2026-06-16T11:03:32.174829+00:00",
+    "content_hash": "6aba5c1343ba9a203c990eaa86f2a74a6b3ba0ffe0873aee9667977706a23dd0",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "AppRoute Public API (Data Plane)",
+    "openapi_version": "openapi_3",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

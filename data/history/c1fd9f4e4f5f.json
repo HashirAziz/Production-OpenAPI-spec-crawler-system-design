@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c1fd9f4e4f5f",
+    "source_url": "https://raw.githubusercontent.com/MatheusGrilo/api-flask-ecommerce/2c1e218d3e9cec1ad66fa60068a78473f16d795a/swagger.yaml",
+    "fetched_at": "2026-06-16T11:04:36.366179+00:00",
+    "content_hash": "4c04c4e1bcfb95c693b2ee9016b7cf6212771ec57c77f1461f948dcb24d9e982",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "E-commerce API",
+    "openapi_version": "swagger_2",
+    "paths_count": 13,
+    "path_diff": null
+  }
+]

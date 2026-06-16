@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4c040592a633",
+    "source_url": "https://raw.githubusercontent.com/watchakorn-18k/webp_image_go/4b8e2ab6c99d44a5362f55c9fcb354c109d61538/swagger.yaml",
+    "fetched_at": "2026-06-16T11:04:42.640748+00:00",
+    "content_hash": "f2282a8d3fd283c2c1bc62c8a7c8b524632db541133ed1a3d7b0138e0873407c",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Image to WebP API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

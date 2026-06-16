@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "10675f35096b",
+    "source_url": "https://raw.githubusercontent.com/PacktPublishing/-Hands-On-Serverless-with-Kotlin/c1cc375490e43d75972a53670b32f859d6f1969c/swagger.json",
+    "fetched_at": "2026-06-16T11:05:27.799902+00:00",
+    "content_hash": "a3ecee75695d4610fef444b211ee952b8cff38ac53d9c734a2d325400342472c",
+    "info_version": "2018-09-22T13:01:49Z",
+    "status": "new",
+    "title": "Lets-Poll-Serverless-API",
+    "openapi_version": "swagger_2",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

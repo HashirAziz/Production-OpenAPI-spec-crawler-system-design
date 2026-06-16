@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "cf2e9dd66ac2",
+    "source_url": "https://raw.githubusercontent.com/joshdean97/ultradia/07912d33597252cf333b59bb007bbea0c83cf1f2/openapi.yaml",
+    "fetched_at": "2026-06-16T11:03:32.855645+00:00",
+    "content_hash": "9e76984924b34ed71cdbe66be9bef80f11164a26f3e1fa35e361c9856d717961",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "UltraDia API",
+    "openapi_version": "openapi_3",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

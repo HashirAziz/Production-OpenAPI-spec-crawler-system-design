@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "67485ec236d1",
+    "source_url": "https://raw.githubusercontent.com/axrk/zz-book/d145f6718b999a3e97b353b08462307608d1d633/swagger.yaml",
+    "fetched_at": "2026-06-16T11:04:39.659699+00:00",
+    "content_hash": "6f103ee47c5bcf1ce3b35dc6f8502267816bfbbee691c993d2660dd3e5ccc45c",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "ZZ Book API",
+    "openapi_version": "swagger_2",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

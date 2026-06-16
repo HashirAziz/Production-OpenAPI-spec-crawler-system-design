@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d7bff316dab6",
+    "source_url": "https://raw.githubusercontent.com/CreativeCoder9/ticket-show-v1/8ecffd70e435aa0b758fa41521fca072d4d3655d/swagger.yaml",
+    "fetched_at": "2026-06-16T11:04:46.823806+00:00",
+    "content_hash": "8b3f51eb0ab668e107ae4024425efa365b4502bbf99c9586f34102f6ab7ecab1",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Ticket Show Apis",
+    "openapi_version": "swagger_2",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

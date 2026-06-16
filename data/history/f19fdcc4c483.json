@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f19fdcc4c483",
+    "source_url": "https://raw.githubusercontent.com/MohanKantamsetti/StackMonitor/a4eb73d758d00e6d2d290d5b3ea0ed8733753c07/openapi.yaml",
+    "fetched_at": "2026-06-16T11:03:39.359344+00:00",
+    "content_hash": "006a175189cc4853ea85c05f90595794c97825f51645fcd36e2ca3bd833f74ab",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "StackMonitor API",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

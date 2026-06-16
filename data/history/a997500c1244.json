@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a997500c1244",
+    "source_url": "https://raw.githubusercontent.com/lordisrael/Ecommerce/94c999119a66b5c9afce6495ee0c4a6315c93522/swagger.yaml",
+    "fetched_at": "2026-06-16T11:04:45.764094+00:00",
+    "content_hash": "b59b8491113c135693061ba3f40b9f100605a709ca612b6bd2dff7b713c0bad1",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Ecommerce API",
+    "openapi_version": "openapi_3",
+    "paths_count": 38,
+    "path_diff": null
+  }
+]

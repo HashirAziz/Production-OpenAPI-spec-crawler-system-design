@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "13269b3da2bc",
+    "source_url": "https://raw.githubusercontent.com/zgame555/custom_api_doc/4d01e645708303f86095302d61695c79519eb1ba/openapi.yaml",
+    "fetched_at": "2026-06-16T11:03:31.193096+00:00",
+    "content_hash": "434418e7250f2e582bb16781fae743124f1a70830528e13f94b565074bfe2384",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Burger Restaurant API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

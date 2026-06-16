@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f0ceea1d067b",
+    "source_url": "https://raw.githubusercontent.com/sampletext117/testing-web/5fd9c9dbb6ce93e214ba0a5aa4e6e11428ff6c90/openapi.yaml",
+    "fetched_at": "2026-06-16T11:03:36.443582+00:00",
+    "content_hash": "1ea51e3436d140957f6f147ce79d51fb1a475e10b727d9cb0354288b8b3d0c55",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "E-Voting System API",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c83aee549040",
+    "source_url": "https://raw.githubusercontent.com/wcandillon/courrier/b76ba71be001cddeeddc279571211e21f2eed6ae/swagger/swagger.jsonschema",
+    "fetched_at": "2026-06-16T11:05:08.225606+00:00",
+    "content_hash": "dc8e35866bb2bc81eda23a9b892c6a480ec357b506616790ba3442b59a65824d",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "unknown",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

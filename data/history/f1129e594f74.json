@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f1129e594f74",
+    "source_url": "https://raw.githubusercontent.com/lucioeiras/livestream/e639378612931c497f5ef5602fef95ab28b88882/swagger.yaml",
+    "fetched_at": "2026-06-16T11:04:37.270714+00:00",
+    "content_hash": "b3da130c9d49d80b748510a69b6cfddb2ba4a2575078881c1dca5686f7aca9c6",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "LiveStreamAPI",
+    "openapi_version": "swagger_2",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

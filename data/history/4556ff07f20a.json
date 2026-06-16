@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4556ff07f20a",
+    "source_url": "https://raw.githubusercontent.com/G-Ke/docs/48ccaa36bb578e5a82e2366ce25c6a439b24b6cc/openapi.yaml",
+    "fetched_at": "2026-06-16T11:03:37.616182+00:00",
+    "content_hash": "7087188b7b5b4ce602c8d8437d6e29c55581a2684b61211512ea569303ff030c",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Simple API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

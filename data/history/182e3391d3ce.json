@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "182e3391d3ce",
+    "source_url": "https://raw.githubusercontent.com/alfdagos/Spring-Security-Demo/603d59980ed34477deb32a5ae97caded432f1d9e/openapi.yaml",
+    "fetched_at": "2026-06-16T11:03:37.900227+00:00",
+    "content_hash": "af1c2c49ec8b96b1fa07eb4e907b375435bec1ea1b3787136cd8f9a34f5dc77a",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Spring Security Demo API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

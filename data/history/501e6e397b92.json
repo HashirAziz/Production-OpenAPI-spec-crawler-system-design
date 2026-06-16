@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "501e6e397b92",
+    "source_url": "https://raw.githubusercontent.com/Baena15/ergonomia-api/e4d4d5ef6a3d3fdb097d9894e3f7b911ccf868ff/openapi.yaml",
+    "fetched_at": "2026-06-16T11:03:38.778692+00:00",
+    "content_hash": "8e55bc149e765194dac757f73df46334e17f35fa34069974e240f3ade83f0103",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Ergonomia API",
+    "openapi_version": "openapi_3",
+    "paths_count": 12,
+    "path_diff": null
+  }
+]

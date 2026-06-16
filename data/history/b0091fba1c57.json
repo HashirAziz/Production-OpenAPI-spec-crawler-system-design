@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b0091fba1c57",
+    "source_url": "https://raw.githubusercontent.com/Neplex42/project-13-bank/15ef9928db7a5211a6ccc59aecb813c39395e010/swagger.yaml",
+    "fetched_at": "2026-06-16T11:04:41.729913+00:00",
+    "content_hash": "f2cde88219954db80abdd975bf994547506bd2e4a6b67cd06c6040440e6a7926",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Bank Argent API documentation",
+    "openapi_version": "swagger_2",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

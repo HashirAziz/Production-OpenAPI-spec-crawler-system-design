@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8f3c9790a1fc",
+    "source_url": "https://raw.githubusercontent.com/p1d1d1/p1d1d1.github.io/83a20e77a490dc5653efe82df1fc693efd422481/openapi.yaml",
+    "fetched_at": "2026-06-16T11:03:26.949661+00:00",
+    "content_hash": "cfbce3edf99d9ee78b7d3a5a39972708c38a89130b1fa147f55ed051d2845372",
+    "info_version": "0.9.0",
+    "status": "new",
+    "title": "The SpatioTemporal Asset Catalog API for data.geo.admin.ch",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

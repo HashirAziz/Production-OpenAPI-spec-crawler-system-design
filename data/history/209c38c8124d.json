@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "209c38c8124d",
+    "source_url": "https://raw.githubusercontent.com/future-architect/watertower/b176ca81b8ed265c3bd7158d16ecb9c5d65046b3/swagger.yaml",
+    "fetched_at": "2026-06-16T11:04:50.712153+00:00",
+    "content_hash": "8c0a4ed188014418f96a3ef42f98489c37ee6b4adcabe7a972accc2e43a80689",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "watertower",
+    "openapi_version": "swagger_2",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

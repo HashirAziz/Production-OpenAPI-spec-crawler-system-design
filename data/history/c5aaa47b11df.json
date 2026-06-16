@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c5aaa47b11df",
+    "source_url": "https://raw.githubusercontent.com/delaramazad/WebServicesGroup1/6cd2939f5d52cad0867051a794cb67f1278704b5/openapi.yaml",
+    "fetched_at": "2026-06-16T11:03:30.634779+00:00",
+    "content_hash": "f564e05821d4b0dff2fc8856166118bb75140f93b0a9ba29b2bec9b5dfa708fa",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Espotifly API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "132f8d5f810a",
+    "source_url": "https://raw.githubusercontent.com/benjamin-milhet/API_gestion_transactions/7ce5d498600b4cadc2383a1f4963e0abf43a1119/swagger.yaml",
+    "fetched_at": "2026-06-16T11:04:39.000746+00:00",
+    "content_hash": "aaa7b195b55b5a6c4b753173b364c533652c841d6c939d7f5ada522db6abaad8",
+    "info_version": "v1.0.0",
+    "status": "new",
+    "title": "API de gestion de transactions",
+    "openapi_version": "swagger_2",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9d148210c1e5",
+    "source_url": "https://raw.githubusercontent.com/movinsilva/TravelGo-Backend/6f894640d0413b3743c7c50244dccae76bafb685/openapi.yaml",
+    "fetched_at": "2026-06-16T11:03:34.134971+00:00",
+    "content_hash": "fee1b1760bca44c3f4b0c23b33c80589882cd2606774ebc495ea1933ffb29599",
+    "info_version": "2.0.0",
+    "status": "new",
+    "title": "TravelGo APIs",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

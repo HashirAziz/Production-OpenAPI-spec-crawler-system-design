@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "55e0d6542ba7",
+    "source_url": "https://raw.githubusercontent.com/aindrajaya/node-proxy-server/2ec0578433b0db433e94bf8d34a33e7a60719c84/openapi.yaml",
+    "fetched_at": "2026-06-16T11:03:34.502530+00:00",
+    "content_hash": "d9a32e034f80e824e8d5e376420eb58447ace63c8959f3c692a0bac9447347c4",
+    "info_version": "1.1.0",
+    "status": "new",
+    "title": "TMAT Auth Proxy Server API",
+    "openapi_version": "openapi_3",
+    "paths_count": 19,
+    "path_diff": null
+  }
+]

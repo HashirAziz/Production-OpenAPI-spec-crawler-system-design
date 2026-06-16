@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "35ef9df7bcf8",
+    "source_url": "https://raw.githubusercontent.com/Emanuel120021/backend-pi/9743b4952a01b31cab79711bca3af1a79ff8d581/swagger.yaml",
+    "fetched_at": "2026-06-16T11:04:51.288974+00:00",
+    "content_hash": "0860ce722fa99ac7bb88988051d8c73265783f7d5bdef713eda6faea43ac6495",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API de Eventos",
+    "openapi_version": "swagger_2",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

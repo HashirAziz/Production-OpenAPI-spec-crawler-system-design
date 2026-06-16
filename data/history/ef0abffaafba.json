@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ef0abffaafba",
+    "source_url": "https://raw.githubusercontent.com/pickle-coin/paddletraffic/20d63a41fb5252923c138cc0d72b0b619a3c4b9a/openapi.yaml",
+    "fetched_at": "2026-06-16T11:03:33.517795+00:00",
+    "content_hash": "698fa83460b22b495ae3a3e4f5203b18e2929297471a5e356afe1d76a5d17ebb",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Paddletraffic API",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

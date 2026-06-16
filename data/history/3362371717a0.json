@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3362371717a0",
+    "source_url": "https://raw.githubusercontent.com/siqueira-ec/apiasep/89e4c6c78364c75e5ddcb7f5c5d6063baae374ee/swagger.json",
+    "fetched_at": "2026-06-16T11:05:27.445450+00:00",
+    "content_hash": "9ccccdb7104e8a6804bfe7fd905dd0952b1786a5de83c4da792c044b90fef8ab",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "APIasep",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

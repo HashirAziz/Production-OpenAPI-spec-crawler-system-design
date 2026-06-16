@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8db1e6c52a13",
+    "source_url": "https://raw.githubusercontent.com/HagerAhmed/snaky-arena/a4d730397f28c9400cd61fc6171368a4ddf2e500/openapi.yaml",
+    "fetched_at": "2026-06-16T11:03:39.061890+00:00",
+    "content_hash": "5769e972f91817387b807a0bd7059ab5c335752013750b48463af261086470c8",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Snaky Arena API",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

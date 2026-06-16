@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9c807f9ba811",
+    "source_url": "https://raw.githubusercontent.com/stap20/AIDA-Backend/b4131d185da44acc1ba9fe18b7549ed830bec229/swagger.yaml",
+    "fetched_at": "2026-06-16T11:04:32.862929+00:00",
+    "content_hash": "29d09a63de1173228c66733d6658abaafa714962e50601a44e50317768dd28fd",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "AIDA API",
+    "openapi_version": "swagger_2",
+    "paths_count": 16,
+    "path_diff": null
+  }
+]

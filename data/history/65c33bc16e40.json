@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "65c33bc16e40",
+    "source_url": "https://raw.githubusercontent.com/memaxo/SummarizeEmail/950aa2fb5294fa9dc160fc30b204619d09d2f345/openapi.yaml",
+    "fetched_at": "2026-06-16T11:03:33.829554+00:00",
+    "content_hash": "017a54eba7ba499e2ccc154f5a5df690a01b342f50dd26f5af4ea6d7737d2dd5",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Outlook Email Summarizer API",
+    "openapi_version": "openapi_3",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "95464bd7cdf0",
+    "source_url": "https://raw.githubusercontent.com/thuylamhh/jobs-api/90eca55673938ebc14cd3b665cae6b8a8d164692/swagger.yaml",
+    "fetched_at": "2026-06-16T11:04:40.559114+00:00",
+    "content_hash": "2f9e5fc1bbbed9fa82141c5933f36d12cffe7f8648dbdd0a55c24559da242fd0",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Jobs API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

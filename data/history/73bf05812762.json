@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "73bf05812762",
+    "source_url": "https://raw.githubusercontent.com/zerotoy/odoo_assessment/7ee3c52f51a6fe869f739c1c0f969d53fac442fb/openapi.yaml",
+    "fetched_at": "2026-06-16T11:03:33.203578+00:00",
+    "content_hash": "f8f2d2f322f9850454bff10705d894d012b67e2a015b85cc96932dd71b0919af",
+    "info_version": "1.0.11",
+    "status": "new",
+    "title": "Swagger Petstore - OpenAPI 3.0",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "92fdd624d8ca",
+    "source_url": "https://raw.githubusercontent.com/Rrrrein/FP-Kriptografi-Kelompok-5/a7b20fdd6179197098f098206456bae5dfa8a4c1/swagger.yaml",
+    "fetched_at": "2026-06-16T11:04:47.469806+00:00",
+    "content_hash": "16cc7588c052cbb90ee7a7f71a3fc25133607195b54ba4706410e8634972ca16",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Digital Signature API",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

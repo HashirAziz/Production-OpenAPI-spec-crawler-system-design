@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "7f609a122186",
+    "source_url": "https://raw.githubusercontent.com/Lumos-Programming/profile-system/6fa8acd8e3d2ba573b1d3e1ccb604b26c5ca3fb3/openapi.yaml",
+    "fetched_at": "2026-06-16T11:03:30.334171+00:00",
+    "content_hash": "e1e136bc6bb8db189aea2c65fb28278a78dfbc88fe707522ab8d002e1971e187",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "基本情報編集API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

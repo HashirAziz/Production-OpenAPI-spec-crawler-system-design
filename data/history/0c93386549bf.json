@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0c93386549bf",
+    "source_url": "https://raw.githubusercontent.com/0xmaximus/Swagger/490494a5c747c9ac9d30beed41e8efc0f387ebc8/swagger.yaml",
+    "fetched_at": "2026-06-16T11:04:50.150429+00:00",
+    "content_hash": "8a9f8391791012bf66e40d8369d971bb9558844647649257660117a47b1e2543",
+    "info_version": "production",
+    "status": "new",
+    "title": "XSS Attack BY Maximus",
+    "openapi_version": "swagger_2",
+    "paths_count": 292,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ddbe65808709",
+    "source_url": "https://raw.githubusercontent.com/eddieidde04/BETATRAX-main/fa09419f07f1ae24b42deae1c3c112ba0000ba97/openapi.yaml",
+    "fetched_at": "2026-06-16T11:03:31.513574+00:00",
+    "content_hash": "ea52f670c9ffd8bb4575a19afe8a00deef82687afed4c8fe929f8b98224e3ccb",
+    "info_version": "2.0.0",
+    "status": "new",
+    "title": "BetaTrax API",
+    "openapi_version": "openapi_3",
+    "paths_count": 25,
+    "path_diff": null
+  }
+]

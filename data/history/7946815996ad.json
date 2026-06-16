@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "7946815996ad",
+    "source_url": "https://raw.githubusercontent.com/SignalK/sailsconfiguration/e5c611d22f81ba6974030032d1d550bb2c762547/openapi.yaml",
+    "fetched_at": "2026-06-16T11:03:21.790569+00:00",
+    "content_hash": "9981e6d79f170ff9c13daabd0c286824a3fe50d0d825a9ad1d53fd0f5aec76a8",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "Signal K Sails configuration",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

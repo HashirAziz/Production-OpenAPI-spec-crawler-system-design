@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "48799ade7031",
+    "source_url": "https://raw.githubusercontent.com/harrylowkey/coders-tokyo-forum-backend/73a65f9e8680d8ce485c21eca0d35129b9d4c6f9/swagger.json",
+    "fetched_at": "2026-06-16T11:05:25.659947+00:00",
+    "content_hash": "b22e0b42300de3bf576a00f858c682bbfe96c69c66a96b7df320f42a001d9758",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Coders.Tokyo Forum",
+    "openapi_version": "openapi_3",
+    "paths_count": 19,
+    "path_diff": null
+  }
+]

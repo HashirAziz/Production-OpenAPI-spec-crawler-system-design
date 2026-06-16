@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "375fc70476a9",
+    "source_url": "https://raw.githubusercontent.com/DCalliet/cscjapi-abc123/0b7e27c9b1bb1835cd1cfd40779bdee86312c281/openapi.yaml",
+    "fetched_at": "2026-06-16T11:03:32.425381+00:00",
+    "content_hash": "d291795ea8c13d5597780f2fe455a78a8ebdecde7139f32beec98622b47faeb6",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Job Processing API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

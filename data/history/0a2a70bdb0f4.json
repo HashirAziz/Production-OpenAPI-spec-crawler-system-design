@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0a2a70bdb0f4",
+    "source_url": "https://raw.githubusercontent.com/sambacha/lz-openapi/f1dc15ac891646dc9af926399c10c71f1cb5e5e3/swagger.json",
+    "fetched_at": "2026-06-16T11:05:22.775427+00:00",
+    "content_hash": "ee73b183b97a036c5c6073ea77fb2870a0e853f455a272fb87c0241e2a98233c",
+    "info_version": "2",
+    "status": "new",
+    "title": "Moralis API",
+    "openapi_version": "openapi_3",
+    "paths_count": 39,
+    "path_diff": null
+  }
+]

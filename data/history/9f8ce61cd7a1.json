@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9f8ce61cd7a1",
+    "source_url": "https://raw.githubusercontent.com/minder5hub/sample-api-doc/e48c00be0224dc3b71d2507d33e82ace67468c2e/openapi.yaml",
+    "fetched_at": "2026-06-16T11:03:38.185916+00:00",
+    "content_hash": "ed72196ed8142db6d2d474e916d40100b1299322b9fef687fd2f879132a042f7",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Book Store API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

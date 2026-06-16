@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d7729606bb05",
+    "source_url": "https://raw.githubusercontent.com/SpaceXLand/api/b7e9a3cc1c8eecabd9f46c1e10ea10d521e7ccf7/swagger.json",
+    "fetched_at": "2026-06-16T11:05:09.950707+00:00",
+    "content_hash": "46a3b0b96b336e401df4c23cfeee0be18bd17bb437b576c7c4f4d025c7384bf3",
+    "info_version": null,
+    "status": "new",
+    "title": "SpaceX REST API",
+    "openapi_version": "openapi_3",
+    "paths_count": 43,
+    "path_diff": null
+  }
+]

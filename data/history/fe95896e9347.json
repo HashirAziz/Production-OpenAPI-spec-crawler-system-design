@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "fe95896e9347",
+    "source_url": "https://raw.githubusercontent.com/jays0606/gpt2-arXiv/3da6de9f9a250e0a8ff8b85c3f8b876ef15e2d2b/swagger.yaml",
+    "fetched_at": "2026-06-16T11:04:47.784762+00:00",
+    "content_hash": "a116dca8a7cdc8f435ae47bb740f41d3fac336f46c251680de121eeee4ec6dab",
+    "info_version": "0.1.1",
+    "status": "new",
+    "title": "gpt2-arxiv-abstract",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]
