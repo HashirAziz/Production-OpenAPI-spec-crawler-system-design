@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5f07c4dfd587",
+    "source_url": "https://raw.githubusercontent.com/GravityDeficient/SwaggerClient-php-Wunderground/0c719b889979bb1990cfadbca8b8f8379d532778/swagger.yaml",
+    "fetched_at": "2026-06-17T10:48:27.556701+00:00",
+    "content_hash": "45d1aa226a7e8015fa7ed119f6451058b25263ce00625910f044faeea0bd7f82",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "The Weather Company PWS API",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

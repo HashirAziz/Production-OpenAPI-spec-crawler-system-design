@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c357a5038436",
+    "source_url": "https://raw.githubusercontent.com/WDP301-SMMS/Backend/eccc09ab73acbdf9eb26143e11e8c499fd538909/swagger.yaml",
+    "fetched_at": "2026-06-17T10:48:23.078989+00:00",
+    "content_hash": "676ee950c3ddaac8117ea95e4d2b12593c4067530cf0105240cfef9da900fbbc",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "School Medical Management System API",
+    "openapi_version": "openapi_3",
+    "paths_count": 55,
+    "path_diff": null
+  }
+]

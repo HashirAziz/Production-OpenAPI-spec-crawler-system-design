@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "77f3b92f4579",
+    "source_url": "https://raw.githubusercontent.com/SubashAravindan/AavegWebsite/f41d3120ae16ffe7f2634864fd23e2e66104759b/swagger.json",
+    "fetched_at": "2026-06-17T10:48:49.294160+00:00",
+    "content_hash": "a8e58cdbac17e7002eb7e7d3cb11109d72201c84e83faffeb50e3b4d05fd7e7c",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Aaveg API",
+    "openapi_version": "swagger_2",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

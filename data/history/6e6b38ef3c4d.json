@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6e6b38ef3c4d",
+    "source_url": "https://raw.githubusercontent.com/Kuppuch/monitoring-system/4a45c4fbafd7cd7c39337c5415037fc2474a4315/swagger.yaml",
+    "fetched_at": "2026-06-17T10:48:14.860096+00:00",
+    "content_hash": "376ed2bb149837b49381d90add1a6eaea0c256e2b1a5fa492a4a365248baed90",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Monitoring",
+    "openapi_version": "swagger_2",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "fb83594d6386",
+    "source_url": "https://raw.githubusercontent.com/kyungrae2002/Server_Vibelink/1f43d2776e958338762b10e4e05f41dce22eac3b/swagger.yaml",
+    "fetched_at": "2026-06-17T10:48:16.247320+00:00",
+    "content_hash": "7f79107d99310b876570dd5f07e258a6e29f3da38fc142de69bd52b612325f24",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "VibeLink API",
+    "openapi_version": "openapi_3",
+    "paths_count": 16,
+    "path_diff": null
+  }
+]

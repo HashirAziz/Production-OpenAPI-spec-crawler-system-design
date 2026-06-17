@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ddc488a2c586",
+    "source_url": "https://raw.githubusercontent.com/sursmobil/cookhub-server/c34e10622586f403cdcae98d82568d3cd4cff438/swagger.yaml",
+    "fetched_at": "2026-06-17T10:48:30.251206+00:00",
+    "content_hash": "e3064636992a0860dd1bdd14d95fa7b258b8fc60eab85dbc22363da665bf919f",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "CookHub",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

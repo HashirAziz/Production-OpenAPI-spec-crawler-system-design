@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "93fe54de5c46",
+    "source_url": "https://raw.githubusercontent.com/ottemo/commerce/f5425933869445677f40b39a555f99f641992cf0/swagger.json",
+    "fetched_at": "2026-06-17T10:48:42.389534+00:00",
+    "content_hash": "72148a94872bbc3f7f0bbb019436cc105b00e13435945623f999cb23c1cef5f3",
+    "info_version": "1",
+    "status": "new",
+    "title": "Ottemo Commerce API",
+    "openapi_version": "swagger_2",
+    "paths_count": 174,
+    "path_diff": null
+  }
+]

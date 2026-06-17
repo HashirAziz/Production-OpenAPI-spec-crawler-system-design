@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "338bbf443c38",
+    "source_url": "https://raw.githubusercontent.com/team-genny/genny/5b24230c31e9b64fec19433d2538783d27fe2930/openapi.yaml",
+    "fetched_at": "2026-06-17T10:47:18.242423+00:00",
+    "content_hash": "d830a71dbbaa729cfd925865f3a760fbbc62f8d0e197292d84397911322336c7",
+    "info_version": "1.0.11",
+    "status": "new",
+    "title": "genny",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

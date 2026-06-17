@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "79753b7ba369",
+    "source_url": "https://raw.githubusercontent.com/shubhiscoding/Video-management/696e4e4487cabcd49c490fe8e68e03a6224afd42/swagger.yaml",
+    "fetched_at": "2026-06-17T10:48:18.772086+00:00",
+    "content_hash": "7bd2e2b20fce73b9055e57ff30c5da28ababe033f22aa61bdde0f57e04e921b3",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Video Management API",
+    "openapi_version": "swagger_2",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

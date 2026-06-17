@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "762faa0463d3",
+    "source_url": "https://raw.githubusercontent.com/vanyatemno/se-school-2026-frontend/39d91aa42bfc06335100c2019c8195a240c3e4ce/swagger.yaml",
+    "fetched_at": "2026-06-17T10:48:23.444937+00:00",
+    "content_hash": "0a8a2f97f17a0d27dfc830a15f47d8bfecd607f2769a9f1f7956d9085c63d58a",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "GitHub Release Notification API",
+    "openapi_version": "swagger_2",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

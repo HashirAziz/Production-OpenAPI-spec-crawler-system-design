@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9ff7430f5533",
+    "source_url": "https://raw.githubusercontent.com/imposter-dot-com/AUREA---Backend/66cfd54b418bce2a063eea3a9c4961cbbdbcf79b/swagger.yaml",
+    "fetched_at": "2026-06-17T10:48:21.003540+00:00",
+    "content_hash": "11d5183c2da3f2d2180c640cffd96cfcb13a3d9050aeafe69e1ca5b510bd07ee",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "AUREA Portfolio Management API",
+    "openapi_version": "openapi_3",
+    "paths_count": 45,
+    "path_diff": null
+  }
+]

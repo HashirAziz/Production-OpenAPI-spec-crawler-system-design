@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c3eca99abc3f",
+    "source_url": "https://raw.githubusercontent.com/serviceComputing1/api/c929fbd0a7ebba0c2ffd2305515d4d1599494c3b/swagger.yaml",
+    "fetched_at": "2026-06-17T10:48:18.212954+00:00",
+    "content_hash": "172f0fe99c237e729bfc1c9ab9ec65a6a6f7c46a568a50a3c762082e79d08e61",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "SWAPI",
+    "openapi_version": "swagger_2",
+    "paths_count": 18,
+    "path_diff": null
+  }
+]

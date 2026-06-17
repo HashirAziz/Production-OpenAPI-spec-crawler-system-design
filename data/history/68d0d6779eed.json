@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "68d0d6779eed",
+    "source_url": "https://raw.githubusercontent.com/KostyaSm/system_design_task_03/f8df62e14fe21cd4a3a3785d4145e8630994f10f/openapi.yaml",
+    "fetched_at": "2026-06-17T10:47:23.098090+00:00",
+    "content_hash": "05ebabc374b443467ec7abda0c94ecf103d970297aa344a95cb949cfbd512820",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Fitness Tracker API",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

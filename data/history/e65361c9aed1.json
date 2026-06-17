@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e65361c9aed1",
+    "source_url": "https://raw.githubusercontent.com/erwannfady44/MockMookServeur/b1dcac7da745f99d4dfa45dca417f17ba63f0bd5/swagger.yaml",
+    "fetched_at": "2026-06-17T10:48:26.018132+00:00",
+    "content_hash": "88d3eb9e074352061d284d691325c6110717bd246d558a202de3ad664399f732",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Mock Mook",
+    "openapi_version": "swagger_2",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

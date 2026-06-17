@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "050196d62417",
+    "source_url": "https://raw.githubusercontent.com/mevan-karu/book-manager-go/00a46e0344b94186d3f080e53813d4a5828c6c65/openapi.yaml",
+    "fetched_at": "2026-06-17T10:47:15.543895+00:00",
+    "content_hash": "860dc23729540598b553b4e62c491e733168980c9003f8be7e45eb4f6ca47f22",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Book Manager API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

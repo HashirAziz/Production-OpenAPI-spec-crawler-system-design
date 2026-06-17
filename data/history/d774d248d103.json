@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d774d248d103",
+    "source_url": "https://raw.githubusercontent.com/up2dul/esign-web/d99041fd1e72d9a908451cc092af7256537e1cb9/openapi.yaml",
+    "fetched_at": "2026-06-17T10:47:20.352328+00:00",
+    "content_hash": "4916b14d394c350e2fb8a725e29a9fd31c12f9ead2ab2c38b199c12f93f0d087",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "E-Sign API",
+    "openapi_version": "openapi_3",
+    "paths_count": 18,
+    "path_diff": null
+  }
+]

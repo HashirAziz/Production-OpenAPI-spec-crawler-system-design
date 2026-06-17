@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3bf84a11d2e6",
+    "source_url": "https://raw.githubusercontent.com/ScottyLabs/dining-api/024438a80c89a432a324cc8045b5f4d0c3d662a4/swagger.json",
+    "fetched_at": "2026-06-17T10:48:48.343560+00:00",
+    "content_hash": "a056b01814aea30bc67e3c83cfe6ce5e873b5bc09c552a39311f0d147e6b0655",
+    "info_version": "2.4.0",
+    "status": "new",
+    "title": "ScottyLabs Dining API",
+    "openapi_version": "swagger_2",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

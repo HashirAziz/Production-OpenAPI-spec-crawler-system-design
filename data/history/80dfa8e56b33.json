@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "80dfa8e56b33",
+    "source_url": "https://raw.githubusercontent.com/samuel-stjean/OpenAPI_spec/4614a1f0023030e0b5c3f8065e75feda26aeac48/openapi.yaml",
+    "fetched_at": "2026-06-17T10:47:17.156126+00:00",
+    "content_hash": "da7b69016bdf38bab8aa6738896ba3240815dc327b2c538683ccfe6b288ea153",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

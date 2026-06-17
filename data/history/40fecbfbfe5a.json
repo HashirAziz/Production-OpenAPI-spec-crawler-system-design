@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "40fecbfbfe5a",
+    "source_url": "https://raw.githubusercontent.com/sunilrathi88-max/grocerywebsite/ab5c402f40fd432acd0277188dae0682c1c57039/openapi.yaml",
+    "fetched_at": "2026-06-17T10:47:14.312003+00:00",
+    "content_hash": "21c3660c9cb43c38ca8b92377f96f8ce85a8c60f5a205bf7758990b08c3eca16",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "GroceryWebsite API",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

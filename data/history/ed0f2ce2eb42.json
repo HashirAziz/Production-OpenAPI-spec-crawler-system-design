@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ed0f2ce2eb42",
+    "source_url": "https://raw.githubusercontent.com/melodia-grupo11-is2/music-library/2442ee1fa3c13eb0f703639a0478f302c9406934/openapi.yaml",
+    "fetched_at": "2026-06-17T10:47:14.739402+00:00",
+    "content_hash": "a5f7d96e2c6eefc4166b93a694a40e0563737765b0e270183b74b73c53675f9c",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Melodia Music Library API",
+    "openapi_version": "openapi_3",
+    "paths_count": 41,
+    "path_diff": null
+  }
+]

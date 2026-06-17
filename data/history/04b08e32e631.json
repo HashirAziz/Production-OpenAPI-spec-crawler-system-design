@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "04b08e32e631",
+    "source_url": "https://raw.githubusercontent.com/HassanMak29/islamic-toolkit-api/20ee732c2fafeef61784532c300c4d5178351d21/openapi.yaml",
+    "fetched_at": "2026-06-17T10:47:16.117166+00:00",
+    "content_hash": "432b9c8dc073f9640d2f33da319d617bf052599c0697dfb686d69490e76a516f",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Islamic Toolkit API",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

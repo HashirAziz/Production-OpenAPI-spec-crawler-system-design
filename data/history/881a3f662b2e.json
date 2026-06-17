@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "881a3f662b2e",
+    "source_url": "https://raw.githubusercontent.com/RacoonRockett/SiteForFurnitureRental/5303c658679f57535320748ea149b8619ab82cc0/swagger.yaml",
+    "fetched_at": "2026-06-17T10:48:19.949416+00:00",
+    "content_hash": "c88e3411efe2f2daa757f9865adfe1577f6dcf7041564724dcedb90eb7600fe7",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Furniture Rental API",
+    "openapi_version": "swagger_2",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

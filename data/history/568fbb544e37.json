@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "568fbb544e37",
+    "source_url": "https://raw.githubusercontent.com/jdobner/aboutme/5c9174398701f09a7d465f9bea57a6d80743b022/openapi.yaml",
+    "fetched_at": "2026-06-17T10:47:16.360711+00:00",
+    "content_hash": "9a8fd6cf0d8ba808c8a6e5e46b9337dfb550f75a47dea1afc3b5d7b9a31e56ea",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Jerry Dobner Career Datalake Loader",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

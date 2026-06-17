@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "862b7e1132c9",
+    "source_url": "https://raw.githubusercontent.com/Astri4-4/3PROJ_API/42279aa42a6bf766341df8da2e90b38486092b7f/swagger.yaml",
+    "fetched_at": "2026-06-17T10:48:27.937193+00:00",
+    "content_hash": "a0a7c268ba8d9388ac8ad848dd393afb0b3587605e861a93689d1270123b5788",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Supchat",
+    "openapi_version": "openapi_3",
+    "paths_count": 14,
+    "path_diff": null
+  }
+]

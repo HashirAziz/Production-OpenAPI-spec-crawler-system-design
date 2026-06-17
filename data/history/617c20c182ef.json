@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "617c20c182ef",
+    "source_url": "https://raw.githubusercontent.com/imranmd96/backen-docs/a7aa836e1ae249ae71becba7d21360e4b5574e98/swagger.yaml",
+    "fetched_at": "2026-06-17T10:48:17.384558+00:00",
+    "content_hash": "d85854df310118417ab0daf35731375b0f411704832df20e9bee0b16ede51bf6",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "ForkLine API Gateway",
+    "openapi_version": "swagger_2",
+    "paths_count": 12,
+    "path_diff": null
+  }
+]

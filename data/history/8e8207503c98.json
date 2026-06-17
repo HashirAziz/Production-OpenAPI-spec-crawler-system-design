@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8e8207503c98",
+    "source_url": "https://raw.githubusercontent.com/AlexisD09/api_internal_tools_management/ec4bafe71b063fcbece48c73cad49d4b984cd47a/swagger.yaml",
+    "fetched_at": "2026-06-17T10:48:19.373302+00:00",
+    "content_hash": "9637b0f5b957947934f5f29057f533b6c9358e0706cf0200616c09cb707044e7",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Internal Tools API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

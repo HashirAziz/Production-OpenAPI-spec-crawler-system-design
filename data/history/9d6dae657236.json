@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9d6dae657236",
+    "source_url": "https://raw.githubusercontent.com/fernando-fukunaga/fastapi-my-game-library-backend/6afe9e58dc920e88fa14e676636e22e7691ee208/swagger.yaml",
+    "fetched_at": "2026-06-17T10:48:15.625417+00:00",
+    "content_hash": "10a5d67bc60c065fefae06365cf50f2d98d00462ffdc74da15cd3050ce061971",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "FastAPI",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

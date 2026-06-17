@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c686a6045695",
+    "source_url": "https://raw.githubusercontent.com/mohammadamer/da-sp-agents-finder/97b59fe92643cfbf28497153ea4cf630f20885b1/appPackage/apiSpecificationFile/openapi.yaml.original",
+    "fetched_at": "2026-06-17T10:47:23.693265+00:00",
+    "content_hash": "2f99b89f7ed242b6eb21edc1a5e1545163c0d68cad10c3eef95cfa8a4f9a52f0",
+    "info_version": "v1.0",
+    "status": "new",
+    "title": "Search - Subset - Subset",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

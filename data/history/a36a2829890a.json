@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a36a2829890a",
+    "source_url": "https://raw.githubusercontent.com/deus0420/tz22/22af90f5aa3adc5f23f4f4d10fadb35773ddf7a6/swagger.yaml",
+    "fetched_at": "2026-06-17T10:48:17.634331+00:00",
+    "content_hash": "f81cf81368e5417af9c82d64b3551d56164b4880079fc0a569e448ac500f3178",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Book Store API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

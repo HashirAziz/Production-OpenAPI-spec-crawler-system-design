@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ba58179a0bbe",
+    "source_url": "https://raw.githubusercontent.com/akshatpahwa/My-Bank/f1bf07d52206eaa9a7ce2f594deb2d6dd7e049ce/swagger.yaml",
+    "fetched_at": "2026-06-17T10:48:24.248171+00:00",
+    "content_hash": "7f75326f3fa2af0587a974b7cac81862372a99dd0b28cd864bb8ace820587fab",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "MyBank API",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

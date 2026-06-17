@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "99d8b3283099",
+    "source_url": "https://raw.githubusercontent.com/cenadineo4jsquad/backBpmGeo/a5a398f517292fcba79498715c44c2cacb8008d5/swagger.yaml",
+    "fetched_at": "2026-06-17T10:48:15.914828+00:00",
+    "content_hash": "554b176b8dd36989d52aa4c0855d39c154c0edea8ef0215545c02933ebb57e62",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API GeoBpm",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

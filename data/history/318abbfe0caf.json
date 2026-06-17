@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "318abbfe0caf",
+    "source_url": "https://raw.githubusercontent.com/Sandy5688/Swissie-n8n-backend/cd123b84f9e5ceb203c0db3b13824789440454b8/openapi.yaml",
+    "fetched_at": "2026-06-17T10:47:16.638433+00:00",
+    "content_hash": "580fd19fd47d3df064d8e3e4d56b954a9320fac52c8a4454cf0f3f7c62acab4c",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "n8n Backend API",
+    "openapi_version": "openapi_3",
+    "paths_count": 12,
+    "path_diff": null
+  }
+]

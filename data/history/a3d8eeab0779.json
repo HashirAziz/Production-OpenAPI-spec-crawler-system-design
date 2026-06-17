@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a3d8eeab0779",
+    "source_url": "https://raw.githubusercontent.com/roneyrogerio/pipefy-client-management-api/024fc6b7c8bfe25a3d689bf11a64139c13d48a3b/openapi.yaml",
+    "fetched_at": "2026-06-17T10:47:21.396113+00:00",
+    "content_hash": "aaeb484bf3facfe60875a3d98589efcdf94b7180862145f064b94c232c164686",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Pipefy Client Management API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

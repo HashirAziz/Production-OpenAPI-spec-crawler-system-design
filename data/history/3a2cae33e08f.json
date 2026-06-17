@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3a2cae33e08f",
+    "source_url": "https://raw.githubusercontent.com/wookbros/open-law-api-docs/d6c34561b375559e901b7eb102e583e573e26c00/openapi.yaml",
+    "fetched_at": "2026-06-17T10:47:22.521364+00:00",
+    "content_hash": "56cab7350c144c1967f6afca40fb3a2f8d845725d484b47c5246ef7a024bab93",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "법제처 Open API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]
