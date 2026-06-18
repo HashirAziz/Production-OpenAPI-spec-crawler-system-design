@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3a67ac039754",
+    "source_url": "https://raw.githubusercontent.com/RishabhAnand0325/tendor-web/a53ed76874911ba540548b1d74dd26241dbc85e8/frontend/openapi.json.2",
+    "fetched_at": "2026-06-18T10:15:28.649711+00:00",
+    "content_hash": "2f5c7fc060f9aff34f4fb9ee2de32136975dd81eab76f89f3a135cefb660a790",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "RAG Chatbot API",
+    "openapi_version": "openapi_3",
+    "paths_count": 50,
+    "path_diff": null
+  }
+]
