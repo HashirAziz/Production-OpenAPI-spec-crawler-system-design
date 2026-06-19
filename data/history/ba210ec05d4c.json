@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ba210ec05d4c",
+    "source_url": "https://raw.githubusercontent.com/Abhishekdx300/Url-Shortener-Backend/c1f21ce989dc5c5b985c230c827c43616e2a27da/swagger.yaml",
+    "fetched_at": "2026-06-19T10:20:41.259259+00:00",
+    "content_hash": "7b9ef2b838cde1262b616f20427df5a1140bebfe5e501cdc61215598885d80fd",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Url Shortener",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

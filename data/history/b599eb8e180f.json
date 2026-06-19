@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b599eb8e180f",
+    "source_url": "https://raw.githubusercontent.com/OmerBresinski/sarahai-frontend/524f57f203f32859c597fedeb4955509bcc85a83/openapi.yaml",
+    "fetched_at": "2026-06-19T10:19:48.043558+00:00",
+    "content_hash": "0d96c27fae92fa8b569a481f520a4d33dfaf5b28c4de0172cab2b2adb7023f91",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Sarah AI ERP API",
+    "openapi_version": "openapi_3",
+    "paths_count": 16,
+    "path_diff": null
+  }
+]

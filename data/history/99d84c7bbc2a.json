@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "99d84c7bbc2a",
+    "source_url": "https://raw.githubusercontent.com/lexisvar/iloqi_mobile/734f0fdb483d32bd18eebe2f677dae2e1fa5e74a/swagger.yaml",
+    "fetched_at": "2026-06-19T10:20:41.975339+00:00",
+    "content_hash": "cf96bb6fea151a7ce6694bb7f1049ae0bd7e367d6331db8a46c1d6ca220d8c69",
+    "info_version": "1.8.0",
+    "status": "new",
+    "title": "iloqi - English Accent Training API",
+    "openapi_version": "openapi_3",
+    "paths_count": 59,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "15a20e5579ea",
+    "source_url": "https://raw.githubusercontent.com/Monarul007/test-repo/5f24c733e94a63be83f731eea8dd10a791c6e407/openapi.yaml",
+    "fetched_at": "2026-06-19T10:19:49.451829+00:00",
+    "content_hash": "27e0c4a7ef23583e7153ecdb70a054867b9aa8f1313b3f9565d796232835c0c7",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "HireSmart API",
+    "openapi_version": "openapi_3",
+    "paths_count": 12,
+    "path_diff": null
+  }
+]

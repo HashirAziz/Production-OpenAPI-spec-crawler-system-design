@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ff56de411389",
+    "source_url": "https://raw.githubusercontent.com/normanp2pl/librus-proxy/c933ef0ec1f57b543f01206f0e92748a85d9df83/openapi.yaml",
+    "fetched_at": "2026-06-19T10:19:46.354149+00:00",
+    "content_hash": "317e0b0acc5b7f345524ecbd2e864d700674f0ae131e41d3fec001443bdaf8b1",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "Librus Proxy API",
+    "openapi_version": "openapi_3",
+    "paths_count": 15,
+    "path_diff": null
+  }
+]

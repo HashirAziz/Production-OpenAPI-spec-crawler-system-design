@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ea3725f010ce",
+    "source_url": "https://raw.githubusercontent.com/ftrevo/tentacle-backend/fbe691bb601257c1bca582b05acf7bfea7f01b16/swagger.yaml",
+    "fetched_at": "2026-06-19T10:20:46.649461+00:00",
+    "content_hash": "77d91d61af1af8ccf45347323881c7211348e8b1b2f02a76985d36c1e7f85aa0",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "openapi_3",
+    "paths_count": 23,
+    "path_diff": null
+  }
+]

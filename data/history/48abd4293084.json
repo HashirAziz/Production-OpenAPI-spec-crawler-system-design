@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "48abd4293084",
+    "source_url": "https://raw.githubusercontent.com/asseinfo/isaapi-docs/6df3234302518a3da4740e2a4e8c85f21b956fc0/swagger.yaml",
+    "fetched_at": "2026-06-19T10:20:33.246028+00:00",
+    "content_hash": "c92e36643fdce37b67ddddd5dafe7d9ac5ead345d39536c72a7da1ca9d6df0c8",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "ISA-API",
+    "openapi_version": "swagger_2",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

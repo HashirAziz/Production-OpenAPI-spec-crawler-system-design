@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "7fcd8b4f4236",
+    "source_url": "https://raw.githubusercontent.com/hpie/ci4swagger/48431108af7c80e6cbc555431ae728fc9c6d2646/swagger.yaml",
+    "fetched_at": "2026-06-19T10:20:48.493485+00:00",
+    "content_hash": "a784aeb2195d5090005cd2e27d34232ccf937acac25b2c30e06366440095a349",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Swagger Ecommerce",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

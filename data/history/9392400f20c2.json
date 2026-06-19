@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9392400f20c2",
+    "source_url": "https://raw.githubusercontent.com/AghilasSini/automl-api/d1683ccb9b9815b385b41e362334bfd37e7015b4/openapi.yaml",
+    "fetched_at": "2026-06-19T10:19:49.867882+00:00",
+    "content_hash": "d4a936fde5d0cd774b05b3351ddabdc66e73aef68bddf67aba58da06dd296c24",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API comme cadre applicatif du DevOps",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

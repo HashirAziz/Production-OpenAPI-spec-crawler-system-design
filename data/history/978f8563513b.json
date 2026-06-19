@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "978f8563513b",
+    "source_url": "https://raw.githubusercontent.com/kmatsui058/backlog-gantt/512ab5ac3a812ac237ad9a6e570092190d255ce2/openapi.yaml",
+    "fetched_at": "2026-06-19T10:19:47.574808+00:00",
+    "content_hash": "52a8494035e8ed026baabd38f92d6cae714a545b3b1df36698bc0a45914f2722",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "backlog api",
+    "openapi_version": "openapi_3",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

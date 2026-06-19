@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f607cf4a66ca",
+    "source_url": "https://raw.githubusercontent.com/mdantonio-c/nig_repository/39cc0536c13f689c65cd9443cea03155e55915d0/projects/nig/backend/models/swagger.yaml.old",
+    "fetched_at": "2026-06-19T10:20:35.319187+00:00",
+    "content_hash": "ce7c4021f5d002e97d260a324b3902f74f7ecb41df4236097f18d31b83fe61e6",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "unknown",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

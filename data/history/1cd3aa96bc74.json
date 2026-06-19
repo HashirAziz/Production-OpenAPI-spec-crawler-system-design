@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1cd3aa96bc74",
+    "source_url": "https://raw.githubusercontent.com/kiviyi/system_design_lab_4/0fa0eab45b02be0c27f77500e31f92224e420d0e/openapi.yaml",
+    "fetched_at": "2026-06-19T10:19:54.439855+00:00",
+    "content_hash": "f4b8ee724451f5223a0f28ab8979bbb67c50f302ba8f8308df7002fc58092f2a",
+    "info_version": "5.0.0",
+    "status": "new",
+    "title": "Fitness Tracker API",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

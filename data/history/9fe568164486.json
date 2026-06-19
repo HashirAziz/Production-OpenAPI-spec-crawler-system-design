@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9fe568164486",
+    "source_url": "https://raw.githubusercontent.com/SasoTheCreator/projet11/c4960d04eff6a431f5d9456d8881e093d45cbf72/swagger.yaml",
+    "fetched_at": "2026-06-19T10:20:48.920874+00:00",
+    "content_hash": "7398a53915fdf7efb64e53fb56383de82e173708c83607e78869076a801901ca",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Bank Argent API documentation",
+    "openapi_version": "swagger_2",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

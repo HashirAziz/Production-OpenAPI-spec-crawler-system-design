@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "49c40fcc454a",
+    "source_url": "https://raw.githubusercontent.com/dycor/apiCinema/e942ad1d2819a2d660e8c7dca48af07911c04f27/swagger.yaml",
+    "fetched_at": "2026-06-19T10:20:38.861213+00:00",
+    "content_hash": "a5d687c177d46f5a6451d795ec044ce9fea1274c396def1c7ee7398d0f602eb8",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API Cinema",
+    "openapi_version": "swagger_2",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

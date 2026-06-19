@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "cf5f238301c1",
+    "source_url": "https://raw.githubusercontent.com/6161990/swagger-codeGen-MyCustom/40a1f7994a53d92761fea69f9dedccac11c59c2f/openapi.yaml",
+    "fetched_at": "2026-06-19T10:19:52.634045+00:00",
+    "content_hash": "c5d01224ac2879d59a962a77929e89ac655d663867150174d0982d514a39bb4e",
+    "info_version": "0.1.1",
+    "status": "new",
+    "title": "Relay Novelopment API",
+    "openapi_version": "openapi_3",
+    "paths_count": 18,
+    "path_diff": null
+  }
+]

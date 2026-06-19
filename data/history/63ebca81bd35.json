@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "63ebca81bd35",
+    "source_url": "https://raw.githubusercontent.com/SiZhuiYJ/miaomiJSB/f3d33439beeb8bb908b63310d01fa9f85f666fe6/openapi.yaml",
+    "fetched_at": "2026-06-19T10:19:55.512579+00:00",
+    "content_hash": "78c3a6bcf89bd674f708aa9ef9c02c7680cde5bdcf28560c6f4af1582eb7ab8f",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "DailyCheck API",
+    "openapi_version": "openapi_3",
+    "paths_count": 23,
+    "path_diff": null
+  }
+]

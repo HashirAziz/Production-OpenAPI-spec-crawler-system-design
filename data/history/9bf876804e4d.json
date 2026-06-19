@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9bf876804e4d",
+    "source_url": "https://raw.githubusercontent.com/Thatiparthy-Akhil/cricket-cms/2913203deaafe688e296dec733174e7ba8e17c5f/openapi.yaml",
+    "fetched_at": "2026-06-19T10:19:48.828908+00:00",
+    "content_hash": "796545773fd3ce4917e2d07c1a4c579df55e2354ffa16839e40a4cca3ef0ad1e",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Cricket CMS API",
+    "openapi_version": "openapi_3",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

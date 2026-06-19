@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "311f8d4c0397",
+    "source_url": "https://raw.githubusercontent.com/nachofree/cursor-acp-jan-26/6dfdb67b1c4c626aeb6091b9c0bbc5b6ee045f87/openapi.yaml",
+    "fetched_at": "2026-06-19T10:19:54.664669+00:00",
+    "content_hash": "715667a71da995d85f739373fca1b0ae0be646239390d04e4db5dda41c1b0646",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Hotel Booking API",
+    "openapi_version": "openapi_3",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

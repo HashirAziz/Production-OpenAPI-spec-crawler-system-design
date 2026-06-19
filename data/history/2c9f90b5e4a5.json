@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2c9f90b5e4a5",
+    "source_url": "https://raw.githubusercontent.com/fabric8-analytics/fabric8-gemini-server/3eda570454de57c1ae1e779d3f94e969f298984e/swagger.yaml",
+    "fetched_at": "2026-06-19T10:20:46.387450+00:00",
+    "content_hash": "4ac2046fbc5616f47630f60f82023c95a6d71f47ad4e1a4c56ee97cb5e641a84",
+    "info_version": "0.1",
+    "status": "new",
+    "title": "Analytics API for OSIO Gemini",
+    "openapi_version": "swagger_2",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

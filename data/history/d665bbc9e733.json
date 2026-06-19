@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d665bbc9e733",
+    "source_url": "https://raw.githubusercontent.com/bnids09/api-documentation-demo/bea73aa3bdb5f27635b25294d371141b8a4b0f6a/openapi.yaml",
+    "fetched_at": "2026-06-19T10:19:49.678109+00:00",
+    "content_hash": "7abb1cae0a79777588f01ae724da86cc022db7dc833d6c15ec4b9ea1f51b2fa9",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Employee Management API",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ab4d09faf41c",
+    "source_url": "https://raw.githubusercontent.com/worming004/TwelveFactorApp/2fd754748395669fff7b306d382e7fadbc862c34/openapi.yaml",
+    "fetched_at": "2026-06-19T10:19:51.356529+00:00",
+    "content_hash": "f9b017244db447fc54745e3be3c9983c7c92129f17b9f6c1f9669bc3dc70ebca",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "mail sender",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

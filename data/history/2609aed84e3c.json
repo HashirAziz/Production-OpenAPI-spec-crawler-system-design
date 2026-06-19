@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2609aed84e3c",
+    "source_url": "https://raw.githubusercontent.com/MinzNhat/Protected_QR/1a995ccf5d1592fe2157522bce8e0a4cd0f1f86d/swagger.yaml",
+    "fetched_at": "2026-06-19T10:20:34.410065+00:00",
+    "content_hash": "edd663ed175a0882bcbafce1bf1609dea5b6797f9cc2fa8041bf02849e3c850f",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Protected QR Service API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

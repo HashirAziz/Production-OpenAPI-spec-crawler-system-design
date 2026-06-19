@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b59260a72726",
+    "source_url": "https://raw.githubusercontent.com/tupyy/stock/b3f13b518ef2588e0ddf09e8475d3b0756d166a9/swagger.yaml",
+    "fetched_at": "2026-06-19T10:20:47.917713+00:00",
+    "content_hash": "08600fea73db072db9114057bfadf768bff2e9224cbd2d1275ab090ba9aff166",
+    "info_version": "#VERSION#",
+    "status": "new",
+    "title": "stock service",
+    "openapi_version": "swagger_2",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

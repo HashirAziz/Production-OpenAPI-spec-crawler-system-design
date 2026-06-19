@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8ccb5531e3d9",
+    "source_url": "https://raw.githubusercontent.com/intermine/intermine_compose/ff6f4f5829d29173f44119e19784392ac03eb7de/openapi.json",
+    "fetched_at": "2026-06-19T10:20:12.092261+00:00",
+    "content_hash": "ec232974c19b49930184cb2357056757b49636d4552a48504fde93a14585d9a5",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "InterMine-compose prototype spec - working draft",
+    "openapi_version": "openapi_3",
+    "paths_count": 27,
+    "path_diff": null
+  }
+]

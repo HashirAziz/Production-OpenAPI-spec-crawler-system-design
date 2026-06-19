@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "240728fd8696",
+    "source_url": "https://raw.githubusercontent.com/julialeocadio/MythsAndFolklore/93e23e19ba9f181ac7fa2af81939bf278350e594/swagger.yaml",
+    "fetched_at": "2026-06-19T10:20:48.717560+00:00",
+    "content_hash": "9750f13aba15b2772aaa3ad44c749738ee1e1b665ec555b27f685c66596f7f55",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Urban Myth & Folklore API",
+    "openapi_version": "swagger_2",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

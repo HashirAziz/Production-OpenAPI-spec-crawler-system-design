@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6ac42d8c2aaf",
+    "source_url": "https://raw.githubusercontent.com/comi91262/swagger-to-rest/a0306f6272d0cfb6ab831ae59991a79d40d08e06/swagger.yaml",
+    "fetched_at": "2026-06-19T10:20:47.285544+00:00",
+    "content_hash": "4d2b45f03dac0fae8e9ec5aa8c87b64b62f30de1cb03bb5458bb6fc23dc5a1df",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Swagger Petstore",
+    "openapi_version": "swagger_2",
+    "paths_count": 14,
+    "path_diff": null
+  }
+]

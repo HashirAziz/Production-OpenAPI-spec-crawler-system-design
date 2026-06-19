@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2f03fdbdff95",
+    "source_url": "https://raw.githubusercontent.com/AndrewNolte/KalshiPythonClient/b93b431eca9d22f1342e7d7c59d64765ffddfd4d/swagger.json",
+    "fetched_at": "2026-06-19T10:21:02.894864+00:00",
+    "content_hash": "6a692ca56dcfb9dea5776598055f5ddf6f16e313f8bbd4dd237d5e4ec827d0f0",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Kalshi API.",
+    "openapi_version": "openapi_3",
+    "paths_count": 34,
+    "path_diff": null
+  }
+]

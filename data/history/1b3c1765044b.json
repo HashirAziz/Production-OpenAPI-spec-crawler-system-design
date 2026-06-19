@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1b3c1765044b",
+    "source_url": "https://raw.githubusercontent.com/tagview/tagchatter/e49ea574753bc5c74d2af2b729e3ae1decc1c7e2/swagger.json",
+    "fetched_at": "2026-06-19T10:21:00.542587+00:00",
+    "content_hash": "e93e49839828c7c394aa5ec6a7e98e5ba4416ff53d0a429aec21d524a7aac683",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "TagChatter API",
+    "openapi_version": "swagger_2",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

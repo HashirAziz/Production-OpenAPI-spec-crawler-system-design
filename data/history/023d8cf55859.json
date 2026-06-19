@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "023d8cf55859",
+    "source_url": "https://raw.githubusercontent.com/ksope/temp-jobs-api/5b6429f7f98597864fc4cf368b98e02a1ab648cd/swagger.yaml",
+    "fetched_at": "2026-06-19T10:20:40.141782+00:00",
+    "content_hash": "5f1ee6680d23fa6ddf8ae9454e59b56a7ad0572cef4eaf14e837c406d8f69c08",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Jobs API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

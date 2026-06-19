@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4d912ec522a9",
+    "source_url": "https://raw.githubusercontent.com/AndyLocks/QrBook/5c4b897c21fa1ed07dc3f8428f6c39781a33482e/openapi.yaml",
+    "fetched_at": "2026-06-19T10:19:52.395542+00:00",
+    "content_hash": "9927dbb1b7e1905235a56dbb53db7f289a0e198dda780370ab202caace1a4d46",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Qr Book",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

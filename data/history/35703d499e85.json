@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "35703d499e85",
+    "source_url": "https://raw.githubusercontent.com/rakhazufar/cinta-sedekah-app/b60d39edba2312926b428f19eb260c4b7411d5f2/swagger.yaml",
+    "fetched_at": "2026-06-19T10:20:43.055293+00:00",
+    "content_hash": "2f1839adf730fbb5cf7d6cf4e9a11f0bf36a5639919ecd87102f7e101efa0b83",
+    "info_version": "1.1.0",
+    "status": "new",
+    "title": "Cinta Sedekah API",
+    "openapi_version": "openapi_3",
+    "paths_count": 15,
+    "path_diff": null
+  }
+]

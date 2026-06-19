@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2c7b09515e3a",
+    "source_url": "https://raw.githubusercontent.com/c0d3s1ng3r/pipelineGPT/1e69d8852b84e9f39a6c82c948823f15e557c7cb/openapi.yaml",
+    "fetched_at": "2026-06-19T10:19:48.417636+00:00",
+    "content_hash": "48c00256d26c4c30d9f152c15892401a6cef93e140aa1987154c51910bc39202",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "pipedriveGPT API",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

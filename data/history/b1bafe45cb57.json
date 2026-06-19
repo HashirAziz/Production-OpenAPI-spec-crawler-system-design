@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b1bafe45cb57",
+    "source_url": "https://raw.githubusercontent.com/dot-do/graphlake/86596e96a912b7e7ab893c0cb0fece8903073df5/openapi.yaml",
+    "fetched_at": "2026-06-19T10:19:51.162950+00:00",
+    "content_hash": "468404aa1f55fbf1ac47fc36442ecfb84abed12d23f3e7a246ce2f2682aac344",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "GraphLake API",
+    "openapi_version": "openapi_3",
+    "paths_count": 12,
+    "path_diff": null
+  }
+]

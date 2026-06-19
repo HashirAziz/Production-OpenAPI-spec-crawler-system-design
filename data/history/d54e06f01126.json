@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d54e06f01126",
+    "source_url": "https://raw.githubusercontent.com/Xequrt/ai-for-developers-project-386/f991e21e2a331cca5a60d6d2c2419bd3e2d2df33/openapi.yaml",
+    "fetched_at": "2026-06-19T10:19:51.782799+00:00",
+    "content_hash": "2098283cc85cbd8bab692c2dc01705575d9a585679607ef7815fea7f0d87d51d",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Calendar of Calls — Booking API",
+    "openapi_version": "openapi_3",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

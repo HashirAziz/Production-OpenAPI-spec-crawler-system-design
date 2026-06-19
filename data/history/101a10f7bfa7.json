@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "101a10f7bfa7",
+    "source_url": "https://raw.githubusercontent.com/youssefboutaleb/yolov8_fastapi_gradio/9c592d8860a4e770de0e4860fb687d56fa0c8c10/openapi.json",
+    "fetched_at": "2026-06-19T10:20:19.022398+00:00",
+    "content_hash": "f4b24e634a422e8c3327799c8fb27ef6ca7c4a8ba16ee3ed683242d85584a82f",
+    "info_version": "2023.6.1",
+    "status": "new",
+    "title": "Object Detection using YOLOv8 and FastAPI Template",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

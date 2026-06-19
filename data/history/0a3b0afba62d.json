@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0a3b0afba62d",
+    "source_url": "https://raw.githubusercontent.com/EstefaniG-17/P3_32057736/4ff0eb91af078c90949b9e899d39ffcf00578110/swagger.yaml",
+    "fetched_at": "2026-06-19T10:20:39.917579+00:00",
+    "content_hash": "c8ad872ebf9bade75b6ffe6c6c270d689c07ea2785654a8e15bd88b9c690f522",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API de libros de Maze Runner",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

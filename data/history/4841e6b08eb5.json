@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4841e6b08eb5",
+    "source_url": "https://raw.githubusercontent.com/vinnyvinoth/swagger/02dd11d0db6370da7219dbe63e20b1ba4847382d/swagger.yaml",
+    "fetched_at": "2026-06-19T10:20:47.031267+00:00",
+    "content_hash": "4cef19d75078d4c1c2a8d30538c01cf41a6e3c68e72324c0a93234d23f62f08e",
+    "info_version": null,
+    "status": "new",
+    "title": "Classic API Resource Documentation",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "7de418a39535",
+    "source_url": "https://raw.githubusercontent.com/LibreCodeCoop/extract/c4e7cb193eb8dfcaadf3b169eeb5bf5d1d6bc29f/openapi.json",
+    "fetched_at": "2026-06-19T10:20:04.072574+00:00",
+    "content_hash": "b6ae3702035b6596af4fc083126545dcd966c2df74d997adb6a9307e824713ce",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "extract",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2dc3b78d6d19",
+    "source_url": "https://raw.githubusercontent.com/jonahuman/ChatBot/ee60d25c03d46dd24c534309d03878216f48835e/openapi.json",
+    "fetched_at": "2026-06-19T10:20:19.444666+00:00",
+    "content_hash": "69626fdc8ce5e049b019b0fe40e313fbbd9a8c26d51665d9cf2f3ad0e85c071b",
+    "info_version": "3.0.0",
+    "status": "new",
+    "title": "PedidosYa Courier API",
+    "openapi_version": "openapi_3",
+    "paths_count": 14,
+    "path_diff": null
+  }
+]

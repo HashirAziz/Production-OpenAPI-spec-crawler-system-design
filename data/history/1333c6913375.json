@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1333c6913375",
+    "source_url": "https://raw.githubusercontent.com/AayushGithub/thread-count/bc982834633b1ef7eaf2566301de381aa4c3fbb7/swagger.json",
+    "fetched_at": "2026-06-19T10:21:05.062857+00:00",
+    "content_hash": "c2ce87db85bc3137b3bc90fe30510169fd9c5201082e8331d045d0eb4c69463e",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Thread Count API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

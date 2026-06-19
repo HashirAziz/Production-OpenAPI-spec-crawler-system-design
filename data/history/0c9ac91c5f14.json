@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0c9ac91c5f14",
+    "source_url": "https://raw.githubusercontent.com/Crystallized21/spacecase/46183d05ec02f616004a4d51e39a907be7c18ac9/openapi.yaml",
+    "fetched_at": "2026-06-19T10:19:55.271921+00:00",
+    "content_hash": "6d11a913dbb1c2a01359823f4ea2753e60fe5756d2220066cef3ea6c50fecb1f",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "SpaceCase API",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2bd9fb5c7fa0",
+    "source_url": "https://raw.githubusercontent.com/hala3amme/EZY-Skills/dbe304a602423ce38d1c741ce4fbee80a164f352/openapi.yaml",
+    "fetched_at": "2026-06-19T10:19:50.446103+00:00",
+    "content_hash": "2750d5342afe4819d7e2d300bab034047f0312406b2834c609b29963293bec5a",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "EZY Skills API",
+    "openapi_version": "openapi_3",
+    "paths_count": 17,
+    "path_diff": null
+  }
+]

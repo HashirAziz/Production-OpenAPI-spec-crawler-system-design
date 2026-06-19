@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5c45d7487deb",
+    "source_url": "https://raw.githubusercontent.com/mcavalcantedesouza/controle-financeiro-specs/9357afc3a5f10885c364ae74720fc9e3c641e024/openapi.yaml",
+    "fetched_at": "2026-06-19T10:19:53.503765+00:00",
+    "content_hash": "4973749ca995e145d349832f86cbab4b08bf2d36d6a79f421399ed3e71731239",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "Finance Orchestrator API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

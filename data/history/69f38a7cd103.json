@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "69f38a7cd103",
+    "source_url": "https://raw.githubusercontent.com/Mr-kings042/ChasingHorizon/3b7e1cecbb8366ddd16a748e7789d4c43279bf45/swagger.yaml",
+    "fetched_at": "2026-06-19T10:20:30.599895+00:00",
+    "content_hash": "5587f2de52296f99c561d1c33a6b0e29dd11a1a943af49b8b263eb06a519b817",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Users Blog API",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8bba42ce3542",
+    "source_url": "https://raw.githubusercontent.com/Alexsanchez-WP/CRUD-Library-app/65b5db085a1ee26b907bcabad26baebf1113783d/swagger.yaml",
+    "fetched_at": "2026-06-19T10:20:42.397914+00:00",
+    "content_hash": "6129138242d5db3a1dae26a5c759483c6448aebeb47b9c629a71e72e2b00927e",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API de Biblioteca",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]
