@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "bca0fbabef36",
+    "source_url": "https://raw.githubusercontent.com/evan-massol/Restful_API/368060a30e4b0d15c4fecfb2d8e4af463a87112e/openapi.yaml",
+    "fetched_at": "2026-06-20T08:48:30.636659+00:00",
+    "content_hash": "8000bdd1f87d9aec01d8aea50025e0a9afbd1f31baea162e32aa20d86c25c23d",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Library API",
+    "openapi_version": "openapi_3",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

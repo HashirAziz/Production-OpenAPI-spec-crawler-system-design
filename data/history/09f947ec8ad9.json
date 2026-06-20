@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "09f947ec8ad9",
+    "source_url": "https://raw.githubusercontent.com/psenger/CallSage/d297ce53c011cc72c0f837752b231ea444170836/openapi.yaml",
+    "fetched_at": "2026-06-20T08:48:32.800750+00:00",
+    "content_hash": "21d3d254ea8b840ca62acd983a07234bf0fb3e8785bc254496e3adc555f1c9fc",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "CallSage IVR RAG API",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

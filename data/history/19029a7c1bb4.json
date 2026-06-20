@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "19029a7c1bb4",
+    "source_url": "https://raw.githubusercontent.com/Dumopolis/codogeneration/629798e903827aa5b9d23cddcd3b6147b402f711/openapi.yaml",
+    "fetched_at": "2026-06-20T08:48:36.988311+00:00",
+    "content_hash": "d47fd4072c7c05da13839e91a8aba385857b5563f1ed756b9efc2b42e2aa03e6",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Fake server API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

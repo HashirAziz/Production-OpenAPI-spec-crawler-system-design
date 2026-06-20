@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "44a790114651",
+    "source_url": "https://raw.githubusercontent.com/Anuradha-Dubey/restaurant-deals/f2a79fd17a3158a3fb5725c451293cb1a1f82e21/openapi.yaml",
+    "fetched_at": "2026-06-20T08:48:31.465492+00:00",
+    "content_hash": "aa0c0008a87910d7f6cdd63de7990f3186e3f2373dc39b3af216bdf22fbcf3ea",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Restaurant Deals API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

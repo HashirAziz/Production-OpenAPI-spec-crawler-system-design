@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "58f686bb92fa",
+    "source_url": "https://raw.githubusercontent.com/VictoriaMorquio/finko-front/b6314a35a622941bc007b6e5507568fe91bbc821/openapi.yaml",
+    "fetched_at": "2026-06-20T08:48:31.993020+00:00",
+    "content_hash": "01012dac29572c949a540c6f4832ccb9622f2b8b362c5ece91891cb605f825c7",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Finko API",
+    "openapi_version": "openapi_3",
+    "paths_count": 27,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "887f479a2467",
+    "source_url": "https://raw.githubusercontent.com/shashankmotruri/Job-review-API/3ee2b44b851339fd3440c458f32c7145994e8b90/swagger.yaml",
+    "fetched_at": "2026-06-20T08:49:22.370283+00:00",
+    "content_hash": "d7752c6bc4bbdd46e84836fcb1d3047e2aa7f0c0e0bc239da96a024bedf74640",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Aviate Backend task",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

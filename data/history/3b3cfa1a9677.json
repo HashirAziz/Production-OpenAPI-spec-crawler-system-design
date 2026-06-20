@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3b3cfa1a9677",
+    "source_url": "https://raw.githubusercontent.com/tuanha1508/WeatherAPI/4a4fa09296a03b48dab8dcd5c062baa2800e4cd5/openapi.yaml",
+    "fetched_at": "2026-06-20T08:48:35.556449+00:00",
+    "content_hash": "972d49dddcb1f361b0b97e955f9e5c0b68bb05237d6832d6b09c33e3364aa892",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Weather API",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

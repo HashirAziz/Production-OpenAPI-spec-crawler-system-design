@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1ea6c1c67b65",
+    "source_url": "https://raw.githubusercontent.com/anahelena2/case-ana-helena/456adff2660450afcdf7cb65e52df249017d2f62/openapi.yaml",
+    "fetched_at": "2026-06-20T08:48:37.200539+00:00",
+    "content_hash": "ee462e0088f0355beba9bc6885ede132ef145b27ba6a1d0ffb98c4cb8630fc01",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Titanic Survival API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

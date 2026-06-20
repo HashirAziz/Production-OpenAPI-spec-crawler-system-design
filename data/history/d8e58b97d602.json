@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d8e58b97d602",
+    "source_url": "https://raw.githubusercontent.com/rahmanbujangga/datpro/22bbfb63b22ed71b81dc82793fd61ff805a08e6d/openapi.yaml",
+    "fetched_at": "2026-06-20T08:48:33.014905+00:00",
+    "content_hash": "3855e622a7be87c16023611303cf3d1c1f64db9b0c5d6eb429804a578a08a822",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "File Processing API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

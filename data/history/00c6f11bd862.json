@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "00c6f11bd862",
+    "source_url": "https://raw.githubusercontent.com/tarttelin/meal-planner/a78967e0b58b03a6a32cb36e3e37f6d484c51768/openapi.yaml",
+    "fetched_at": "2026-06-20T08:48:37.681916+00:00",
+    "content_hash": "9c0bae939c0f0342d8da3bee411efa59b343e2e91f531cca48662621db6fcaad",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "Meal Planner",
+    "openapi_version": "openapi_3",
+    "paths_count": 45,
+    "path_diff": null
+  }
+]

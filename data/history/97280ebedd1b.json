@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "97280ebedd1b",
+    "source_url": "https://raw.githubusercontent.com/ningenMe/geeq/23a8ff1342f65fb49bce4da243056da14cee4876/openapi.yaml",
+    "fetched_at": "2026-06-20T08:48:30.380651+00:00",
+    "content_hash": "541c8124034bc114b4e683993ae78ab02eb4fb2fbab7ae91f55afa533d4a43dd",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "geeq-api",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

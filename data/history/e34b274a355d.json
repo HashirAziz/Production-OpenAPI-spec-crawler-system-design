@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e34b274a355d",
+    "source_url": "https://raw.githubusercontent.com/isi8787/custodySolution/62a52927c9f5fc2e328e25f76e52eeadb7a387b9/swagger.yaml",
+    "fetched_at": "2026-06-20T08:49:29.773268+00:00",
+    "content_hash": "e7ce4ff37ca589767523b526cfe0d4e7feca531bf2fe6d6e6925aa1c71a843b8",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Defi Client",
+    "openapi_version": "swagger_2",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

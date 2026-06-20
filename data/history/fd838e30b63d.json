@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "fd838e30b63d",
+    "source_url": "https://raw.githubusercontent.com/team-dev-docs/mdx-parse-test-developer-docs/aed624afd28d28600c6a23e651ce15c9eb1a78ca/openapi/frameworks/assets/django/openapi.yaml.txt",
+    "fetched_at": "2026-06-20T08:48:29.506231+00:00",
+    "content_hash": "96447c6a53cd6947f07c9de68bffc51955fac8ef00433ffe6d9445c8ae53d641",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "Books API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "633d58e69ca3",
+    "source_url": "https://raw.githubusercontent.com/Rocer52/microservice_telegram/b19e06c4ec44469f6942bbe32a6ba486176e7168/openapi.yaml",
+    "fetched_at": "2026-06-20T08:48:33.659103+00:00",
+    "content_hash": "0b1cd0c176f644b0fdf877b50d8843da4894e2c8e98df5b43c7f89ff8d9b3485",
+    "info_version": "2.0.2",
+    "status": "new",
+    "title": "IoT and IM Microservices API",
+    "openapi_version": "openapi_3",
+    "paths_count": 15,
+    "path_diff": null
+  }
+]

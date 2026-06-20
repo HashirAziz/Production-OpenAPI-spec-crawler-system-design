@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ee4edc7a1f30",
+    "source_url": "https://raw.githubusercontent.com/FMonitor/CloudDevPack/e2ee1af74bd6c82d0ade992ea25ddd1c80750477/nextcloud/html/core/openapi.json.license",
+    "fetched_at": "2026-06-20T08:48:58.990027+00:00",
+    "content_hash": "6416ca66ccefe57698b161a4c9be57ea22f7cb947872e946eb8fdf3c69311b12",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "unknown",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

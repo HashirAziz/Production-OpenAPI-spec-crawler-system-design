@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6faa3912a42d",
+    "source_url": "https://raw.githubusercontent.com/dougwithseismic/express-api-key-server/09d2ff1f12f0726dbb74d03d31e6af27c86d79f7/openapi.yaml",
+    "fetched_at": "2026-06-20T08:48:33.890956+00:00",
+    "content_hash": "98a1914659d050fc65710a957079a8d5f8981ab3b01fed4a7d4f357f77adf127",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API Key and License Management API",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

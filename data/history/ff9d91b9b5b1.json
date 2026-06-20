@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ff9d91b9b5b1",
+    "source_url": "https://raw.githubusercontent.com/ItemsLabs/clubz-api/e10827e5d8e55c1dfe6fba5a941c8088adf85ad7/swagger.yaml",
+    "fetched_at": "2026-06-20T08:49:19.637089+00:00",
+    "content_hash": "4a2b9b799dd32ddc0ead368a1bcf97158566b2a0d2f8b4157db1c44a09ce118c",
+    "info_version": "1.0.80",
+    "status": "new",
+    "title": "GameOn LIVE API",
+    "openapi_version": "swagger_2",
+    "paths_count": 68,
+    "path_diff": null
+  }
+]

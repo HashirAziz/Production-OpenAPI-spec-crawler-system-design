@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3ddcbe45b5ca",
+    "source_url": "https://raw.githubusercontent.com/Msabbadini/Argent_Bank_FrontEnd-Projet-OpenClassrooms/b52e4f558cb999ed72d58c02337d5719a07347ba/swagger.yaml",
+    "fetched_at": "2026-06-20T08:49:30.915160+00:00",
+    "content_hash": "43cc9af4864991617df4c4107732bb93cea2d66b9910a017c34829c01c7941fb",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Bank Argent API documentation",
+    "openapi_version": "swagger_2",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

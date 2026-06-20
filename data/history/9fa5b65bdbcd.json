@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9fa5b65bdbcd",
+    "source_url": "https://raw.githubusercontent.com/umuterturk/email-verifier/3fc2113a1ef2913db3cd8ad2814899157298ca59/openapi.yaml",
+    "fetched_at": "2026-06-20T08:48:19.784164+00:00",
+    "content_hash": "044aef103235647dc02e5d0d4848637d2b4344ac0189c2f541d9230011eb0d2d",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Email Validator API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

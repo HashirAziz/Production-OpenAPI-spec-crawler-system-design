@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d0e61000d607",
+    "source_url": "https://raw.githubusercontent.com/helyaKi/OpenAPI_Odevi/97f56bf96761c22077215c54260577a587a4e8be/openapi.yaml",
+    "fetched_at": "2026-06-20T08:48:30.847627+00:00",
+    "content_hash": "3c453321b728287a3f2a2cc03c1932bff520e4dd28d027a46440c8625093307c",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "University Online Library API",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

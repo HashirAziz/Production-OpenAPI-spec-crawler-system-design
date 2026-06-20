@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f6a111b8454e",
+    "source_url": "https://raw.githubusercontent.com/jersonjarvin/card-tokenization/7e2c5d65d4a0bf0ccf608576fc5564123edc81fe/swagger.yaml",
+    "fetched_at": "2026-06-20T08:49:16.500231+00:00",
+    "content_hash": "e1fba2459291e658664581a740a341e8613947de4752cb1f76183c94d4f2a676",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Tokenización de tarjetas",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

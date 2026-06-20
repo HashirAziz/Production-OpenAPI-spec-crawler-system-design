@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "238d8a8ec744",
+    "source_url": "https://raw.githubusercontent.com/charlesadamasceno/api-first-contacts/ea57e4dcb925c791abea345d2cee4747d18d6c2f/swagger.yaml",
+    "fetched_at": "2026-06-20T08:49:25.055595+00:00",
+    "content_hash": "9d5a025298a75d57322e82af69e475c836d867265e2720b994afdd6e14ed9774",
+    "info_version": "1.0.0-oas3",
+    "status": "new",
+    "title": "API de Contatos",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

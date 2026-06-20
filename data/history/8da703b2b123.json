@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8da703b2b123",
+    "source_url": "https://raw.githubusercontent.com/s04/logistics-mock-api/02944e31dfec8df24ec6c9b04f8f9a68129dc1d8/openapi.yaml",
+    "fetched_at": "2026-06-20T08:48:34.315278+00:00",
+    "content_hash": "1a5a2683f799aa58e7a188c09cd2abae54f8a091dbff6a836de54662d125482f",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Items and Orders API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

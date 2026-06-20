@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2ac66ba44c02",
+    "source_url": "https://raw.githubusercontent.com/abdelkouddousalami/FX-dealss/427897b5f6434487928d7b101ed0381ef9be9109/openapi.yaml",
+    "fetched_at": "2026-06-20T08:48:28.046322+00:00",
+    "content_hash": "c3eb0cfd5e7a11223344e6622402fb6f5ba7bbcfa5db4c43bb6fbc68639702dc",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "FX Deals Data Warehouse API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

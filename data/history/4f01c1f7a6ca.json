@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4f01c1f7a6ca",
+    "source_url": "https://raw.githubusercontent.com/rizky-bagus/test/aeb9c2e20490da8eeaa82a52bdb0740cfcf4e433/swagger.yaml",
+    "fetched_at": "2026-06-20T08:49:29.553963+00:00",
+    "content_hash": "a123c6f61cb20e7dd66d737c7e9add7069c31217e425b10f5b8ef80811df67d2",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "G-point",
+    "openapi_version": "swagger_2",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

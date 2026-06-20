@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6b197a20f5dd",
+    "source_url": "https://raw.githubusercontent.com/VincentiusFarenden/reparafacil-api/df80126716e6176d4cc38bb91c518ef0b25d8bbc/openapi.yaml",
+    "fetched_at": "2026-06-20T08:48:36.765923+00:00",
+    "content_hash": "7924dc8497519087be69b8571e0be83203f7413f87fa5e1be4faf78e3aac5253",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "reparafacil API",
+    "openapi_version": "openapi_3",
+    "paths_count": 20,
+    "path_diff": null
+  }
+]

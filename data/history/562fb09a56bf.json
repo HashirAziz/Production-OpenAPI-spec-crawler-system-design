@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "562fb09a56bf",
+    "source_url": "https://raw.githubusercontent.com/ShalkiWenushika/linter-service/2054c57c2390a29d262ea7aafed6fd0293e512e5/openapi.yaml",
+    "fetched_at": "2026-06-20T08:48:35.333816+00:00",
+    "content_hash": "2c5b124a7039a5a060a941e3d91c10ca691437ac9c5086cfd7a7a0571976ea63",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Spectral Linting API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]
