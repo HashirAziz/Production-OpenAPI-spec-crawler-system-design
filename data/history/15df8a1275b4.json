@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "15df8a1275b4",
+    "source_url": "https://raw.githubusercontent.com/antonme/openapi-dsl/053cca3ce8b3f1fbd03ed72c03d7f40918a45af9/openapi.yaml",
+    "fetched_at": "2026-06-21T09:43:31.684059+00:00",
+    "content_hash": "fdf8278e7974d51f04975246237803d2bbbea786b70ae88349c814602fbe79ad",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Dictionary API",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "49eb525ff2d7",
+    "source_url": "https://raw.githubusercontent.com/LoicTrehin/candidateLoicTrehinBlueShip236/e2d89c5dc0cc3fe420048eb0a02878b85b4c84fc/openapi.yaml",
+    "fetched_at": "2026-06-21T09:43:30.918500+00:00",
+    "content_hash": "e250bf0e2174095aad30211254d86aae04a802c0d825d41e3d4a57bf3bf31176",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "LockStream API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

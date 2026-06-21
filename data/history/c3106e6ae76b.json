@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c3106e6ae76b",
+    "source_url": "https://raw.githubusercontent.com/alendavies/turnero-api/771925bb29aaf0580da728dd8a5a059b9a8bd127/openapi.yaml",
+    "fetched_at": "2026-06-21T09:43:33.108078+00:00",
+    "content_hash": "71c1c5197a4c767f9e571256138875a4d034f74b4c44c37b00c586dcdc7d3e3a",
+    "info_version": "0.18.1",
+    "status": "new",
+    "title": "Negro API",
+    "openapi_version": "openapi_3",
+    "paths_count": 22,
+    "path_diff": null
+  }
+]

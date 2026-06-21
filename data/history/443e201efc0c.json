@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "443e201efc0c",
+    "source_url": "https://raw.githubusercontent.com/BeraTrax/beratrax-backend/bedc880d61b8106a81df86ec02b5b37bc127da15/swagger.yaml",
+    "fetched_at": "2026-06-21T09:44:29.885555+00:00",
+    "content_hash": "4d467ec4e19c2f9f4c9a9ee4f53ac5a15944effb075ccb00f7cb51f19519a8ec",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "unknown",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

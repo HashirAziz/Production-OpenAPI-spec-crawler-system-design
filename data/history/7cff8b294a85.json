@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "7cff8b294a85",
+    "source_url": "https://raw.githubusercontent.com/NatLibFi/Skosmos/a598dbd23899778368ea800e46de30696db7f12c/swagger.json",
+    "fetched_at": "2026-06-21T09:44:43.713185+00:00",
+    "content_hash": "1ad5811c7a3eeed2323620f0a43600313fa1aafc07b6aa9b830978cab5973add",
+    "info_version": "v1",
+    "status": "new",
+    "title": "Skosmos API",
+    "openapi_version": "swagger_2",
+    "paths_count": 28,
+    "path_diff": null
+  }
+]

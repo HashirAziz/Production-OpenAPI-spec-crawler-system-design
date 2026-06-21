@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "583d5f3206a6",
+    "source_url": "https://raw.githubusercontent.com/cryptodool/seafood-gpt-api/006cadfff5b697655b9975cec674b97a79c82545/openapi.yaml",
+    "fetched_at": "2026-06-21T09:43:35.154533+00:00",
+    "content_hash": "d137474cb8cebb1dae2e4a2f3264995fc1d06127755c74832f05951f66662e09",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Vector Store API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

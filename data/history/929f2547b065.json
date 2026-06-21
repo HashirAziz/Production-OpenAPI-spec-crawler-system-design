@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "929f2547b065",
+    "source_url": "https://raw.githubusercontent.com/posulka50/github-notifier/8c8983e9b096c4f77695018b6d478a9726f3f6e0/swagger.yaml",
+    "fetched_at": "2026-06-21T09:44:17.828103+00:00",
+    "content_hash": "5cefad56152a5eb56b45610371c0a8193888a854f71b8b3b282e8213eff26227",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "GitHub Release Notification API",
+    "openapi_version": "swagger_2",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f204ba998695",
+    "source_url": "https://raw.githubusercontent.com/HAFIDJR/challange-chapter5-binar/01b03e4279ee19427a4e8f778cf42ed7bc3da0f7/swagger.yaml",
+    "fetched_at": "2026-06-21T09:44:25.052326+00:00",
+    "content_hash": "306c597d08b0f35edd6d684a649a4807c9bfc6f27b9ab0030620dc3bff20ae4e",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Bank System Binar",
+    "openapi_version": "openapi_3",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "fa94e49ab768",
+    "source_url": "https://raw.githubusercontent.com/Diego-Vega04/ProyectoFinal/418deaf4190fe8585ca0447e1382202a9cf43c94/swagger.yaml",
+    "fetched_at": "2026-06-21T09:44:21.975444+00:00",
+    "content_hash": "9fa4a2f64df3787ee36971cc4e1470f447ffc98f0bcf474d54c5468bfed67301",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API Documentation Eviden components",
+    "openapi_version": "openapi_3",
+    "paths_count": 25,
+    "path_diff": null
+  }
+]

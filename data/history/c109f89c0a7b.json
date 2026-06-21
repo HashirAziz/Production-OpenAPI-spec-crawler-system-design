@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c109f89c0a7b",
+    "source_url": "https://raw.githubusercontent.com/HugoAHerrera/Choconautas/96572d125b5ac91917ee5c694568e1e244ae280e/openapi.yaml",
+    "fetched_at": "2026-06-21T09:43:26.096257+00:00",
+    "content_hash": "d8e11114c13e2dbc0ffbc9d0c3f6e0daf2f57e04018ab42ed541888e2b41c99c",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API REST para Sistema de Noticias",
+    "openapi_version": "openapi_3",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

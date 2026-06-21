@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ede99724cf99",
+    "source_url": "https://raw.githubusercontent.com/Itoy70/loanstreet-backend/d945a6619716d9bebc43f6ff197c223637d032fc/swagger.yaml",
+    "fetched_at": "2026-06-21T09:44:24.571786+00:00",
+    "content_hash": "f05397e69e6a29dfffa85396c842ddd4a62083f19c2540b7f15b931e23aa7b9c",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "LoanStreet Backend API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

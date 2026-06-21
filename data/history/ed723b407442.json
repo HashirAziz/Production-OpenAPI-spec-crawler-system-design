@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ed723b407442",
+    "source_url": "https://raw.githubusercontent.com/bkhablenko/pizza-toppings/931dbe91c132dc0b83d1bf3b962ca749407b4cab/openapi.yaml",
+    "fetched_at": "2026-06-21T09:43:26.303793+00:00",
+    "content_hash": "58080fa91bf4a3497fa25a7e22cd6bcf707fb993396a74ce29d792b7431efcc9",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "pizza-toppings",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

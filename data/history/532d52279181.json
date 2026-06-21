@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "532d52279181",
+    "source_url": "https://raw.githubusercontent.com/kentaro/chatwp/366e37916de5702378ae32d77d177e6db7e75c3b/openapi.yaml",
+    "fetched_at": "2026-06-21T09:43:21.795929+00:00",
+    "content_hash": "7c7446586e7e35cb0b01000904cb681ed1c64d1f754db802abecef76887e23a0",
+    "info_version": "v1",
+    "status": "new",
+    "title": "ChatWP Plugin",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

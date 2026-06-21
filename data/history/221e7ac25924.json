@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "221e7ac25924",
+    "source_url": "https://raw.githubusercontent.com/HUSST-de/ABT-Ticketspeicher-Schnittstelle/75eb2526ea0bceef4d5a291d0c32e16ad958b5d4/openapi.yaml",
+    "fetched_at": "2026-06-21T09:43:28.197001+00:00",
+    "content_hash": "a66b437f0ba1f0208b70b5a0edd1639fdae862d3a5dc17d3b8f060436fb59eee",
+    "info_version": "1.0.1",
+    "status": "new",
+    "title": "HUSST Tickethub API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

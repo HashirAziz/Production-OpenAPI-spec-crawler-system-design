@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "862a41482030",
+    "source_url": "https://raw.githubusercontent.com/TomTucka/go-circleci-v2/532ae1a80ddb233b4197dd1f15b10bdc0ccf06e4/swagger.yaml",
+    "fetched_at": "2026-06-21T09:44:29.250745+00:00",
+    "content_hash": "88001369968c652082e157ab9b5b5efd96dd74e112aa612712d2b0bb79071d7f",
+    "info_version": "v2",
+    "status": "new",
+    "title": "CircleCI API",
+    "openapi_version": "openapi_3",
+    "paths_count": 28,
+    "path_diff": null
+  }
+]

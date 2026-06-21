@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c5b2a3ab07d9",
+    "source_url": "https://raw.githubusercontent.com/sonkiee/de-matrix-server/a6a7e1ef0cfd9d484988da9fcbf9a739777c1639/openapi.yaml",
+    "fetched_at": "2026-06-21T09:43:30.023589+00:00",
+    "content_hash": "8a2671bb5a7a5547784dfc363c3c50ab41cb95645f134819426f507a4f9ff2aa",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Ehhh API",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

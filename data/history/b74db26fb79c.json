@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b74db26fb79c",
+    "source_url": "https://raw.githubusercontent.com/NENA911/route-policy/6d62cec3f9bfc34d07f908cec1d43ff2f6130b10/openapi.yaml",
+    "fetched_at": "2026-06-21T09:43:33.331591+00:00",
+    "content_hash": "8e4dc0f46585f382d68dcee325f30d7fd502e9f4ff79633fe825fdc5684a38b0",
+    "info_version": "3.0.3",
+    "status": "new",
+    "title": "Route Policy",
+    "openapi_version": "openapi_3",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

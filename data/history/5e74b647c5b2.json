@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5e74b647c5b2",
+    "source_url": "https://raw.githubusercontent.com/zoriya/Aeris/25b039f8d618e8bfb019ad4d68d8f46875292ef2/swagger.yaml",
+    "fetched_at": "2026-06-21T09:44:27.475499+00:00",
+    "content_hash": "f98d01e4905377799408d76594d0dd423ea9eaf60668d03c302ad8491d3e3646",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Swagger Aeris",
+    "openapi_version": "swagger_2",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

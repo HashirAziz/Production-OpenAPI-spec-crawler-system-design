@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c077bb568984",
+    "source_url": "https://raw.githubusercontent.com/genokamura/superpayment/238f594a440b722429d75af8072544dff00280ee/openapi.yaml",
+    "fetched_at": "2026-06-21T09:43:34.942248+00:00",
+    "content_hash": "a504981b50a645948bb9f43b7ab6becedc2a2f4858db88f1ae40b4d5dc6bbff9",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Payment API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

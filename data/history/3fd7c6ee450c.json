@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3fd7c6ee450c",
+    "source_url": "https://raw.githubusercontent.com/bliakher/webcrawler/855548df95e314e87e6ab491e8048a80bc0ec915/openapi.yaml",
+    "fetched_at": "2026-06-21T09:43:32.857502+00:00",
+    "content_hash": "c39ba91005fbc97a972995e210308f58b721890c320f9e4dcded9c4fca43f1ab",
+    "info_version": "1.0.1-oas3",
+    "status": "new",
+    "title": "WebCrawler",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

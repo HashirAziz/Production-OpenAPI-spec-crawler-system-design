@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1110d15b5604",
+    "source_url": "https://raw.githubusercontent.com/ferdinand-sondeck/jurassic/bdbe76a070385972ab522d9fb5520749fe2ff550/swagger.yaml",
+    "fetched_at": "2026-06-21T09:44:21.091363+00:00",
+    "content_hash": "92d7a361c06ef7d83af2d005422f58ba0bd61cec167fdd1017d19204bc14e143",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Jurassic Park - Incident Tracker API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

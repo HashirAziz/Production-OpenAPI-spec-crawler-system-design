@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0f3a73acd424",
+    "source_url": "https://raw.githubusercontent.com/assemabudeif/Awlad_Elewa_Backend/695bf5c05a4821e71d7949041ce46a065b78ebc9/openapi.yaml",
+    "fetched_at": "2026-06-21T09:43:32.236309+00:00",
+    "content_hash": "37befc1e55d0309c786329d9b10774bf3ea2da7ebe202f288fd2c307552e11b7",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Awlad Elewa API Documentation",
+    "openapi_version": "openapi_3",
+    "paths_count": 27,
+    "path_diff": null
+  }
+]

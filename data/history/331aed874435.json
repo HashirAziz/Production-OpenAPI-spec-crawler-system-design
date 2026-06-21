@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "331aed874435",
+    "source_url": "https://raw.githubusercontent.com/SergeyFM/comp_reg_api/3c5c7fa9d8f3777299ae9c9490024a1eac21fbe3/openapi.yaml",
+    "fetched_at": "2026-06-21T09:43:31.352360+00:00",
+    "content_hash": "234257bf0c764951c8b0e7d6346106da5a2df5e8ed98f0935b2f88233f877957",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "Company Registry API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c9e8900caa08",
+    "source_url": "https://raw.githubusercontent.com/shanakama/ghp/295b11faba5d67ef1ad4ae3f5ab0814d7640559f/swagger.yaml",
+    "fetched_at": "2026-06-21T09:44:25.492702+00:00",
+    "content_hash": "1e70bb7719207dc12d782cf1df8f0969c24acdcfc87d84498f995e16ece72eb0",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Swagger Petstore - OpenAPI 3.0 --- fg",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8370eb4e15d0",
+    "source_url": "https://raw.githubusercontent.com/eManageCRM/CRM-Documentation/f493c54f9a30d28d89ed8051eb338c1b0028934a/swagger.yaml",
+    "fetched_at": "2026-06-21T09:44:16.430470+00:00",
+    "content_hash": "503912a99fba9deedc10505de6196860f4155d677c6fcdbad3bc1e8fbe12b703",
+    "info_version": "v1",
+    "status": "new",
+    "title": "Emanage CRM",
+    "openapi_version": "swagger_2",
+    "paths_count": 29,
+    "path_diff": null
+  }
+]

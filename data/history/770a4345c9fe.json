@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "770a4345c9fe",
+    "source_url": "https://raw.githubusercontent.com/indranil786/doggyDb/d1f85f2b20a51d7988a9135f325b1ea99a30da68/swagger.yaml",
+    "fetched_at": "2026-06-21T09:44:21.297533+00:00",
+    "content_hash": "86d0385650a019c73aad28ac4152690ac29cdac64266874b980df20b505c1c15",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Dog Api",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

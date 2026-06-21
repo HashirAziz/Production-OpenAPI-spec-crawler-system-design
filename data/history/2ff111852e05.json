@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2ff111852e05",
+    "source_url": "https://raw.githubusercontent.com/Rcmade/vote-for-move-37-productions/2b28324235bb1363e86bb469d9163145e7d8feda/openapi.yaml",
+    "fetched_at": "2026-06-21T09:43:32.465774+00:00",
+    "content_hash": "fad814edc34cbab71d258af6026f0c0806790f3f8a12270f5aeb2c1adeb9e5b2",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Move37 Real-time Polls API",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]
