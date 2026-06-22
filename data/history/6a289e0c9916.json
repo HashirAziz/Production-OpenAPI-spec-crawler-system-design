@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6a289e0c9916",
+    "source_url": "https://raw.githubusercontent.com/JLex11/anime-scrapper/05acb98b1628a3a9cb8d749e61810f7e4167dc3e/openapi.yaml",
+    "fetched_at": "2026-06-22T11:45:00.877379+00:00",
+    "content_hash": "484bdf727ead81baf1c0c3ee04eb09501e63d77bce5f15ca35c3a345b780f168",
+    "info_version": "2.0.0",
+    "status": "new",
+    "title": "Anime Scrapper API",
+    "openapi_version": "openapi_3",
+    "paths_count": 13,
+    "path_diff": null
+  }
+]

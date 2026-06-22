@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "680425dacf07",
+    "source_url": "https://raw.githubusercontent.com/FelixEugenio/salon-backend/dcfab54f7d40aca8295d7ba099052bfe208f4734/swagger.yaml",
+    "fetched_at": "2026-06-22T11:45:59.315781+00:00",
+    "content_hash": "be48cb58d3e0a853fef49f7ef39e43a74230b63881fa5ba5c27e9533d6eb4ff1",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API para agendamentos de serviços",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

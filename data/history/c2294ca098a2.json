@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c2294ca098a2",
+    "source_url": "https://raw.githubusercontent.com/mainmethod/scene_api/17a267c3b24390b9a84ad68b9a5224db66bb065a/swagger.yaml",
+    "fetched_at": "2026-06-22T11:45:48.613560+00:00",
+    "content_hash": "9ca0744dca2e1c0ca90b9b7ec4fb2de20398f7b636b45ef64b58b7b4073ea9d5",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "Swagger Scene Api - OpenAPI 3.0",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

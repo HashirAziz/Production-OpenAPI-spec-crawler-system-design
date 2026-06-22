@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1dfbc5658ac4",
+    "source_url": "https://raw.githubusercontent.com/lavafern/basic-banking-system2/c0d566c09b2d2266883e324bf01b1195d4af124f/swagger.yaml",
+    "fetched_at": "2026-06-22T11:45:57.874855+00:00",
+    "content_hash": "3562ed03a96a2ace3c95fef9b312ed44fbcbb588cd8b6afc43b3ee1894be931b",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Basic banking system",
+    "openapi_version": "openapi_3",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

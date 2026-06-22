@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a742e37979a6",
+    "source_url": "https://raw.githubusercontent.com/juliardimegah/swagger/273976377ffb1feb1764ad3d2061ca9cb71db6c5/openapi.yaml",
+    "fetched_at": "2026-06-22T11:45:04.709065+00:00",
+    "content_hash": "8ff2ddd14b53ac3209b4a2953226e947454a8454a9366e4c9ffc8e966f898e56",
+    "info_version": "1.0.11",
+    "status": "new",
+    "title": "DOKUMEN API GIS MEGAH JULIARDI - OpenAPI 3.0",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

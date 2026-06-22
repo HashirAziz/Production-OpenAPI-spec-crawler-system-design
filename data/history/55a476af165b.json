@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "55a476af165b",
+    "source_url": "https://raw.githubusercontent.com/janwilmake/with-mcp/50cd7ce873b4524bbf1f251b2710774b0c21efe5/openapi.json",
+    "fetched_at": "2026-06-22T11:45:18.256634+00:00",
+    "content_hash": "9cfa65f2e83aa615d499f70396b5d9f31f64980fb6e1b898aaddb8fa28eae08d",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "unknown",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

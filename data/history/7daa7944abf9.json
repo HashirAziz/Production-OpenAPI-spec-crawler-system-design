@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "7daa7944abf9",
+    "source_url": "https://raw.githubusercontent.com/DuckyP/agrisense-backend/ccebb3efd7c2a698dfc1c784152807d3159e9683/swagger.yaml",
+    "fetched_at": "2026-06-22T11:45:58.643906+00:00",
+    "content_hash": "3f46764e5398f34c0de4515f01e401da807b926012c6e0e88bc2412978670aae",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Farm Management API",
+    "openapi_version": "openapi_3",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

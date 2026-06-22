@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6755352a01ea",
+    "source_url": "https://raw.githubusercontent.com/flaviagarb/practice-adv-backend/a0669c04ef7e0b8acc806320538c7b408b0cf625/swagger.yaml",
+    "fetched_at": "2026-06-22T11:45:47.737150+00:00",
+    "content_hash": "e2a8db3e025568be96a1f73eba15da982bf53efd1b3ec83338e7d24461839950",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Nodepop API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

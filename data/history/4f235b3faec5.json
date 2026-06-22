@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4f235b3faec5",
+    "source_url": "https://raw.githubusercontent.com/Hareendran7/fastapi-restapi-sample/117a469aaed093f3a6103d9ac8dd8ac4dac2a462/openapi.yaml",
+    "fetched_at": "2026-06-22T11:45:05.247384+00:00",
+    "content_hash": "590982edc1478f96ec1742d714ce900b3f05add1968ba11c2e4c81e0f1e7a5db",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "FastAPI",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

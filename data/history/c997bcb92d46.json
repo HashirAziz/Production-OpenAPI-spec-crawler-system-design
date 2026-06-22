@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c997bcb92d46",
+    "source_url": "https://raw.githubusercontent.com/DressPD/Hyver_SDK/11df1e6f15bac83ac698d08cdd1ce552583e1496/openapi.yaml",
+    "fetched_at": "2026-06-22T11:44:57.619295+00:00",
+    "content_hash": "88eed969750d9178e41ddc5dea2665299a606375d849d489deb8670d5e3fad5c",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "Hermes Runtime API",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

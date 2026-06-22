@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a3114f738981",
+    "source_url": "https://raw.githubusercontent.com/LeTonVinh/socialPage-Backend/5399fe915bd4c4f5fc26ef52e79107ea5948d246/swagger.yaml",
+    "fetched_at": "2026-06-22T11:45:58.442236+00:00",
+    "content_hash": "cb6f58965553161f04ecff31aedbbf8f2cc3056190be9dae296042c65e036f84",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Page Social API",
+    "openapi_version": "openapi_3",
+    "paths_count": 26,
+    "path_diff": null
+  }
+]

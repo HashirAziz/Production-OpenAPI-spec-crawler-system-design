@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5e376139ba62",
+    "source_url": "https://raw.githubusercontent.com/Ayomipo18/crustA/89033c0af1993afd5ce82726661f164786f7acc8/swagger.yaml",
+    "fetched_at": "2026-06-22T11:45:44.497060+00:00",
+    "content_hash": "017e349a61236481beb8b7145c2818e6b4b0fafeb17aeb0d0d103b41512d94f5",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "unknown",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

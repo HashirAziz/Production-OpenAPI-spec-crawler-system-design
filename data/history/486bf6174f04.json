@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "486bf6174f04",
+    "source_url": "https://raw.githubusercontent.com/ravitejapanjala8/hackathon/9f8909d8604cd16205a2af3d3e7e893aa8efa393/swagger.yaml",
+    "fetched_at": "2026-06-22T11:45:49.782389+00:00",
+    "content_hash": "f609d4aba79562e36700a4de993a83881d36789cca5a46b339cb29372262743a",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Sample API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9d15c24041c7",
+    "source_url": "https://raw.githubusercontent.com/lioclaudio/siroko/07e36c2ae2f3767a009e92703deb5048fe010b55/openapi.yaml",
+    "fetched_at": "2026-06-22T11:45:01.524555+00:00",
+    "content_hash": "425d088f12bd499511ac595ddc588060f51bd59c068b5bdd4c488bcd413294e6",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Siroko Semantic Discovery Engine",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

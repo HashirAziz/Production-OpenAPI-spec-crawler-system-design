@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e147b53f1a27",
+    "source_url": "https://raw.githubusercontent.com/CesarTokai/New-era-mbrl/53cb7f706184d3a959fa6456af3998493a18d22b/openapi.yaml",
+    "fetched_at": "2026-06-22T11:45:02.675857+00:00",
+    "content_hash": "436f4e5cc7ace5f7d764808081b9976d1d4808e80966b8ed8ed1e557515b076f",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "MBRL - Autenticación API",
+    "openapi_version": "openapi_3",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

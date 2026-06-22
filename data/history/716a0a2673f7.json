@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "716a0a2673f7",
+    "source_url": "https://raw.githubusercontent.com/MiniCodeLab/server-instacode/f52a4844d919f4ef354d64b98f436d85cf0b6f5f/swagger.yaml",
+    "fetched_at": "2026-06-22T11:45:41.029742+00:00",
+    "content_hash": "5237fbce18d84bae02b2f6229092ea24e94b294cf265431769120a18bff68ef9",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "InstaCode API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

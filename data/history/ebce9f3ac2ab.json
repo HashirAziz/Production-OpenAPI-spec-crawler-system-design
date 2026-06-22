@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ebce9f3ac2ab",
+    "source_url": "https://raw.githubusercontent.com/ashrash/oslashclone/b377ceb8e155ab09f204a7b160ec1f56cb21ef66/swagger.yaml",
+    "fetched_at": "2026-06-22T11:45:42.009052+00:00",
+    "content_hash": "7a433efd1683ecbbedf5044affa1c88a14705324d0968ac8271779a9dbc3d183",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "unknown",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

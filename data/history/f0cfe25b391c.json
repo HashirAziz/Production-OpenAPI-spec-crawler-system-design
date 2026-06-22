@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f0cfe25b391c",
+    "source_url": "https://raw.githubusercontent.com/DevExzh/golang-microservice-scaffold/69b63394e0029cda60ad769680ce2b7f05d507fc/openapi.yaml",
+    "fetched_at": "2026-06-22T11:44:56.939742+00:00",
+    "content_hash": "faefedf3cf0e8dce8ef6a9c56bc1fbc2737f24992dfcbb89b0bdffc317e57b85",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "User Management Service",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

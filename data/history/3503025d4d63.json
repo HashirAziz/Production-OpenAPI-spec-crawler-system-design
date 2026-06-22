@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3503025d4d63",
+    "source_url": "https://raw.githubusercontent.com/candil-data-fabric/data-catalog-service/2cee51ce033d844d39da530e79c6cdfad4673e82/openapi.json",
+    "fetched_at": "2026-06-22T11:45:31.875380+00:00",
+    "content_hash": "216529d5584f4a1f9e9f28eb46f7701db85311ecb7f61122c402a946ec12b791",
+    "info_version": "1.4.0",
+    "status": "new",
+    "title": "Data Catalog Service - REST API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

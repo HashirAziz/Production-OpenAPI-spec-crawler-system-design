@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "dd854f99e250",
+    "source_url": "https://raw.githubusercontent.com/tranquildata/enterprise-api/0f655d7f9011f30517df79afc875889f1648cd01/swagger.yaml",
+    "fetched_at": "2026-06-22T11:45:42.989561+00:00",
+    "content_hash": "3ec268221f16e082f0279b66d37cae76ee7b8b69aa17f6681cd8c3fff3090012",
+    "info_version": "1.0.1",
+    "status": "new",
+    "title": "Tranquil Data (TM) Enterprise Edition APIs",
+    "openapi_version": "openapi_3",
+    "paths_count": 15,
+    "path_diff": null
+  }
+]

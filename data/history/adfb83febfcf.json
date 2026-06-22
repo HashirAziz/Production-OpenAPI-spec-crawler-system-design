@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "adfb83febfcf",
+    "source_url": "https://raw.githubusercontent.com/qprodn/quest-admin/efdbb5f82b8830dfefe5f810408ea6fd601e3a57/openapi.yaml",
+    "fetched_at": "2026-06-22T11:44:57.379346+00:00",
+    "content_hash": "10b0c71b46ee35a92c3d5115fb1891fa0f5181d462dcc73f7cd9efbbacf6a7df",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": null,
+    "openapi_version": "openapi_3",
+    "paths_count": 70,
+    "path_diff": null
+  }
+]

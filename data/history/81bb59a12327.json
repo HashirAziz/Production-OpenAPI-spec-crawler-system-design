@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "81bb59a12327",
+    "source_url": "https://raw.githubusercontent.com/robbert229/swagger-download-file-bug/86f53021a81fcdeb0a11969e2290b8367a9da334/swagger.yaml",
+    "fetched_at": "2026-06-22T11:45:56.549451+00:00",
+    "content_hash": "4c7f63ead62370b39a72557a3f5870c36a88a8af141272725fd7e1e1207eac99",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Download Test",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

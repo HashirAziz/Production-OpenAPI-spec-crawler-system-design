@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e8eed92e1176",
+    "source_url": "https://raw.githubusercontent.com/thanamn/CozyHotel-SE-BE/49b531eeca50a419110605b1e0d8768fc26c97c0/swagger.yaml",
+    "fetched_at": "2026-06-22T11:45:50.730958+00:00",
+    "content_hash": "c90f5205104edc5a7998793b5d942e02fd5a3c7c70f49653ceda8c849423e315",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Hotel Booking API",
+    "openapi_version": "openapi_3",
+    "paths_count": 22,
+    "path_diff": null
+  }
+]

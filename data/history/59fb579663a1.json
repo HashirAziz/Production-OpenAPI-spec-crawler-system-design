@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "59fb579663a1",
+    "source_url": "https://raw.githubusercontent.com/luck-tech/kindly-sns/2df8f8518d2b137f0fc7d122938e270b9e96306b/openapi.yaml",
+    "fetched_at": "2026-06-22T11:45:03.363317+00:00",
+    "content_hash": "4cea504a65c1c4bf58cfb040bf4ca113597c45a1e8ce45b00bdeb538fbe6859f",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "優しいSNS API",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

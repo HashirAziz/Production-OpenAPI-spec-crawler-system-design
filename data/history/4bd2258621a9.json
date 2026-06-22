@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4bd2258621a9",
+    "source_url": "https://raw.githubusercontent.com/merouaHba/EcommerceAPI/1815403a10f64115fbdd708b40468da01a0e424f/swagger.yaml",
+    "fetched_at": "2026-06-22T11:45:55.946184+00:00",
+    "content_hash": "f3aa029ca9e1ec50ab3f4aa46cd429c382a94ed568497c8d6fcf6a835376eee5",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Ecommerce API",
+    "openapi_version": "openapi_3",
+    "paths_count": 52,
+    "path_diff": null
+  }
+]

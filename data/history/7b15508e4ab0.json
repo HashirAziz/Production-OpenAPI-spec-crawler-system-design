@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "7b15508e4ab0",
+    "source_url": "https://raw.githubusercontent.com/duneanalytics/sim-docs/0b9fae3d676c65dda59e5f6e27ed2dbcae366d8a/openapi.json",
+    "fetched_at": "2026-06-22T11:45:33.081873+00:00",
+    "content_hash": "cdaeb4bdc1f5b331acb5f47fdccba1d3d92ef28f8ca494c6df0d171759153827",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Sim API",
+    "openapi_version": "openapi_3",
+    "paths_count": 17,
+    "path_diff": null
+  }
+]

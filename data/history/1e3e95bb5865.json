@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1e3e95bb5865",
+    "source_url": "https://raw.githubusercontent.com/HendrikStrobelt/Seq2Seq-Vis/7e3096ccd5c411d72e09759bc8219bfaea15eddb/swagger.yaml",
+    "fetched_at": "2026-06-22T11:45:39.244805+00:00",
+    "content_hash": "574a3645e5d3bf6fe8aa225d131f917b24a643ce5ad998e2c55da2a577cd01ae",
+    "info_version": "0.1",
+    "status": "new",
+    "title": "S2S API",
+    "openapi_version": "swagger_2",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2a6990d11dc8",
+    "source_url": "https://raw.githubusercontent.com/antonroesler/bushevski-rent/32a22f950933196f724e89cec8d225ea7299ed45/openapi.yaml",
+    "fetched_at": "2026-06-22T11:45:01.732351+00:00",
+    "content_hash": "65c27e5cb856613143942739285cc2a9538eb252f805804426ca1f9dbcf509c0",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Bushevski Rental API",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

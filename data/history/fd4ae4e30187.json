@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "fd4ae4e30187",
+    "source_url": "https://raw.githubusercontent.com/DanielDruetta/fudo/c5a099b5d3136f7a5edd1c92b4fa83ba909a01e7/openapi.yaml",
+    "fetched_at": "2026-06-22T11:45:03.112407+00:00",
+    "content_hash": "6a47e041783673b078e75a28d68443db3a4c7c31b6e65d35b15d6062920c2064",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Fudo API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

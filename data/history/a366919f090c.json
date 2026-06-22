@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a366919f090c",
+    "source_url": "https://raw.githubusercontent.com/qoyri/ToDoList/ad6a40d7d6b07e5aad699e09640ae90871ca342d/openapi.yaml",
+    "fetched_at": "2026-06-22T11:45:03.990423+00:00",
+    "content_hash": "79d96048cb560a9449c164897978cd94344517a6ff31bd5c0cf45aa30e75104a",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Gestion de Tâches API",
+    "openapi_version": "openapi_3",
+    "paths_count": 13,
+    "path_diff": null
+  }
+]

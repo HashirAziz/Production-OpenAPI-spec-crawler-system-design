@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b1fa9c939a84",
+    "source_url": "https://raw.githubusercontent.com/EPFL-ENAC/image-codex/e48cd8db4c9c5dae25f0c37147047e0b7716a793/openapi.json",
+    "fetched_at": "2026-06-22T11:45:28.969293+00:00",
+    "content_hash": "a242e4ef2441b578a9a9119307dbc315a29645a0480e1d2a273241ed5ec831c4",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "Image Codex",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

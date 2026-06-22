@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0b10daada713",
+    "source_url": "https://raw.githubusercontent.com/mariaaszanon/nota-fiscal/b7769dfca28c99cbfcf9169a7b3074e3bed00acb/swagger.yaml",
+    "fetched_at": "2026-06-22T11:45:56.808445+00:00",
+    "content_hash": "a6f967e554c1900c467a9387421248cd4ae598cf96c97526c7545704ce721429",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API de Geração de Nota Fiscal Eletrônica",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "98d79c3ccc4e",
+    "source_url": "https://raw.githubusercontent.com/xregistry/xregistry.github.io/882322fbb5d2f2be6a87403f60899572b166a51f/xreg/xregistryspecs/schema-v1/schemas/openapi.json$details.hdr",
+    "fetched_at": "2026-06-22T11:45:25.258787+00:00",
+    "content_hash": "896a63b5574f62844bc154b4e9e09360ead0e49a7eccf99b356f9e770e00fff8",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "unknown",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ea2df20d8bd6",
+    "source_url": "https://raw.githubusercontent.com/shyamkolge/Event-Management/86b5a1f08e27e7c6b38aee79696c6c03b58b3853/swagger.yaml",
+    "fetched_at": "2026-06-22T11:45:48.842323+00:00",
+    "content_hash": "0e401a5b9fcc2b1d00b4db824ba09670e41196f2be9212e709d2194f2d846ef4",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Auth & Event API",
+    "openapi_version": "openapi_3",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

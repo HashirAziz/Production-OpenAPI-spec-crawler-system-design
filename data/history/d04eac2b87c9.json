@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d04eac2b87c9",
+    "source_url": "https://raw.githubusercontent.com/sriniously/node-omniblog/53e051f7051d8f8dd8312b164fe527c38d2d79c1/swagger.yaml",
+    "fetched_at": "2026-06-22T11:45:55.498802+00:00",
+    "content_hash": "c9b416e9d3ea2a9025f925084a81446ec09be5d893f365229e9298ecae56739f",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "unknown",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

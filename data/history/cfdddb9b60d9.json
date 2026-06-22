@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "cfdddb9b60d9",
+    "source_url": "https://raw.githubusercontent.com/fikihfirmansyah/attendance-user-microservices/5ee135d7ef84a40721b18e9b0534cc2dea534d0e/openapi.json",
+    "fetched_at": "2026-06-22T11:45:31.668367+00:00",
+    "content_hash": "6a950d8dc16295d5f82e7c2afbfba5ffa7bc7962946ee23075c6391d2ccc9eb4",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "unimal",
+    "openapi_version": "openapi_3",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b8e82ec4da83",
+    "source_url": "https://raw.githubusercontent.com/angrygoat/pluggable-search-api/a1deff4101d3c9228550ac1c18c5c7b8fb2ceb48/openapi.json",
+    "fetched_at": "2026-06-22T11:45:26.841444+00:00",
+    "content_hash": "7470354d430f9811f3d71e37ad6d98c3ec35c4627eacc5bbf639a7a31b974bbc",
+    "info_version": "1.0.0-oas3",
+    "status": "new",
+    "title": "Data Grid Search API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

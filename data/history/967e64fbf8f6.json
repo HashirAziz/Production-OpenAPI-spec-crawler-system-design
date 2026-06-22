@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "967e64fbf8f6",
+    "source_url": "https://raw.githubusercontent.com/PreshyP/BlazorCyber1/4245cf98abc8df15b02cd2b793437e6e25ed4c42/swagger.yaml",
+    "fetched_at": "2026-06-22T11:45:58.850564+00:00",
+    "content_hash": "f15c13c5af3ceb1a82f2c8823e25140613850e86e85b4102728d32b12dd20182",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Simple CRUD API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5bf363862193",
+    "source_url": "https://raw.githubusercontent.com/RaSlabsa/backend-course-2025-6/5a75d55439dc4d33084c47372d59a6ebb4e6c0ac/swagger.yaml",
+    "fetched_at": "2026-06-22T11:45:57.019276+00:00",
+    "content_hash": "84bfd0876a4f2146308f81c8e57cae7a9c98327baad1c73d6f6b8c7320296172",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Inventory API",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]
