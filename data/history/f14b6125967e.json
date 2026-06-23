@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f14b6125967e",
+    "source_url": "https://raw.githubusercontent.com/Progeim111/task-manager-app/359a657e973aee3d35dfef10bd5c86d58acc5dfa/swagger.yaml",
+    "fetched_at": "2026-06-23T09:32:26.434515+00:00",
+    "content_hash": "4f2d87ad487cb22e0cad1fc830c56fad18940f06b7fc5b9cf06ae7f26a2ce328",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Task Manager API",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

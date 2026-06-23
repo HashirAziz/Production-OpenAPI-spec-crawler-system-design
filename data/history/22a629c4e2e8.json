@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "22a629c4e2e8",
+    "source_url": "https://raw.githubusercontent.com/olegpetroveth/ts-x-chain-api-spec/eb4fd89df6bc9460565ebcb03b8e3f377f4c21dc/swagger.yaml",
+    "fetched_at": "2026-06-23T09:32:15.929715+00:00",
+    "content_hash": "b6b06f4cd3a1d5c09f20883782c2102b511b69763c7695d38e51d850ed48ef1d",
+    "info_version": "0.0.3",
+    "status": "new",
+    "title": "Thorswap Composable Router API",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

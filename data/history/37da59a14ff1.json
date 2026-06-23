@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "37da59a14ff1",
+    "source_url": "https://raw.githubusercontent.com/gleberof/cardiospike/f01b614569212f18a13469fc4dec26213791f4e6/openapi.json",
+    "fetched_at": "2026-06-23T09:31:49.382250+00:00",
+    "content_hash": "a89d74f95741589a78f9596f34eef473492435034aa8f4cb3930abe818047095",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "CardioSpike API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

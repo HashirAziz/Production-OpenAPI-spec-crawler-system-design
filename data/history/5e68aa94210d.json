@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5e68aa94210d",
+    "source_url": "https://raw.githubusercontent.com/Jarover/sqre/e05beec2ba9ad971cef99e5ef584f42234c7b6c3/swagger.yaml",
+    "fetched_at": "2026-06-23T09:32:15.406784+00:00",
+    "content_hash": "d6d5f16ce84039acf81fb552f71fba147a68983a08a2c20f02e2dd090ea8f66a",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Sqre",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

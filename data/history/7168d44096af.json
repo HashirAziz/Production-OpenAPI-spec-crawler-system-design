@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "7168d44096af",
+    "source_url": "https://raw.githubusercontent.com/SDSU-CompE-561-Spring-2025/coffee-social-finder/9c4c4aada902b6203e5de0ac2f99e03e180698ff/swagger.yaml",
+    "fetched_at": "2026-06-23T09:32:20.008621+00:00",
+    "content_hash": "1749edaa0d639a3846f05cb08ab84f37e9ed7fe23648a6043f3b6c293f0aeae3",
+    "info_version": "1.0.11",
+    "status": "new",
+    "title": "Swagger Cafe Finder - OpenAPI 3.0",
+    "openapi_version": "openapi_3",
+    "paths_count": 12,
+    "path_diff": null
+  }
+]

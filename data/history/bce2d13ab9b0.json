@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "bce2d13ab9b0",
+    "source_url": "https://raw.githubusercontent.com/Central-University-IT-prod/2025-final-command-team-4-Frontend/fdeccc4122d8c1325224cbe26aaf646399988cdf/openapi.json",
+    "fetched_at": "2026-06-23T09:31:53.325350+00:00",
+    "content_hash": "dd80c6eb79dcc68c73a1613f84f0b6f4cac2c59806a257b38f6509170ad82343",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "CRM API",
+    "openapi_version": "openapi_3",
+    "paths_count": 20,
+    "path_diff": null
+  }
+]

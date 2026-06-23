@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a7a3d45b080f",
+    "source_url": "https://raw.githubusercontent.com/brittonhayes/inventory-go/43f6ba11e21bb567de2fcfc13c5afa36eb812a2e/openapi.json",
+    "fetched_at": "2026-06-23T09:31:50.630175+00:00",
+    "content_hash": "fad52c6dfd6969e719100cf026fa84fa41822cf0748a862d32ef779f4fb58715",
+    "info_version": "0.0.0",
+    "status": "new",
+    "title": "Inventory API",
+    "openapi_version": "openapi_3",
+    "paths_count": 29,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "976a5f774979",
+    "source_url": "https://raw.githubusercontent.com/dalton-x/TG_inte_web_P11/d9ceb28a9ad15d496bfa372fdd32fbf6fdaafa2d/swagger.yaml",
+    "fetched_at": "2026-06-23T09:32:13.340108+00:00",
+    "content_hash": "b07776aac66d733daceb4a3feea6e8842e886fc15663e22a9eb782b251c9c94e",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Bank Argent API documentation",
+    "openapi_version": "swagger_2",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

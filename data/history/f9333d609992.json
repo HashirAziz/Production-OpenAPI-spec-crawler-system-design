@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f9333d609992",
+    "source_url": "https://raw.githubusercontent.com/garyokeeffe/NSA/bf06af37d444dffe9b720ae7544c825eb964bda5/openapi.yaml",
+    "fetched_at": "2026-06-23T09:30:59.168953+00:00",
+    "content_hash": "ba676f856505f912b3634b48ac426a8c0f7688b3a42f6f1615fbbd633fe9e8c6",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "Nostr Serverless API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8b0627a1e76b",
+    "source_url": "https://raw.githubusercontent.com/thenewbackstage/transactions-api-docs/212b2bcc8a43fa6f5c69ae065ab5c77657765ba4/swagger.yaml",
+    "fetched_at": "2026-06-23T09:32:09.593184+00:00",
+    "content_hash": "f18d5da42a3b26eab473fb68e64261e08286a6a0b329636417b3669cd9d20f21",
+    "info_version": "0.3.1",
+    "status": "new",
+    "title": "Data Wise - API de Transações",
+    "openapi_version": "openapi_3",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

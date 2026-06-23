@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1b60586a980f",
+    "source_url": "https://raw.githubusercontent.com/siketyan/yumessenger/f058c0d8371d22ac005025d769b636e47710f512/swagger.yaml",
+    "fetched_at": "2026-06-23T09:32:22.997163+00:00",
+    "content_hash": "e4b65ddbd1ba4dfa4d97db69a29ad6402eeac9c1e41db026d255b56abbe14c76",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Message App",
+    "openapi_version": "swagger_2",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

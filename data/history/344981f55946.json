@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "344981f55946",
+    "source_url": "https://raw.githubusercontent.com/Kaybhee/hotel-App-management/f11b48e909a394b31652625d08ecda9a88039120/swagger.yaml",
+    "fetched_at": "2026-06-23T09:32:09.236841+00:00",
+    "content_hash": "dad1e790e0a505700d58b2044b8d33b84c18621d376f623c95d284d5e4680910",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Hotel Booking API",
+    "openapi_version": "openapi_3",
+    "paths_count": 22,
+    "path_diff": null
+  }
+]

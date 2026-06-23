@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "33f6905a5dd5",
+    "source_url": "https://raw.githubusercontent.com/nextcloud/files_retention/47cd0037fc7e447eee4829b3c0baf8dc8c614db7/openapi.json",
+    "fetched_at": "2026-06-23T09:31:51.148758+00:00",
+    "content_hash": "db5a22e1e7d3548643b78c3f49d68a2998fa7a813ffd68a397d6c1ad6d8187d3",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "files_retention",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

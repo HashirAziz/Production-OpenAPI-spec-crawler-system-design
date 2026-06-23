@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ed48b3f121db",
+    "source_url": "https://raw.githubusercontent.com/Gabicolombo/movies-api/8f018cba6c2068cc435b6938ec8f49c292004241/swagger.yaml",
+    "fetched_at": "2026-06-23T09:32:13.051933+00:00",
+    "content_hash": "d8cbda41d7ec90082004ebcc5c9bce1997efff791c8b6faf3ef89f346b00e078",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API movies",
+    "openapi_version": "swagger_2",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

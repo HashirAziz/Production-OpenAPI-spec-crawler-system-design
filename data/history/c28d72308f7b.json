@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c28d72308f7b",
+    "source_url": "https://raw.githubusercontent.com/nfriedri/CLS-Platform/ced47d78ce69b4276efef852c7f19ed4f4d0e3d1/swagger.json",
+    "fetched_at": "2026-06-23T09:33:03.745017+00:00",
+    "content_hash": "f427117f1e82b510bbabec7459efa6fffdf4e019471e250e82ba49674677e9ce",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "CLS Platform",
+    "openapi_version": "swagger_2",
+    "paths_count": 13,
+    "path_diff": null
+  }
+]

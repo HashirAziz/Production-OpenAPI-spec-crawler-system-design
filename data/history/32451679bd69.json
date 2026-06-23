@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "32451679bd69",
+    "source_url": "https://raw.githubusercontent.com/ome/omero-ms-zarr/39bd3d3c969e31c250facfb0313082d81f801d9b/swagger.yaml",
+    "fetched_at": "2026-06-23T09:32:10.283242+00:00",
+    "content_hash": "383c4dc2905865e3626161fa211a73589ffc029b9e0bcb386e6902ae9392fb8b",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "omero-ms-zarr",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

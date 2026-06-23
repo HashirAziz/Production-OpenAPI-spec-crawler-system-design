@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c9585c2346e4",
+    "source_url": "https://raw.githubusercontent.com/primelib/perspective4j/d05952cdd1748c2cb62d89cc455549b1fc39478d/openapi.yaml",
+    "fetched_at": "2026-06-23T09:31:19.130417+00:00",
+    "content_hash": "d864dc5a40b0f6e65f5eae89b95b7992f17759907ef267363637fb12eb82f086",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Perspective",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

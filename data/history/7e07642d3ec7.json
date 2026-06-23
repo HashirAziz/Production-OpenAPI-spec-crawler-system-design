@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "7e07642d3ec7",
+    "source_url": "https://raw.githubusercontent.com/ju6ge/paperless-llm-workflows/02d59226d1be6d1e182cec9340ad17622fb86a11/openapi.json",
+    "fetched_at": "2026-06-23T09:31:42.638327+00:00",
+    "content_hash": "1a8cf78b520adcaabe49c2303f15dca8abab0c17f1463efba86057c1e9f2adcc",
+    "info_version": "0.3.0",
+    "status": "new",
+    "title": "paperless-llm-workflows",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

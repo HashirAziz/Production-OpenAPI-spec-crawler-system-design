@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "588df168ec20",
+    "source_url": "https://raw.githubusercontent.com/miguel-goyena-cv/2DAM-DW-Ev02Examples/bc833ff7086e9c28d52d53c061a4aaea80789604/swagger.yaml",
+    "fetched_at": "2026-06-23T09:32:26.674704+00:00",
+    "content_hash": "2cc2ca059a3844983d8fb45f449d336ac856e63d4825318839b121793a7a069b",
+    "info_version": "0.1.1",
+    "status": "new",
+    "title": "El Tenedor 4V API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

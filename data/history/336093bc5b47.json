@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "336093bc5b47",
+    "source_url": "https://raw.githubusercontent.com/shanghai-Jerry/kratos-demo/2848fb2a726625dfec8fc2db1f21d3ae70555f1c/openapi.yaml",
+    "fetched_at": "2026-06-23T09:31:19.382466+00:00",
+    "content_hash": "d2368125d63ab54a81f5698493a1eb5636d2b0dcaf559db22715ffa242cf2fe8",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "Greeter API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

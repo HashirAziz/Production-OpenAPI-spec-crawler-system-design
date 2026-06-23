@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "32996ad42ce2",
+    "source_url": "https://raw.githubusercontent.com/AyrtonFidel9/prototipo-votaciones-dapp/1b415e5cf2fdb3a662f6570835cbbfa5b8987cc7/swagger.yaml",
+    "fetched_at": "2026-06-23T09:32:25.680856+00:00",
+    "content_hash": "d6a9ba05f351f61e55dfc94e838fb06266d2d0a33477b73aea623dbea0f81b45",
+    "info_version": "1.0.1",
+    "status": "new",
+    "title": "DAPP Votaciones - OpenAPI 3.0",
+    "openapi_version": "openapi_3",
+    "paths_count": 41,
+    "path_diff": null
+  }
+]

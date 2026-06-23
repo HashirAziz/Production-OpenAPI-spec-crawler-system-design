@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4dff77578228",
+    "source_url": "https://raw.githubusercontent.com/luflow/attendance/35c04d1b2ed96f37d7d5ea742b3065f2c982e83d/openapi.json",
+    "fetched_at": "2026-06-23T09:31:45.959667+00:00",
+    "content_hash": "db0df011b8ef63bd327e7301f777c1931703382425b33803784e5cc491f3b6d3",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "attendance",
+    "openapi_version": "openapi_3",
+    "paths_count": 30,
+    "path_diff": null
+  }
+]

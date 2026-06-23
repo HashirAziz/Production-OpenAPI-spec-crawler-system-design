@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f763848abab2",
+    "source_url": "https://raw.githubusercontent.com/S1riyS/OnlineStoreAPI/f6ca89e17a55725bb0f88cbe8cc30271f0e74d54/swagger.yaml",
+    "fetched_at": "2026-06-23T09:32:10.033055+00:00",
+    "content_hash": "84be351ae9827a672140e21366c34eae25754d1dfd931e251aba87055a6079cd",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "OnlineStoreAPI",
+    "openapi_version": "openapi_3",
+    "paths_count": 21,
+    "path_diff": null
+  }
+]
