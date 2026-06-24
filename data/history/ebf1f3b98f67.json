@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ebf1f3b98f67",
+    "source_url": "https://raw.githubusercontent.com/nitheesh-me/MindChain/ef599dafd1ceade17fe069309591a2eb01c0c4a3/openapi.yaml",
+    "fetched_at": "2026-06-24T08:59:49.487075+00:00",
+    "content_hash": "4049a4010b005a5e489dfeebd23705f2bd8eb23cb8f6889e95907fb0e9a7dd9f",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "MindChain API",
+    "openapi_version": "openapi_3",
+    "paths_count": 22,
+    "path_diff": null
+  }
+]

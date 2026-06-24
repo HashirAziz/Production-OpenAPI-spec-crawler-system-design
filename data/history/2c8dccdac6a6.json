@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2c8dccdac6a6",
+    "source_url": "https://raw.githubusercontent.com/ikushlianski/internship-nova-platform-api/e6fe5a9d27785da5a79e45b42c649e9523a9357f/swagger.yaml",
+    "fetched_at": "2026-06-24T09:01:04.101625+00:00",
+    "content_hash": "0c6c9921b0e1ece7ab365b6cbc70ef8574cea9b54fed8b93e4f0ee524160e135",
+    "info_version": null,
+    "status": "new",
+    "title": "Educational Platform API",
+    "openapi_version": "openapi_3",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

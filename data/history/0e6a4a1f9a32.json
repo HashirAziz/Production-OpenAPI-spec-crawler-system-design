@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0e6a4a1f9a32",
+    "source_url": "https://raw.githubusercontent.com/thalesantana/gympass-style-app/2c62ae047250e81e99a093863c986972b201c0f3/swagger.yaml",
+    "fetched_at": "2026-06-24T09:00:51.026145+00:00",
+    "content_hash": "1ce9cef1ad13614d8fe0267bc37f855b4b061a84f00944c6ab39a15ce028e1f1",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API Documentation",
+    "openapi_version": "openapi_3",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

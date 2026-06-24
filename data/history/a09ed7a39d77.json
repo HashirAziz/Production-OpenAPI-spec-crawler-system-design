@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a09ed7a39d77",
+    "source_url": "https://raw.githubusercontent.com/matutaj/SUFG_Back/9cc9b94c67609ae64235f146ea21aca228dc72cb/swagger.yaml",
+    "fetched_at": "2026-06-24T09:01:10.624835+00:00",
+    "content_hash": "3dd895b25803aefee14344aaa973f630a2efac571ef4e6794d2d4b90235cd7d0",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API do Sistema de Gerenciamento",
+    "openapi_version": "openapi_3",
+    "paths_count": 80,
+    "path_diff": null
+  }
+]

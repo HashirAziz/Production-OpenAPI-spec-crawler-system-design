@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5ea2d04cf3d6",
+    "source_url": "https://raw.githubusercontent.com/LeaYabra/ArgentBank/bbb8619288437d3b32f7e7e45e2c5fb435e66b0f/swagger.yaml",
+    "fetched_at": "2026-06-24T09:00:52.314001+00:00",
+    "content_hash": "86a33f39e20542b62ca3708203d3c601c9fe6aa7258e8115c5b52c7de475f380",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Bank Argent API documentation",
+    "openapi_version": "swagger_2",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "17646960d8d9",
+    "source_url": "https://raw.githubusercontent.com/NogaevPN/bitrix-sign-rest/ff31b41eb4cabd1760b72f39403fdf313b5fd420/swagger.yaml",
+    "fetched_at": "2026-06-24T09:00:46.856739+00:00",
+    "content_hash": "1839e8f02ae14ab4022cc459c2e251723c6c92b535bfd827e535d614b08672ae",
+    "info_version": "v1.0",
+    "status": "new",
+    "title": "Sign REST API",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

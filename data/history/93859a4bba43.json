@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "93859a4bba43",
+    "source_url": "https://raw.githubusercontent.com/FEUP-MEIC-DS-2025-26/product-page/c3b3eb290d7e57521d3d48b1e9f4e1db14af8ef4/openapi.yaml",
+    "fetched_at": "2026-06-24T08:59:54.755644+00:00",
+    "content_hash": "78a4b14debe13da2d1dcfc2565d252ac1431f85d9e3cea13207c3aa3e9ce3d8b",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Product Page API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

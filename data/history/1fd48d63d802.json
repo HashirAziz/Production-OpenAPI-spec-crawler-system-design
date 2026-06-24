@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1fd48d63d802",
+    "source_url": "https://raw.githubusercontent.com/Argonath-Systems/99-HyQuest-WebUI/de0996b78a495d0e90cb2697a5eb5ba2b1deb08c/swagger.yaml",
+    "fetched_at": "2026-06-24T09:01:05.010776+00:00",
+    "content_hash": "843443f98c165f2d10217f477205983e0e7a673a1085e560e90c6fc5bc571fcb",
+    "info_version": "2.0.0",
+    "status": "new",
+    "title": "HyQuestUI API",
+    "openapi_version": "openapi_3",
+    "paths_count": 23,
+    "path_diff": null
+  }
+]

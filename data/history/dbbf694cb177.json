@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "dbbf694cb177",
+    "source_url": "https://raw.githubusercontent.com/onemax-aspire/swagger/ce213ca09dd00c37a6bdbad2d5318b2490c3d933/swagger.yaml",
+    "fetched_at": "2026-06-24T09:01:03.778029+00:00",
+    "content_hash": "b56a19004e4c58e9280526cc4e27aec574db497e72539cb4e638c67005b2e026",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "MAX Aspire API",
+    "openapi_version": "openapi_3",
+    "paths_count": 21,
+    "path_diff": null
+  }
+]

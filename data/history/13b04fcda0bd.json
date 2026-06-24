@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "13b04fcda0bd",
+    "source_url": "https://raw.githubusercontent.com/TextyML/WebService/4bed755b21893c27245d10e620eb55548d07359b/swagger.yaml",
+    "fetched_at": "2026-06-24T09:00:52.583310+00:00",
+    "content_hash": "b8468254250b5cf74810ce7c33b72657bbc9e3df1f643907703965b3c53466c3",
+    "info_version": "0.1",
+    "status": "new",
+    "title": "Pet Shop Example API",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

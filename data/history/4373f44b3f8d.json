@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4373f44b3f8d",
+    "source_url": "https://raw.githubusercontent.com/DBUES0/Agri_APP/45fbff33cead85a112fc24bf039f362aba45a07b/api/docs/openapi.yaml.1",
+    "fetched_at": "2026-06-24T08:59:41.063481+00:00",
+    "content_hash": "2215756a58ee08b36ca2098b1623c66f2998bee626448be8ea32f0df6870d635",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API Agricultura",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

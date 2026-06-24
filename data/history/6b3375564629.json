@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6b3375564629",
+    "source_url": "https://raw.githubusercontent.com/AntedeguemonAPI/banco-de-dados/39de9e5366eea9b0c0e15e23ceb771690683b4e2/swagger.yaml",
+    "fetched_at": "2026-06-24T09:00:51.658955+00:00",
+    "content_hash": "6b36f2da1ef076fd0731a88c1949d45cca801e58af82463a516513cbcbc81cb4",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API de Processamento e Gerenciamento de CSV",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

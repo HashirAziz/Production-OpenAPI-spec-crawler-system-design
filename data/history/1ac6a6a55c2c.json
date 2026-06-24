@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1ac6a6a55c2c",
+    "source_url": "https://raw.githubusercontent.com/dacardworld/ShipEngineApi/4a78cefbb3aa28c24e0278f45fbe6be220a43031/openapi.yaml",
+    "fetched_at": "2026-06-24T08:59:53.840201+00:00",
+    "content_hash": "6d576aecb7fb13de4dcca2584a06c71c1120ddf9f1c415850d7589a6bccbaab1",
+    "info_version": "1.1.202009151309",
+    "status": "new",
+    "title": "ShipEngine API",
+    "openapi_version": "openapi_3",
+    "paths_count": 56,
+    "path_diff": null
+  }
+]

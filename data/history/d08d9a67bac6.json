@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d08d9a67bac6",
+    "source_url": "https://raw.githubusercontent.com/rcnolan03/VPI-Triangle-API-V2/0c6642dafdea4d1ffc52ba61dc8083a985cc82dc/swagger.yaml",
+    "fetched_at": "2026-06-24T09:01:09.513033+00:00",
+    "content_hash": "b8b1ff74a3db8b45332ceaa2d442da2be37abd9eadad40dc03ff097902ed7ac2",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "VPI Triangle API",
+    "openapi_version": "swagger_2",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

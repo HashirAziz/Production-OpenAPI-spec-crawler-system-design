@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "abced40d2383",
+    "source_url": "https://raw.githubusercontent.com/checkly/docs/aaf41f871b47a5d71ff40a8ba04fbfa9cd5bb751/api-reference/openapi.json.backup",
+    "fetched_at": "2026-06-24T09:00:21.997853+00:00",
+    "content_hash": "961ef3524d3e44e630029563dbb4270e7c9960c0f35d4e82469e51c86d5d6b96",
+    "info_version": "v1",
+    "status": "new",
+    "title": "Checkly Public API",
+    "openapi_version": "openapi_3",
+    "paths_count": 22,
+    "path_diff": null
+  }
+]

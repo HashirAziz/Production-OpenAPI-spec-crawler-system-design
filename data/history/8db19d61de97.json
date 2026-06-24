@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8db19d61de97",
+    "source_url": "https://raw.githubusercontent.com/wizarsi/blps-cian/3fad77d3123650e5938614a1e3e155f98ea87a7d/openapi.yaml",
+    "fetched_at": "2026-06-24T08:59:54.459329+00:00",
+    "content_hash": "19a97ae135ea5d182eb9b8f08a6be253bb330e4c8c4b297bd82ab6088726eaec",
+    "info_version": "v0",
+    "status": "new",
+    "title": "OpenAPI definition",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

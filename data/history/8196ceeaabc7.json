@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8196ceeaabc7",
+    "source_url": "https://raw.githubusercontent.com/beryl-07/CutieTodoApi/e7dbbf348dbaf7f136b040cea4f6d18b14a7345f/swagger.yaml",
+    "fetched_at": "2026-06-24T09:01:03.088304+00:00",
+    "content_hash": "65fe67bf593413c953c09b71856f39281a082cb2d1a62d1210ee822d8e20dc3b",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "unknown",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

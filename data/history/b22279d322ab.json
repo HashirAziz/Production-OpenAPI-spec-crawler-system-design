@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b22279d322ab",
+    "source_url": "https://raw.githubusercontent.com/fixsnakes/Be-Quiz-Sys/a6fd14a3980410c2ef33417ee1055934f3aa5f33/swagger.yaml",
+    "fetched_at": "2026-06-24T09:01:04.628056+00:00",
+    "content_hash": "e33973d827482a9a9d8a0f51714eb7fb67aa6669cc6e26107235f80f7c74ce9e",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Be-Quiz-Sys API",
+    "openapi_version": "openapi_3",
+    "paths_count": 102,
+    "path_diff": null
+  }
+]
