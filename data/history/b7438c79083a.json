@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b7438c79083a",
+    "source_url": "https://raw.githubusercontent.com/logan-the-engineer/logans-algorithmic-trading-platform/9dd90e903d65d5af8f08d3bdf2e01028b21f2a8a/openapi.yaml",
+    "fetched_at": "2026-06-25T08:54:15.402884+00:00",
+    "content_hash": "5482339b8523b9b96718cd8428eba14a9c59e54bdce0e5d037a3c48c307ba98d",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "Algorithmic Trading Platform API",
+    "openapi_version": "openapi_3",
+    "paths_count": 29,
+    "path_diff": null
+  }
+]

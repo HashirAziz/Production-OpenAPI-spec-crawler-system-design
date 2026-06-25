@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "96d5564384b7",
+    "source_url": "https://raw.githubusercontent.com/bundesAPI/strahlenschutz-api/172c6b1d8a5f8c16da79aaa09e2b13da847694a8/openapi.yaml",
+    "fetched_at": "2026-06-25T08:54:07.973486+00:00",
+    "content_hash": "e777c4be27f4946b9d39058b936fc4bd13eb49936c1d314efbb2b5d759e2fa86",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "ODL-Info API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

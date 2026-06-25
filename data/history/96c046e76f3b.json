@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "96c046e76f3b",
+    "source_url": "https://raw.githubusercontent.com/sebamoralesasd/fudo-challenge/85dd9fc4cac3cba89c9b5d18427352de4e161431/openapi.yaml",
+    "fetched_at": "2026-06-25T08:54:09.097095+00:00",
+    "content_hash": "04b84ea87cb4b338ccbb0377c4f4e1165c895ac9a42f92b504ec41f7d7f12e29",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Fudo Challenge API",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

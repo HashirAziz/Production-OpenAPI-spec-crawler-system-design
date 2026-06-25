@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8aac4f9e0202",
+    "source_url": "https://raw.githubusercontent.com/jasonbrelsford/mcp/acabd07c09be0587013fc2ecc336cc73e0b497b6/openapi.yaml",
+    "fetched_at": "2026-06-25T08:54:11.499292+00:00",
+    "content_hash": "65f71c9dc1f299ed7d949feda138744776295dd0e26b73eade5ca60bdca6be69",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "botwork-network MCP API",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

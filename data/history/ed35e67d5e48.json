@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ed35e67d5e48",
+    "source_url": "https://raw.githubusercontent.com/codeformuenster/event-api/a030d8e1a7c656734cb62c47bce2e4bb020e8d30/openapi.yaml",
+    "fetched_at": "2026-06-25T08:54:06.691594+00:00",
+    "content_hash": "8a2becd215b83ea41db631c4e044860c11a6b649447cb48900ee1fa5821edaf5",
+    "info_version": "0.0.0",
+    "status": "new",
+    "title": "Open Events API",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

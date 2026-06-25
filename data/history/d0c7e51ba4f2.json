@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d0c7e51ba4f2",
+    "source_url": "https://raw.githubusercontent.com/TarasBrilian/test-rumah-web/1b507164972095938f22762a45e8926af190ec4a/openapi.yaml",
+    "fetched_at": "2026-06-25T08:54:15.018808+00:00",
+    "content_hash": "ffdaad6e2a42bacd1dde7c95e3b3399b7d073777752a149ff2c5af042fb5cf8a",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Rumah web test API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

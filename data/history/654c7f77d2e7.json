@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "654c7f77d2e7",
+    "source_url": "https://raw.githubusercontent.com/DonSlon1/TdA24-grf-prestiz/e1bf3ee456ecb4aafeb227bd6b5b26e68bb5f448/openapi.yaml",
+    "fetched_at": "2026-06-25T08:54:12.474993+00:00",
+    "content_hash": "84bd54fe33cae5322bc47fdd74edfbc42f560d8b9d9e9f63decbef8cd8b29045",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "TdA Grandfinale",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

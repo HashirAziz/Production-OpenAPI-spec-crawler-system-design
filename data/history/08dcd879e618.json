@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "08dcd879e618",
+    "source_url": "https://raw.githubusercontent.com/ganthonyGI/mcp-random-name-server/0bf23ee6c26cca8d60d1e18c338619af4b2b4d22/openapi.yaml",
+    "fetched_at": "2026-06-25T08:54:14.371036+00:00",
+    "content_hash": "8795dafc0522bfb5dd5099598d2ccad2f7445120eea4eaf5fc366ff8f5da2099",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "MCP Random Name Server",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

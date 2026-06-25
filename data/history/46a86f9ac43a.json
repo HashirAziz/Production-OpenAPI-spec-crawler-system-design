@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "46a86f9ac43a",
+    "source_url": "https://raw.githubusercontent.com/clingen-data-model/clingen-gene-tracker/4300c1545f7a7e4f0b50b296cd7d723f97a492a6/openapi.yaml",
+    "fetched_at": "2026-06-25T08:53:56.957911+00:00",
+    "content_hash": "f2f8f70de23be2451d9c971d128cda0e67dfb813cea3708802a23d619b275884",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "GeneTracker API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

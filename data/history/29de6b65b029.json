@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "29de6b65b029",
+    "source_url": "https://raw.githubusercontent.com/docxology/crescent-city/85a9f95319838bb76db7094e643a4758eaf2b9e0/openapi.yaml",
+    "fetched_at": "2026-06-25T08:54:00.424555+00:00",
+    "content_hash": "436e3e9af31eba054b4c33185f60c53b12a003df5b412c3fbeb88a79c47d9d79",
+    "info_version": "1.4.0",
+    "status": "new",
+    "title": "Crescent City Municipal Code API",
+    "openapi_version": "openapi_3",
+    "paths_count": 21,
+    "path_diff": null
+  }
+]

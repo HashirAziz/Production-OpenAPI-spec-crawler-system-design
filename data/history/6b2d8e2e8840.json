@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6b2d8e2e8840",
+    "source_url": "https://raw.githubusercontent.com/sepUnch/gus--backend/cbc1926524bc4d2123b3214852572c6b34c7c739/openapi.yaml",
+    "fetched_at": "2026-06-25T08:54:09.448541+00:00",
+    "content_hash": "708d60ff1b15ef65ae210800c82c0f8913325909f65aac877812440b6996b5d8",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "GDG OC Submission App API",
+    "openapi_version": "openapi_3",
+    "paths_count": 17,
+    "path_diff": null
+  }
+]

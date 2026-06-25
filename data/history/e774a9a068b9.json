@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e774a9a068b9",
+    "source_url": "https://raw.githubusercontent.com/artemiyokulov/otus-micro-6-homework/40f326d5bef9a3da67c082d809df5c9ba2cade3a/openapi.yaml",
+    "fetched_at": "2026-06-25T08:54:12.148690+00:00",
+    "content_hash": "65c90624124a883298449a6f57349c8923ecc59c9e508bb9261818263cd9ecd9",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "User Service",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2fbce7c500ae",
+    "source_url": "https://raw.githubusercontent.com/Eddie023/bYd/d6efe1e6c7de1c94b667594b7e26c63c121397ff/openapi.yaml",
+    "fetched_at": "2026-06-25T08:53:59.386475+00:00",
+    "content_hash": "7f148151f2d284d438cf351cfbde09ee0f12b21ff593231f5a099337dd7607a7",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "bYd Application Server API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

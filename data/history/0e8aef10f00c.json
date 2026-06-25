@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0e8aef10f00c",
+    "source_url": "https://raw.githubusercontent.com/JonatanMGit/url-shortener/519dd2d52074b1fe105625ba172bdfdb4d4ed54e/openapi.yaml",
+    "fetched_at": "2026-06-25T08:54:11.838922+00:00",
+    "content_hash": "6fc9b8a28ef2bff37225546d4e2b52d44e8255b2266551abf1ee21d4e7924c2b",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "MLH PE Hackathon URL Shortener API",
+    "openapi_version": "openapi_3",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a34e10bcc10e",
+    "source_url": "https://raw.githubusercontent.com/Stephanethr/hackathon_2025_GB/bca10b62b400f1a83eae1ee6bc5c7df7e1127030/openapi.yaml",
+    "fetched_at": "2026-06-25T08:54:12.776771+00:00",
+    "content_hash": "44fc3b2c6d7b30747de2edf7eb5f4ed87ce96f6997310f8daaf3314edd7cd1ff",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "GBook API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

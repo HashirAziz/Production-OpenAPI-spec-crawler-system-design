@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2be24981edf2",
+    "source_url": "https://raw.githubusercontent.com/umerjillani/Engagement-Letter-Generator-with-Custom-GPT/47629f032e3c95a3899060874fe1ec563ee8669a/openapi.yaml",
+    "fetched_at": "2026-06-25T08:54:13.059406+00:00",
+    "content_hash": "2147e766b1875716db22a5bd37aa0a0bc9626bc60e7b9555411f6838c26f09af",
+    "info_version": "v1",
+    "status": "new",
+    "title": "Engagement Letter Generator API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

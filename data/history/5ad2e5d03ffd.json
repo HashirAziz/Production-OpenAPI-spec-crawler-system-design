@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5ad2e5d03ffd",
+    "source_url": "https://raw.githubusercontent.com/MOPineyro/tic-tac-dojo/df46b3365acc1301e7bd9c270fac19301992e442/openapi.yaml",
+    "fetched_at": "2026-06-25T08:54:11.216066+00:00",
+    "content_hash": "002a646bddef48d9a96ae8ed0c3f408b8e7665fc5b9c40c0c96a67750517374e",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Tic-Tac-Dojo API",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]
