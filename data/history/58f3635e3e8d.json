@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "58f3635e3e8d",
+    "source_url": "https://raw.githubusercontent.com/Send4BR/openapi-payment-connector-ui.github.io/c950679e8a148b03640cc7efe6b8a538858f2f07/openapi.yaml",
+    "fetched_at": "2026-06-26T08:57:08.122476+00:00",
+    "content_hash": "4d653e8523a251b488c07f003252ed5f311b82d8e30ba1662cb0030d4b3dfedd",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Payment Connector",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

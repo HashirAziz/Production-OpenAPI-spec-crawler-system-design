@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b4d99ce9b949",
+    "source_url": "https://raw.githubusercontent.com/DwikiCahyo/Car-Rent-Management-API/84effc49a40cd8d56f3074f0c7b5804d57ee3883/openapi.yaml",
+    "fetched_at": "2026-06-26T08:57:13.499850+00:00",
+    "content_hash": "d4fb2b5ff06192fc91f9b36a8067d9b72ba5f51cf7683eb0f51eb492ee5876e8",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Rent Car Management API Documentation",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

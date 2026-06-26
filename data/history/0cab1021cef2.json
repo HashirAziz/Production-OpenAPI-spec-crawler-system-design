@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0cab1021cef2",
+    "source_url": "https://raw.githubusercontent.com/Oana-Florentina/pumpkin-PATCH/dba52ceafab20bad3dda83bfae1317f7bc88c98d/openapi.yaml",
+    "fetched_at": "2026-06-26T08:57:03.441484+00:00",
+    "content_hash": "d3d752ffb6d007e9c19a3a384f96cb497a2b80bb5530c634f60c162adf5a1d3d",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "PhoA API",
+    "openapi_version": "openapi_3",
+    "paths_count": 13,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e58152edcb7b",
+    "source_url": "https://raw.githubusercontent.com/gwythyr9/wallpaper-server/18dcee61cb07809cbfb56c015ecb414f93bb90ab/swagger.yaml",
+    "fetched_at": "2026-06-26T08:58:11.380843+00:00",
+    "content_hash": "a652b8f1f03e443e60d630cbbc30ef67678b74abe89373afd5a65b2663d53ed5",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "unknown",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

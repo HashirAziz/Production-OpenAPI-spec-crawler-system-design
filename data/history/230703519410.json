@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "230703519410",
+    "source_url": "https://raw.githubusercontent.com/YesterKo/WAD2025_26/1be32920549d8013975f62672efdc5e34b69e38c/openapi.yaml",
+    "fetched_at": "2026-06-26T08:57:05.635459+00:00",
+    "content_hash": "80ab5a4c70faba107c173c9b03fa3477e593a5e43cd17abaecf040e5102f3118",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Backend endpoints",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

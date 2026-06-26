@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8ecb1996ad93",
+    "source_url": "https://raw.githubusercontent.com/supervoid13/restaurant_api/49a24ffb180c83573a565e150ce01af2b6b41e56/openapi.yaml",
+    "fetched_at": "2026-06-26T08:57:07.176956+00:00",
+    "content_hash": "2a418ffd73475ae0405d00d3e5b8aa9929d71faec256e7390467bc41bbfad769",
+    "info_version": "1.0.11",
+    "status": "new",
+    "title": "Y_LAB",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

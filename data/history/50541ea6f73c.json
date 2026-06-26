@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "50541ea6f73c",
+    "source_url": "https://raw.githubusercontent.com/Hilariordz/Rodriguez_Flores_Soriano_Proa-os_Calderon_Salazar_DWI_Unidad3/c9bbb5bfa90d7a3fa21658d39393b83df1e88bf2/openapi.yaml",
+    "fetched_at": "2026-06-26T08:57:09.430048+00:00",
+    "content_hash": "b6d88242c09a1624dd8b9105ea06af5be7c678cc019a7592acb237a5f7f87967",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "BonAppétit Web API",
+    "openapi_version": "openapi_3",
+    "paths_count": 15,
+    "path_diff": null
+  }
+]

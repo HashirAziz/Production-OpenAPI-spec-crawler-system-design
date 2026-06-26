@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9295a360e896",
+    "source_url": "https://raw.githubusercontent.com/dotoleeoak/apiary-test/e6bd40e17fbf051a018ad83ece40582ce819a7e7/swagger.yaml",
+    "fetched_at": "2026-06-26T08:58:03.373487+00:00",
+    "content_hash": "0656837f74b89df50c9782dae6033332402ec7b95bc5a845480172b431907870",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "swagger-test",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

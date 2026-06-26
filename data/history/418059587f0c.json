@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "418059587f0c",
+    "source_url": "https://raw.githubusercontent.com/MusicFolk/WeatherApp/aba9597bce3d83cb50e2e6ca95af498e8862c92a/openapi.yaml",
+    "fetched_at": "2026-06-26T08:57:10.298612+00:00",
+    "content_hash": "987e21bb612b839ad750c5cba9b97a699315b15dfffc239a0b0bbaa01c766ec2",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Weather App with Favorites API",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

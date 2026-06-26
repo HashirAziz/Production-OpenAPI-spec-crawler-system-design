@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "332a261c45de",
+    "source_url": "https://raw.githubusercontent.com/mumufoco/SupportPONTO/f7a451c4f113005a1b6008b6c8658f81bc25ee54/openapi.yaml",
+    "fetched_at": "2026-06-26T08:57:03.142214+00:00",
+    "content_hash": "54314edcdbf101c61a44b5e1e6ed96ff0a265a0199ab0666cbcdefb7a3dba9d3",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API Sistema de Ponto Eletrônico",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "cda8005cae8c",
+    "source_url": "https://raw.githubusercontent.com/SonicDMG/spec_coding_openrag_notebook_app/ce8d3e7e88f9d842b9c9dcf49506236a96d14af2/openapi.yaml",
+    "fetched_at": "2026-06-26T08:56:58.185532+00:00",
+    "content_hash": "4b9c9c7feb2a0370e86a8fb530ef2f09659cc7418342788c600d7e18e70706b2",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "NotebookLM OSS Clone API",
+    "openapi_version": "openapi_3",
+    "paths_count": 13,
+    "path_diff": null
+  }
+]

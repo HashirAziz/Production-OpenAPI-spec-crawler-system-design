@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "cf4b00371fd7",
+    "source_url": "https://raw.githubusercontent.com/bsergent/scorefrost-server/7990e534dbac34ac7008660364887d81e515b0a7/openapi.yaml",
+    "fetched_at": "2026-06-26T08:57:03.720901+00:00",
+    "content_hash": "dbb27c092277d4787026fa79f2e9c66520ac17c86b264bbcb83a08fa2005f410",
+    "info_version": "0.2.0",
+    "status": "new",
+    "title": "ScoreFrost API",
+    "openapi_version": "openapi_3",
+    "paths_count": 12,
+    "path_diff": null
+  }
+]

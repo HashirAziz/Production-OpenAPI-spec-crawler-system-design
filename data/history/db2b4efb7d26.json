@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "db2b4efb7d26",
+    "source_url": "https://raw.githubusercontent.com/COMBASE/cloud-api-v3-js-client/2c09782e8729f1238793cd25cc53e558516340fb/swagger.yaml",
+    "fetched_at": "2026-06-26T08:58:12.615500+00:00",
+    "content_hash": "40c5d90952daac161df5474822105c25f5e024461d35d448244bc5ed0c61c542",
+    "info_version": "3.0.0",
+    "status": "new",
+    "title": "KORONA.cloud API v3",
+    "openapi_version": "swagger_2",
+    "paths_count": 73,
+    "path_diff": null
+  }
+]

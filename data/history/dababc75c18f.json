@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "dababc75c18f",
+    "source_url": "https://raw.githubusercontent.com/speakeasy-sdks/nordtest/951e66acf198d3edcf0fac410504c7ff41690a4c/openapi.yaml",
+    "fetched_at": "2026-06-26T08:56:56.874853+00:00",
+    "content_hash": "a53102ec04ece25754ea9598d51183264d1329071831e0475400eb36dc1bf9df",
+    "info_version": "5.0",
+    "status": "new",
+    "title": "Accounts API",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "88465e337fb0",
+    "source_url": "https://raw.githubusercontent.com/pd-leukert/BecomingMuenchner/329dfea01333207d885a724960f4c279a4ec81b4/openapi.yaml",
+    "fetched_at": "2026-06-26T08:57:09.122618+00:00",
+    "content_hash": "5f698b7035a5f0d9e0a7f91e05da6dc862dea69c18b68240e29c6ebe39ee893f",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Immigration Workflow Broker API",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

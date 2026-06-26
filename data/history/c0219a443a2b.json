@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c0219a443a2b",
+    "source_url": "https://raw.githubusercontent.com/krlsedu/CscTrackerUpdater/e88a27fee98853daccf5cc8958cd99dda2d2ea02/swagger.yaml",
+    "fetched_at": "2026-06-26T08:58:18.993063+00:00",
+    "content_hash": "d35bd2798bd7c09eb72c5997813ffdaf56f6740d31be5b75d5566a210a12dd78",
+    "info_version": "24.02.009.",
+    "status": "new",
+    "title": "CscTrackerInvest",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

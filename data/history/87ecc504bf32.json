@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "87ecc504bf32",
+    "source_url": "https://raw.githubusercontent.com/MuneerAhmed03/uptut/2b9d374515277aa59fa7673f690b5bd2c7c25353/openapi.yaml",
+    "fetched_at": "2026-06-26T08:57:13.199443+00:00",
+    "content_hash": "93cde8f1d23291e03e4f380c62ce09bd74451978c100decd147fbc4ddbe1fe15",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Library Management API",
+    "openapi_version": "openapi_3",
+    "paths_count": 20,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3a013c4dc20c",
+    "source_url": "https://raw.githubusercontent.com/flo-hauser/recipe-collection-api-doc/4c5c8f01dde37008667f08aa2fef7bba75a17093/openapi.yaml",
+    "fetched_at": "2026-06-26T08:57:07.807288+00:00",
+    "content_hash": "f31d2f39d0544164d3dd83f74d5b226a6a219fe0cd9df88f427ec1d72e16a653",
+    "info_version": "1.1.0",
+    "status": "new",
+    "title": "recipe-collection API",
+    "openapi_version": "openapi_3",
+    "paths_count": 21,
+    "path_diff": null
+  }
+]

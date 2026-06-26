@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b9f078247bf4",
+    "source_url": "https://raw.githubusercontent.com/gndzmyst/challangeBackend-4/b2ab2d1849a7d02568f20ac661c3e9549d2047eb/swagger.yaml",
+    "fetched_at": "2026-06-26T08:58:18.303421+00:00",
+    "content_hash": "6a825faab08862b2b965571d935ec3ee0328cf1bdaacf64701c35426d07d5789",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "BanKSystem",
+    "openapi_version": "swagger_2",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5341143ae501",
+    "source_url": "https://raw.githubusercontent.com/isaacxlim/govtechLLM/778a47aef68ccf9021dc08fda48b9f0ff7473ffa/openapi.yaml",
+    "fetched_at": "2026-06-26T08:57:05.889376+00:00",
+    "content_hash": "8fcd47eb0977f20fd202299fa7f8501d5540e3f5bb04eee310f2e9e46dd5ff3c",
+    "info_version": "2.0.0",
+    "status": "new",
+    "title": "LLM Interaction API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

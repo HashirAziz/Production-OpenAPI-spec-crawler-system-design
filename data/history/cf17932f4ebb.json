@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "cf17932f4ebb",
+    "source_url": "https://raw.githubusercontent.com/erikmaday/clauditorium/27bd3f24112b68d5cca20c2111bbe7df9b9edb57/openapi.yaml",
+    "fetched_at": "2026-06-26T08:57:00.524556+00:00",
+    "content_hash": "7f33e4a14f7d01654e4dcfb702d1199318be3bc42b52a0d6670ca4da7025f8a3",
+    "info_version": "1.4.0",
+    "status": "new",
+    "title": "Clauditorium API",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

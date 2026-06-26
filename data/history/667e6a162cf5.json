@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "667e6a162cf5",
+    "source_url": "https://raw.githubusercontent.com/mahmoddddd/LMS-JobPortal/98cb84e284175a988b81a4da5a4590a16796c960/swagger.yaml",
+    "fetched_at": "2026-06-26T08:58:01.530643+00:00",
+    "content_hash": "bf48e20772424aac155d7df2d88f4cd81c5b72ed5b0b615e54a05b799d893b07",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "LMSJobPORTAL API",
+    "openapi_version": "openapi_3",
+    "paths_count": 12,
+    "path_diff": null
+  }
+]

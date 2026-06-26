@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0ec545a99445",
+    "source_url": "https://raw.githubusercontent.com/ZhuXiaoTianYa/cpp-wechat-im-microservice/7b0119729c156bb2a37c76ed2354b9b9302a68f3/openapi.yaml",
+    "fetched_at": "2026-06-26T08:57:11.365065+00:00",
+    "content_hash": "207b5424b14f18ef47795db168749d27c0af0cb74a7a3547c1b22757dce1fe72",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "即时通讯系统网关 API (Protobuf)",
+    "openapi_version": "openapi_3",
+    "paths_count": 28,
+    "path_diff": null
+  }
+]

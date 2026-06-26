@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6a070f864684",
+    "source_url": "https://raw.githubusercontent.com/Yamakuprina/YandexShops/4ed64a15b212ffdd2213181c832f43bcaf92d829/openapi.yaml",
+    "fetched_at": "2026-06-26T08:57:06.429734+00:00",
+    "content_hash": "5ebb903d72df8321a2560db0a7fb46ba6b86bfc5c3bab79754d0fe55531c6d57",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Mega Market Open API",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d840b5677c4f",
+    "source_url": "https://raw.githubusercontent.com/asfrcentral/content-engine-api/9d79654a153ddcd5c1914493a79d375dc1ada1a3/openapi.yaml",
+    "fetched_at": "2026-06-26T08:56:59.757002+00:00",
+    "content_hash": "f227afae71b6c798981ece6eed94c90dc5ea0be195e7c56f0f43b1dfa65ecf1b",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Content Campaign Service",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "65de823d182d",
+    "source_url": "https://raw.githubusercontent.com/chengchengcheng521/oscms-frontend/30d82e0e92cd52b1d4d8c1a498b3997cde38e24f/openapi.yaml",
+    "fetched_at": "2026-06-26T08:57:05.376037+00:00",
+    "content_hash": "61e88e3e55472baae74fbee198e4c67d2b2e68ac3eb59334cf988217c657cb76",
+    "info_version": "1.0.1",
+    "status": "new",
+    "title": "OSCMS Backend API",
+    "openapi_version": "openapi_3",
+    "paths_count": 28,
+    "path_diff": null
+  }
+]

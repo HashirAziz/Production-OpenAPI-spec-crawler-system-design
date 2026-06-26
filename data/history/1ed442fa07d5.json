@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1ed442fa07d5",
+    "source_url": "https://raw.githubusercontent.com/untra/scala-play-camera-action/363f0b5c78dd2b86d5f8a32d2b97de89a54f00a5/openapi.yaml",
+    "fetched_at": "2026-06-26T08:57:10.016783+00:00",
+    "content_hash": "d8022b8ebce5fb62db229a507102cbc8287173180dcca1932107631fcd3b13c3",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "IP Camera Coordinator API",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

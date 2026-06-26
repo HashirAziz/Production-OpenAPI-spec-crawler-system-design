@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d6614c43b4bd",
+    "source_url": "https://raw.githubusercontent.com/vincentwi/ar-glasses-master-sdk/0a87f352986e25e8726c93eb19a395d253e0f2d8/openapi.yaml",
+    "fetched_at": "2026-06-26T08:57:12.174189+00:00",
+    "content_hash": "371f46e2b088386cb35b0a2793de35bc99d967b66a62ce7f81babd68c3fbc44a",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "AR Glasses Master SDK API",
+    "openapi_version": "openapi_3",
+    "paths_count": 510,
+    "path_diff": null
+  }
+]

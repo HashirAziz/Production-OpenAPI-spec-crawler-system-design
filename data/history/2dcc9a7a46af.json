@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2dcc9a7a46af",
+    "source_url": "https://raw.githubusercontent.com/gkoberger/34sdfasdf/a0ad4f60747f9f108be4fff5f206f9ed2835f780/swagger.yaml",
+    "fetched_at": "2026-06-26T08:58:13.893034+00:00",
+    "content_hash": "107c8a2e161440f9175b367c910c3711bc512d882521e09e748211d2f2f04e52",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "temp",
+    "openapi_version": "openapi_3",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]
