@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "bcf4aa19ec5a",
+    "source_url": "https://raw.githubusercontent.com/Olumarshal/Locale-API-Project/56bae016f07a76e37007dfa5f05bc9c7a4bfafe5/swagger.yaml",
+    "fetched_at": "2026-06-27T08:32:14.024034+00:00",
+    "content_hash": "49bd7beb728ab3391c2039b79fd282bc320516e8f5db0a116279f2a6baeccc48",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Locale API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

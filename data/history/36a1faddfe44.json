@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "36a1faddfe44",
+    "source_url": "https://raw.githubusercontent.com/Daniel54088/xero-test-api/76fcd4503afe69506ce1862bc12256f500559968/swagger.yaml",
+    "fetched_at": "2026-06-27T08:32:01.701300+00:00",
+    "content_hash": "3e64255d1665cd68b4e6f176a5e894e672525358093dc6719bf14e358df061b3",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "unknown",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

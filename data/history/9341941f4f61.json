@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9341941f4f61",
+    "source_url": "https://raw.githubusercontent.com/ahemadpirzada-cloud/Backstage-API-Templates/b48f0e34dae32aa1952f2c9360b918da230f948e/swagger.yaml",
+    "fetched_at": "2026-06-27T08:32:11.434980+00:00",
+    "content_hash": "aa0f63f5d62adb9bb3205881fe8b3076eff5c413f8c1c47acbf945e0574aff65",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "unknown",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

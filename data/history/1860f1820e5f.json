@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1860f1820e5f",
+    "source_url": "https://raw.githubusercontent.com/F3rNaNDEZ57/realtime_dbUpdate_and_Pushnotifications/c3db615df578ab62202b7bbf89f544c4d31ccabc/swagger.yaml",
+    "fetched_at": "2026-06-27T08:32:12.788097+00:00",
+    "content_hash": "019feb4ff6fba22d6c92fa5ec37b3c50aaf4c992b5d827f9ac8e57290e45cfe3",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Test Update Data API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

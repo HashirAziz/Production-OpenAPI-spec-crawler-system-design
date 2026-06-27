@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b8b4070f5dd1",
+    "source_url": "https://raw.githubusercontent.com/Wootsername/auth-system-backend/346ebf89ab7bc5bc10f834c18a092707606f0554/swagger.yaml",
+    "fetched_at": "2026-06-27T08:32:00.761469+00:00",
+    "content_hash": "4daa7323eaf690116d42839eab6f9d991b4c37b95c2deee6acc0cbc14e2fa845",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Auth System API",
+    "openapi_version": "openapi_3",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

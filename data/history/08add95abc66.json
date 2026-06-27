@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "08add95abc66",
+    "source_url": "https://raw.githubusercontent.com/Hezelnat30/backend-netflix/93b41f495631a03e62117d6b5f88098cb85b6897/swagger.yaml",
+    "fetched_at": "2026-06-27T08:32:13.188287+00:00",
+    "content_hash": "4f7305ee274fba421aea50d58bb8818613f8a197c6bf0c6bbf5998991d79f4a6",
+    "info_version": null,
+    "status": "new",
+    "title": "Netflix Clone API Project",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

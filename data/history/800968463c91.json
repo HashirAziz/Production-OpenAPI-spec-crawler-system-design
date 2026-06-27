@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "800968463c91",
+    "source_url": "https://raw.githubusercontent.com/jabsonDevElias/testeestagiodesenvolvedorbackend/5674e6ce1c6696ac7ed6ca836cbd0e3cfb2d5046/swagger.yaml",
+    "fetched_at": "2026-06-27T08:32:03.693715+00:00",
+    "content_hash": "516f0780319a9aafacb9f799080fec2d67d672e8fbb7650978fc01f502045175",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API de Tarefas",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

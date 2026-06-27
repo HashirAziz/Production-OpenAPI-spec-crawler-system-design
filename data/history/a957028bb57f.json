@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a957028bb57f",
+    "source_url": "https://raw.githubusercontent.com/CSCfi/fairdata-ida-v3/d7923e8c47bd6189d89739006afa166684bf56d9/nextcloud/apps/webhook_listeners/openapi.json.license",
+    "fetched_at": "2026-06-27T08:31:48.844729+00:00",
+    "content_hash": "47452c22877e6f1db5e7f47cac7dafdf88b4f3ab36609f6de2f31f10ba324978",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "unknown",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

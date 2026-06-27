@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e0d286acc037",
+    "source_url": "https://raw.githubusercontent.com/yana617/hos-service/3c6564130f894cf2340a85b89bfc4b1d72333bdb/swagger.yaml",
+    "fetched_at": "2026-06-27T08:31:59.689773+00:00",
+    "content_hash": "346a7c2b5b347a81fcdb3090421a3c998d7bbdfe1e82176495ac81ea85735483",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

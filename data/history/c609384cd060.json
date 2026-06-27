@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c609384cd060",
+    "source_url": "https://raw.githubusercontent.com/octobox/octobox/3bd52bf6ebec2810a2e7f9781582e892e564d196/openapi.yaml",
+    "fetched_at": "2026-06-27T08:30:59.561728+00:00",
+    "content_hash": "97190ddfcb2779db6a5cf047723e80d66f2862d772454122722e401898e9057b",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Octobox",
+    "openapi_version": "openapi_3",
+    "paths_count": 14,
+    "path_diff": null
+  }
+]

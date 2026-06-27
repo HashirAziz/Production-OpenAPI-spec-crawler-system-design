@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d74afd788ee5",
+    "source_url": "https://raw.githubusercontent.com/krgarima/complete-ecommerce-backend/433bf3d97dbfb289b68eca199f6ef93a15eeeac3/swagger.yaml",
+    "fetched_at": "2026-06-27T08:32:11.231148+00:00",
+    "content_hash": "6481d6eb352c5468f5bcb698b7018993b8e78250ff9b9f04cdcaa31847efc863",
+    "info_version": "1.1.0",
+    "status": "new",
+    "title": "Tshirt store API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

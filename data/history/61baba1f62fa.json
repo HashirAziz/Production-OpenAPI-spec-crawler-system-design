@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "61baba1f62fa",
+    "source_url": "https://raw.githubusercontent.com/gkoberger/micro-test-993/d56b1333dbb486646fec0a93f4a021a7e946e5c1/swagger.yaml",
+    "fetched_at": "2026-06-27T08:32:12.585701+00:00",
+    "content_hash": "5e0ee6f20afe217fd2748aa9b2df4c98f2ab05197242e5478ccb9d30134bd1f0",
+    "info_version": "0.0.8",
+    "status": "new",
+    "title": "temp",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

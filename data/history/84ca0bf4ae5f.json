@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "84ca0bf4ae5f",
+    "source_url": "https://raw.githubusercontent.com/goprammer/go_dictionary/47a90c303457a04a6b566680e109ecb322546fd8/swagger.yaml",
+    "fetched_at": "2026-06-27T08:32:07.078497+00:00",
+    "content_hash": "b9769ef8c95010366157dd2dbb90a0820efb3f2195a2c2c889b1a4c59c675627",
+    "info_version": null,
+    "status": "new",
+    "title": "RESTFUL API for Open Source Gutenburg Project Dictionary.",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

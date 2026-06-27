@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d320ab6f6ec9",
+    "source_url": "https://raw.githubusercontent.com/emreyoleridev/video-cropper/1a08c045db11dc49e5bb7b2dcd9435af13c9ec12/swagger.yaml",
+    "fetched_at": "2026-06-27T08:32:11.621635+00:00",
+    "content_hash": "e011057c174c0c30151e9178f8df3b40a2f029ace3cd5fccf54fd7fcaff7e55f",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Video Cropper API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

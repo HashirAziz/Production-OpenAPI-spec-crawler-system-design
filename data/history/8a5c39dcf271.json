@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8a5c39dcf271",
+    "source_url": "https://raw.githubusercontent.com/warblerorg/warbler-api/bd96393a2313990c7d62fe4e1f9005e762b51b2d/swagger.yaml",
+    "fetched_at": "2026-06-27T08:31:57.578888+00:00",
+    "content_hash": "ff011b4a27939763cd23e1ac4ce1758e6294a8cb4445ae8c7f3a258b66621021",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Warbler",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1abc61dc668f",
+    "source_url": "https://raw.githubusercontent.com/KingDasWinx/Winxbuy-printer/4e406242ce46cf8ce03cc5856fb14f365013fb86/swagger.yaml",
+    "fetched_at": "2026-06-27T08:32:13.386171+00:00",
+    "content_hash": "02c404e75977783177eb5d0f8698810b84ca0509583b7622d68d5c37cff406e5",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Local Printer API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

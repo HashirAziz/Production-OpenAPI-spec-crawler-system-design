@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "afb1623f85a8",
+    "source_url": "https://raw.githubusercontent.com/gbcpl/ArgentBank-frontend/74b504601e3a6a3a907bd38aad7501e018e24a1a/swagger.yaml",
+    "fetched_at": "2026-06-27T08:32:00.332965+00:00",
+    "content_hash": "441a81dfabe1baee8431b2fc1d3faf9fddf938ab21ed8c8326fbdf7de67ae2a9",
+    "info_version": "1.0.1",
+    "status": "new",
+    "title": "Bank Argent API documentation",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

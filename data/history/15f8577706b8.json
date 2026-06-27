@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "15f8577706b8",
+    "source_url": "https://raw.githubusercontent.com/Zagreeed/node-mysql-api/50eb035d660ad991faff3fb2ca8ae6e7c6e3abfc/swagger.yaml",
+    "fetched_at": "2026-06-27T08:32:03.050328+00:00",
+    "content_hash": "cf622303167ca26f07861b6af063e0c194109694d7326aea574fedf33def5313",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Node.js Sign-up and Verification API",
+    "openapi_version": "openapi_3",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6b6823db1310",
+    "source_url": "https://raw.githubusercontent.com/ChiragG2101/pesu-backend/f7f993c7bdcebd725decdc18c234dc0f8e571aa4/swagger.yaml",
+    "fetched_at": "2026-06-27T08:32:09.811958+00:00",
+    "content_hash": "c09a4729d25b2e3094c3db347f727624c07e01411dec7105a9ac4048f4043a9e",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "People API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

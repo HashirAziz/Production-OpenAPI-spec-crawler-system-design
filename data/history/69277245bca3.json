@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "69277245bca3",
+    "source_url": "https://raw.githubusercontent.com/devLeoNguyn/backend-app/0192432f84eba6f91d9761d8785b963a8f9d8ab5/swagger.yaml",
+    "fetched_at": "2026-06-27T08:32:14.716549+00:00",
+    "content_hash": "d6db9aeddce1e872724eacb7dd21299c7fb95e4f992eab37c0e808d3e95ef7a0",
+    "info_version": "1.4.0",
+    "status": "new",
+    "title": "Movie Backend Frontend API",
+    "openapi_version": "openapi_3",
+    "paths_count": 52,
+    "path_diff": null
+  }
+]

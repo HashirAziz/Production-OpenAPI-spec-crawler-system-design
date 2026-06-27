@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a8e4ec94b308",
+    "source_url": "https://raw.githubusercontent.com/laitoussyassine/CRUD-Recipe-API-with-ExpressJS-and-MongoDB/5bc9031d77c0c28d443dd30f2d2b6c663e283b29/swagger.yaml",
+    "fetched_at": "2026-06-27T08:32:06.337807+00:00",
+    "content_hash": "3332b173246c9586994f9e59011312be6f951a1996ae30b3570741e5f54fdc9d",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Recipe API",
+    "openapi_version": "swagger_2",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ef286e247fc0",
+    "source_url": "https://raw.githubusercontent.com/loftx/gnucash-rest/a426593f4b78c47b6a7faea91d4c0ce33814bbca/swagger.yaml",
+    "fetched_at": "2026-06-27T08:31:55.083297+00:00",
+    "content_hash": "5cba961cd211d4db729d9d47ecb5cb2a42e642f61b600ea50f64c933d1714429",
+    "info_version": "Alpha",
+    "status": "new",
+    "title": "Gnucash Rest API",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

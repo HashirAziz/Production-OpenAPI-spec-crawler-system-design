@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "966bd5d74f86",
+    "source_url": "https://raw.githubusercontent.com/Shinesocial/Parrot-Nodejs/a713b3e4ca4d82842715dddb973e0cd90d977f7f/swagger.yaml",
+    "fetched_at": "2026-06-27T08:31:58.321358+00:00",
+    "content_hash": "ef1a4b4d51130e285c3b51b7691e8332e433e257122143c6115a4b8d02b1f4ba",
+    "info_version": "0.1.9",
+    "status": "new",
+    "title": "Development API",
+    "openapi_version": "openapi_3",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

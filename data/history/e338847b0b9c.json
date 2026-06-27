@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e338847b0b9c",
+    "source_url": "https://raw.githubusercontent.com/Guraspinho/LavaPi-Technical-Assesment/5e3785c20b54b24af6eb3e8c50abb3491d2ab9ce/swagger.yaml",
+    "fetched_at": "2026-06-27T08:32:01.498427+00:00",
+    "content_hash": "d63d06f9792a1e3cade1cb5d448bc191a86a84134b2a535655c3f086360e5668",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Book Management System API",
+    "openapi_version": "openapi_3",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

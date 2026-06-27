@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "fd4cfa2e0288",
+    "source_url": "https://raw.githubusercontent.com/Jatin9026/backendd/6cf98e25e4b24d38a5786cd4d966459fe9433b8a/swagger.yaml",
+    "fetched_at": "2026-06-27T08:32:09.622249+00:00",
+    "content_hash": "2a5126622f77f4aaea4c13c2aa8ec3f1d1d0c3af3595c3e040e0a80c92da7a1c",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "E-commerce Backend API",
+    "openapi_version": "openapi_3",
+    "paths_count": 52,
+    "path_diff": null
+  }
+]

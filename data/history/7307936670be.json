@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "7307936670be",
+    "source_url": "https://raw.githubusercontent.com/daiagi/polkadot-light-client/014d9e53fa6d6c9fc59455105b2c90d0588cec20/swagger.yaml",
+    "fetched_at": "2026-06-27T08:31:58.705830+00:00",
+    "content_hash": "ce9f441973a7154d994158ed505f29fbad6be2892da2c1a0ad71655fb15ad4b9",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "LightClient API",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

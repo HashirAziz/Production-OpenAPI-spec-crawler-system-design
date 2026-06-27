@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6b8f92902b21",
+    "source_url": "https://raw.githubusercontent.com/handmadee/velo-booking/ece15e0dd310fd86f8de5429a5f624edbe0467b7/swagger.yaml",
+    "fetched_at": "2026-06-27T08:32:01.098725+00:00",
+    "content_hash": "960509a8fea9789c532433290d899530d7fe05ef6268da57dac1c3fff6bdad82",
+    "info_version": "1.0.11",
+    "status": "new",
+    "title": "Velo Booking - Badminton Court Reservation System",
+    "openapi_version": "openapi_3",
+    "paths_count": 24,
+    "path_diff": null
+  }
+]
