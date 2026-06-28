@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ff6b06d373f7",
+    "source_url": "https://raw.githubusercontent.com/Central-University-IT-prod/2025-final-command-team-40-supernova_team/77e8117a9229ac2de6fb1986ec0668ffe4f791b5/openapi.json",
+    "fetched_at": "2026-06-28T08:46:42.262729+00:00",
+    "content_hash": "a3c5ce52e7af72f7349368e36f763cc7d8f5eaa0aa2a5ac22eb1d27ee2a47288",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "Supernova",
+    "openapi_version": "openapi_3",
+    "paths_count": 22,
+    "path_diff": null
+  }
+]

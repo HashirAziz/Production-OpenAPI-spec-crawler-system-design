@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b3e4ba676713",
+    "source_url": "https://raw.githubusercontent.com/zvdy/yamlet/8437d1be80d95c2f301a6753829175115ceaa0ac/openapi.yaml",
+    "fetched_at": "2026-06-28T08:46:19.563407+00:00",
+    "content_hash": "1a9e2078dce7d64befb7f1e77f63a62fa2228c17572c2cd9550b177d330990a7",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "Yamlet API",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

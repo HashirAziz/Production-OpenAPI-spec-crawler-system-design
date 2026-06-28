@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "435f1fd1f7ff",
+    "source_url": "https://raw.githubusercontent.com/rubenselander/StatChat-GPT/9debc0cb180a4b442dd458116fffa8a04ac9b9d1/openapi.json",
+    "fetched_at": "2026-06-28T08:46:49.999650+00:00",
+    "content_hash": "5fbb373ba30afba1e2e99196a45b2cd41419bff8490c18c69d498eec19c3d912",
+    "info_version": "v1.0.1",
+    "status": "new",
+    "title": "Document Server",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

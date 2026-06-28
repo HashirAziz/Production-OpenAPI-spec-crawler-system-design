@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6daea0854835",
+    "source_url": "https://raw.githubusercontent.com/B10nicle/yandex-academy-2023/51763ae26f10e2d5c1be6f950acde5cc300391eb/openapi.json",
+    "fetched_at": "2026-06-28T08:46:50.231249+00:00",
+    "content_hash": "23c5ea0a585a83c1d1e74ecbc6dc87d7cd748ea07b22a402d902d99646a4c17c",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Yandex Lavka",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

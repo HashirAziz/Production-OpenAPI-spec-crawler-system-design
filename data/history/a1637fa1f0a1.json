@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a1637fa1f0a1",
+    "source_url": "https://raw.githubusercontent.com/FooFishes/riverpod_demo/d401a071b2297b5ab07af94d950325ae439d8c12/openapi.json",
+    "fetched_at": "2026-06-28T08:46:49.192111+00:00",
+    "content_hash": "2f4d3d01ae780b08aa42d292f922f3f4a613e9b2b08f221ad88948c5a1d5df22",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "API Documentation",
+    "openapi_version": "openapi_3",
+    "paths_count": 21,
+    "path_diff": null
+  }
+]

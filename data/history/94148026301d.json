@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "94148026301d",
+    "source_url": "https://raw.githubusercontent.com/weijunjiang123/graphragflow/8fe3094d4108ed55dc7b3979a1b957ca5c57d033/openapi.json",
+    "fetched_at": "2026-06-28T08:46:46.952976+00:00",
+    "content_hash": "0e4835c460ca87c3abd6be1300afc4f73e3d94090155b27ce7ae5f6f868002c1",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "GraphRAG Q&A API",
+    "openapi_version": "openapi_3",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

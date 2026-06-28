@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "54cd989cd5ff",
+    "source_url": "https://raw.githubusercontent.com/montyaction/node-native-http-swagger/48576f8dcfd50b411b0645143c89c4ada15101b5/openapi.json",
+    "fetched_at": "2026-06-28T08:46:50.444110+00:00",
+    "content_hash": "017b31a945b9e900faf9f825a56663ea7ea77c1cc3b397ca3c26d42c75176594",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Native Server API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

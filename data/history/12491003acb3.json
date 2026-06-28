@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "12491003acb3",
+    "source_url": "https://raw.githubusercontent.com/captaindatatech/captaindata-mcp/889fc53192b4c59b8038109bcf4a80e25c41de34/openapi.json",
+    "fetched_at": "2026-06-28T08:46:46.694966+00:00",
+    "content_hash": "39c0883825fedce40c8848d1671848aeaab7d7be911054ee3fda9b87b3f00623",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Captain Data MCP API",
+    "openapi_version": "openapi_3",
+    "paths_count": 12,
+    "path_diff": null
+  }
+]
