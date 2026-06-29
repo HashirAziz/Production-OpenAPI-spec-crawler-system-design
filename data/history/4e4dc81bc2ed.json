@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4e4dc81bc2ed",
+    "source_url": "https://raw.githubusercontent.com/Poogast123/GestionCredit/a5d7dc8db0e00d37c0dff82517f1a0ab95ee9ad1/openapi.yaml",
+    "fetched_at": "2026-06-29T10:48:17.814282+00:00",
+    "content_hash": "13a04c5807a3f8f12de9b6fe51744484b09e10987107eed10a19f66ab53420ef",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API Documentation - Auth, Clients, Credits",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

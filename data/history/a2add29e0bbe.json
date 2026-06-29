@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a2add29e0bbe",
+    "source_url": "https://raw.githubusercontent.com/mybca-app/mybca-server/5a313ecaee9761510008af996c285da26dba5991/openapi.json",
+    "fetched_at": "2026-06-29T10:48:41.638037+00:00",
+    "content_hash": "7a13feae2c1e67bf4aca4fbc34be5d6771abec0344646b6d222be5827ed810be",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "MyBCA.Server | v1",
+    "openapi_version": "openapi_3",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

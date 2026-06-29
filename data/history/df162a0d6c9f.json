@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "df162a0d6c9f",
+    "source_url": "https://raw.githubusercontent.com/akila-UCD/AutoDFBench/9885ab05282456a81df77e61b0fd00b9bb6f8316/openapi.yaml",
+    "fetched_at": "2026-06-29T10:48:19.920230+00:00",
+    "content_hash": "fd86b052c2240bc32520e24e7de110c467bbf1d9f42e4d5e0eb0cc483afe3915",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "AutoDFBench API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c29ac3cd1d7e",
+    "source_url": "https://raw.githubusercontent.com/ImaiJiro/challengeBackend/b248bf60e7815574274d180647085f0a5a51ddd6/swagger.yaml",
+    "fetched_at": "2026-06-29T10:49:21.184838+00:00",
+    "content_hash": "482e42ccf390ad30d34b8167ded1bf128ff1baa080606c632ec2866b9a6fd6ec",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "unknown",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

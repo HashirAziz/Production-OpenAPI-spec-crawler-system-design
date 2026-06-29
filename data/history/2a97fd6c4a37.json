@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2a97fd6c4a37",
+    "source_url": "https://raw.githubusercontent.com/zolochivska0990/bc2024-6/42fef6bd60629a680461a075a5521baa76841e59/swagger.yaml",
+    "fetched_at": "2026-06-29T10:49:25.865495+00:00",
+    "content_hash": "374138e2e77f272366a100dde8b6e4d008a9deec232421e6071d5251dad85abc",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Documentation for Zolochivska A.",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

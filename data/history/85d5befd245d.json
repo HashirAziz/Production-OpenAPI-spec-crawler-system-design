@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "85d5befd245d",
+    "source_url": "https://raw.githubusercontent.com/Zang983/test_backend_docker/74372934f6e5866fa7ea86214b337c30e990a598/swagger.yaml",
+    "fetched_at": "2026-06-29T10:49:24.808361+00:00",
+    "content_hash": "e61d9e03df3a173fc2a3b32eac322a4329626cca9ba5ebe9251a0df129268b43",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Personal Finance API",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

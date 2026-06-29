@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4d978df1c02b",
+    "source_url": "https://raw.githubusercontent.com/BharathChandra3681/Nalanda-Library/259e621ed5396618c8de295c5f28294333070789/swagger.yaml",
+    "fetched_at": "2026-06-29T10:49:09.801848+00:00",
+    "content_hash": "3c79183a29eddd63f8f8843e2f19ea7cac5f983e50240666ccf411f1b8d2cc61",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Nalanda Library Management System API",
+    "openapi_version": "openapi_3",
+    "paths_count": 20,
+    "path_diff": null
+  }
+]

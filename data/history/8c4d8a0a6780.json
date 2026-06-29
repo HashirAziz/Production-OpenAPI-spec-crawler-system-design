@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8c4d8a0a6780",
+    "source_url": "https://raw.githubusercontent.com/Arch-Network/arch-wallet-hub/a4262140ff90afa0c5f3713d7fec5b81ee2a9fb8/openapi.yaml",
+    "fetched_at": "2026-06-29T10:48:02.976740+00:00",
+    "content_hash": "c70326ba76a9d7288978ea7b70bbe0834675652cd5adc571fd136d770f14cf07",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Arch Indexer API",
+    "openapi_version": "openapi_3",
+    "paths_count": 45,
+    "path_diff": null
+  }
+]

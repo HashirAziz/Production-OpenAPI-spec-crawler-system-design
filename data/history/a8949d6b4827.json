@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a8949d6b4827",
+    "source_url": "https://raw.githubusercontent.com/SmartPiglet/documentationai-Docs/90af180a8137939e60d48176788be1dfd1e992bf/openapi.yaml",
+    "fetched_at": "2026-06-29T10:48:15.718435+00:00",
+    "content_hash": "5cfd1bc364d8ef132952cb345f6f0a860374af057f9dbbc81240bb1d2f559f69",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "VoxelAddons Documentation",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

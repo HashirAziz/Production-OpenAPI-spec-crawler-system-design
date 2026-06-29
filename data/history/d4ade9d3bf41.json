@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d4ade9d3bf41",
+    "source_url": "https://raw.githubusercontent.com/approveapi/approveapi-haskell/00be95f2bcbf5a647ecc095df3f3a505024cd559/openapi.yaml",
+    "fetched_at": "2026-06-29T10:48:11.169521+00:00",
+    "content_hash": "2bf935afe8f0c4726e83ec7e8aa0026d9674e7e161856179c2d97d2d85b98dce",
+    "info_version": "1.0.1",
+    "status": "new",
+    "title": "ApproveAPISwagger",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

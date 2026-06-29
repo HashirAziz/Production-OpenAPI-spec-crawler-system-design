@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e604b6de5963",
+    "source_url": "https://raw.githubusercontent.com/kotalco/api-documentation/80d75ca6bf10fc254459fd1c1a746bede0988a1e/openapi.yaml",
+    "fetched_at": "2026-06-29T10:48:14.563833+00:00",
+    "content_hash": "d07b77c87f523455eb6c6ebd10e18706072d9fda1a016d31e3d0a645d317f01d",
+    "info_version": "v1.0",
+    "status": "new",
+    "title": "Kotal API",
+    "openapi_version": "openapi_3",
+    "paths_count": 20,
+    "path_diff": null
+  }
+]

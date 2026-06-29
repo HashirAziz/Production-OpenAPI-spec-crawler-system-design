@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "023588a06dbf",
+    "source_url": "https://raw.githubusercontent.com/bneiluj/stake-capital-cosmos-api/f7a5aac6b496e983e84e05d3e1ccc98322d858b5/swagger.yaml",
+    "fetched_at": "2026-06-29T10:49:14.850010+00:00",
+    "content_hash": "a59780248d50723e9702b616d0dc90827de6099947bd9d989810d2e9b774df09",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Cosmos API for public calls",
+    "openapi_version": "swagger_2",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

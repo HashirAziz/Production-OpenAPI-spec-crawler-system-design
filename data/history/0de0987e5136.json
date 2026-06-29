@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0de0987e5136",
+    "source_url": "https://raw.githubusercontent.com/leonardodsrocha/desafio-grupoadrianocobuccio/20c9321636d2090c80e82754431c776d62676ece/openapi.yaml",
+    "fetched_at": "2026-06-29T10:48:07.526505+00:00",
+    "content_hash": "0a7d1cd5a106b27093c1631a5d01d0a657063cabdc822be49952aa225d753e7b",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Carteira Digital — API",
+    "openapi_version": "openapi_3",
+    "paths_count": 24,
+    "path_diff": null
+  }
+]

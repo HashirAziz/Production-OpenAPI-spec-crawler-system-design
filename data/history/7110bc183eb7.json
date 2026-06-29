@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "7110bc183eb7",
+    "source_url": "https://raw.githubusercontent.com/Mohammad-Al-Ghareeb/tracking-back/beb0bba1fe06c1a598169b624fb8fdb3186cf0b0/openapi.yaml",
+    "fetched_at": "2026-06-29T10:48:14.078299+00:00",
+    "content_hash": "012c6a190b50eca730a622f108580d282b16201255aa6ea27e2ac6ed1dc051f9",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Tracking System API",
+    "openapi_version": "openapi_3",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

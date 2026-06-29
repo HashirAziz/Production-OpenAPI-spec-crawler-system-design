@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "bd31a43418fa",
+    "source_url": "https://raw.githubusercontent.com/ashleydavis/fuzz-testing-from-open-api/a74a3ab95f8d9343948392cdad41b002616bfbe1/openapi.yaml",
+    "fetched_at": "2026-06-29T10:48:06.796521+00:00",
+    "content_hash": "3ff635e1710fd8ff935246f435eeedbb03f5695e7bec58e1308bf7a37e3e05e0",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "JSON Placeholder API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

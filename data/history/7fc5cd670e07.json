@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "7fc5cd670e07",
+    "source_url": "https://raw.githubusercontent.com/harinithati/sentinelx-ai/8259e9dbc7a1098e3d3ab207028eb39e00b2419c/openapi.yaml",
+    "fetched_at": "2026-06-29T10:48:01.073767+00:00",
+    "content_hash": "54508f98602775e52477359c568a88f8e26197df4576ad324348abfee2c15ed9",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "Api",
+    "openapi_version": "openapi_3",
+    "paths_count": 15,
+    "path_diff": null
+  }
+]

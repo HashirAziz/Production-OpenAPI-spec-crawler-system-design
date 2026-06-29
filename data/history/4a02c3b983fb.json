@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4a02c3b983fb",
+    "source_url": "https://raw.githubusercontent.com/Praveenvuddagiri/Tripify_Backend/173fbf17568d250d037ac10c0ddcd2c59fdd7438/swagger.yaml",
+    "fetched_at": "2026-06-29T10:49:19.718687+00:00",
+    "content_hash": "8a371a3e6310b7f7756538751d15f0bc989c924777dc7794bcc8fa46d8f61f21",
+    "info_version": "1.1.0",
+    "status": "new",
+    "title": "Toursim App",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

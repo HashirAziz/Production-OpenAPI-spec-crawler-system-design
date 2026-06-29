@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ee2fe52ff2ac",
+    "source_url": "https://raw.githubusercontent.com/Jocelynpungwe/portfolio-fullstack-jocestech-admin-doc/3daf60451f63c1bd55cdebca5a357839c1df6c69/swagger.yaml",
+    "fetched_at": "2026-06-29T10:49:22.247992+00:00",
+    "content_hash": "8c670bae0198bd80380a651544e5ab46d4465de3613d4e0c9c1bff3a012d18d9",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "FULLSTACK JOCESTECH",
+    "openapi_version": "openapi_3",
+    "paths_count": 21,
+    "path_diff": null
+  }
+]

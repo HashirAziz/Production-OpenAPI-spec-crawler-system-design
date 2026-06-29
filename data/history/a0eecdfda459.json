@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a0eecdfda459",
+    "source_url": "https://raw.githubusercontent.com/Suvink/go-client-service/d819675d52296b7ed6267e34c3320cb550ff2338/openapi.yaml",
+    "fetched_at": "2026-06-29T10:48:18.069980+00:00",
+    "content_hash": "97a13a79051833c73bcafe12dddf5540e732836657634c2bb82ddbf75e9576d7",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Test Client Service",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

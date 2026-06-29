@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "22f38d6ad24a",
+    "source_url": "https://raw.githubusercontent.com/wlim33/topktoday/b0054dc337dba9ab29ae07818cef7349fb68e3a1/openapi.yaml",
+    "fetched_at": "2026-06-29T10:48:15.209775+00:00",
+    "content_hash": "445eaf7ec4a1f857885a074334e1c6df75827bebaeaec148c968f14a1f28202a",
+    "info_version": "0.0.22",
+    "status": "new",
+    "title": "leaderapi",
+    "openapi_version": "openapi_3",
+    "paths_count": 12,
+    "path_diff": null
+  }
+]

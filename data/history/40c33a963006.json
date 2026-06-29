@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "40c33a963006",
+    "source_url": "https://raw.githubusercontent.com/tonik/bdct-backend/6ab3e7f9beb71534c77a46bad5d21c7cf3ceb54a/swagger.yaml",
+    "fetched_at": "2026-06-29T10:49:15.382444+00:00",
+    "content_hash": "f425f69f224921af8fc675b2cffcf9860945e445192fcd49dbfd4563c7a3a3c8",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "Fastify API",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

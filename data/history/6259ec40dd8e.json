@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6259ec40dd8e",
+    "source_url": "https://raw.githubusercontent.com/AntoniaPuertas/08-php-api/2e9642da4dc6fe0e605e6a81235a5f5097008c1f/openapi.yaml",
+    "fetched_at": "2026-06-29T10:48:16.842897+00:00",
+    "content_hash": "2accd8310236f4af5b10d8074a92bb17ed321429f971e592d672319562a28753",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API de Películas",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

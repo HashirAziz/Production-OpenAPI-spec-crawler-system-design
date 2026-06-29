@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4b867f5fa1b0",
+    "source_url": "https://raw.githubusercontent.com/papadopouloskyriakos/agentic-chatops/c10b4cb8ed03bb0ce5243a4e5f84cd2fdb8f1472/bootstrap-pack/templates/openapi.yaml.tmpl",
+    "fetched_at": "2026-06-29T10:47:52.609373+00:00",
+    "content_hash": "6361053a75f64ad139a01608bd6d32eb6e4cb5427e862ee67080f7524fcd7aa4",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "<project-slug> API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

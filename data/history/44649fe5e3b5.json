@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "44649fe5e3b5",
+    "source_url": "https://raw.githubusercontent.com/fathyafathazz/uas_webservice/e3d27fac4b866c7031431e63250967d7c6600aaf/openapi.yaml",
+    "fetched_at": "2026-06-29T10:48:19.391284+00:00",
+    "content_hash": "cf3e438c0fd4a8938384b97fcd7d6f2837ca01fe596e3e6497ea4d76d4cd8d1a",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "UasWebservice2",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

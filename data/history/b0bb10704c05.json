@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b0bb10704c05",
+    "source_url": "https://raw.githubusercontent.com/dtolb/DEVWKS-1024/3c687563e25c8c5b95bd29d95431970998f60ec8/openapi.yaml",
+    "fetched_at": "2026-06-29T10:48:16.230565+00:00",
+    "content_hash": "88fb05a54f9376ef613cced68d558b9306e02de369ec8eff35c563ead108bc63",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "AI Powered Data Center Power Efficiency Optimizer API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

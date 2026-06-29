@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e885ff82523e",
+    "source_url": "https://raw.githubusercontent.com/0xth3poet/xss/d46ebdcd104e7d7caed1ec0083b7585b5227822a/openapi.yaml",
+    "fetched_at": "2026-06-29T10:48:11.394721+00:00",
+    "content_hash": "b88670f4e1144c1292656fa1677b4ae3d0a79be4885208ea8ca45df7a9157ba9",
+    "info_version": "production",
+    "status": "new",
+    "title": "Classic API Resource Documentation",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e761e02c6a56",
+    "source_url": "https://raw.githubusercontent.com/wra-sol/gdelt-feed/017c82b71fa8373505859199de9049dc2fe2ef8a/openapi.yaml",
+    "fetched_at": "2026-06-29T10:48:02.149387+00:00",
+    "content_hash": "06a3c0a4d9acb1220fd4f57a28f40f97ab58d7219bc13ed68c9e3687de109a2a",
+    "info_version": "2.0",
+    "status": "new",
+    "title": "GDELT DOC 2.0 API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "03231e1c4c1a",
+    "source_url": "https://raw.githubusercontent.com/MichelFortes/articles-RFC9745/038974cdd4ecb0ed0efd80c2323e0c32bd564768/openapi.yaml",
+    "fetched_at": "2026-06-29T10:48:03.242565+00:00",
+    "content_hash": "6ff03c8da84c3ab4a1252c21644542cb440c4249b0b5d717f2214103536cf549",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Sample API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

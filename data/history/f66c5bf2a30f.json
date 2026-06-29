@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f66c5bf2a30f",
+    "source_url": "https://raw.githubusercontent.com/Tinnoha/proICTIS/5d96897ecb6863b0aec7ff3cc643c12b28bee17f/openapi.yaml",
+    "fetched_at": "2026-06-29T10:48:13.792679+00:00",
+    "content_hash": "594bc12ab2e260b41d5472906d2badd9c938991906f892365d7fa28cc61e4387",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Equipment Booking System API (реальная реализация)",
+    "openapi_version": "openapi_3",
+    "paths_count": 19,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0e4d5726280f",
+    "source_url": "https://raw.githubusercontent.com/perkinsjr/Demo-for-deploy/9a8734c1b7473d4479c93b0436a32534bc5f66b0/openapi.yaml",
+    "fetched_at": "2026-06-29T10:48:17.090596+00:00",
+    "content_hash": "3acac925555489ac60a0e6d2c2ef748799da4803449c2234f535a8159aefea9c",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Demo API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

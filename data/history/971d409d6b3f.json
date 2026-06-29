@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "971d409d6b3f",
+    "source_url": "https://raw.githubusercontent.com/Anubis4040/backend-plurall-test/8f56f9fe3503f29739c3a917bc40e19e0142a5a1/openapi.yaml",
+    "fetched_at": "2026-06-29T10:48:00.235375+00:00",
+    "content_hash": "65a10c5640b8cf0bb8df624c4fd7ea8d237b65417be847b752691ba150b680c9",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Plurall Backend API",
+    "openapi_version": "openapi_3",
+    "paths_count": 18,
+    "path_diff": null
+  }
+]

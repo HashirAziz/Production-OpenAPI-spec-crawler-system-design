@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9b309b8b1b37",
+    "source_url": "https://raw.githubusercontent.com/elnino282/Uni_Village/05e9a801f9375d8c210e31bdf06efdb87d3a1459/openapi.yaml",
+    "fetched_at": "2026-06-29T10:48:13.014878+00:00",
+    "content_hash": "80400515f4ef02d0add829e89b2ac4b0462efef3f2913be57e9c069dc43b5d81",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "VNU Guide API",
+    "openapi_version": "openapi_3",
+    "paths_count": 77,
+    "path_diff": null
+  }
+]

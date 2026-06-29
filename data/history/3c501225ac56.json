@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3c501225ac56",
+    "source_url": "https://raw.githubusercontent.com/dimsurd/farco-cms/5b67cc83447bca5696a3bfb2976266a66d20b1f6/openapi.yaml",
+    "fetched_at": "2026-06-29T10:47:58.522875+00:00",
+    "content_hash": "f44d3e6526cb1563ed92964ecd5d222f57a2e6b6348bdd302049a2c5510c6490",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Farco Careers API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

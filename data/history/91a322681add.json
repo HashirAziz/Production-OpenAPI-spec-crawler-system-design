@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "91a322681add",
+    "source_url": "https://raw.githubusercontent.com/dilshankarunarathne/herb-classifier-backend/aebf86bc066ac792d9b9da9522f51705f113342e/openapi.json",
+    "fetched_at": "2026-06-29T10:48:56.046055+00:00",
+    "content_hash": "c52c866fee272aece1a0c7e9492784a353c73ae7bf81a28c31f7a9fd014fa68c",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "FastAPI",
+    "openapi_version": "openapi_3",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

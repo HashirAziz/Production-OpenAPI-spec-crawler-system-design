@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "68561f42f87d",
+    "source_url": "https://raw.githubusercontent.com/Msingi-AI/msingi1/08103aa23e99c9e92ec337e2f3a22348fa714b53/openapi.json",
+    "fetched_at": "2026-06-29T10:48:53.915757+00:00",
+    "content_hash": "8bf0584d5c33c437f8191ea902d3e8240d7a9d54697ec5cc9e419d5367832698",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "Monarch API: Train, Fine-Tune, and Host AI Models",
+    "openapi_version": "openapi_3",
+    "paths_count": 12,
+    "path_diff": null
+  }
+]

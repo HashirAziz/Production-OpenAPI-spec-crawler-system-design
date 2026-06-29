@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "eef844797468",
+    "source_url": "https://raw.githubusercontent.com/jpxs-intl/jpxs/66d62e74a1fc0e30c0f7e6377440a71eb91ca580/openapi.json",
+    "fetched_at": "2026-06-29T10:48:55.310748+00:00",
+    "content_hash": "6d4d1caf087583827604c77d57eb6abc052a967723d4cf668c5a05254c78384d",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "JPXS",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

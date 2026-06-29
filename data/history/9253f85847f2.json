@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9253f85847f2",
+    "source_url": "https://raw.githubusercontent.com/kuntu-tech/my_connector/df000a588257ef47ac4b00a4faf8ca3ebc2f640f/openapi.yaml",
+    "fetched_at": "2026-06-29T10:48:00.484583+00:00",
+    "content_hash": "101f714b7e8a5dc097e670ac7a80267287dc0f0ba0fdc2b18115af211521bcb8",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "My Custom Connector",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

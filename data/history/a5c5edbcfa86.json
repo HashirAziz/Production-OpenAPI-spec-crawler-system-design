@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a5c5edbcfa86",
+    "source_url": "https://raw.githubusercontent.com/speakeasy-sdks/template-sdk/688da92b466ba09ce0460ae2b038285403782041/openapi.yaml",
+    "fetched_at": "2026-06-29T10:48:10.550393+00:00",
+    "content_hash": "775485ec5ab25b1c0ee9db100dff18d7a2fa66bb73639a4c9d3983fa3fc5a0e4",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "The Speakeasy Bar",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "87aa5edbb96c",
+    "source_url": "https://raw.githubusercontent.com/bundesAPI/bundestag-tagesordnung-api/e882134db385135c693f0966a6cad03a04429796/openapi.yaml",
+    "fetched_at": "2026-06-29T10:48:10.282783+00:00",
+    "content_hash": "36756f816ac67db447bfccc0c970a84e3a862699d0682ce6eecdedd35c545566",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Tagesordnungen API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

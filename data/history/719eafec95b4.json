@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "719eafec95b4",
+    "source_url": "https://raw.githubusercontent.com/bsolus/kuantokusta-seller-api-node-sdk/a4eaebb4d162cc5ae73c3eb7fdd646fb2be05662/openapi.json",
+    "fetched_at": "2026-06-29T10:48:55.788998+00:00",
+    "content_hash": "dccc1ac0ed47a4462774edfe14644005ed65d4d6235bce23aa928a0047073a98",
+    "info_version": "1.2.0",
+    "status": "new",
+    "title": "KK SELLER API",
+    "openapi_version": "openapi_3",
+    "paths_count": 16,
+    "path_diff": null
+  }
+]

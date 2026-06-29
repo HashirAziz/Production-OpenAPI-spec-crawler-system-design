@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "79a1a549483b",
+    "source_url": "https://raw.githubusercontent.com/kajstrom/lizardnotes-app-backend/d8e3bf70712837a8321cee8e638af243d76b8bf1/openapi.yaml",
+    "fetched_at": "2026-06-29T10:48:04.318493+00:00",
+    "content_hash": "73ef4db692c61224f9c32eae4084baf6331cf2ded34ed3de00b6f9f2b1728292",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "LizardNotes API",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

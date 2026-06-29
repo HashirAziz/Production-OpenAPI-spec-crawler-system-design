@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ff4e710f63dd",
+    "source_url": "https://raw.githubusercontent.com/huyhoang-doit/BE_Pet-Community-Platform/14615bc90dfcf3cc73a4a4ade4018820c1206a88/swagger.yaml",
+    "fetched_at": "2026-06-29T10:49:20.305819+00:00",
+    "content_hash": "b55a5220429a2d140daddba383223de9c90846c5b75a12a483a6a068ec90b37d",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "PLC API",
+    "openapi_version": "openapi_3",
+    "paths_count": 24,
+    "path_diff": null
+  }
+]

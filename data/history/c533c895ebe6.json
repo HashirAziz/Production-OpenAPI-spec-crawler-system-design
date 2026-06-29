@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c533c895ebe6",
+    "source_url": "https://raw.githubusercontent.com/anstiftung/mapped-repair-events-api-docs/b7c56de5ed154eaa8492b9b01ee4a17c136e7833/swagger.yaml",
+    "fetched_at": "2026-06-29T10:49:09.488556+00:00",
+    "content_hash": "9969bf27ea1b2775471075360112bef89341fafab2acae0abcfe5bc4583a8736",
+    "info_version": "v1",
+    "status": "new",
+    "title": "Mapped Repair Events API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

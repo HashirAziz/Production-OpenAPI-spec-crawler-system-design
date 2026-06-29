@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0aae01140b0f",
+    "source_url": "https://raw.githubusercontent.com/ibrahimethemkaya/GPTapp/e999a783b673f28b04f03280ad072d4a9e810cb8/openapi.yaml",
+    "fetched_at": "2026-06-29T10:48:18.328661+00:00",
+    "content_hash": "bb5ca8ba910df9345f49acb0210b11368eff75a9a00c375e6e7bced613a21533",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "TeklifimGelsin API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

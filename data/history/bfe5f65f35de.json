@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "bfe5f65f35de",
+    "source_url": "https://raw.githubusercontent.com/vinayakathavale/docqa_plugin/13ab0c8b78e1f63aef6438c1d00cf4c8d549b391/openapi.yaml",
+    "fetched_at": "2026-06-29T10:47:57.513423+00:00",
+    "content_hash": "93e5648445c0165b86acc49f32f308c3e70f2552d7953af59a524432ee284473",
+    "info_version": "v1",
+    "status": "new",
+    "title": "DocQA Plugin",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

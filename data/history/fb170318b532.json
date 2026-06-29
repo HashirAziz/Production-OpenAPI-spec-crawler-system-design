@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "fb170318b532",
+    "source_url": "https://raw.githubusercontent.com/kaje94/choreo-connect-test/0eec5bdeba3863e8610524a0283a51028f08b5bb/openapi.yaml",
+    "fetched_at": "2026-06-29T10:47:59.919681+00:00",
+    "content_hash": "d92d0e51e438866b334da9343224cf4db1526b828b55286ac3abb76ff9e49dc7",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "REST API for Component Communication",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

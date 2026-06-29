@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d9eeec091728",
+    "source_url": "https://raw.githubusercontent.com/codewithsadee-org/blog-api-docs/04e68878b467a79d38a04b3c8ff65c2534908618/openapi.yaml",
+    "fetched_at": "2026-06-29T10:48:10.907456+00:00",
+    "content_hash": "6ab55915a63d63c595e59f78c46d7f9498bb454e19396127844a485045801816",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Blog API",
+    "openapi_version": "openapi_3",
+    "paths_count": 16,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c7d2428ed1e4",
+    "source_url": "https://raw.githubusercontent.com/rikyhidayat21/goodnight/35e519a31fd17537e07cd7731d2fb75439c424b2/openapi.yaml",
+    "fetched_at": "2026-06-29T10:48:07.174679+00:00",
+    "content_hash": "ef64702cbccf45b81918aaa4af68a6aaed2f86a4d7aa0b5dcf20d88f60039acb",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Good Night APIs",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

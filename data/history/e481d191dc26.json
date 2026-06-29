@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e481d191dc26",
+    "source_url": "https://raw.githubusercontent.com/ndimares/ndimares-bar-typescript/13019397f16bc956da5e68944c0440e97d499c32/openapi.yaml",
+    "fetched_at": "2026-06-29T10:48:01.359842+00:00",
+    "content_hash": "5d7b8403a6b228d55446ccabfe7093911066728569c56762feb2fd7727492dc1",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "The Speakeasy Bar",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

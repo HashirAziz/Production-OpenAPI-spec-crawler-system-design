@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4f82d62e262b",
+    "source_url": "https://raw.githubusercontent.com/speakeasy-sdks-dev/TKKD-sample-sdk/9f1615528434cd7fd3203117c73d0bcb4b6544bb/openapi.yaml",
+    "fetched_at": "2026-06-29T10:48:18.862897+00:00",
+    "content_hash": "c25b46bc12b1da9e8dab8676c32244af7b6d8185ef87893bd160ab83dfb2372f",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "The Speakeasy Bar",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

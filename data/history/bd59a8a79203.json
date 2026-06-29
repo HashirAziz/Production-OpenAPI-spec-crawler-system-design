@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "bd59a8a79203",
+    "source_url": "https://raw.githubusercontent.com/trinidadbucciarelli/eCommerce-IS2/f55813739360291a207520690ca8e9aa8c22870c/openapi.yaml",
+    "fetched_at": "2026-06-29T10:48:03.530755+00:00",
+    "content_hash": "ce36de988fa06fb48ef61adc57ea551fbec6f8dbddf71f34b0e2a19292498b99",
+    "info_version": "2.0.0",
+    "status": "new",
+    "title": "eCommerce Products Service API",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

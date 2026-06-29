@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "93c20f6cce9a",
+    "source_url": "https://raw.githubusercontent.com/ElectricJack/agent-queue/9109ecc084c1c2762de0b4852dadfe31f5575929/openapi.json",
+    "fetched_at": "2026-06-29T10:48:52.648477+00:00",
+    "content_hash": "f656596d83ccf94b4ee227feec555115efa91fb3db95b3ec7f83dbd660e4976b",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "AgentQueue API",
+    "openapi_version": "openapi_3",
+    "paths_count": 169,
+    "path_diff": null
+  }
+]

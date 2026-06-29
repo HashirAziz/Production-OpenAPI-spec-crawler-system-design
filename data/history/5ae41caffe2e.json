@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5ae41caffe2e",
+    "source_url": "https://raw.githubusercontent.com/dzhoz0/student-health-manager/2f2d3a4a5e1eb69dd25a1dc54b2e846d580fdb2a/openapi.yaml",
+    "fetched_at": "2026-06-29T10:48:01.870535+00:00",
+    "content_hash": "b881b115650ece5ebbf00bb31bbae6699a74921c1b861b9ef27208d3dad68bad",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Student Health Records API",
+    "openapi_version": "openapi_3",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

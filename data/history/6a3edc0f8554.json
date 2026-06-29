@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6a3edc0f8554",
+    "source_url": "https://raw.githubusercontent.com/MohamedGamalOmar/nodejs-project/e0210e2837ccf0c816af39b337ffa36e23fa5235/swagger.yaml",
+    "fetched_at": "2026-06-29T10:49:19.998614+00:00",
+    "content_hash": "e6fbe5a1e6142b6418d9c04ffa8aa0c0d0865a6dc1c163e068e0decf27899bb6",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Test Node.js API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

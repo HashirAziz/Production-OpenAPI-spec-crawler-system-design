@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0dd5da04900f",
+    "source_url": "https://raw.githubusercontent.com/mengiefen/api-docs-swagger/133c24d74578b4cedd9ca5e09f1cfa1138323d23/openapi.yaml",
+    "fetched_at": "2026-06-29T10:48:19.670041+00:00",
+    "content_hash": "7684ec4b410c114427e933078aa4f674da581c75c40f9ecf6a5fee72d5e43e85",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API Documentation",
+    "openapi_version": "openapi_3",
+    "paths_count": 22,
+    "path_diff": null
+  }
+]

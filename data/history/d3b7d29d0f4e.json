@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d3b7d29d0f4e",
+    "source_url": "https://raw.githubusercontent.com/darken10/concours-backend/3c8c5606027bb949828149926b3d81abb82d3f90/openapi.yaml",
+    "fetched_at": "2026-06-29T10:48:14.919826+00:00",
+    "content_hash": "58e0258f80ab594d02dd18067e0e4e0c351c2a5496bed45b4668d82f30acc8c6",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Concours API",
+    "openapi_version": "openapi_3",
+    "paths_count": 24,
+    "path_diff": null
+  }
+]

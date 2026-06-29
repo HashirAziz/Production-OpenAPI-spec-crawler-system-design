@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d937ebd109f5",
+    "source_url": "https://raw.githubusercontent.com/gabrielrondon/sigillo-backend/960cc039e694a8f2a07e70139a76701c75f08609/openapi.yaml",
+    "fetched_at": "2026-06-29T10:47:57.174224+00:00",
+    "content_hash": "9b86a1c9f2e6af18b31ed608000def4fa5cfd087d22446f86473aa2cf55d4094",
+    "info_version": "1.3.0",
+    "status": "new",
+    "title": "Zapiki - Zero-Knowledge Proof as a Service API",
+    "openapi_version": "openapi_3",
+    "paths_count": 24,
+    "path_diff": null
+  }
+]

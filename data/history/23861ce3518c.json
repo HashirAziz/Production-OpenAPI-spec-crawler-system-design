@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "23861ce3518c",
+    "source_url": "https://raw.githubusercontent.com/SAMIYAghb/ArgentBank/6b71036ac5de9251f4e225143032d0a14c61d0ed/swagger.yaml",
+    "fetched_at": "2026-06-29T10:49:15.123545+00:00",
+    "content_hash": "41a547f4f49ff10838bd9cbcd163f6f57613ab44cd545e3e095d3d293e0efa67",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Argent Bank Transactions API",
+    "openapi_version": "swagger_2",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

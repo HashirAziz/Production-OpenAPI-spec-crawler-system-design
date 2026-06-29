@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "acf3f0883f05",
+    "source_url": "https://raw.githubusercontent.com/mgil08/global-connector-demo/0b402b838ffadd45e887332980f98a5381e2764c/openapi.yaml",
+    "fetched_at": "2026-06-29T10:48:06.550352+00:00",
+    "content_hash": "49d6cb0a5868b026f6cded8b3e3799e83bfb5b388219498f67c3717b6d056896",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Conector Global IA - HubSpot Demo",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

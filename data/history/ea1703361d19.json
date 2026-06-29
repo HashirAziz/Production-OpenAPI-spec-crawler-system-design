@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ea1703361d19",
+    "source_url": "https://raw.githubusercontent.com/almadhoob/brainbook/3ffdb5a3b8dd55aa0c463bda8d1f14b2579e6583/openapi.yaml",
+    "fetched_at": "2026-06-29T10:47:56.819710+00:00",
+    "content_hash": "c4c8b3eaaebc279486d2f3d383a3e7ae671fe54be37244ce13154a07612a598b",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "BrainBook API",
+    "openapi_version": "openapi_3",
+    "paths_count": 30,
+    "path_diff": null
+  }
+]

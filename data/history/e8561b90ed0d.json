@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e8561b90ed0d",
+    "source_url": "https://raw.githubusercontent.com/designapis/farmstall/b2248e81a7aa64aa2a763e6c56ebdebf54baaf19/openapi.yaml",
+    "fetched_at": "2026-06-29T10:47:56.413908+00:00",
+    "content_hash": "5af443b357103b0d288521ebf7fd153fc333d390f90539f64ffbe1ab0e679ad6",
+    "info_version": "v1",
+    "status": "new",
+    "title": "FarmtStall API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

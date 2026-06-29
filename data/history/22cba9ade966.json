@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "22cba9ade966",
+    "source_url": "https://raw.githubusercontent.com/abishekvenkat/pokemonfactsapi/150323292dbe71a81df7a145f9a08fa9c785d7c7/swagger.yaml",
+    "fetched_at": "2026-06-29T10:49:11.385729+00:00",
+    "content_hash": "832331677c5ba1355eb266aec59086c4835c50db62301ffab451906f25cf7b4e",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Pokemon Facts API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

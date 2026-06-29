@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d8b581bcf413",
+    "source_url": "https://raw.githubusercontent.com/isprutfromua/ga-test/289633982391c8d356dd57209e2cf7fea0dcde22/swagger.yaml",
+    "fetched_at": "2026-06-29T10:49:17.291537+00:00",
+    "content_hash": "05543e6e5751c6399fa15feb9423ecc9ee2ac64b79d8c551b0133d54fa73c572",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "GitHub Release Notification API",
+    "openapi_version": "swagger_2",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

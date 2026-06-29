@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4518e905c0ba",
+    "source_url": "https://raw.githubusercontent.com/avno777/ts-nodejs-base/fe7d81fb6eb9054d0e5c3edccc0f9dfa73eb694b/swagger.yaml",
+    "fetched_at": "2026-06-29T10:49:22.516079+00:00",
+    "content_hash": "0599e43c995c50628fe42b8c41788a20eee5b192d556972386b46cb996089335",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "User API Documentation",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]
