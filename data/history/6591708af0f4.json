@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6591708af0f4",
+    "source_url": "https://raw.githubusercontent.com/pro100ren4/UniCareer/15ad70f6f5e498d6211ef453063a7f0f90681af2/openapi.yaml",
+    "fetched_at": "2026-06-30T09:26:04.983286+00:00",
+    "content_hash": "c6e009f1f330c53c5367bb384138ea0527ab73e1c11a5b0809a96e68c4e7d0ea",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "UniCareer API",
+    "openapi_version": "openapi_3",
+    "paths_count": 37,
+    "path_diff": null
+  }
+]

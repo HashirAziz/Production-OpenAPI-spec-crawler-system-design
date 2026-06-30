@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2b62a1ca843a",
+    "source_url": "https://raw.githubusercontent.com/MinhQuan5205/Oil-Gas-Asset-and-Maintenance-Management-System/db0509bebb1395836ff39272678ef397d17f987f/swagger.yaml",
+    "fetched_at": "2026-06-30T09:27:29.753410+00:00",
+    "content_hash": "f00274c1506768da1b9cd827efed5b0afa8c6b08f1373e5644658a46f7cf28e0",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Oil & Gas Analyzer API",
+    "openapi_version": "openapi_3",
+    "paths_count": 24,
+    "path_diff": null
+  }
+]

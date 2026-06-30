@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d241bb94fddc",
+    "source_url": "https://raw.githubusercontent.com/ghga-de/metadata-search-svc/881194daed26da7ca2c8835d0b6c87dd3c7f4849/openapi.yaml",
+    "fetched_at": "2026-06-30T09:26:05.920511+00:00",
+    "content_hash": "ccf4fb68566090c19e3a1173f0d5a48efd3d4d11ecbe9c395768a15f0b61631a",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "FastAPI",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

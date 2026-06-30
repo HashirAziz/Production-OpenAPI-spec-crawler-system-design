@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "279368c3e90d",
+    "source_url": "https://raw.githubusercontent.com/LearnXops/oauth2-serverless/a5dca52831a8f6587a395e1e5386076284a4c378/swagger.yaml",
+    "fetched_at": "2026-06-30T09:27:14.146439+00:00",
+    "content_hash": "b92ba45a438966deeed96fb4bf480f0516e18abb6d431ab165da6f0c3c56d991",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "OAuth API",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

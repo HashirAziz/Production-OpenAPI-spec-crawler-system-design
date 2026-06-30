@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e84185d5a6f1",
+    "source_url": "https://raw.githubusercontent.com/johnpaultaray/final-project-backend/bfdb7ddd3cf113cfbe38c867527ef08389701d48/swagger.yaml",
+    "fetched_at": "2026-06-30T09:27:14.747849+00:00",
+    "content_hash": "e34b7c52ea0a2f8d14027f3aabbea83c8fe38def9da265168c38972e7bbd12ea",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Node.js Sign-up and Verification API",
+    "openapi_version": "openapi_3",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

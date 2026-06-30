@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1e7a0d08bd60",
+    "source_url": "https://raw.githubusercontent.com/v1p3rrr/get-science-backend/11fbc5b5c1763ce8ef07cbfb010fc1407ca60779/swagger.yaml",
+    "fetched_at": "2026-06-30T09:27:31.983605+00:00",
+    "content_hash": "9d1ca35fcd4574df78bcb96e4778831387c5d64520c081dddfa91f10ceda150f",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Get Science API",
+    "openapi_version": "openapi_3",
+    "paths_count": 59,
+    "path_diff": null
+  }
+]

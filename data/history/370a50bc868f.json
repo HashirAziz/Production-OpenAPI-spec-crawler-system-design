@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "370a50bc868f",
+    "source_url": "https://raw.githubusercontent.com/wangjiabao/gameadmin/0c63f7d4fa525db2fd96c0a200c4b4d01b1e2f4f/openapi.yaml",
+    "fetched_at": "2026-06-30T09:26:21.481384+00:00",
+    "content_hash": "81b76b710b66404c066c0b28da76937e66b6be8e0d0a819174a1dd73e108b0d5",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "App API",
+    "openapi_version": "openapi_3",
+    "paths_count": 96,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0b3a8e489cf9",
+    "source_url": "https://raw.githubusercontent.com/clfs/weakpass/6f3c48a54ca91adda405cf5dffaa8b50b9f75bc7/openapi.yaml",
+    "fetched_at": "2026-06-30T09:26:19.430676+00:00",
+    "content_hash": "a0d7cb8a66c15b191517c624f5262c877275aab7141917cfe458687729e81b54",
+    "info_version": "1.1.1",
+    "status": "new",
+    "title": "Weakpass - API",
+    "openapi_version": "openapi_3",
+    "paths_count": 13,
+    "path_diff": null
+  }
+]

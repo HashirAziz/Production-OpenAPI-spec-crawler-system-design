@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "bf3600725c10",
+    "source_url": "https://raw.githubusercontent.com/zebdawson/happy-path-crm-api/f1d415bb33a55e866095f35805adff2586b42999/openapi.yaml",
+    "fetched_at": "2026-06-30T09:26:08.393336+00:00",
+    "content_hash": "6517441907f384effefc8d8778011c61db01f0e7cfdc660b9b2ef976b06ca8f2",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Happy Path Marketing API",
+    "openapi_version": "openapi_3",
+    "paths_count": 16,
+    "path_diff": null
+  }
+]

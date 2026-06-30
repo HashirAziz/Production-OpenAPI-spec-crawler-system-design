@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "43293f8aaed8",
+    "source_url": "https://raw.githubusercontent.com/thm-mni-ii/assa/095f3aacafdd7cc7e34f3c5200bfb35fece2c618/openapi.yaml",
+    "fetched_at": "2026-06-30T09:26:16.480121+00:00",
+    "content_hash": "6de530d82529d727fa5187cf6e11a1f407e7a2ea47eba73b4440642f03781ec4",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "AI Supported SQL Analysis API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

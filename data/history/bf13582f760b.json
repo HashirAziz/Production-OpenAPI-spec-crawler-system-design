@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "bf13582f760b",
+    "source_url": "https://raw.githubusercontent.com/MatiRivas/BackendNotificacionesTITEC/ac215dc065b60324d1486aeb41e82fdd7608b861/swagger.yaml",
+    "fetched_at": "2026-06-30T09:27:15.377652+00:00",
+    "content_hash": "74b3ed5051ce7d550fab1573b26829f6c5efcfdecb8607115afba99efa01738f",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "TITEC - Sistema de Notificaciones API",
+    "openapi_version": "openapi_3",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d8786f35159d",
+    "source_url": "https://raw.githubusercontent.com/speakeasy-sdks/Bolt-Public-API/ac348dffae9d94b912945eaecc5106d657465f5b/openapi.yaml",
+    "fetched_at": "2026-06-30T09:26:15.274883+00:00",
+    "content_hash": "0021bd79716df012be7a76148bd1c22ec8546d6a6967febef126d1fa429db22d",
+    "info_version": "3.0.1",
+    "status": "new",
+    "title": "Bolt API Reference",
+    "openapi_version": "openapi_3",
+    "paths_count": 13,
+    "path_diff": null
+  }
+]

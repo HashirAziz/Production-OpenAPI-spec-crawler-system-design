@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "34fa7c63afe6",
+    "source_url": "https://raw.githubusercontent.com/nfisher/instana-crib/7df9de153a7a0133607787f8a924e6863552bed3/openapi.yaml",
+    "fetched_at": "2026-06-30T09:26:18.787368+00:00",
+    "content_hash": "1fdd985a126a542bd51227b2b8d389709beb5e19d9300620cccaeffa947a93dc",
+    "info_version": "1.174.285",
+    "status": "new",
+    "title": "Introduction to Instana public APIs",
+    "openapi_version": "openapi_3",
+    "paths_count": 85,
+    "path_diff": null
+  }
+]

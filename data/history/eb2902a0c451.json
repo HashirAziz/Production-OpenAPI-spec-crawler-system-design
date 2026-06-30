@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "eb2902a0c451",
+    "source_url": "https://raw.githubusercontent.com/jungchechang/cloud-app/c7ac07b922a8488cc7b028b1378c8db869fd19b5/swagger.yaml",
+    "fetched_at": "2026-06-30T09:27:30.323018+00:00",
+    "content_hash": "555ccd53aeb83f1cef9b1d555a44d41ab997ac5d68d07507303c2da6a1557490",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Businesses API",
+    "openapi_version": "openapi_3",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

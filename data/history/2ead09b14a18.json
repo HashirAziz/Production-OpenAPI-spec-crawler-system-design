@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2ead09b14a18",
+    "source_url": "https://raw.githubusercontent.com/Alonza0314/it-system/31de41a8b5fdf43d44c07c8da661883681b7cbf6/openapi.yaml",
+    "fetched_at": "2026-06-30T09:26:12.402047+00:00",
+    "content_hash": "abd18bb0e27e159ea69be1fb032ed0da023f9137d02402e01e1233c3937cb7b2",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "full-stack-framework API",
+    "openapi_version": "openapi_3",
+    "paths_count": 14,
+    "path_diff": null
+  }
+]

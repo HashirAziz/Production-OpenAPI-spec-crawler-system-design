@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1b726ee14c28",
+    "source_url": "https://raw.githubusercontent.com/abshoff-reply/ajv-express/61ab1c876e48b65dbca775af808df19ece29b4e4/openapi.yaml",
+    "fetched_at": "2026-06-30T09:26:14.752485+00:00",
+    "content_hash": "e7495137f8a73fe645230faa18d81cb026c6dbb101037bbcf8d910f28b02ac6d",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "User API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

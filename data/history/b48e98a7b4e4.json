@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b48e98a7b4e4",
+    "source_url": "https://raw.githubusercontent.com/hajisan/hello-tech-chapter/e802927b0b4c72615ac639cfbb087c6d24bd276d/swagger.yaml",
+    "fetched_at": "2026-06-30T09:27:17.450034+00:00",
+    "content_hash": "6dd322c86c0da44381a207bfa3aa9efc736dc1bc05a4e5d998fc157dd2641e74",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Talent API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

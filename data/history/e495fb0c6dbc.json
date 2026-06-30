@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e495fb0c6dbc",
+    "source_url": "https://raw.githubusercontent.com/Roppo-JSON/server/c4317eafab3069bd8bd6b41f950e991de664df91/swagger.yaml",
+    "fetched_at": "2026-06-30T09:27:25.697496+00:00",
+    "content_hash": "d2a6bd34792d0d0228ea122cadada1b3416c1acf0e4f260bcf0a9b2b83c5ff40",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "六法JSON",
+    "openapi_version": "swagger_2",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

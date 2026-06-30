@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "048691992966",
+    "source_url": "https://raw.githubusercontent.com/Orchesty/orchesty-nodejs-sdk/d830cf3c7b5770054bde56d86029708e772652c8/openapi.yaml",
+    "fetched_at": "2026-06-30T09:26:13.860860+00:00",
+    "content_hash": "211f0ff82e79e2c757368f24b31240e07785d89dfb51e3594ed9462463d4e236",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Pipes PHP SDK",
+    "openapi_version": "openapi_3",
+    "paths_count": 16,
+    "path_diff": null
+  }
+]

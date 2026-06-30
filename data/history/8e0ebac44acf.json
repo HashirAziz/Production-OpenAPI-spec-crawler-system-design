@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8e0ebac44acf",
+    "source_url": "https://raw.githubusercontent.com/Germey/ChatGPTPluginStarter/78c76e5d789cb0086707e07226ee2b49766b0530/openapi.yaml",
+    "fetched_at": "2026-06-30T09:26:06.173272+00:00",
+    "content_hash": "a04cca2cbbe2454f781932ab92f9bca898d10a88a493a4251fc8019876e76cce",
+    "info_version": "v1",
+    "status": "new",
+    "title": "TODO Plugin",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

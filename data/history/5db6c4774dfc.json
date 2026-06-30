@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5db6c4774dfc",
+    "source_url": "https://raw.githubusercontent.com/hart-james/go-api/aed732a639ccaea1268a3cf071b74b0a462e5402/openapi.yaml",
+    "fetched_at": "2026-06-30T09:25:59.909107+00:00",
+    "content_hash": "24502619192265afd72b9e3ef714422b4de5bcb0a8219494adbefc520be98138",
+    "info_version": "0.1.1",
+    "status": "new",
+    "title": "Go-API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

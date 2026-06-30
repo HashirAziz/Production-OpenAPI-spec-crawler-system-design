@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "447a65d79097",
+    "source_url": "https://raw.githubusercontent.com/akolybelnikov/flashcards/dd192705fbb113c81fa301f2ff543cb9c4b3e1dd/openapi.yaml",
+    "fetched_at": "2026-06-30T09:26:01.723249+00:00",
+    "content_hash": "358d0bae56e0bd2b2d73252711e2ebd77c881d0fc6e423e03aac35af45d96f5e",
+    "info_version": "2.0.0",
+    "status": "new",
+    "title": "Flashcards API",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

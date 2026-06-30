@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "496d14ca96cf",
+    "source_url": "https://raw.githubusercontent.com/DanishMujahid/eagleBank-api/43fb5b83b9568d10a4bc934c4d292e552f6ebf54/openapi.yaml",
+    "fetched_at": "2026-06-30T09:26:00.544434+00:00",
+    "content_hash": "7838c0ee47ad26be30819b0e55e077b827c36dbe3536baace99d1dd4ee4f3e89",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Eagle Bank API",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

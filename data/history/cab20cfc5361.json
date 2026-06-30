@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "cab20cfc5361",
+    "source_url": "https://raw.githubusercontent.com/Unqueue-Dev-Inc/unqueue-api-docs/d278dd9b09f12f55b8ef908cb2497c5720227015/swagger.yaml",
+    "fetched_at": "2026-06-30T09:27:15.069186+00:00",
+    "content_hash": "b462f4d40a30dbb5a98e1ac66551e073d72b139b9427abce90f34955897b90f3",
+    "info_version": "1",
+    "status": "new",
+    "title": "Unqueue API",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

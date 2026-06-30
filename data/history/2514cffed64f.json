@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2514cffed64f",
+    "source_url": "https://raw.githubusercontent.com/osu-mist/onbase-api/543ee3b78a165b04f51ba8e808458abaf0d62b65/openapi.yaml",
+    "fetched_at": "2026-06-30T09:26:12.990501+00:00",
+    "content_hash": "17144a463480a3e89b627a4fb23a42a74e1eb269141ceb9c7536487903f88e3e",
+    "info_version": "v1",
+    "status": "new",
+    "title": "OnBase API",
+    "openapi_version": "swagger_2",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

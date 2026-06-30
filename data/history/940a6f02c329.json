@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "940a6f02c329",
+    "source_url": "https://raw.githubusercontent.com/supermodeltools/docs/76271a0444ca4103187f2cb52ed04e59f61c8dfc/openapi.yaml",
+    "fetched_at": "2026-06-30T09:26:11.116075+00:00",
+    "content_hash": "f0d54aab6c65958b2f26293a40a0b24cb7bc89925e19b25946d72b9167e0b5d7",
+    "info_version": "0.9.6",
+    "status": "new",
+    "title": "Supermodel",
+    "openapi_version": "openapi_3",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

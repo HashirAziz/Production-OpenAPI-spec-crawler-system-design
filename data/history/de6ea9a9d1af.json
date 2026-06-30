@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "de6ea9a9d1af",
+    "source_url": "https://raw.githubusercontent.com/bogdanovich231/Backend-Beauty-Manager/bcb66876e51479021871ae9273b7d90de0a09daf/openapi.yaml",
+    "fetched_at": "2026-06-30T09:26:15.907886+00:00",
+    "content_hash": "91d714038c4bdc5fd8da1d9c4296f6ca8fafbdd40e811f42e3fdd517ae5bbaa5",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Manager Service API",
+    "openapi_version": "openapi_3",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

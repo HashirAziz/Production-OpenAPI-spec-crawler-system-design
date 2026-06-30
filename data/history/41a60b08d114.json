@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "41a60b08d114",
+    "source_url": "https://raw.githubusercontent.com/Danlinlin/MicroDecrypter/e9cda38cddd6c08b046f5095037282953403e5a2/swagger.yaml",
+    "fetched_at": "2026-06-30T09:27:20.424637+00:00",
+    "content_hash": "55b26684119390b33bb4bd2a55b5f19bdb5747b4ce5afcc8b3ed19232be8eef2",
+    "info_version": "1.0.1",
+    "status": "new",
+    "title": "Swagger CrackStation",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

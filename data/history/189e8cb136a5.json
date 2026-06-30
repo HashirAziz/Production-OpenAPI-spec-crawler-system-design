@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "189e8cb136a5",
+    "source_url": "https://raw.githubusercontent.com/speakeasy-sdks/treblle-speakeasy-php/5f03dcf0b572b972dc255fe63b91ad5dc3e6782b/openapi.yaml",
+    "fetched_at": "2026-06-30T09:26:15.579168+00:00",
+    "content_hash": "8dbcfd82d51f6a432effbd42d7ea68ceb43c7b5ac785722a72b19fd9d34070af",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "The Speakeasy Bar",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3c2d40d44ad3",
+    "source_url": "https://raw.githubusercontent.com/a-gondolkodas-orome/durer-aion/ec72d0efae6227098d79e0f5977e5435d518d36a/swagger.yaml",
+    "fetched_at": "2026-06-30T09:27:25.381195+00:00",
+    "content_hash": "6756d38148ef15fb8c85730f6cfe953557f04300facba1375038b62c79b2fec9",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Teams and Games API",
+    "openapi_version": "openapi_3",
+    "paths_count": 18,
+    "path_diff": null
+  }
+]

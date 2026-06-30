@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "160ae0092a50",
+    "source_url": "https://raw.githubusercontent.com/mmdev73/ArgentBank/d3c55cee2235d9a670b6bb62d202aa1b360b139e/openapi.yaml",
+    "fetched_at": "2026-06-30T09:26:00.828438+00:00",
+    "content_hash": "420d6c143f4801b9b2bd99cc171d3f3cffd61135aa29fc453310b0b48f817d03",
+    "info_version": "alpha 1.0.11",
+    "status": "new",
+    "title": "Argent bank 2.0",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1eb485964d11",
+    "source_url": "https://raw.githubusercontent.com/BlakeRubio/quick-admin-backend/d24a6afb9ee152f493b6578de2785c8b43c6b451/openapi.yaml",
+    "fetched_at": "2026-06-30T09:26:08.679356+00:00",
+    "content_hash": "009fc96baa09836733e4ead4ee19ac8d1de4a4cfd1e5bd3e5bed5dce09fd6cad",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Quick-Admin 后端服务",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5c74cda2de25",
+    "source_url": "https://raw.githubusercontent.com/shanchuann/Universal-Question-Bank-Paper-System/a1ac484fd73b56ba77705a14662697db0942093f/openapi.yaml",
+    "fetched_at": "2026-06-30T09:26:22.072831+00:00",
+    "content_hash": "9eb032891cec2d3964bcc9b6a11ce87e3179b1d403ba58478dfd74851905e8ab",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Generalized Exam Item Bank & Paper Generation API",
+    "openapi_version": "openapi_3",
+    "paths_count": 22,
+    "path_diff": null
+  }
+]

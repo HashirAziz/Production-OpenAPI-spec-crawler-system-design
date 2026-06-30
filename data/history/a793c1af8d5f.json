@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a793c1af8d5f",
+    "source_url": "https://raw.githubusercontent.com/MightyHelper/WSD25_Assign02/556431a5c657ca6cc2888c6aac300df390f962a8/openapi.yaml",
+    "fetched_at": "2026-06-30T09:26:04.661128+00:00",
+    "content_hash": "0ab457225afbdc6d6894749e5b06e64ae66a3100a1e74a97eda4742bbdc75160",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "Assignment02 API",
+    "openapi_version": "openapi_3",
+    "paths_count": 25,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "08b29262e6eb",
+    "source_url": "https://raw.githubusercontent.com/warnakulasuriya-fds-e23/mock-access-service/47a4e21a2df4262940004c9ee0826d6f705e74b3/openapi.yaml",
+    "fetched_at": "2026-06-30T09:26:10.675268+00:00",
+    "content_hash": "9a34863b5116e4ffed33e772425bd5cefe98f55e6c9d8aae33d4d75fa73ffefa",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Door Access Mock Service",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

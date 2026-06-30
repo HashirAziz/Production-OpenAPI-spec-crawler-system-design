@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c3a188d5d8d3",
+    "source_url": "https://raw.githubusercontent.com/curvyirriga/orch-metadata-broker/b7462d8455c701d798cc5e835abf73915dfd7e66/api/spec/openapi.yaml.license",
+    "fetched_at": "2026-06-30T09:25:54.692864+00:00",
+    "content_hash": "048396b3b24f2b277aea41cbb07b06e3816976ec0657c97a0fcb155803908419",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "unknown",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

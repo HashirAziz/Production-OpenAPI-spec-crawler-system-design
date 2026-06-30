@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5a5624479fbe",
+    "source_url": "https://raw.githubusercontent.com/Fairleap-AI/fairleap-api/0729660b676a3b8dae44004c6ed6d83e413f93eb/openapi.yaml",
+    "fetched_at": "2026-06-30T09:26:20.066385+00:00",
+    "content_hash": "259287a839d27f2fbc2883b59bef19efc8425957574094891469464fd6553620",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Fairleap AI Core API",
+    "openapi_version": "openapi_3",
+    "paths_count": 20,
+    "path_diff": null
+  }
+]

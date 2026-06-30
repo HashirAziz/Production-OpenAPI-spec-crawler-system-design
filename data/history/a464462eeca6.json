@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a464462eeca6",
+    "source_url": "https://raw.githubusercontent.com/swaggerql/swaggerql/fe5d5c02d443f72fa6a7e14f148a560aa7c81214/openapi.yaml",
+    "fetched_at": "2026-06-30T09:25:51.933394+00:00",
+    "content_hash": "9785ba8f1c8e96a10425387170f6249f9a8522b41493d26df61bbafa69cea936",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Demo",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

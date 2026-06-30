@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "fb40bcd22e40",
+    "source_url": "https://raw.githubusercontent.com/YUG-DEDHIA/equitable_apis/50fd44b1f1cd90fe3952767ebdf24093f3328483/swagger.yaml",
+    "fetched_at": "2026-06-30T09:27:30.643248+00:00",
+    "content_hash": "b36a2f388a2d113fd150d222ec1a48e08a6255e064021d8d48282bf318a5ae46",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Review App APIs",
+    "openapi_version": "openapi_3",
+    "paths_count": 16,
+    "path_diff": null
+  }
+]

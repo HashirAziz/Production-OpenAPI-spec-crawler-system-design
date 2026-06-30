@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "175242f27476",
+    "source_url": "https://raw.githubusercontent.com/tomasbasham/blunderlist-gateway/50b5f43a29e23c740a808d5c073458ff4053929a/openapi.yaml",
+    "fetched_at": "2026-06-30T09:25:58.578400+00:00",
+    "content_hash": "04b0114f33c6300fad85a494419857e6661223cd0c67f27bd8ded1c5d112a9c7",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Blunderlist Gateway",
+    "openapi_version": "swagger_2",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

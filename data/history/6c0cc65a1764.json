@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6c0cc65a1764",
+    "source_url": "https://raw.githubusercontent.com/pagopa/payments-cloudo/6e6f8ff7860c3211aa49d08eed01ed5331ec6ef1/src/core/iac/api/cloudo/v1/_openapi.json.tpl",
+    "fetched_at": "2026-06-30T09:26:50.274972+00:00",
+    "content_hash": "5653fcc64b5baea54a83e7b07c55c57112dc3f6a72f7813c4c0fbaa754733c7b",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Cloudo API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

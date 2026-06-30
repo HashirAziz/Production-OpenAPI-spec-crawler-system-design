@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6b39a1af17a6",
+    "source_url": "https://raw.githubusercontent.com/jvsazevedo/padoka-challenge/1b83fc0eaeca5f2319a296a4859b7d9c83e583ef/openapi.yaml",
+    "fetched_at": "2026-06-30T09:26:10.149321+00:00",
+    "content_hash": "cb1ebbdc3f9c2482be36708b3aaca14e9debafdf11b9d927640d2cd3f5b6163f",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "BakeMaster Pro API",
+    "openapi_version": "openapi_3",
+    "paths_count": 14,
+    "path_diff": null
+  }
+]
