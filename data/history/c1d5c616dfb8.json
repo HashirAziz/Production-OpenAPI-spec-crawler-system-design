@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c1d5c616dfb8",
+    "source_url": "https://raw.githubusercontent.com/flanksource/facet/210d6538628d884153cdd2143866e31bdacff4b0/openapi.yaml",
+    "fetched_at": "2026-07-01T09:38:11.302101+00:00",
+    "content_hash": "84add8c0b0151b8578675184b4185e2c867f98c384c550f8d89c6e8e3e75e608",
+    "info_version": "0.1.23",
+    "status": "new",
+    "title": "Facet Render API",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

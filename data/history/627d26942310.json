@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "627d26942310",
+    "source_url": "https://raw.githubusercontent.com/jkawamoto/sd-image-viewer/a17aac64f39dd0dc0adfbc4f500b34eb17356800/openapi.yaml",
+    "fetched_at": "2026-07-01T09:37:53.450667+00:00",
+    "content_hash": "194a9ac6cd65f1e5edae42d69431237ee056a3c24dc742c1566a3dd14bdcd001",
+    "info_version": "2023-04-27",
+    "status": "new",
+    "title": "SD Image Viewer API",
+    "openapi_version": "swagger_2",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

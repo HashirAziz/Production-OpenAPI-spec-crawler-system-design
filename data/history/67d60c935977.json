@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "67d60c935977",
+    "source_url": "https://raw.githubusercontent.com/KostikShutov/skeleton-trajectory/9d45d882434bac80b9227d454317f97c76d0201b/openapi.yaml",
+    "fetched_at": "2026-07-01T09:38:11.043337+00:00",
+    "content_hash": "98cf0577d90ae9ec559e4f2e508b8b6af3ddefe7e4f0534e69ee9c5a8389e007",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Trajectory API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

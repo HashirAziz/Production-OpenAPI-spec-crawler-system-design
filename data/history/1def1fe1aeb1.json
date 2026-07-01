@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1def1fe1aeb1",
+    "source_url": "https://raw.githubusercontent.com/monster5475/FakeSimpleJson/ef53e56fef507343530f193118af7f114bad4526/openapi.yaml",
+    "fetched_at": "2026-07-01T09:38:05.403436+00:00",
+    "content_hash": "8384c4d28da24cf4b1fd6b518b78bebbac9b61d6e7b17bc52eeacd6b303308fd",
+    "info_version": "0.1",
+    "status": "new",
+    "title": "simPod JSON Datasource API",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]
