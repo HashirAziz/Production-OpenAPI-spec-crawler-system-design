@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "fb2307c6f70f",
+    "source_url": "https://raw.githubusercontent.com/ArtUKnow/StockMonitor/0b6d08bc0aa170dba5d534f4f911696cc600bc28/swagger.yaml",
+    "fetched_at": "2026-07-02T08:50:24.626966+00:00",
+    "content_hash": "1760fdcc71d04e0be1038f44719dbec53ed01c45792cb3531b61ba1ed4b9d625",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "StockMonitor - OpenAPI 3.0",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

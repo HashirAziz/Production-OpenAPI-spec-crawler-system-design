@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "7c315996d623",
+    "source_url": "https://raw.githubusercontent.com/Samuel-Ricardo/twitter_clone-api/f7130adc77a3debfce8a1dec3d5c6eec85b406d7/swagger.json",
+    "fetched_at": "2026-07-02T08:51:11.839226+00:00",
+    "content_hash": "ebbad25730da7ee7582b15869d932be4cac3371a40a56730f22de6f420568c90",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Twitter Clone API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

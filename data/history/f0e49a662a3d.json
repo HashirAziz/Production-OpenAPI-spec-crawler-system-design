@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f0e49a662a3d",
+    "source_url": "https://raw.githubusercontent.com/linux-automation/tacd/b8a9d111a3f6cb3a9d2f33977def393e10a9c38a/openapi.yaml",
+    "fetched_at": "2026-07-02T08:49:23.269443+00:00",
+    "content_hash": "b5dacb83849e3ef5b20249f712ed19ac60838e5052ce0a4de3b6c69aed29bd8c",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "LXA TAC HTTP API",
+    "openapi_version": "openapi_3",
+    "paths_count": 53,
+    "path_diff": null
+  }
+]

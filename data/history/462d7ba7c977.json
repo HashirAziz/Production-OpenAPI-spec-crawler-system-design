@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "462d7ba7c977",
+    "source_url": "https://raw.githubusercontent.com/livepeer/docs/de6026f63e2ec1bf11bb91f82facf1a86dbf2e39/api/worker/api/openapi.yaml.backup",
+    "fetched_at": "2026-07-02T08:49:05.851554+00:00",
+    "content_hash": "b1a0313f14c29f721d97174326cd3cf99657bc5a93d5e68b64498b6c71b880b1",
+    "info_version": "0.0.0",
+    "status": "new",
+    "title": "Livepeer AI Runner",
+    "openapi_version": "openapi_3",
+    "paths_count": 13,
+    "path_diff": null
+  }
+]

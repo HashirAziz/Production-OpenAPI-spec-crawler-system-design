@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "71d7cdfb0e6b",
+    "source_url": "https://raw.githubusercontent.com/zahidkhandev/sizzr-server/b14b90184b99563e6aaa4b92e8e209d0609663bb/swagger.yaml",
+    "fetched_at": "2026-07-02T08:50:36.282372+00:00",
+    "content_hash": "64bd8c6857dd9c38c4f3c03bfca0ed2718b2a48e677e9cfd714e36bc6e772d30",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Sizzr API 1",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

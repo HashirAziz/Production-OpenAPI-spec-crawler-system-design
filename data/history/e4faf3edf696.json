@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e4faf3edf696",
+    "source_url": "https://raw.githubusercontent.com/KappaShilaff/scalar_issue/38db6f3275be74358a5d44b2dffbf543c4894c67/swagger.yaml",
+    "fetched_at": "2026-07-02T08:50:37.160810+00:00",
+    "content_hash": "c06843e745cbd4662dd4972e261717305542df1dcb85e809777f9f7c382af73e",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

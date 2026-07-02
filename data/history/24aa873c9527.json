@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "24aa873c9527",
+    "source_url": "https://raw.githubusercontent.com/OakLabsInc/javascript-dashboard-api/1838b43d07c3352faa24646f1f6886d44eb05e0c/swagger.json",
+    "fetched_at": "2026-07-02T08:51:06.248838+00:00",
+    "content_hash": "e2f7487c4a75bb21f49d9c1e74bef9f9e0b1fe8ef7155aac2116648b5d1d4650",
+    "info_version": "5.0.0",
+    "status": "new",
+    "title": "OakOS Dashboard API",
+    "openapi_version": "swagger_2",
+    "paths_count": 33,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "82dab604f604",
+    "source_url": "https://raw.githubusercontent.com/gleanwork/api-client-go/9a42c7a29e94e4d3fa6021dd28507c404e3f4244/openapi.yaml",
+    "fetched_at": "2026-07-02T08:49:33.241495+00:00",
+    "content_hash": "dbb88614a7ffd99ae0771a96b282cbb21de47b81145d4195b71e26741b5228d7",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Petstore - OpenAPI 3.1",
+    "openapi_version": "openapi_3",
+    "paths_count": 13,
+    "path_diff": null
+  }
+]

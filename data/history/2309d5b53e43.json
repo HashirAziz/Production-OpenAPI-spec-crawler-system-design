@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2309d5b53e43",
+    "source_url": "https://raw.githubusercontent.com/NikhilNar/PhotoAlbum/3648e5e3bdb910fcee084abcc2497ea64a43537c/swagger.yaml",
+    "fetched_at": "2026-07-02T08:50:31.242132+00:00",
+    "content_hash": "04c9291680196fa5beecdfcc48fe0cbc4d1dadf8623370796b64dc86be92a6c2",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "AI Photo Search",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

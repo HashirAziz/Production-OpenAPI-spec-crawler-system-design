@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c42e2e0f4ebf",
+    "source_url": "https://raw.githubusercontent.com/sabersalv/flood-api/36b8578df57328589075fdfec20457466685b12f/openapi.yaml",
+    "fetched_at": "2026-07-02T08:49:34.865819+00:00",
+    "content_hash": "a9c4f46ef38f0cd49d66494ccba675b1fbc3d1453a6c61fb6d15cfddf749c6d7",
+    "info_version": "1.0.3",
+    "status": "new",
+    "title": "Flood API",
+    "openapi_version": "openapi_3",
+    "paths_count": 43,
+    "path_diff": null
+  }
+]

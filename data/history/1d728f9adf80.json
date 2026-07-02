@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1d728f9adf80",
+    "source_url": "https://raw.githubusercontent.com/VizLoreLabs/LCI-FIC2-SE/4453dedbaa7eb374a6ca32d7efc706b7bbab74a7/swagger.json",
+    "fetched_at": "2026-07-02T08:51:01.238596+00:00",
+    "content_hash": "cd7580772fabe1ad107e7a7ca741ce8522febc6fe247c8a15b34b660dce04dba",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "LCI Context Aware Recommendation SE",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

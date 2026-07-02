@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "7e8dba2c134a",
+    "source_url": "https://raw.githubusercontent.com/huseyinstif/oculos/5542eb4d0577a432b1e8cd0e59a7610e45fa24c3/openapi.yaml",
+    "fetched_at": "2026-07-02T08:49:08.327913+00:00",
+    "content_hash": "b0f8d3230407d5a0d5726c6d78f7118dbc75e58d209fd09b6ec0845acb3127d4",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "OculOS API",
+    "openapi_version": "openapi_3",
+    "paths_count": 24,
+    "path_diff": null
+  }
+]

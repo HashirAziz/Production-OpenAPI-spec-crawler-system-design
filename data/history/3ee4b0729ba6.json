@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3ee4b0729ba6",
+    "source_url": "https://raw.githubusercontent.com/Gregouse71/FansDeBackend/58ec40186ee243749c4fb70c0d1c9d8ff1188233/swagger.yaml",
+    "fetched_at": "2026-07-02T08:50:23.214405+00:00",
+    "content_hash": "2da266ef9076053b3c6159a3cf379f14bb59f3113c95aca7521813d8d7f54a08",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "Bataille NavAPI",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

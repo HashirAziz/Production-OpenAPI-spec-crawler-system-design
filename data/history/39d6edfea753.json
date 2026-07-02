@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "39d6edfea753",
+    "source_url": "https://raw.githubusercontent.com/AyoubEchcharrat/front-bank-app/07e22c9cfb621b9c31b981518d9ff0b8b61470ff/swagger.yaml",
+    "fetched_at": "2026-07-02T08:50:31.489717+00:00",
+    "content_hash": "33c2efbf29d49eb285f18b850ff74f967dc6655a7086d76eb1ee94b734ce3c27",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API de Transactions",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

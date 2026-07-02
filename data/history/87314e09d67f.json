@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "87314e09d67f",
+    "source_url": "https://raw.githubusercontent.com/datacite/sashimi/73adc192ea6fab48e724e06667c9386b10e0c301/openapi.yaml",
+    "fetched_at": "2026-07-02T08:49:19.632863+00:00",
+    "content_hash": "dc5d3a4ecaa3af56c063f66b1ebf3d9ca6266bde2b7acf0c330de94c3aa00b4d",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Data Usage API",
+    "openapi_version": "swagger_2",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "7fd951e48a32",
+    "source_url": "https://raw.githubusercontent.com/Tessie295/rag_system/b37e3e9dafaf7331a1fe7cccffd418fab7be9f76/docs/api/openapi.yaml ",
+    "fetched_at": "2026-07-02T08:49:32.154656+00:00",
+    "content_hash": "7a92d7a26f44ef94380b195aaeafa23b1b12766611a1baa55434a723bf8745c2",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Shakers AI Support System API",
+    "openapi_version": "openapi_3",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

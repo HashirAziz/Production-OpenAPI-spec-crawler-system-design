@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "90c010215973",
+    "source_url": "https://raw.githubusercontent.com/Aurite-ai/aurite-agents/a6feb2332ba6590276669868444a77d512029bca/openapi.yaml",
+    "fetched_at": "2026-07-02T08:49:17.383695+00:00",
+    "content_hash": "22d52ebb29310ee7a8b48ad65968f501d3193eb457839906d69bec31a3e430be",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Aurite Agents API",
+    "openapi_version": "openapi_3",
+    "paths_count": 49,
+    "path_diff": null
+  }
+]

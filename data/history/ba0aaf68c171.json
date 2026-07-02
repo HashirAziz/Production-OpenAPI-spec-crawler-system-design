@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ba0aaf68c171",
+    "source_url": "https://raw.githubusercontent.com/ONSdigital/ras-collection-instrument/5da8b73d135a9b88d115e0bbc5f8ba11ef9a8a2f/openapi.yaml",
+    "fetched_at": "2026-07-02T08:49:16.674796+00:00",
+    "content_hash": "8897fbcfad31b32319aef9c9c7edbd38be9ea6615a41e2708f440983b70f2cd6",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "collection instrument",
+    "openapi_version": "openapi_3",
+    "paths_count": 16,
+    "path_diff": null
+  }
+]

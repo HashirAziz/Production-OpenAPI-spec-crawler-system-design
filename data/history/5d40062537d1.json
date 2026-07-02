@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5d40062537d1",
+    "source_url": "https://raw.githubusercontent.com/Tierion/boltwall/1ef61a13b15e68dabea47123ab7e1e00600594c1/openapi.yaml",
+    "fetched_at": "2026-07-02T08:49:07.544077+00:00",
+    "content_hash": "b76134cf9060c44d8e8cb166d5597885db1933c7ca2a31fdfd9f32ce9b763f1f",
+    "info_version": "2.0.0-beta-oas3",
+    "status": "new",
+    "title": "Boltwall API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

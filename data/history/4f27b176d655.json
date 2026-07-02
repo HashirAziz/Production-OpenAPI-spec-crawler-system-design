@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4f27b176d655",
+    "source_url": "https://raw.githubusercontent.com/bongohive-internship/node-boilerplate/ddaf271387242decc6e40d49e82eca613bcd0d53/swagger.json",
+    "fetched_at": "2026-07-02T08:51:09.623624+00:00",
+    "content_hash": "651a7c5427c0f2290e63fad83def98a8d872038fe7a62989e9dbefd303982b08",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "[SERVER_NAME]",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

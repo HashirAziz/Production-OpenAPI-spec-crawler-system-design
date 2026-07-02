@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b400c3038a3e",
+    "source_url": "https://raw.githubusercontent.com/EffaOjah/Stello-backend/1baa41964e2a7faf0a56ed8a7dced7ee4b257b47/swagger.yaml",
+    "fetched_at": "2026-07-02T08:50:39.722760+00:00",
+    "content_hash": "0fdfc2453f05d5ff3c9be97d353dc30d8c2aa5880d1f931b2d4463b892eaf7b5",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Stello Fintech API",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

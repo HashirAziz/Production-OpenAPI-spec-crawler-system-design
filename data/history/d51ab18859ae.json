@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d51ab18859ae",
+    "source_url": "https://raw.githubusercontent.com/eka-care/eka-docs/92fbcec1f5c13e72e90ea39ead0e9529a481337a/api-reference/doc-tool/tool_openapi.json.bkp",
+    "fetched_at": "2026-07-02T08:49:46.070012+00:00",
+    "content_hash": "90181e8cf4ab7b580b4df2b39dbb54b9530c72f9bb0506f2b93340048d4b8841",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Ekacare API & Webhook Documentation",
+    "openapi_version": "openapi_3",
+    "paths_count": 18,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "270ddd9868fe",
+    "source_url": "https://raw.githubusercontent.com/DallaProRacing/Desafio2_Lord-of-Springs/bfa4e1cb888ee8f4e152d25b676f6e5a8929cd60/swagger.json",
+    "fetched_at": "2026-07-02T08:51:12.365794+00:00",
+    "content_hash": "8b49ea03816161965e4b4d16f96cd20d4cd48c572d7bc261344d68df970c950f",
+    "info_version": "2.0.0",
+    "status": "new",
+    "title": "Integrated Microservices Project",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

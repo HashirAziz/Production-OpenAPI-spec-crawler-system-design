@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "001e3c28a6a3",
+    "source_url": "https://raw.githubusercontent.com/fsi-hack4autism/scenario-1/076727969b0d16446c022a4a0140750f07d8e745/openapi.yaml",
+    "fetched_at": "2026-07-02T08:49:32.962613+00:00",
+    "content_hash": "efc4e09882a4943226b1f0daeb310735515cd7e0f256c8ffd16a9fc3d12d25a0",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Scenario 1 API",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

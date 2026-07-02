@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "48019f712577",
+    "source_url": "https://raw.githubusercontent.com/Duc-Quang-0310/Backend-PTIT/2621f8347e5f5f94df5b0abb36e0eb3ab5f33dde/swagger.yaml",
+    "fetched_at": "2026-07-02T08:50:34.836348+00:00",
+    "content_hash": "6f60e8f56bd7781ba979e6ebedc07124fff6eb0df007b94601bd52a1f213d334",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "unknown",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

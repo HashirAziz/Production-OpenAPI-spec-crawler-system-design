@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "fc502f144cad",
+    "source_url": "https://raw.githubusercontent.com/Zameerali/internManagementBackend/493560836e8e0f1d3100c6bde9f5036eb174b53e/swagger.yaml",
+    "fetched_at": "2026-07-02T08:50:35.778310+00:00",
+    "content_hash": "590dfbe3c0fb30540f3a5bc996564401584b36fe78507bfb9b13f78edf44ac19",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Intern Management API",
+    "openapi_version": "openapi_3",
+    "paths_count": 16,
+    "path_diff": null
+  }
+]

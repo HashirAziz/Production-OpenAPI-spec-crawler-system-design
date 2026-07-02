@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "bfc8e72a2f52",
+    "source_url": "https://raw.githubusercontent.com/Anandhusnair007-1/cmp-platform/22e016bf9220268bf0abe5daeefa09c8c7bd7819/api/openapi.yaml.bak",
+    "fetched_at": "2026-07-02T08:49:29.350711+00:00",
+    "content_hash": "097a32f31e796d8900d8f8d979d2811f8114e14c81b2036b9adf7d08b1bf2222",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Certificate Management Platform API",
+    "openapi_version": "openapi_3",
+    "paths_count": 12,
+    "path_diff": null
+  }
+]

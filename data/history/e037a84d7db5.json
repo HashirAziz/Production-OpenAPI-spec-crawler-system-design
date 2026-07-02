@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e037a84d7db5",
+    "source_url": "https://raw.githubusercontent.com/tomkludy/docker-drawio-renderer/3dddc81865be3fe4cb3e20c89f905ac4372e8f79/openapi.yaml",
+    "fetched_at": "2026-07-02T08:49:18.341399+00:00",
+    "content_hash": "a31f8cd2a891664a45b40cd9837336f1ece536dd67d035e959212e4b677e3f9c",
+    "info_version": "1.1.0",
+    "status": "new",
+    "title": "Draw.io Renderer",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

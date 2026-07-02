@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4c8adeebd8dd",
+    "source_url": "https://raw.githubusercontent.com/victorhundo/yogar-rest/4b534e448e583beadee78bbab2d0a6a8aa3a5249/swagger.yaml",
+    "fetched_at": "2026-07-02T08:50:20.170100+00:00",
+    "content_hash": "a4d5a4b2f1ada01a34fed16ecfaa414010883cf19cbf621dbca1d24a6268c332",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Swagger Yogar",
+    "openapi_version": "openapi_3",
+    "paths_count": 13,
+    "path_diff": null
+  }
+]
