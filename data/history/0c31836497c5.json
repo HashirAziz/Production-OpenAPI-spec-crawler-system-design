@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0c31836497c5",
+    "source_url": "https://raw.githubusercontent.com/akash925/Dock-Optimizer-Rebuild/357fae4d3af95c7f68d14b2dc1c4502110c04401/openapi.yaml",
+    "fetched_at": "2026-07-03T08:55:50.834682+00:00",
+    "content_hash": "5140d4a07e44f452005130e5cd67ba867cfe1f3a9d5e5c3ff607c97fe79b5bb7",
+    "info_version": "2.0",
+    "status": "new",
+    "title": "Dock Optimizer API",
+    "openapi_version": "openapi_3",
+    "paths_count": 17,
+    "path_diff": null
+  }
+]

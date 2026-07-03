@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e9b04e392b18",
+    "source_url": "https://raw.githubusercontent.com/exDock/exDock-engine/453b28d2c9d8aa0afa79c92ff7935b0834f9b856/swagger.json",
+    "fetched_at": "2026-07-03T08:57:21.253978+00:00",
+    "content_hash": "b4e321c1a6bdc48b4d182d7bbc22cc8827bf0eed48931c31e6df203e713408e5",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Ex-Dock API",
+    "openapi_version": "openapi_3",
+    "paths_count": 30,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "bbb6379b6915",
+    "source_url": "https://raw.githubusercontent.com/olaa30-j/Khamsat-Backend-NodeJS/9f9e53a32076139701249fdc6c612062da8792eb/swagger.json",
+    "fetched_at": "2026-07-03T08:57:32.660942+00:00",
+    "content_hash": "651a68eb5a005757af162577a60c3bb9efdb36b1d00da5befab84d694a159fd8",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Freelance Platform API",
+    "openapi_version": "openapi_3",
+    "paths_count": 26,
+    "path_diff": null
+  }
+]

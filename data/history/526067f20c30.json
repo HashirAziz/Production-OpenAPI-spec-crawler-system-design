@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "526067f20c30",
+    "source_url": "https://raw.githubusercontent.com/n1ceh4t/hls-streaming-server/ac80fe6ecd3a8001c33b2a1b61d5ed7736a2b3fd/openapi.yaml",
+    "fetched_at": "2026-07-03T08:56:01.473054+00:00",
+    "content_hash": "5486fc47a86a8d17f9882e55fa17a34f022063c4931e0cbdc9a6ac758a6d6683",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "HLS Streaming Server API",
+    "openapi_version": "openapi_3",
+    "paths_count": 41,
+    "path_diff": null
+  }
+]

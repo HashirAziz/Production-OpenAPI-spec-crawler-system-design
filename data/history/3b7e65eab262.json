@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3b7e65eab262",
+    "source_url": "https://raw.githubusercontent.com/beatsbyte/backend/57b583657c06bedb692548f8ec4af8662174c3ad/openapi.yaml",
+    "fetched_at": "2026-07-03T08:56:00.258099+00:00",
+    "content_hash": "b290420fe183e4d6782baf4a395c4415a133ce27210f5a74569ea6bc24f3c32d",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "BeatsByte - MP3 Compression Service",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

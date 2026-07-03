@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "733c5d7dc81c",
+    "source_url": "https://raw.githubusercontent.com/torchiaf/rancher-ai-agent/b39c0776d72e358e75ab54a71d153eb922d2b2df/openapi.yaml",
+    "fetched_at": "2026-07-03T08:55:41.470078+00:00",
+    "content_hash": "64b8eadc352d844e73e2f2ada2fda4427c40e3ba2f1dd6449f08204fed2f8290",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Rancher AI Chat API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "61826ea7c4c6",
+    "source_url": "https://raw.githubusercontent.com/nattrio/schemathesis-demo/9b6265058be98dde667711f090ae55132eaf4757/openapi.yaml",
+    "fetched_at": "2026-07-03T08:55:54.114686+00:00",
+    "content_hash": "755531ebee1e0775784f50a0e93388ac5eca5d8e74d4e055415cc300efb9bbf2",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Todo API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

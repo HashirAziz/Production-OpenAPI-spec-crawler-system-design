@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "60a402ec4567",
+    "source_url": "https://raw.githubusercontent.com/encoretechio/vmag_api/2a570d38ef5553187c256b9c653b10a0f960e960/swagger.json",
+    "fetched_at": "2026-07-03T08:57:24.339464+00:00",
+    "content_hash": "a5bde786082ed88502fe205579cf12bfb637c0c8df5e76aa88b3b0606b896d18",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Video Portal API",
+    "openapi_version": "swagger_2",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

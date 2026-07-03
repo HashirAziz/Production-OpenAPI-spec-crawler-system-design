@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "71dbf5337113",
+    "source_url": "https://raw.githubusercontent.com/JFeimster/cfo-in-a-box/36b478f777ff55502f28088eda35d926ef57cda1/openapi.yaml",
+    "fetched_at": "2026-07-03T08:55:47.938435+00:00",
+    "content_hash": "4e5803675c99275244742f13e2c18bf72f53c02cfc9420cb914d148ff3b52480",
+    "info_version": "0.2.0",
+    "status": "new",
+    "title": "CFO-in-a-Box GPT Actions API",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

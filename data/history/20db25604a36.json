@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "20db25604a36",
+    "source_url": "https://raw.githubusercontent.com/oslokommune/okdata-metadata-api/cbab57293ceadaa50cf859910328b61bc8dc7c56/swagger.yaml",
+    "fetched_at": "2026-07-03T08:56:40.675674+00:00",
+    "content_hash": "ab67382ce579432b27d88edbf8c1b997411f2e85244bb7433178f28ae700948e",
+    "info_version": "2021-06-07T10:48:35Z",
+    "status": "new",
+    "title": "prod-metadata-api",
+    "openapi_version": "swagger_2",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

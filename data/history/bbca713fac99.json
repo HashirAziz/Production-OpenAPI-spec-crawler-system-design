@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "bbca713fac99",
+    "source_url": "https://raw.githubusercontent.com/OmniLabs-Education/SwaggerUI/64fb656b67c64064c587971b7dccafcc5746796c/swagger.json",
+    "fetched_at": "2026-07-03T08:57:28.029554+00:00",
+    "content_hash": "8cc9e92f2124e4b57caa8dc5168e308257a5e999d466eb7e1cb147247497dd80",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Products",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

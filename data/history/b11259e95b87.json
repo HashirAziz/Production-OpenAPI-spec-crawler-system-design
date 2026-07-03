@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b11259e95b87",
+    "source_url": "https://raw.githubusercontent.com/ohkami-rs/ohkami/1ee9f7b1cfcfea2cee9e9be3a2323450853110e5/samples/openapi-schema-from-into/openapi.json.sample",
+    "fetched_at": "2026-07-03T08:56:11.445875+00:00",
+    "content_hash": "dd50e17f8ae5030a7b5d2579e4a216170b0e335d5ac22b33a22afe359a96b477",
+    "info_version": "0",
+    "status": "new",
+    "title": "Dummy Server for serde From & Into",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

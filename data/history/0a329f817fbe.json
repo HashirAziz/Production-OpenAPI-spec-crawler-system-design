@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0a329f817fbe",
+    "source_url": "https://raw.githubusercontent.com/GonzaloRossin/pf-documentation/174e4faee76a1c45649af2d5748d1fa6b1ddc682/openapi.yaml",
+    "fetched_at": "2026-07-03T08:55:54.440840+00:00",
+    "content_hash": "0ae68ad4d1e65385f6eebf929e137859cf389107c9a1d2a991e8590be62900e7",
+    "info_version": "1.0.11",
+    "status": "new",
+    "title": "Swagger Petstore - OpenAPI 3.0",
+    "openapi_version": "openapi_3",
+    "paths_count": 25,
+    "path_diff": null
+  }
+]

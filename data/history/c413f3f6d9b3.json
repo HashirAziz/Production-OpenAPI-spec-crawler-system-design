@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c413f3f6d9b3",
+    "source_url": "https://raw.githubusercontent.com/thanthtooaung-coding/banking-app-api-finalize-version/be2356117c347dfc439579cd3c192943394d70be/openapi.yaml",
+    "fetched_at": "2026-07-03T08:55:58.944212+00:00",
+    "content_hash": "c1866749c0e7dbc880fce0b0e6192bf83e4b7887b49ae86f239f6bc1ba415327",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Personal Banking API",
+    "openapi_version": "openapi_3",
+    "paths_count": 29,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "27a7f1d4037c",
+    "source_url": "https://raw.githubusercontent.com/speakeasy-sdks/speakeasytryout/27688717b491131b64c8f6fead988db943750171/openapi.yaml",
+    "fetched_at": "2026-07-03T08:55:59.448754+00:00",
+    "content_hash": "246016df7680bd2f4ff2be2ed592a1c8acbf9a7f8dde77bac4a46a64ffce20c8",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Petstore",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

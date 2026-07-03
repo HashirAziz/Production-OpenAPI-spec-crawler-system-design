@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4c2dfb00fb6c",
+    "source_url": "https://raw.githubusercontent.com/speakeasy-sdks/test-workspace-sample-sdk/d5f3aed69f43a902b4b49b04077c6743bd164431/openapi.yaml",
+    "fetched_at": "2026-07-03T08:55:52.857941+00:00",
+    "content_hash": "b92dc6276c4004a2670bdadf1ae94796b0daf4636da24210c9963db6567f6545",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Whitelabel E-wallet",
+    "openapi_version": "openapi_3",
+    "paths_count": 16,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8c5d87403924",
+    "source_url": "https://raw.githubusercontent.com/FluxNotes/shortcut-services/b3a7f0c823531ec0513e10168f04c30099d783e6/swagger.json",
+    "fetched_at": "2026-07-03T08:57:31.278978+00:00",
+    "content_hash": "153d327c6a360f6fa6eb35b6f173422170ba36a9dba414dddd10120e19683b30",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Swagger Shortcut Service",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "99d61ad15531",
+    "source_url": "https://raw.githubusercontent.com/melvynkim/melvyn-node.js-starter/685b69cbfca594efb7799589a90250b0141475d6/swagger.json",
+    "fetched_at": "2026-07-03T08:57:31.081997+00:00",
+    "content_hash": "098e5fb4deab7362b05fd874cd3ff50f8baf7a3cbdfdf280e23dcc974422e28a",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "cadenza-sg1-gen-api",
+    "openapi_version": "openapi_3",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

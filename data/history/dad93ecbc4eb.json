@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "dad93ecbc4eb",
+    "source_url": "https://raw.githubusercontent.com/groupthinking/action-genai-video-issue-analyzer/e9097cdf8c0d2a86d9e86efc529ddacd4b234490/openapi.yaml",
+    "fetched_at": "2026-07-03T08:56:04.180751+00:00",
+    "content_hash": "a2220b8d7128edeb0626e4f9aa73369023d9aed9673340f662ad7339b9a1bee0",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "UVAI - Video-to-Agentic Action API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

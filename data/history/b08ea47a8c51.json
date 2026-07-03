@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b08ea47a8c51",
+    "source_url": "https://raw.githubusercontent.com/fperezd/tooxs-buk-api/8ebd4a939914ce683a149f6093fff06dd638d2bd/openapi.yaml",
+    "fetched_at": "2026-07-03T08:55:49.068604+00:00",
+    "content_hash": "d1e55c11b0669f06fba22e7864a4cf74e0461038a699334536c27517b39b9851",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Tooxs BUK API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

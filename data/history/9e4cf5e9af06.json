@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9e4cf5e9af06",
+    "source_url": "https://raw.githubusercontent.com/deployaja/deployaja-cli/2ef820d51080dbb4c2ac85951399182bea0b5f1f/openapi.yaml",
+    "fetched_at": "2026-07-03T08:55:57.479938+00:00",
+    "content_hash": "e12b9c3ec8de01375b7ca931ceac9aef1ab6bf09becdc2a6bb7076cf8159701c",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "DeployAja API",
+    "openapi_version": "openapi_3",
+    "paths_count": 14,
+    "path_diff": null
+  }
+]

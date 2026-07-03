@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0a510c91f840",
+    "source_url": "https://raw.githubusercontent.com/rakesh-verma/open-repo/610a748ee44542e8c006fb81c887baa23e58508e/swagger.yaml",
+    "fetched_at": "2026-07-03T08:56:54.474295+00:00",
+    "content_hash": "1b670bab55240861f187cf9a77ec8cf0fdf578dda483d5867b757888ccfbf165",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Node API Library",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

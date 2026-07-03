@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "41684a8f6e82",
+    "source_url": "https://raw.githubusercontent.com/rick825/Food-Delivery-Cost-API/874c2f109b44ab1b9158b35dae4fa04e7f52bac7/swagger.yaml",
+    "fetched_at": "2026-07-03T08:56:47.132672+00:00",
+    "content_hash": "3f23266ece0f3a1f1f3881aaf874da67e9cad2df16d013f70d31bb2629c72b9c",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Food Delivery API",
+    "openapi_version": "openapi_3",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

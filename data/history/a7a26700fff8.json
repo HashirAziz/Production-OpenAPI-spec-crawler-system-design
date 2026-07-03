@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a7a26700fff8",
+    "source_url": "https://raw.githubusercontent.com/AbdullahTauqeer1126/AbdullahTauqeer1126.github.io/625ce43957488b89ea7eb0e4b7ad948f969d206e/openapi.yaml",
+    "fetched_at": "2026-07-03T08:55:53.136943+00:00",
+    "content_hash": "d87d2af0bbf564fdb07c943da169fd6882bc7551c467880407007fcfe3068693",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "RaftaarFreight API",
+    "openapi_version": "openapi_3",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

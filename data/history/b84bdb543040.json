@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b84bdb543040",
+    "source_url": "https://raw.githubusercontent.com/springmint/cpbox-skills/0858c0c63ac9909eed44bce8f5e3a5d41e45320c/openapi.yaml",
+    "fetched_at": "2026-07-03T08:55:56.718202+00:00",
+    "content_hash": "ddd4567038a3433146d284418461735680fae5f728021bf636cb0f14bc3ad823",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "cpbox x402 API",
+    "openapi_version": "openapi_3",
+    "paths_count": 12,
+    "path_diff": null
+  }
+]

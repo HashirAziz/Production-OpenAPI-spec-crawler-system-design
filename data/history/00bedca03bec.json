@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "00bedca03bec",
+    "source_url": "https://raw.githubusercontent.com/Amit0617/ethRPCtoREST/dfb74827dde92b6c6355b54de046784e68d7fdc4/openapi.yaml",
+    "fetched_at": "2026-07-03T08:55:55.617602+00:00",
+    "content_hash": "ad68527f2dced8fbea77755515becb8b149b33edc31788e9456092a67023c1af",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "ethRPCtoREST API",
+    "openapi_version": "openapi_3",
+    "paths_count": 20,
+    "path_diff": null
+  }
+]

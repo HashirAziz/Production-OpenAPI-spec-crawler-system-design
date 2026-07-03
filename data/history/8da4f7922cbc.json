@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8da4f7922cbc",
+    "source_url": "https://raw.githubusercontent.com/Dilusha-Madushan/chat-service/722e999562fc6c180b497abb20a92b45a1960a84/openapi.yaml",
+    "fetched_at": "2026-07-03T08:55:51.087747+00:00",
+    "content_hash": "6e33dda7dffd3f0143c0e111ae5a4465442fe28b2991a35f4e1bd4b0e993ad29",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Chat API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

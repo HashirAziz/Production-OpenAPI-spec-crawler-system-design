@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "02b446478cea",
+    "source_url": "https://raw.githubusercontent.com/stardust-gg/docs/ec302bfe7c7b85ed26ff275e9c5764c7f15d066c/swagger.json",
+    "fetched_at": "2026-07-03T08:57:32.389324+00:00",
+    "content_hash": "b0505c685c5998dee87c6440b0d1dfdc347640dc108ace7e19f4320867db2f40",
+    "info_version": "v1",
+    "status": "new",
+    "title": "Stardust API",
+    "openapi_version": "openapi_3",
+    "paths_count": 33,
+    "path_diff": null
+  }
+]

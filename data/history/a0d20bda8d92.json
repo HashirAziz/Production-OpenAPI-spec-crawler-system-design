@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a0d20bda8d92",
+    "source_url": "https://raw.githubusercontent.com/edgarcrssn/handball-club-api/386828014e6d036055186f2a21a1dfedabe72378/swagger.yaml",
+    "fetched_at": "2026-07-03T08:56:48.229145+00:00",
+    "content_hash": "d81dbcf5936f2fa7d89ff912f7bbe799ba52bacb1efb0fb4737cc2059ac67f08",
+    "info_version": null,
+    "status": "new",
+    "title": "Handball Club API",
+    "openapi_version": "openapi_3",
+    "paths_count": 12,
+    "path_diff": null
+  }
+]

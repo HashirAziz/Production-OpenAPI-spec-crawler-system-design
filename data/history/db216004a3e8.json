@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "db216004a3e8",
+    "source_url": "https://raw.githubusercontent.com/ohkami-rs/ohkami/1ee9f7b1cfcfea2cee9e9be3a2323450853110e5/samples/worker-with-openapi/openapi.json.sample",
+    "fetched_at": "2026-07-03T08:56:10.685878+00:00",
+    "content_hash": "553ce00b69cfeebaf11ec7a39a901b5098e214ecef6f1c6c2bce7df65dc59de3",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "ohkami-worker-with-openapi",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

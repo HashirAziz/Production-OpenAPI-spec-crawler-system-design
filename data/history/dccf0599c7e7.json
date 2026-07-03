@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "dccf0599c7e7",
+    "source_url": "https://raw.githubusercontent.com/RyanJames0/EagleBank/cd5af0fadb22da88791aac01b5a8fafc81313786/openapi.yaml",
+    "fetched_at": "2026-07-03T08:55:53.897265+00:00",
+    "content_hash": "d8bd73dd0cfad52ce4c3e8a613636af5663346858838d4acccd5632865c3c05c",
+    "info_version": "v1.0.0",
+    "status": "new",
+    "title": "Take home tech task",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

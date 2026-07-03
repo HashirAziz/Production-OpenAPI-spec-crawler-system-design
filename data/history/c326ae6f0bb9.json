@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c326ae6f0bb9",
+    "source_url": "https://raw.githubusercontent.com/Maxim-LD/agendos-api/f86afa13b856e75cf09be13d6f965385c931efde/openapi.yaml",
+    "fetched_at": "2026-07-03T08:55:41.741618+00:00",
+    "content_hash": "7e7e14e26ec515df9fcc9408b02396dd41d43288587cfa06c57ca88c5027d665",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Agendos Backend API",
+    "openapi_version": "openapi_3",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

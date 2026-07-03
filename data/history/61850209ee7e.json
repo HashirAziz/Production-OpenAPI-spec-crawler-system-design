@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "61850209ee7e",
+    "source_url": "https://raw.githubusercontent.com/AppfinityLabs/chitwise-new/c0a70379de901836a2498ad74616a97b951addeb/swagger.yaml",
+    "fetched_at": "2026-07-03T08:56:47.465943+00:00",
+    "content_hash": "cad3114875ce1049979d41a1e0557bf1dc46dc4745467837301c3d5b0c155dbf",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "ChitWise API",
+    "openapi_version": "openapi_3",
+    "paths_count": 18,
+    "path_diff": null
+  }
+]

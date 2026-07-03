@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d4fd8abae57f",
+    "source_url": "https://raw.githubusercontent.com/bobr2306/Book_crossing_CU/74dae0e80bbb6ec371764eaf6ef8e31189359218/swagger.yaml",
+    "fetched_at": "2026-07-03T08:56:49.204151+00:00",
+    "content_hash": "f3a8cd53f4e0b82c10bf51e671f2032b76b1c640cfb38cac6145ef71b2b52d32",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Book Exchange API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

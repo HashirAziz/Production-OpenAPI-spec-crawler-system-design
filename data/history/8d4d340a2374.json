@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8d4d340a2374",
+    "source_url": "https://raw.githubusercontent.com/techreturners/book-manager-api-javascript-complete-swagger/d4b73f40858289678b8ad4c21626ff020d3f1f8c/swagger.yaml",
+    "fetched_at": "2026-07-03T08:56:43.666163+00:00",
+    "content_hash": "b698e46f5c7a4e4283178744f8994cbfbe431fb50944268ab256135a93ffe41c",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "📖 Minimalist Book Manager API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

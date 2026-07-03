@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4f28c34df7ae",
+    "source_url": "https://raw.githubusercontent.com/JalDani2010/-Recon_Backend_microservices/a1572c7c38c8d959c4ce6ce8cd1555348fa3971c/swagger.yaml",
+    "fetched_at": "2026-07-03T08:56:43.965596+00:00",
+    "content_hash": "a3f0d8ad239cf10f3dde762503d2fa0bb82b87e8d9162cf344c357dab25ad5ff",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Recon AI Copilot API",
+    "openapi_version": "openapi_3",
+    "paths_count": 26,
+    "path_diff": null
+  }
+]

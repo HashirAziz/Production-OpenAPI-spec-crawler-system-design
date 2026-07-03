@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "34b95a9df01d",
+    "source_url": "https://raw.githubusercontent.com/eliona-smart-building-assistant/zevvy-app/0f47ed951a702a5ed84d198e76b6e2ee04c497bd/openapi.yaml",
+    "fetched_at": "2026-07-03T08:56:04.870129+00:00",
+    "content_hash": "2e46048ae86e8347aa5adc2a65f59b6365f000733e57fd5703e120109ba46e86",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Zevvy app API",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "7b79f5fc6bf7",
+    "source_url": "https://raw.githubusercontent.com/foyzan/my-blog-api/66f9e4b8738dad2945c770ba2e1a781384326ff4/swagger.yaml",
+    "fetched_at": "2026-07-03T08:56:47.891219+00:00",
+    "content_hash": "d5e4f5381d475c94b6b5ab695848572dea1b6fed418cac74a425c0239b49cf1e",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "My blogAPI",
+    "openapi_version": "openapi_3",
+    "paths_count": 18,
+    "path_diff": null
+  }
+]

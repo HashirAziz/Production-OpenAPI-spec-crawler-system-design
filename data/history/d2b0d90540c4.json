@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d2b0d90540c4",
+    "source_url": "https://raw.githubusercontent.com/hanzchiziterem/langpulse-nlp-api/8ab7ece2410b3383c3d14bef9754b73492c7fa49/swagger.yaml",
+    "fetched_at": "2026-07-03T08:56:45.419675+00:00",
+    "content_hash": "6c2eeaddd96852d1259b4e44229e022fb8b542aaa8becdabf8eb4101b2953f45",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "LangPulse API",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

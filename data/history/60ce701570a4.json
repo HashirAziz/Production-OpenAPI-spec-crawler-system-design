@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "60ce701570a4",
+    "source_url": "https://raw.githubusercontent.com/alvjtc/gcp-pricing-info/be302b96a36c8983cf3bbe8f9c7391112561ab8f/openapi.yaml",
+    "fetched_at": "2026-07-03T08:55:58.654151+00:00",
+    "content_hash": "fab001965ca102546f1556475b125c5c123a42a9cab98ff74055343317987393",
+    "info_version": "1",
+    "status": "new",
+    "title": "GCP Pricing API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

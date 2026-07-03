@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "eef420a5c0c6",
+    "source_url": "https://raw.githubusercontent.com/coonghe03/smart-event-notification-service/f6963ba51c6733b432fc1cc683d804034dc8c1c4/openapi.yaml",
+    "fetched_at": "2026-07-03T08:56:05.102997+00:00",
+    "content_hash": "6daddd7b4aad6761d2aeead0b880d5b829982a96710fc5e393a5c95df415e542",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Smart Event [Your Service] Service API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

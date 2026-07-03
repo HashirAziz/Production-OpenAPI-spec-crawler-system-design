@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "99f07c6b39a3",
+    "source_url": "https://raw.githubusercontent.com/geekinc/codera-module-stripe-payments/d57f45985f4d0089e4f90afeab9a663720c25926/openapi.yaml",
+    "fetched_at": "2026-07-03T08:55:45.991841+00:00",
+    "content_hash": "9c0a399ef6a43239f395e17f3a79950a7efe003ea968b316b563179941c7ef0c",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Stripe Payments API",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

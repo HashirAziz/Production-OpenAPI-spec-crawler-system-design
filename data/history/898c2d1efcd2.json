@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "898c2d1efcd2",
+    "source_url": "https://raw.githubusercontent.com/jphacks/os_2522/0ae2243333fd6ea585d8d6f984bd98abc3ec4544/openapi.yaml",
+    "fetched_at": "2026-07-03T08:56:01.735632+00:00",
+    "content_hash": "d2bb297533ebd7025e567e73768e21cb74201569efcb0fdf190d691b21928903",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Arsome Hackathon API",
+    "openapi_version": "openapi_3",
+    "paths_count": 12,
+    "path_diff": null
+  }
+]

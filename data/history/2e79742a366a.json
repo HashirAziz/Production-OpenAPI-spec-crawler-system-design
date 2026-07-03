@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2e79742a366a",
+    "source_url": "https://raw.githubusercontent.com/guruprince8/node/4d13fac477b255d7fdfacabc3a40d6a1aefcdbd8/swagger.yaml",
+    "fetched_at": "2026-07-03T08:56:48.425271+00:00",
+    "content_hash": "28fe7d04e9c013135203ae77e204b55b46657e17f9205b16833ff5ff8061974d",
+    "info_version": "0.1.9",
+    "status": "new",
+    "title": "ECommerce API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

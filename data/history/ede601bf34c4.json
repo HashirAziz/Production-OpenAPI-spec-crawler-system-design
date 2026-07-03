@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ede601bf34c4",
+    "source_url": "https://raw.githubusercontent.com/sarman03/pfi-api_docs/3f0e89a1bed0c5792379942471a75b03f5906634/swagger.yaml",
+    "fetched_at": "2026-07-03T08:56:59.309431+00:00",
+    "content_hash": "19372315398882c3db30e40b3cfb748d137f3ee51b76ac9154ee3a74c8c70752",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "PFI API",
+    "openapi_version": "openapi_3",
+    "paths_count": 25,
+    "path_diff": null
+  }
+]

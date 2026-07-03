@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "97f7e0befa01",
+    "source_url": "https://raw.githubusercontent.com/junaid07n/Pro-Transcriber/81af7115f8feb8356b2eba511ebd7fa972b8e6a7/openapi.yaml",
+    "fetched_at": "2026-07-03T08:55:47.035475+00:00",
+    "content_hash": "b1eea248ba4d2892fa143c8997d38b3744047a6dcdf2d94c46cbc113668e3413",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "Api",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

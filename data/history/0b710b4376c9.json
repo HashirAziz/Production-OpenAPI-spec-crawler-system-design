@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0b710b4376c9",
+    "source_url": "https://raw.githubusercontent.com/nafiuopeyemi88/express_backend_api/10412f06069234746f76df2ab4ed1c548ff378d2/swagger.yaml",
+    "fetched_at": "2026-07-03T08:56:59.750935+00:00",
+    "content_hash": "cde7ef7ded4a4f08297aa2552eb69a00056b9ea3a0301dfa3a5cdeba1a2aa81d",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Blogs API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

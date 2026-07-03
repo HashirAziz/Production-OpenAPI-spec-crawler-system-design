@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1182735168ec",
+    "source_url": "https://raw.githubusercontent.com/ChristerFrestad/FamilyAssistant/a391383c84f0e7aff39be46ac5ee2afcbbe09017/openapi.yaml",
+    "fetched_at": "2026-07-03T08:55:40.988789+00:00",
+    "content_hash": "458a4b315af3619b07dbddad1d6836bb2060be9515a7047d1eaa243f5614c57d",
+    "info_version": "1.3.0",
+    "status": "new",
+    "title": "FamilyAssistant API",
+    "openapi_version": "openapi_3",
+    "paths_count": 22,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "43ca4dd4981b",
+    "source_url": "https://raw.githubusercontent.com/ohkami-rs/ohkami/1ee9f7b1cfcfea2cee9e9be3a2323450853110e5/samples/openapi-schema-enums/openapi.json.sample",
+    "fetched_at": "2026-07-03T08:56:10.889662+00:00",
+    "content_hash": "a0b110dcfb9589e3dacced08c8f03f83c936b47f8e820b44a040804802fcafe4",
+    "info_version": "0",
+    "status": "new",
+    "title": "Dummy Server for testing #[derive(Schema)] for enums",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

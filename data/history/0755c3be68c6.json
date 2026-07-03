@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0755c3be68c6",
+    "source_url": "https://raw.githubusercontent.com/divah21/test-persistence-v2/645faa98aa8878cd63f265210c0deb465838ab42/swagger.yaml",
+    "fetched_at": "2026-07-03T08:56:46.886972+00:00",
+    "content_hash": "8874a4d00996d2d2a10ae12408eebaeacbc7a42b62a6bf566590de9667f60d2a",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Express Microservice API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

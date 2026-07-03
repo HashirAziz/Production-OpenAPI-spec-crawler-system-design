@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f7b62534c464",
+    "source_url": "https://raw.githubusercontent.com/hashmith-zluri/zluri_bootcamp/fd4e50d2d151bc1e62096e3bcf3e06d656bfa390/openapi.yaml",
+    "fetched_at": "2026-07-03T08:55:40.699620+00:00",
+    "content_hash": "cff92e5517ddbcd9a6d40b4fb5c12bf5f42f01e201b530ce3a3c8181fc2a8a1d",
+    "info_version": "2.0.0",
+    "status": "new",
+    "title": "Database Query Management API",
+    "openapi_version": "openapi_3",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

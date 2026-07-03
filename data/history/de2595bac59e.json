@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "de2595bac59e",
+    "source_url": "https://raw.githubusercontent.com/nitinthakurdev/E-Commerce-backend/3175250291ede900618b7ba82c13e6d612a5c3f2/swagger.json",
+    "fetched_at": "2026-07-03T08:57:22.678161+00:00",
+    "content_hash": "8b97753d2ffa11ea10e46d40cf8a87c24f27adde2287c5672f9bdbc91129174d",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "REST API",
+    "openapi_version": "swagger_2",
+    "paths_count": 12,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e94937de4933",
+    "source_url": "https://raw.githubusercontent.com/ohkami-rs/ohkami/1ee9f7b1cfcfea2cee9e9be3a2323450853110e5/samples/readme-openapi/openapi.json.sample",
+    "fetched_at": "2026-07-03T08:56:10.260422+00:00",
+    "content_hash": "0315a4f01975489948ee7fd760066a14bf9ab0a66a0513486b5420852a7a6ebc",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "Users Server",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

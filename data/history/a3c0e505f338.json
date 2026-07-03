@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a3c0e505f338",
+    "source_url": "https://raw.githubusercontent.com/m-cmp/mc-cost-optimizer/eab997deb294eb2c5de98dcc7d528ac2af7b295c/swagger.yaml",
+    "fetched_at": "2026-07-03T08:56:55.801002+00:00",
+    "content_hash": "9ab53a52204f0b28af3cb18fcda5a2d7ac925208a529448337ebfc9443f7edde",
+    "info_version": "0.9.18",
+    "status": "new",
+    "title": "MCMP_COST_OPTIMIZER",
+    "openapi_version": "openapi_3",
+    "paths_count": 14,
+    "path_diff": null
+  }
+]

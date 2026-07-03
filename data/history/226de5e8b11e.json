@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "226de5e8b11e",
+    "source_url": "https://raw.githubusercontent.com/ConductorOne/conductorone-openapi-spec/2eea718464fb78a81e790b799279276312eec7b9/openapi.yaml",
+    "fetched_at": "2026-07-03T08:56:02.504388+00:00",
+    "content_hash": "b24dd29896de983446a7e3ecabcb73630d9481c11a5a28ba5828648f9defa8b8",
+    "info_version": "0.1.0-alpha",
+    "status": "new",
+    "title": "ConductorOne API",
+    "openapi_version": "openapi_3",
+    "paths_count": 62,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "62f490641e6e",
+    "source_url": "https://raw.githubusercontent.com/remotenode/creative-generator/8c6a3b9ba7c47b0a6fa3b1aa3bb95e4538c54f59/openapi.yaml",
+    "fetched_at": "2026-07-03T08:55:46.445716+00:00",
+    "content_hash": "bbfa37d410a2fb1bfe27e7d7804aa3f4a77dbb51e8e9ecc285c6df35927fdf8e",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Ad Generator API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]
