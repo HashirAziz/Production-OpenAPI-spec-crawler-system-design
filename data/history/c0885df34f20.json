@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c0885df34f20",
+    "source_url": "https://raw.githubusercontent.com/primelib/osv-client/0a8d6aa7edfdbf6a0e42e8c158989c8529a96f1d/openapi.yaml",
+    "fetched_at": "2026-07-04T08:31:07.252275+00:00",
+    "content_hash": "082cf30e85bb4b8d32767eafc0bb84210d4eb6317feff1388bde5301803a2de9",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "OSV Client",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

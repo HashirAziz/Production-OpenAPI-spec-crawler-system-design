@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a3045812c3f6",
+    "source_url": "https://raw.githubusercontent.com/skaylink/maws/a2dc00b4adfd007b9667c6455125de49948131a4/openapi.yaml",
+    "fetched_at": "2026-07-04T08:31:07.873927+00:00",
+    "content_hash": "d9cde6ce8df8d9e81c980bb70732b2dcb345a32b24ff1e24f1fe33461370d057",
+    "info_version": "26.1.0",
+    "status": "new",
+    "title": "ECS Service Deployment",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

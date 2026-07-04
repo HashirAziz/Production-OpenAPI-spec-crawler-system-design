@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f75a7b24ad9d",
+    "source_url": "https://raw.githubusercontent.com/stac-api-extensions/language/9f88d49c9991411ae18b31459c103c4764365f9d/openapi.yaml",
+    "fetched_at": "2026-07-04T08:30:58.108419+00:00",
+    "content_hash": "2ea37c0f887077ce0565e27a7874027a452971927a77ffd3b9c25f10572247a8",
+    "info_version": "1.0.0-rc.2",
+    "status": "new",
+    "title": "STAC API - Language Extension",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

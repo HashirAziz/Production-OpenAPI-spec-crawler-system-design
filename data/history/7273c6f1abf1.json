@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "7273c6f1abf1",
+    "source_url": "https://raw.githubusercontent.com/StanleyMasinde/static-mailer/f9601af4f62fe83b52bf584e5f85c98479b86d67/openapi.yaml",
+    "fetched_at": "2026-07-04T08:30:55.157553+00:00",
+    "content_hash": "58313b12d1757b1e6af375cc1613513919a5f56b7f01bba3b6b36bd21d42f989",
+    "info_version": "1.1.0",
+    "status": "new",
+    "title": "StaticMailer API",
+    "openapi_version": "openapi_3",
+    "paths_count": 12,
+    "path_diff": null
+  }
+]

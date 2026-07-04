@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c5be568121e3",
+    "source_url": "https://raw.githubusercontent.com/slavau/shorturl/d925c51700f308c731cb9ca14a5f14fef9a056c7/openapi.yaml",
+    "fetched_at": "2026-07-04T08:30:49.293702+00:00",
+    "content_hash": "14dbf07f6abb080dc62eec39064c02bb3ec5e387baad4f6f86f8baf167ba507c",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Short URL Service API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

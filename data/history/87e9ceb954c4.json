@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "87e9ceb954c4",
+    "source_url": "https://raw.githubusercontent.com/hahwul/zaproxy-ruby/0f01082865b627dacf751b3961a3360bb93d39f2/openapi.yaml",
+    "fetched_at": "2026-07-04T08:31:02.370839+00:00",
+    "content_hash": "3a1d8df7169d5c5455ebd895a079ce895e334413e3711d80ab11b5782b474616",
+    "info_version": "Dev Build",
+    "status": "new",
+    "title": "ZAP API",
+    "openapi_version": "openapi_3",
+    "paths_count": 657,
+    "path_diff": null
+  }
+]

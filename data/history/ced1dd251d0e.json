@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ced1dd251d0e",
+    "source_url": "https://raw.githubusercontent.com/zero-to-mastery/url-shortener-ztm/d6a3bdcb6d3583d7a31f65d756d6ae0181eb1b67/openapi.yaml",
+    "fetched_at": "2026-07-04T08:31:00.229377+00:00",
+    "content_hash": "61e6da5ec6d4dda77b005cf03f876b75eba5384a08b59451f2f1acf9fa7173c9",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "URL Shortener API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

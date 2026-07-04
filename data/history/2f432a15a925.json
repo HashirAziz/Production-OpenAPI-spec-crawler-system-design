@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2f432a15a925",
+    "source_url": "https://raw.githubusercontent.com/smg-automotive/autoscout24-api-specs/3626ab94f0a9894a38318044a97791020efd94e2/openapi.yaml",
+    "fetched_at": "2026-07-04T08:31:05.213446+00:00",
+    "content_hash": "9e68fef09fa9bbf09b0fbc458fb677b7bf1eea33b3f7f2dc9c30e18d28fd0b12",
+    "info_version": "1.0.1",
+    "status": "new",
+    "title": "AutoScout24 API",
+    "openapi_version": "openapi_3",
+    "paths_count": 52,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "053f834c35bd",
+    "source_url": "https://raw.githubusercontent.com/imolainformatica/secret-sealer-service/971985a1d01e4e1d5e9386108a2bf91a6109c2c6/openapi.yaml",
+    "fetched_at": "2026-07-04T08:31:07.552407+00:00",
+    "content_hash": "25559fd92a252780a1c0b76a7fdae6e465fb06ae6268acd143641bbfa2244081",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Sealed Secret Microservice",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

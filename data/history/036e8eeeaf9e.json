@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "036e8eeeaf9e",
+    "source_url": "https://raw.githubusercontent.com/landro/openapi/27ec4e77bfbd32680b62dae2af9f8c23c8f75d90/openapi.yaml",
+    "fetched_at": "2026-07-04T08:30:47.700526+00:00",
+    "content_hash": "819e4fac43cab14abdc0af86c34dd57979987e2534887d261f68a2913ec0880c",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "API with examples",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a9757fd6e8de",
+    "source_url": "https://raw.githubusercontent.com/OssFit/api-first-ecommerce-demo/19705b5b7c855647ac5fda89b4e3d97e87a5a7fa/openapi.yaml",
+    "fetched_at": "2026-07-04T08:30:51.192508+00:00",
+    "content_hash": "a6ce64d28254fba8ac53cf9d7189da30be18f8be03259eab0913b78006b7bde7",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "FakeAPI Store",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

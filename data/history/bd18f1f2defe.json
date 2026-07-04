@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "bd18f1f2defe",
+    "source_url": "https://raw.githubusercontent.com/code4romania/civichq-api/fee57d4ab252e2840484b2687746835fc83efd76/swagger.yaml",
+    "fetched_at": "2026-07-04T08:31:56.464077+00:00",
+    "content_hash": "1791fe286ecb429f7fe13565fc5678dbd73fe08745c23835c1818c9acc70feb6",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Swagger Centru civic",
+    "openapi_version": "openapi_3",
+    "paths_count": 12,
+    "path_diff": null
+  }
+]

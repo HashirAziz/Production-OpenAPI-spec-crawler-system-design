@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "bcfaba8b8634",
+    "source_url": "https://raw.githubusercontent.com/Kaistable1/restaurant-app/d348289f25679deaa8e2f0490d55f7270465ad84/openapi.yaml",
+    "fetched_at": "2026-07-04T08:30:45.149915+00:00",
+    "content_hash": "398c3f1525ab9a7b7261406b429ab1d6c3489e2f5b1ed7528a6936d4cc24d960",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Savrli City Concierge API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

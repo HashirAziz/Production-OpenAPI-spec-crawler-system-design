@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "72dc3718e738",
+    "source_url": "https://raw.githubusercontent.com/bkhablenko/bizzabo/095ba9133e4b6b4899da4b9db5bfe9729ca27027/openapi.yaml",
+    "fetched_at": "2026-07-04T08:30:44.527868+00:00",
+    "content_hash": "53df486b969f674cf3151662f36208ab4658435e2f91e990ab01d8ddb46b4cc6",
+    "info_version": "v1",
+    "status": "new",
+    "title": "TV schedule",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "62d3501797fd",
+    "source_url": "https://raw.githubusercontent.com/scarter4work/manuscript-platform/eb6d94ae76e41d1962c00d10607149e5302e9063/openapi.yaml",
+    "fetched_at": "2026-07-04T08:30:56.058634+00:00",
+    "content_hash": "6446a137d5046c0c898e9f1498b505c513a64a87a0772979d8d4018c74dd0738",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "ManuscriptHub Public API",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

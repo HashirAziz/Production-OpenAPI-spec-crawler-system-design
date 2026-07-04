@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "136b1ad0cec6",
+    "source_url": "https://raw.githubusercontent.com/zackproject/zksama-express-typeorm/6a8d2667a6cf7717c95c0589c3a4c281c91b0195/openapi.yaml",
+    "fetched_at": "2026-07-04T08:30:47.101242+00:00",
+    "content_hash": "11fdceaf738ccafa90f4c41dd4cde054640778ea134acd7d3740667c2696ba7c",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Character API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

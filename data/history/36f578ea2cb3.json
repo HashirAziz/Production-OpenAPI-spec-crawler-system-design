@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "36f578ea2cb3",
+    "source_url": "https://raw.githubusercontent.com/aproplan/aproplan-api-doc/a81da1e2475b292590f5a88edca0201f7e4078cd/swagger.yaml",
+    "fetched_at": "2026-07-04T08:32:17.506673+00:00",
+    "content_hash": "0764ba303b93e86db6b5abe86223ddb076b8737c884fd4d13fcd794dc473fa70",
+    "info_version": "1.20.0",
+    "status": "new",
+    "title": "APROPLAN API",
+    "openapi_version": "swagger_2",
+    "paths_count": 149,
+    "path_diff": null
+  }
+]

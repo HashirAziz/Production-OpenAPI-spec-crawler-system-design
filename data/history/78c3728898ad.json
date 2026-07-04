@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "78c3728898ad",
+    "source_url": "https://raw.githubusercontent.com/Daan-25/contractguard-demo/bb31e9038317020a78fff7df88ece4129305c586/openapi.yaml",
+    "fetched_at": "2026-07-04T08:30:46.517506+00:00",
+    "content_hash": "14d2402dc8f67863ad6a1997eab9e487ded00ac65ce19dc33873a8322f11858b",
+    "info_version": "0.1.4-beta",
+    "status": "new",
+    "title": "ContractGuard public API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

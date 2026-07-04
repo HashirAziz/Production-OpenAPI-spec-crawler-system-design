@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "bdfc847ee167",
+    "source_url": "https://raw.githubusercontent.com/scayle/storefront-api-java-sdk/7aa7cb90d3865f81610c5c6f71149908099ca5ff/swagger.yaml",
+    "fetched_at": "2026-07-04T08:31:57.682083+00:00",
+    "content_hash": "8cfa924ae70327f6b735e9124c401b10c00884817cbed41bb888d10ea0213989",
+    "info_version": "{{version}}",
+    "status": "new",
+    "title": "Storefront API Documentation",
+    "openapi_version": "openapi_3",
+    "paths_count": 29,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5d90e9fa1018",
+    "source_url": "https://raw.githubusercontent.com/snyk/policy-engine/815770e3f6460e370f017daaf3536b502a4e094a/swagger.yaml",
+    "fetched_at": "2026-07-04T08:31:48.468739+00:00",
+    "content_hash": "abcdd9b3f6a4fc978907b974d44f00a9a41e40c13235671bc4f34ba54b2ace96",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Policy Engine I/O Formats",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

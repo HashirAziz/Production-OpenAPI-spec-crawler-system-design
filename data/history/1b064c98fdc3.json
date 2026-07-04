@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1b064c98fdc3",
+    "source_url": "https://raw.githubusercontent.com/jp7io/typescript-crud-api/1135097bc3ec8c69beffb10f1031ab8c8f588368/swagger.yaml",
+    "fetched_at": "2026-07-04T08:32:18.417592+00:00",
+    "content_hash": "a3ec033f65a105e46c9206026700d9d76049b2de89b2088c6661365088d647a7",
+    "info_version": null,
+    "status": "new",
+    "title": "TypeScript CRUD API (Backend)",
+    "openapi_version": "swagger_2",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

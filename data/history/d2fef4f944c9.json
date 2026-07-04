@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d2fef4f944c9",
+    "source_url": "https://raw.githubusercontent.com/opsgenie/opsgenie-oas/71c55343d03076e5544c484ed32b37c3fbc54037/swagger.yaml",
+    "fetched_at": "2026-07-04T08:31:49.651326+00:00",
+    "content_hash": "15b89ea7c39b335bf77d46f43bd60529b1a7d23b3a8d0c2e1f6b58de956934be",
+    "info_version": "2.0.0",
+    "status": "new",
+    "title": "Opsgenie REST API",
+    "openapi_version": "swagger_2",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

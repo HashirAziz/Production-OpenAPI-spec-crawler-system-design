@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8070069dd13f",
+    "source_url": "https://raw.githubusercontent.com/aabedraba/netlify-cors/ffa5538fdb534cf0722eee1d4c0c1ab7530fc059/openapi.yaml",
+    "fetched_at": "2026-07-04T08:30:56.339426+00:00",
+    "content_hash": "0b6ea45484ef418831a9e1dec61a9d799a6575dfc3f2a4c7ba9d1541f0e8b8bb",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "My API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

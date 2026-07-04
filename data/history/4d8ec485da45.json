@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4d8ec485da45",
+    "source_url": "https://raw.githubusercontent.com/ONSdigital/dp-identity-api/e745a28ab1be8f7f41753d005f79f2bd388a421d/swagger.yaml",
+    "fetched_at": "2026-07-04T08:31:59.908603+00:00",
+    "content_hash": "827262b45be8d0651f244f1e8dab67c0ad51859ae32ab94a3607c6f3ef687b4f",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "dp-identity-api",
+    "openapi_version": "swagger_2",
+    "paths_count": 14,
+    "path_diff": null
+  }
+]

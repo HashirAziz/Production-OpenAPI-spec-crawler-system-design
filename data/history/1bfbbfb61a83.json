@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1bfbbfb61a83",
+    "source_url": "https://raw.githubusercontent.com/EbookFoundation/alt-text-backend/75b5d82dae045c472da5ed32bf95739a3770d92b/openapi.yaml",
+    "fetched_at": "2026-07-04T08:31:01.413309+00:00",
+    "content_hash": "9ff21fdc4382b48c662781f29f8c302d9204b480e0b51515b71f51cd88e14b88",
+    "info_version": "1.0.11",
+    "status": "new",
+    "title": "Alt-text Backend API",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

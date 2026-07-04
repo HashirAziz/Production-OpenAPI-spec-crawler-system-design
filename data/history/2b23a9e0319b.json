@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2b23a9e0319b",
+    "source_url": "https://raw.githubusercontent.com/hkmc-airlab/shucle-api/cdb21c81dec4767a27e2d1e1f0d0e33ed161fe80/swagger.yaml",
+    "fetched_at": "2026-07-04T08:32:17.861585+00:00",
+    "content_hash": "e63f109985b1c6b89c0b626db45e47990b121a46e3028c68fc7e4dd81ffa9a8b",
+    "info_version": "1.0.1",
+    "status": "new",
+    "title": "Shucle PM API",
+    "openapi_version": "openapi_3",
+    "paths_count": 16,
+    "path_diff": null
+  }
+]

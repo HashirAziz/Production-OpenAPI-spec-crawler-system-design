@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9c6b86955b08",
+    "source_url": "https://raw.githubusercontent.com/corenova/yang-swagger/d6774a0d840df3a58ee55b1c7a29dc5a1b10270d/swagger.yaml",
+    "fetched_at": "2026-07-04T08:31:53.127718+00:00",
+    "content_hash": "ca593b6cc7d89a3e50379e4f0b78835f7a284de733cac3cec0220a365ed301df",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "YANG-to-SWAGGER",
+    "openapi_version": "swagger_2",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

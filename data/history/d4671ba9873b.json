@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d4671ba9873b",
+    "source_url": "https://raw.githubusercontent.com/OpenReqEU/keljucaas/59a3a1f21ea26d965e0a7e0d4f297d7dde089c2d/swagger.yaml",
+    "fetched_at": "2026-07-04T08:32:12.214920+00:00",
+    "content_hash": "a391bdfdebf740e0513650f8cd1e537e3e80147e497b5eda7e09db9e4f0c540b",
+    "info_version": "1.6",
+    "status": "new",
+    "title": "KeljuCaas",
+    "openapi_version": "swagger_2",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

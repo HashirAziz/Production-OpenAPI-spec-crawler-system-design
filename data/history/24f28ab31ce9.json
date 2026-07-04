@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "24f28ab31ce9",
+    "source_url": "https://raw.githubusercontent.com/krotik/rufs/0927baa66f9978f0fe5dbd01bec1dd7374db5885/swagger.json",
+    "fetched_at": "2026-07-04T08:32:48.318548+00:00",
+    "content_hash": "0e1747989e21c2cccb03ad47da076872178ffd191d18455f44ed9facb1bd6a66",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "RUFS API",
+    "openapi_version": "swagger_2",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

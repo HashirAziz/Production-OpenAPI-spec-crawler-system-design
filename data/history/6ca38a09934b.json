@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6ca38a09934b",
+    "source_url": "https://raw.githubusercontent.com/AlvaroIsrael/medprev-backend/ee65c4ed06c0fd00db44da92d82cf8be7282ae19/swagger.yaml",
+    "fetched_at": "2026-07-04T08:32:14.280857+00:00",
+    "content_hash": "b66f7a08c5acde447a54c83c18f14fcb079027a39b5c70dcf06168bd01750f82",
+    "info_version": "1.1.1",
+    "status": "new",
+    "title": "People Api",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

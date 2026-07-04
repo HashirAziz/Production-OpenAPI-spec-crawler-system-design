@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2c760d3fc56b",
+    "source_url": "https://raw.githubusercontent.com/freddiefujiwara/list-of-stuff-gas/bfa99063ddbef50d6d1f8264a63f052db25e005b/openapi.yaml",
+    "fetched_at": "2026-07-04T08:31:10.005739+00:00",
+    "content_hash": "27e9d975449c7a509139388fbf2779f8cb9c6b6caf07920df542148c34a76a77",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Google Sheet Item Manager API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

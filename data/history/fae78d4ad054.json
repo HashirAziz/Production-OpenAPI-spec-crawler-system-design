@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "fae78d4ad054",
+    "source_url": "https://raw.githubusercontent.com/ogatakatsuya/circle-go-backend/563c63163aa5816a07583274f1be6462d36a2936/openapi.yaml",
+    "fetched_at": "2026-07-04T08:30:57.786117+00:00",
+    "content_hash": "593142740418b80f106e49547f0165f836374fdd3a28f2e783226abf3eda6ef0",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "Hannavi API",
+    "openapi_version": "openapi_3",
+    "paths_count": 19,
+    "path_diff": null
+  }
+]

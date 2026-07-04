@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5b5477e9c0e7",
+    "source_url": "https://raw.githubusercontent.com/couchbaselabs/try-ottoman-ts/6239d47833d5140ca577f7a8ce4167835e7e587d/swagger.yaml",
+    "fetched_at": "2026-07-04T08:31:54.312733+00:00",
+    "content_hash": "fe4eabf6b177b14555c90d05ce62988e2b4d6b801fa928f220e41581f162eebd",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Swagger Travel-Sample",
+    "openapi_version": "swagger_2",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

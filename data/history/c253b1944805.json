@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c253b1944805",
+    "source_url": "https://raw.githubusercontent.com/mikekonan/go-types/5f215be8334b76873306f6ae12fbe9fdbf929af0/swagger.yaml",
+    "fetched_at": "2026-07-04T08:32:02.046142+00:00",
+    "content_hash": "6c2c8bfa4491fa9c533890a6a5cbb608d1a3abce56a538db6dd7028275a2cce4",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "openapi_3",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f991b109b72b",
+    "source_url": "https://raw.githubusercontent.com/nishikoh-sandbox/fastapi-openapi-demo/f3693834f392b4a21cffd3a70c686a83bd7594ef/openapi.yaml",
+    "fetched_at": "2026-07-04T08:30:49.598051+00:00",
+    "content_hash": "02ffec2aa654fd10f37704b66bcc81b95220091d8cd25e1194a65777280c2e80",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "FastAPI",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

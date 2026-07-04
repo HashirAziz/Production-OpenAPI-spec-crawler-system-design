@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3292858171a5",
+    "source_url": "https://raw.githubusercontent.com/skrmsp153790/freedom-wave-gpt/8ae377f90e4deda87a8b3387496595829208f0d5/openapi.yaml",
+    "fetched_at": "2026-07-04T08:30:51.780069+00:00",
+    "content_hash": "ad3a7b9c55f599f35905e878a46d54b428f0424a5ed92b55e6f6dc10f392df9b",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "자유자 GPT 파동 엔진",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

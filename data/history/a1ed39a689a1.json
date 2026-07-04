@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a1ed39a689a1",
+    "source_url": "https://raw.githubusercontent.com/asheux/stackoverflow-clone/061845fc8ac4ac1ed5e1cc52f13331186c837536/swagger.yaml",
+    "fetched_at": "2026-07-04T08:32:19.343411+00:00",
+    "content_hash": "08503e91ac7e1bdce3684353f3426dd1ebfb98b2bb3f026b9028cac789a55c47",
+    "info_version": "1.1",
+    "status": "new",
+    "title": "V2 of stackoverflow-lite questions API",
+    "openapi_version": "swagger_2",
+    "paths_count": 12,
+    "path_diff": null
+  }
+]

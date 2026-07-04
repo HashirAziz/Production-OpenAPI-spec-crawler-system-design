@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d91aab48c9d0",
+    "source_url": "https://raw.githubusercontent.com/Vortex-Soft/vexobj/78bb48d3e2213bab97ada3fa0d918ccbdbe6a00b/openapi.yaml",
+    "fetched_at": "2026-07-04T08:31:06.175654+00:00",
+    "content_hash": "4ad8025ad0bde68777265837a26b71b1278e9e74ee85f98284ba37c8b9618644",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "VexObj API",
+    "openapi_version": "openapi_3",
+    "paths_count": 25,
+    "path_diff": null
+  }
+]

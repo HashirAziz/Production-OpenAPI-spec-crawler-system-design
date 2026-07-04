@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d4da6090d0e6",
+    "source_url": "https://raw.githubusercontent.com/Violectra/siarb.github.io/292eaa48c2b7c8d807dbb686814783c6050dd0d1/openapi.yaml",
+    "fetched_at": "2026-07-04T08:30:55.457084+00:00",
+    "content_hash": "9eeacf9f6f646d9b527122c14a4b0d85e262b816b99e831cd383ae81c47d39a5",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Test API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

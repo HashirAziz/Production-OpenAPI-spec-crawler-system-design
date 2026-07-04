@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ee23d69d2fee",
+    "source_url": "https://raw.githubusercontent.com/City-of-Mikkeli/mikkelinyt-rest-model/1c913c376f3f3fc64484a17f62198f809337114f/swagger.yaml",
+    "fetched_at": "2026-07-04T08:32:14.841299+00:00",
+    "content_hash": "62ee0b7258b9f7346ab8251b2fb2778b89c6f82a5191ce8c828d09bdad8c5eb6",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "MikkeliNyt",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

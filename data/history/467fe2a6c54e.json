@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "467fe2a6c54e",
+    "source_url": "https://raw.githubusercontent.com/revueltajl/civic-openapi/b62017f48950fa7146c6b3ac8e279c8218e35777/openapi.yaml",
+    "fetched_at": "2026-07-04T08:30:56.930820+00:00",
+    "content_hash": "be683332864f34cadf2f2b9cd2db2805c303644e0032756d2413a0df9a4c7bcb",
+    "info_version": "2.0.0",
+    "status": "new",
+    "title": "CIViC GraphQL API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

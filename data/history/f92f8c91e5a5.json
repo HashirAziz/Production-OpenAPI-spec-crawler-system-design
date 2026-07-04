@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f92f8c91e5a5",
+    "source_url": "https://raw.githubusercontent.com/oumar-code/Aku-SuperHub/1a91e2e00953fc1de47e9888d11cd1f20bc92824/openapi.yaml",
+    "fetched_at": "2026-07-04T08:31:09.720951+00:00",
+    "content_hash": "2944f2c46c04cd4a848b633b64ae49c0469bccf31f87745200c36627606f3754",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "Aku-SuperHub",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

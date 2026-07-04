@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ef9aec2ff9a3",
+    "source_url": "https://raw.githubusercontent.com/MaddyGuthridge/1531-template/c9467d5193cfc505501a1d1c296d662d250d8397/openapi.yaml",
+    "fetched_at": "2026-07-04T08:30:54.219659+00:00",
+    "content_hash": "f87ad7b06dcd567d6dbd19fffaafffaf81e09316a8744645358618a636c5b740",
+    "info_version": "25.3.0",
+    "status": "new",
+    "title": "COMP1531 Template",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

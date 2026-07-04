@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "943f71700f6c",
+    "source_url": "https://raw.githubusercontent.com/ThirstyHead/meaningfuljs/a0df12edc4902a96b674b49805ca9e4007ad4a08/swagger.yaml",
+    "fetched_at": "2026-07-04T08:32:19.614162+00:00",
+    "content_hash": "f0cc3718f5683b13f6af026a7b1de6f644344e6db212ba8402fac379857ae936",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "MediaHub",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

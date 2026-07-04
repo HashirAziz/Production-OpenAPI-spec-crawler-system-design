@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9e3f7d0e8dcd",
+    "source_url": "https://raw.githubusercontent.com/MahdiDelnavazi/golang-monolithic-boilerplate/ae8bf23cd96276083ff48db8a4ecccb97d6d98dd/swagger.yaml",
+    "fetched_at": "2026-07-04T08:32:03.231420+00:00",
+    "content_hash": "9eeef624eab83604149a873d87cbbf69735fa0b9870b05a17eaa7415ec3ed41c",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "swagger_2",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

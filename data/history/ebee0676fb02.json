@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ebee0676fb02",
+    "source_url": "https://raw.githubusercontent.com/daiviknambiar/ai-dev-tools-zoomcamp/70cf4ec4117b0cadbc887c69c77fe0f1ee8953e3/openapi.yaml",
+    "fetched_at": "2026-07-04T08:31:08.525360+00:00",
+    "content_hash": "316ab2b22d04f7eaca075c210bdef2412a7833591b35d1a06065d0aa06f6fe73",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "NBA Stats & Betting Odds API",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]
