@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "92c5c3594310",
+    "source_url": "https://raw.githubusercontent.com/gptdeivid/CuellarDavid_BlueTabExpressApp/06b350269f9002b43c1f222b4280e442643b2c6a/swagger.yaml",
+    "fetched_at": "2026-07-05T08:48:53.656260+00:00",
+    "content_hash": "5721662d259a5b33f79f202e4e753d65352cd3ac6665c00fb89459ec07e54459",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "IBM Express Microservice API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

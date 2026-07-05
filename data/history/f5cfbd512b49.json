@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f5cfbd512b49",
+    "source_url": "https://raw.githubusercontent.com/Guillaume-da/api-test/5b55276806158c70b2d49b2882921fae809677d3/swagger.yaml",
+    "fetched_at": "2026-07-05T08:48:45.283422+00:00",
+    "content_hash": "3de3ff195a7f0e780666f821f5f5840730b91e095705a08c93e08fee97109424",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Test api",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

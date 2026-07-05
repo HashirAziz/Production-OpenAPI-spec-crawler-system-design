@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5ee39ad665e7",
+    "source_url": "https://raw.githubusercontent.com/lidaof/testapidoc/1f6c6499c7ba1561b1763032cda64dfd6288cd1c/openapi.yaml",
+    "fetched_at": "2026-07-05T08:47:04.331958+00:00",
+    "content_hash": "c9d246ce47bebed0a52169b3ab080fcd36e8bdd14dda561f350c6751a88d2e23",
+    "info_version": "1.0.11",
+    "status": "new",
+    "title": "IGVF Catalog - OpenAPI 3.0",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

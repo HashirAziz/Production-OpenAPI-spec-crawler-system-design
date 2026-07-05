@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b725be8e51f1",
+    "source_url": "https://raw.githubusercontent.com/Gopakuma/Ecommerce-Service/d5df9c304368626e3211ac2256659cd61789b035/swagger.yaml",
+    "fetched_at": "2026-07-05T08:49:12.218295+00:00",
+    "content_hash": "2a03ee158f0c454f058c8246614b6c8e3beb39437476823aa37e651ecf0a3741",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Product Service API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

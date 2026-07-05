@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "525825afc819",
+    "source_url": "https://raw.githubusercontent.com/notaphplover/tcg-catalog/b0b1971d0a956e9512f9d8376e727c7fefdcf8a1/openapi.yaml",
+    "fetched_at": "2026-07-05T08:47:00.706229+00:00",
+    "content_hash": "07843170d055ed266b11cd50e7d25a9142450cab952af68d857611b14caa7286",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "TCG Catalog",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

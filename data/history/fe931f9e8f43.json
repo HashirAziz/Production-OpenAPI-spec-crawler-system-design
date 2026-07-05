@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "fe931f9e8f43",
+    "source_url": "https://raw.githubusercontent.com/Lexxn0x3/SciLitHub/0aad429c3cc6a7d70ec912ce10a1236147ed5dae/openapi.yaml",
+    "fetched_at": "2026-07-05T08:47:17.096460+00:00",
+    "content_hash": "87d48a014d4dcda692076bb74abaec8f56d81622238d7c9c9b2fef959e709efe",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Document PDF API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

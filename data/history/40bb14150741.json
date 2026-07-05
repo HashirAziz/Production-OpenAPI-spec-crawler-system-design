@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "40bb14150741",
+    "source_url": "https://raw.githubusercontent.com/JuanFelipeJaramillo20/launcher_backend/8e0957ee513cf99b813b09cfd74dffbc7481699e/swagger.yaml",
+    "fetched_at": "2026-07-05T08:49:01.330173+00:00",
+    "content_hash": "f69ab829226945bae0cfa2ef3fdf230e5f23129770cfee7b48e16f9b467af528",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Test API",
+    "openapi_version": "swagger_2",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8096a65cb7d2",
+    "source_url": "https://raw.githubusercontent.com/bringauto/fleet-protocol-http-client-python/e1b2dcd55bf24ba45f761047aacaf468841ee9a3/openapi.yaml",
+    "fetched_at": "2026-07-05T08:47:26.821022+00:00",
+    "content_hash": "492ba47c52099f5b30a947022e7d9b2fcb79bfb09be158d413e0ee6d4bae8499",
+    "info_version": "2.8.3",
+    "status": "new",
+    "title": "Fleet v2 HTTP API",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

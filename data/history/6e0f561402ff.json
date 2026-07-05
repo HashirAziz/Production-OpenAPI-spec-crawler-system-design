@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6e0f561402ff",
+    "source_url": "https://raw.githubusercontent.com/miccheng/openapi-codegen/65378729f12d91d76571e3881785f30ea5e3642d/openapi.yaml",
+    "fetched_at": "2026-07-05T08:47:08.513329+00:00",
+    "content_hash": "a28524fbaf43a3557cb89f2fb42a3af4ee98f836b58b8558476a089a410a40bb",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "File Management API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

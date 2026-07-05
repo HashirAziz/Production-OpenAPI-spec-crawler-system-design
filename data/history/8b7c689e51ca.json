@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8b7c689e51ca",
+    "source_url": "https://raw.githubusercontent.com/kareemlukitomo/kareemlukitomo.github.io/6a39050f7d8629ca74752e9bff56b2670d0a1f24/swagger.yaml",
+    "fetched_at": "2026-07-05T08:49:08.360037+00:00",
+    "content_hash": "258c62bec128048abadbfebd85db4617441df8bb6e9a85be44777af85fdeb4c7",
+    "info_version": "2.0.0",
+    "status": "new",
+    "title": "Mola TV",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

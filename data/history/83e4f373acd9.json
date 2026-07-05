@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "83e4f373acd9",
+    "source_url": "https://raw.githubusercontent.com/engaging-computing/MYR-backend/5aacb4ce2e3fd875160c48d3ca49aa3f8ba8a963/swagger.yaml",
+    "fetched_at": "2026-07-05T08:48:43.513503+00:00",
+    "content_hash": "f36ed43a5cfe9f7a51b56dd68b4634660240d2f120d1e353e87c8e5ce7dd739d",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "MYR API - V1",
+    "openapi_version": "swagger_2",
+    "paths_count": 16,
+    "path_diff": null
+  }
+]

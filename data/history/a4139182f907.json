@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a4139182f907",
+    "source_url": "https://raw.githubusercontent.com/Hot-land/v2board-swagger/0f75702a32ec6ef9401050f60f293317375e61ae/swagger.yaml",
+    "fetched_at": "2026-07-05T08:48:39.826501+00:00",
+    "content_hash": "c3496d67a40063e2582e1266bf82a8b9ec14a688a1da7b20485e5f41798d9db4",
+    "info_version": "1.0.5",
+    "status": "new",
+    "title": "Swagger Petstore",
+    "openapi_version": "swagger_2",
+    "paths_count": 20,
+    "path_diff": null
+  }
+]

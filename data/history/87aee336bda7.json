@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "87aee336bda7",
+    "source_url": "https://raw.githubusercontent.com/BachEndDeveloper/BESTSELLER-AI-Hackaton-25/40a1db7c2889bf4e04052f3630af8747dfc45235/openapi.yaml",
+    "fetched_at": "2026-07-05T08:47:08.861113+00:00",
+    "content_hash": "d58534bdf4e32172c8f894ac915d8a961f80b7a180dd7f27a65d114ac0c2c320",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "BESTSELLER API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2a1e2dd5a2c1",
+    "source_url": "https://raw.githubusercontent.com/osu-mist/spending-authority-api/657fadbf4e4d7bbed1b87e7e24d85342c1038c56/openapi.yaml",
+    "fetched_at": "2026-07-05T08:47:31.239584+00:00",
+    "content_hash": "579b652670844d57dce247a4b3e4e13bb74d33a5cbe36f19eac4609b101438a2",
+    "info_version": "v1",
+    "status": "new",
+    "title": "spending authority api",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

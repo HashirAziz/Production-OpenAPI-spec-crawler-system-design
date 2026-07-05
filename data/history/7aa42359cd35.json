@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "7aa42359cd35",
+    "source_url": "https://raw.githubusercontent.com/clarapbsousa/2Auction/b22ff91801c0177ccc9ea336076da347f8bfdd57/openapi.yaml",
+    "fetched_at": "2026-07-05T08:47:06.260669+00:00",
+    "content_hash": "2485b1f1c414a1d71ea5a931aedbf8816f6d4d870fbed1c83b953c8671a4275c",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "LBAW 2Auction Web API",
+    "openapi_version": "openapi_3",
+    "paths_count": 32,
+    "path_diff": null
+  }
+]

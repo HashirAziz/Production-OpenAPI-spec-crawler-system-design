@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "733e2a58fc98",
+    "source_url": "https://raw.githubusercontent.com/MastaTrill/Aetheron-X/6fb3d60d410a55f252e1c0d02bd44b71c2642fd0/openapi.yaml",
+    "fetched_at": "2026-07-05T08:47:32.162339+00:00",
+    "content_hash": "0649fdb5e8066542fdd6cb3291c8d5f7d13ab60c700f1b9d752177c2833f0903",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "Aetheron-X Task API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

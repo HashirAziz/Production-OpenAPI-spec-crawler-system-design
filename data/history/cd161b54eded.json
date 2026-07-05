@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "cd161b54eded",
+    "source_url": "https://raw.githubusercontent.com/toolkit-ai/pal-docs/ae0d329bdfc2eff42f6eeb5e86e6ad727d555c6b/openapi.yaml",
+    "fetched_at": "2026-07-05T08:47:07.596880+00:00",
+    "content_hash": "2bd700a04c064208a9bd86695b0a61522d75f152687c2d6856ed58961aaee42e",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "HeyPal API",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

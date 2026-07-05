@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c1bc9a10f0ed",
+    "source_url": "https://raw.githubusercontent.com/xseman/superfaktura.openapi/59bb812c079a8a9c7223799beb1b4cd5a654b492/openapi.yaml",
+    "fetched_at": "2026-07-05T08:47:24.433934+00:00",
+    "content_hash": "281dc65ce85737970fa0dd58c3bc362a9e2982d08480d46ca02f868997d9e896",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "superfaktura.sk API",
+    "openapi_version": "openapi_3",
+    "paths_count": 55,
+    "path_diff": null
+  }
+]

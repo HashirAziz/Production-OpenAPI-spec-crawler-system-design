@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5d36ad9b0dde",
+    "source_url": "https://raw.githubusercontent.com/yishanhe/animalcrossing-api/00a06a9a6fb8b1d7c281aec5cfbe921e7a399b7f/openapi.yaml",
+    "fetched_at": "2026-07-05T08:47:28.126312+00:00",
+    "content_hash": "a3ddcf8f2102a8014552d90a464255beabd218b53a4d277c7a9e9868f6d622ec",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "acnh",
+    "openapi_version": "swagger_2",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d19cf5b12890",
+    "source_url": "https://raw.githubusercontent.com/ravijahs/MI_Samples/d41e19321330fc3600a95b351badc708d6da5a6d/swagger.yaml",
+    "fetched_at": "2026-07-05T08:48:54.680837+00:00",
+    "content_hash": "0f375320e61506eccea793298dd5a6a1b6cb77bc448bf9a9b7268977f5ed834c",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "WSO2 MI Management API Documentation",
+    "openapi_version": "openapi_3",
+    "paths_count": 30,
+    "path_diff": null
+  }
+]

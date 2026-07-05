@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "746d4c9f1aa4",
+    "source_url": "https://raw.githubusercontent.com/LeThai2003/commerce_project/a3df119d9f20475bf7fb0c1d1beac6e6670874d9/swagger.yaml",
+    "fetched_at": "2026-07-05T08:49:09.973107+00:00",
+    "content_hash": "01fa2dd6b533da96bdd21921b241a4d0dd3a62cab00b971cd48c51094ee16c17",
+    "info_version": "1.0.11",
+    "status": "new",
+    "title": "Swagger",
+    "openapi_version": "openapi_3",
+    "paths_count": 15,
+    "path_diff": null
+  }
+]

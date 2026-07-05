@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3b7ee07044cc",
+    "source_url": "https://raw.githubusercontent.com/CoreyH/documentationai-Docs/41f3dfd6759fc82787ddcea5138b4a7bac033d0b/openapi.yaml",
+    "fetched_at": "2026-07-05T08:47:15.255228+00:00",
+    "content_hash": "79151add476778a09a2679735957682a80c6e1fa5f13d2adfdb2f630179127ec",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Spectia API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

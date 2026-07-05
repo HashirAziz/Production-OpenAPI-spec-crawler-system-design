@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "70f53ec52a34",
+    "source_url": "https://raw.githubusercontent.com/geot-jp/openapi-sample/c43b3bbe61a1408849f7fa370281f16866e3790d/openapi.yaml",
+    "fetched_at": "2026-07-05T08:47:18.009344+00:00",
+    "content_hash": "56aac2513bd47e6038d223ab53f0eb4a083d2a0bff0d2131788b112fa4ed8e72",
+    "info_version": "v2",
+    "status": "new",
+    "title": "アドレス・ベース・レジストリ REST API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

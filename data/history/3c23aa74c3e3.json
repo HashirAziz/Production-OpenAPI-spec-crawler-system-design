@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3c23aa74c3e3",
+    "source_url": "https://raw.githubusercontent.com/raahulrahl/analyze-paper-agent/1e50a0c876671cc5613cf079dbf0da7b31ebcd14/openapi.yaml",
+    "fetched_at": "2026-07-05T08:47:28.630381+00:00",
+    "content_hash": "1580bf5a09c3804033b37c285a9a4c008c96deea36dc994c44fe6a0d9dd30cb6",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Analyze Paper Agent API",
+    "openapi_version": "openapi_3",
+    "paths_count": 12,
+    "path_diff": null
+  }
+]

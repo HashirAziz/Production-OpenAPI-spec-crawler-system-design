@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8f8a4d2eabef",
+    "source_url": "https://raw.githubusercontent.com/giri18v/CreditCardApplication/95a0cca3bf1b2f6e8437ff41a21a9745aca15648/openapi.yaml",
+    "fetched_at": "2026-07-05T08:47:14.298300+00:00",
+    "content_hash": "3f01d2f1ffd6407b95b85081586932a5d4ef9f0dd67bf9780d536808eb13cb1a",
+    "info_version": "0.0.0",
+    "status": "new",
+    "title": "CreditCardApplication",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

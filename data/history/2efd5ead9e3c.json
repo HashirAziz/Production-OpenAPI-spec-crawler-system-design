@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2efd5ead9e3c",
+    "source_url": "https://raw.githubusercontent.com/pucrs-constrsw-2025-2/rooms/ffe18d777d2ac5a5ec0d0948f5f5c35beb9d5c4f/openapi.yaml",
+    "fetched_at": "2026-07-05T08:47:06.592077+00:00",
+    "content_hash": "54690de9424a301ba9df6226789b471b4297994523abfe3b3b5597974cd13ede",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "ConstrSW - Rooms API",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "bb8286eb9f42",
+    "source_url": "https://raw.githubusercontent.com/Vanillaxi/VideoStreamingSystem/a7a553166dec0ae09b55aaca2601234e89fb2a2e/openapi.yaml",
+    "fetched_at": "2026-07-05T08:47:09.487898+00:00",
+    "content_hash": "d81bc3fa7202562d86adb1f5220705dd5ccd24d3d495921ac5ef1cf158a08a7f",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "VideoStreamingSystem API",
+    "openapi_version": "openapi_3",
+    "paths_count": 48,
+    "path_diff": null
+  }
+]

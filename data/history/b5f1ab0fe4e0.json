@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b5f1ab0fe4e0",
+    "source_url": "https://raw.githubusercontent.com/amazedsaint/chatgpt-plugin-node-todo/f5a5c5413da5d26bc46160fcf54315814814aeac/openapi.yaml",
+    "fetched_at": "2026-07-05T08:47:11.529457+00:00",
+    "content_hash": "c3ea43173fbbc655e81f33bbd90235b7b8febb4d34400283cd08c88a7fd45737",
+    "info_version": "v1",
+    "status": "new",
+    "title": "TODO Plugin",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

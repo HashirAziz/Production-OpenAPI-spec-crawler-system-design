@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "23dff727a7c8",
+    "source_url": "https://raw.githubusercontent.com/prabaharanb/automation/d6b2e0ff8cfd43e8d416b725ecded04a7f3dce53/openapi.yaml",
+    "fetched_at": "2026-07-05T08:47:08.178618+00:00",
+    "content_hash": "e5f96161a2c8e7e82be5563eb634ce23f53a9c2209a828a63812a3b16ed32519",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "Engineering Platform Sample API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

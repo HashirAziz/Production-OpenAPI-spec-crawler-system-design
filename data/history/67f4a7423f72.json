@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "67f4a7423f72",
+    "source_url": "https://raw.githubusercontent.com/Menephyl/brazukas_delivery/b2b94490150c503437e1dfc6368dcf99db53783d/openapi.yaml",
+    "fetched_at": "2026-07-05T08:47:01.043874+00:00",
+    "content_hash": "8aaa0253a5f5937444982cd2116238fdf0e5e553ecc0b5b2d1aab11f3556d277",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "Brazukas Delivery API",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

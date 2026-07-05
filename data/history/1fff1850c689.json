@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1fff1850c689",
+    "source_url": "https://raw.githubusercontent.com/Vlod-Company/drg-solutions/2e53ed6e23890efad6224b3f71b459cd3e961119/openapi.yaml",
+    "fetched_at": "2026-07-05T08:47:26.199396+00:00",
+    "content_hash": "411800d10ab8db3ea79f8dae1356c0237c0eaf6a613370a14f56e3ec64453c3d",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "DRG Solutions API",
+    "openapi_version": "openapi_3",
+    "paths_count": 40,
+    "path_diff": null
+  }
+]

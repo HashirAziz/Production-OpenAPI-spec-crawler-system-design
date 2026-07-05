@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "52913d50dd1a",
+    "source_url": "https://raw.githubusercontent.com/xiaolin310/sign-in-incentive/6f7c6d1dce840370a430f4bdb6c00618a87a96e3/openapi.yaml",
+    "fetched_at": "2026-07-05T08:47:01.320737+00:00",
+    "content_hash": "70bd98cba0c634387f212da7766a455f966ee2bbaa8668030a7b5902647c88fd",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": null,
+    "openapi_version": "openapi_3",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

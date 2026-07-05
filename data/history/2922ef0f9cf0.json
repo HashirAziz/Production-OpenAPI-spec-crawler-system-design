@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2922ef0f9cf0",
+    "source_url": "https://raw.githubusercontent.com/gulaycavusoglu/recipe-finder/fec6793395fb2795e458aa590045682cfcdc64c6/openapi.yaml",
+    "fetched_at": "2026-07-05T08:47:13.389662+00:00",
+    "content_hash": "e9c4e9d6ce41933246c1d151c9bf603b6eb61b1f707937cb22e3f7c8c906dfdf",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Recipe Finder API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

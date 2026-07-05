@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "90834737501e",
+    "source_url": "https://raw.githubusercontent.com/PersonalGroceryManager/backend/1c2b922a0111cc771d7c141c4b6911f77fb341db/openapi.yaml",
+    "fetched_at": "2026-07-05T08:47:02.390534+00:00",
+    "content_hash": "2fd8edb4c1a3a3a2806d20369d2cc9ddbcc7adb3280820a125bdbae28307436e",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Grocery Manager API",
+    "openapi_version": "openapi_3",
+    "paths_count": 16,
+    "path_diff": null
+  }
+]

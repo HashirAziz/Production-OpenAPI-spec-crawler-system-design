@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "351ace067db4",
+    "source_url": "https://raw.githubusercontent.com/sprite5641/bun-elysia-minimal/fdc200d774bffc93cb90e620cd883b4eff7b39f0/openapi.yaml",
+    "fetched_at": "2026-07-05T08:47:05.892392+00:00",
+    "content_hash": "bf4ae9e409b3c50286c0896245d9c9f56db8208e6666e8f261bdabf298031df3",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Bun Elysia API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

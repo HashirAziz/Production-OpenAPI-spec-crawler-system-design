@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "26d6e6f8ea1c",
+    "source_url": "https://raw.githubusercontent.com/jmcx/apiops-oas-tutorial/d8b65fa0fd235f093b1549e8250055fdd7686ded/openapi.yaml",
+    "fetched_at": "2026-07-05T08:47:25.680141+00:00",
+    "content_hash": "20c27f568bc3b137279b9ac5ab25b2d1e55514289dcdc7dede8fabb7e5899d9b",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Petstore API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f330b459a37b",
+    "source_url": "https://raw.githubusercontent.com/joseamtalavera/40_orders_project_starting/cd2578bf952b47da747eac4bd96cf063edbe93d4/openapi.yaml",
+    "fetched_at": "2026-07-05T08:47:03.135710+00:00",
+    "content_hash": "e5be7359070d1885066dc8e87038033c44bdf32d3d3f4981af667c4f4a27d813",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Online Order API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

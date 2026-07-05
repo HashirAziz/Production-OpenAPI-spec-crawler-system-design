@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "450fc39e0094",
+    "source_url": "https://raw.githubusercontent.com/jaskeerat789/go_microservices_tutorial/b5421598fd1d5faa5800849bf26ce088ea57579e/swagger.yaml",
+    "fetched_at": "2026-07-05T08:49:04.007892+00:00",
+    "content_hash": "7cceb77cb69f753047f30debabd00e084348051e40b6ce160b9dc36c7b332fb6",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Product API",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

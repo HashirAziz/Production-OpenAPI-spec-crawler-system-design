@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "70bd1fb340a1",
+    "source_url": "https://raw.githubusercontent.com/ikicamilo/task-manager-api/b2a18ceefb28d3d9fe4912faa86797556df377cb/swagger.yaml",
+    "fetched_at": "2026-07-05T08:49:11.340399+00:00",
+    "content_hash": "82a071eb70a98d9ef8c1235f253fdf3fd8d6f77c2c011223b9496a77c505365d",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "03-Task-manager",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]
