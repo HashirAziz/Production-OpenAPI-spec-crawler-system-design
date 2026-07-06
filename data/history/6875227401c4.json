@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6875227401c4",
+    "source_url": "https://raw.githubusercontent.com/WarFrontIO/api/ac6876e7d7af5f97d42f0f3e54c15968e89c5c53/openapi.yaml",
+    "fetched_at": "2026-07-06T10:08:38.109595+00:00",
+    "content_hash": "fe2fb4c4847094d2bdcd4854186c151c71e91bf2835a592ccaa54746da28c1b8",
+    "info_version": "v1-pre0",
+    "status": "new",
+    "title": "WarFront.io API",
+    "openapi_version": "openapi_3",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

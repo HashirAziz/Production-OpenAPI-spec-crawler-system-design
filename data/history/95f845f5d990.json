@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "95f845f5d990",
+    "source_url": "https://raw.githubusercontent.com/lokeshrao/OarChatBE/9903125baf5e4fd3e5f4cff35510031f03304e5b/openapi.yaml",
+    "fetched_at": "2026-07-06T10:08:32.344581+00:00",
+    "content_hash": "b18ebdc522acb955b16b5d3cadb12a1447287b69a663b0bcd5b59c149c8d4486",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "OarChat Server API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

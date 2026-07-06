@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "71891fe8fd5b",
+    "source_url": "https://raw.githubusercontent.com/LuisFernandoBelato/Backend-Python-FastApi-PowerOfData/2ba71cfb6aaa1014c09bfbfdab49a728cad854e6/openapi.yaml",
+    "fetched_at": "2026-07-06T10:08:43.801887+00:00",
+    "content_hash": "f4004ed210f4a314bc2f711b7541c09eba05f6ea6da574666d93b919042955b1",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "starwars-api",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

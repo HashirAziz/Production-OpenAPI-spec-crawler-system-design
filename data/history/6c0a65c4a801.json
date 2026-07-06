@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6c0a65c4a801",
+    "source_url": "https://raw.githubusercontent.com/artpark-hub/taksa-app-traceability/e1251c91dd1b97173e09f16a3fa50739fa4c5e55/openapi.yaml",
+    "fetched_at": "2026-07-06T10:08:55.087030+00:00",
+    "content_hash": "dbd9235ef8d2f9cb21246dadea0c63d628dfaf76580a65504a51f2274be9161e",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "Traceability API",
+    "openapi_version": "openapi_3",
+    "paths_count": 37,
+    "path_diff": null
+  }
+]

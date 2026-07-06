@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "915e4cb44107",
+    "source_url": "https://raw.githubusercontent.com/nghialvm/base-be-express/b553ff8867a21d40d82127aaf2a6093db556cea8/openapi.yaml",
+    "fetched_at": "2026-07-06T10:08:40.882541+00:00",
+    "content_hash": "4cc580774a834d40ede1df2949c9d1b81284994b606ea19ce282469b2c02285a",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "demo",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

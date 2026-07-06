@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "62de02158caa",
+    "source_url": "https://raw.githubusercontent.com/rcs64/DISM/82094c65de7f4a20236e12e7c132c84b65d256c4/openapi.yaml",
+    "fetched_at": "2026-07-06T10:08:41.230134+00:00",
+    "content_hash": "4edba8c7293d458730d32e32a643cd8cc20f97a93c9271478b1505f1e02e328b",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Hola Mundo Dtic",
+    "openapi_version": "openapi_3",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8b678f6e9c6b",
+    "source_url": "https://raw.githubusercontent.com/alinali87/great-reading/904a019653af6231a05ca3062e7fe76e611f1236/openapi.yaml",
+    "fetched_at": "2026-07-06T10:08:51.232912+00:00",
+    "content_hash": "4f280777828964d07d58f53c9047efc72c5ecbc784eee81029ad98f8acdf1539",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "GreatReading API",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

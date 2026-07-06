@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "33f19af8d13a",
+    "source_url": "https://raw.githubusercontent.com/setday/vnedraid-frontend/9499bfd154de73b31bf18561398a3ec1d3db7829/openapi.yaml",
+    "fetched_at": "2026-07-06T10:08:35.102044+00:00",
+    "content_hash": "f7a4068732017cea1760224f564ef24038bd45dd126ad15b6f9b9d62c4f27b47",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "AutoCheck AI API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

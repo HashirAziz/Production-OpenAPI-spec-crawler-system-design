@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "342e86d24724",
+    "source_url": "https://raw.githubusercontent.com/Staffing-HQ/users-srv/c5946f00ba914d7f5abed7a66a1b4ceb8b1b18c2/openapi.yaml",
+    "fetched_at": "2026-07-06T10:08:41.904783+00:00",
+    "content_hash": "c560a642b1b6b80f37704bf124841ecbaba1ae1359b52d2b4a3331f9b62b69fa",
+    "info_version": "v0",
+    "status": "new",
+    "title": "OpenAPI definition",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

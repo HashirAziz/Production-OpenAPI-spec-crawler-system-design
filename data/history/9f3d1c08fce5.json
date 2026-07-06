@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9f3d1c08fce5",
+    "source_url": "https://raw.githubusercontent.com/nadheesh/docs-assistant-demo/a89e1d492b0ee5db996241eb1b611c8d4227db2a/openapi.yaml",
+    "fetched_at": "2026-07-06T10:08:38.794560+00:00",
+    "content_hash": "f8fbc9873ebdf61009cc698ff6fcec7302e20ff4987a2f7ec179f6af218bff28",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Chat API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

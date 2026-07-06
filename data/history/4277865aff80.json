@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4277865aff80",
+    "source_url": "https://raw.githubusercontent.com/Suvink/duplicate-header-echo-service/f5ac06b8c17b9b7185d7edabee567a6eb9e6a9bb/openapi.yaml",
+    "fetched_at": "2026-07-06T10:08:41.590216+00:00",
+    "content_hash": "ca1b6c1e48e76fc189c824e26877b23154f65b1c80348a252ea55161354f0db0",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Echo Service API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

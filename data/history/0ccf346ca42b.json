@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0ccf346ca42b",
+    "source_url": "https://raw.githubusercontent.com/ISDL-dev/MERS/8d447af14221e373e683d30ff85ca1a02d11858a/openapi.yaml",
+    "fetched_at": "2026-07-06T10:08:30.104336+00:00",
+    "content_hash": "a1f9b81d7f351bd56611cb4c6785cbe5533a92e061fcb97bb5367baf03c53f71",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "MERS API",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

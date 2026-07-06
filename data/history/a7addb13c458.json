@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a7addb13c458",
+    "source_url": "https://raw.githubusercontent.com/fhktechnology/virtual-cuppa-be/da1deb1e765b2aea8da3d5f9cbdd1800a8b6b3b9/openapi.yaml",
+    "fetched_at": "2026-07-06T10:08:30.637360+00:00",
+    "content_hash": "8e276d69d4fb7a5d64f280326af731883b9de7b82d5c0750060e39ff3fc28950",
+    "info_version": "2.0.0",
+    "status": "new",
+    "title": "Virtual Cuppa API",
+    "openapi_version": "openapi_3",
+    "paths_count": 28,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a5fd71949688",
+    "source_url": "https://raw.githubusercontent.com/osu-cs493-sp19/final-project-cs493-team14/11ab20f931de4557ba0fc45cef11c76a517740cf/openapi.yaml",
+    "fetched_at": "2026-07-06T10:08:27.441673+00:00",
+    "content_hash": "bd7bb64416861036ce5239deace222a805e1c05460962393141a122c6563f8ec",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "The Tarpaulin API",
+    "openapi_version": "openapi_3",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

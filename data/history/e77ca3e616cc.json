@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e77ca3e616cc",
+    "source_url": "https://raw.githubusercontent.com/DontBeProud/kratos-gin-layout-template/53727fdb95878fe79ab0ee4540d2c421f05fc9e2/openapi.yaml",
+    "fetched_at": "2026-07-06T10:08:56.360960+00:00",
+    "content_hash": "8de491f4f4ee3ae83a20cfe53a842d9f3be116ce35728328c7c51095fdf7b591",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "Template API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

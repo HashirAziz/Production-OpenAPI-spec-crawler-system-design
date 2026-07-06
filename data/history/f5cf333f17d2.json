@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f5cf333f17d2",
+    "source_url": "https://raw.githubusercontent.com/vladimir-ks/anthropic-headless-api/814280d1b533151b038b29ec598b1c23e679fb06/openapi.yaml",
+    "fetched_at": "2026-07-06T10:08:34.457295+00:00",
+    "content_hash": "99d5b2a6c8f5a3b20eecd96c456c944a212ef342484743b8b88347f300904d56",
+    "info_version": "0.2.0",
+    "status": "new",
+    "title": "anthropic-headless-api",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

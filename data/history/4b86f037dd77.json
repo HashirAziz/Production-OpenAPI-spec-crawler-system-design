@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4b86f037dd77",
+    "source_url": "https://raw.githubusercontent.com/Mi1h0use/voyager-db/b2c32bfab08d0a00b0a82b508974586c95b73319/openapi.yaml",
+    "fetched_at": "2026-07-06T10:08:55.419049+00:00",
+    "content_hash": "194ecb0520a0aaa4025a90d4d2b42ff19dc58b36e4b75a54f348f31d5927fced",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Voyager DB API",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

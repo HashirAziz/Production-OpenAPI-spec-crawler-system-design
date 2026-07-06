@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a7f55fc6872b",
+    "source_url": "https://raw.githubusercontent.com/pavanpard/Big-Billion-Day/0623668e8fd6ab851f2c22c18df2d3fcc684f43c/openapi.yaml",
+    "fetched_at": "2026-07-06T10:08:32.727219+00:00",
+    "content_hash": "6296cb90fe6a74e3d1e6771f7bfcf08b543c4ce823ee3c9acd9caffc2f493283",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "E-commerce Product API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

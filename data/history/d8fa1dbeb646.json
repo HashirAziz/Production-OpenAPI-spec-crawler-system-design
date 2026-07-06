@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d8fa1dbeb646",
+    "source_url": "https://raw.githubusercontent.com/AverageHelper/ip-echo-vercel/48d5d3f0ba79cf2b2e9374c634efa7935d96a8b3/openapi.yaml",
+    "fetched_at": "2026-07-06T10:08:29.113296+00:00",
+    "content_hash": "616702bbfea02f3ae0656d5b36f767eb6c89aec5986e38f18185b39a3f942ccb",
+    "info_version": "2.0.0",
+    "status": "new",
+    "title": "IP Echo",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

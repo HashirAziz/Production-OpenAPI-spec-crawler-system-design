@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ce35e06f36e7",
+    "source_url": "https://raw.githubusercontent.com/nkzarrabi/GraphQL-API-to-GPT-Schema/17f2dfd606e056f8ebc1981269aadbb5a4e53dc5/openapi.yaml",
+    "fetched_at": "2026-07-06T10:08:31.639311+00:00",
+    "content_hash": "3a0dd30f9b37e25cc739a5ab16bb4c0540f398e4dbaacc38a3a8d1b4b1c6c93e",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "OpenBeta GraphQL API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

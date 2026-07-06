@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4ed203c9bb85",
+    "source_url": "https://raw.githubusercontent.com/bewest/node-multienv/7deafde76bd7eae842c4a0c1f0f7b628b5415b68/openapi.yaml",
+    "fetched_at": "2026-07-06T10:08:40.569055+00:00",
+    "content_hash": "32f4a9556ed800d31af8ed2943448b3120a67ae2531bd813ecd9d59d941a051b",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "MultiEnv",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

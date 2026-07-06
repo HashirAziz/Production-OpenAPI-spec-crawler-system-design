@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "541b47fd77a4",
+    "source_url": "https://raw.githubusercontent.com/Personal-Finance-App/FinanceApp/0160796a0e9964bed747db60e48f272ac2408859/openapi.yaml",
+    "fetched_at": "2026-07-06T10:08:28.788886+00:00",
+    "content_hash": "dd8613ff285118f1a78c46092caeb04e8c82da2a710d51c76eb50af22638870b",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Finance App API",
+    "openapi_version": "openapi_3",
+    "paths_count": 17,
+    "path_diff": null
+  }
+]

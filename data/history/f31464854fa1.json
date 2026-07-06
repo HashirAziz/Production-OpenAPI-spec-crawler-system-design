@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f31464854fa1",
+    "source_url": "https://raw.githubusercontent.com/JUANECL314/pathexplorer-backend/d9a2b8414eca655857707c03baffd1c6a04e7d48/openapi.yaml",
+    "fetched_at": "2026-07-06T10:08:31.320712+00:00",
+    "content_hash": "b357f2233ea5703ba67ff997acd6445a7510aa06e574d432503bc6f7bd35c06d",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Project API",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

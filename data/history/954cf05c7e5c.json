@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "954cf05c7e5c",
+    "source_url": "https://raw.githubusercontent.com/threeniinesix/G3/ef2abbe662b14021304d4860618e693fd02f75db/openapi.yaml",
+    "fetched_at": "2026-07-06T10:08:43.124856+00:00",
+    "content_hash": "0d50033602111c2c5e185d346e75a90d7ef8ac96b0d887d3ad8b6de64e2ab015",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Number Prediction API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6eff3afc7d6d",
+    "source_url": "https://raw.githubusercontent.com/mahboriola/rag-system/14db01aadcca6a59e97c5893971cc3e02f522d83/openapi.yaml",
+    "fetched_at": "2026-07-06T10:08:43.466438+00:00",
+    "content_hash": "2b6f0df5c7a2da46fb9f8f1d318800894cc16151195dc85fb2502c6371447023",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "RAG System",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]
