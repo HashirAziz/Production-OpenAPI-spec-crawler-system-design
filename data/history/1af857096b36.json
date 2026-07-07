@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1af857096b36",
+    "source_url": "https://raw.githubusercontent.com/Stenstromen/miniomatic/a36787646c5ef411c2b5df95098f9c4339b6cc07/swagger.yaml",
+    "fetched_at": "2026-07-07T09:34:18.847974+00:00",
+    "content_hash": "f0468fdd8447c98a7178938c45d66eb56e1e1f0e07ea370e94ed13f5e16c456d",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Miniomatic API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ef5db398e6ba",
+    "source_url": "https://raw.githubusercontent.com/AdiilPay/prepaidCardsBackend/c41cbfbacb957d95f0cac0b5f1996c35d316e27e/swagger.yaml",
+    "fetched_at": "2026-07-07T09:34:28.889008+00:00",
+    "content_hash": "6fe31a479f8221332a56a94680f7e07418f7c438a5dbadb6c6863168d833d4e9",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Easily",
+    "openapi_version": "openapi_3",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a8ac5390edbc",
+    "source_url": "https://raw.githubusercontent.com/yashPundhir/socialApp_ProBackend/2f454d76eb8cf152484db43733986142a444919b/swagger.yaml",
+    "fetched_at": "2026-07-07T09:34:35.330061+00:00",
+    "content_hash": "5294dfa512a34bdc8072703b6c76b85f8998ce19148dca2011c24898b2633ee1",
+    "info_version": "1.0.1",
+    "status": "new",
+    "title": "Social App",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

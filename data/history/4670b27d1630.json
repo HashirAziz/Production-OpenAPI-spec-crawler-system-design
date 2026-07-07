@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4670b27d1630",
+    "source_url": "https://raw.githubusercontent.com/King-s-Knowledge-Graph-Lab/ProVe/5b325716fc5e3614ac4023b767a85d46b9d739dc/swagger.json",
+    "fetched_at": "2026-07-07T09:34:51.824484+00:00",
+    "content_hash": "a23a487fad13cdfa5af73a6f43ad0de3f77008252ea2d95c3283288f9109143b",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "ProVe API",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e0a88787fa1f",
+    "source_url": "https://raw.githubusercontent.com/beantownpub/content-api/ed29187c0e999c030ec73fdf9ecb6a63cf0a652a/swagger.yaml",
+    "fetched_at": "2026-07-07T09:34:15.831959+00:00",
+    "content_hash": "6f47ddbe77f1c26e0ed288c8f746123b671efcef0aa2279cf8c6723c865a2cf8",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "Content API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

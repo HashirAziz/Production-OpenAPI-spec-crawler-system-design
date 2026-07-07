@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "bd74d39fb97a",
+    "source_url": "https://raw.githubusercontent.com/vl4ks/SElibrary/6002109eee11b6733e535ad821d6587f9cdeb086/swagger.yaml",
+    "fetched_at": "2026-07-07T09:34:21.341256+00:00",
+    "content_hash": "77c2747d763952c4e96db0dc90949afefb312d85cb8324272e75664b135a0032",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "SElibrary API",
+    "openapi_version": "openapi_3",
+    "paths_count": 17,
+    "path_diff": null
+  }
+]

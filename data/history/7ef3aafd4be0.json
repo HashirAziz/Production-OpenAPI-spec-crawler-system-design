@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "7ef3aafd4be0",
+    "source_url": "https://raw.githubusercontent.com/nicolaferraro/demo/3134a8d7dcddedf22f3aeab816b01a53af581979/openapi.yaml",
+    "fetched_at": "2026-07-07T09:33:29.477173+00:00",
+    "content_hash": "23c204b825504ca862c770cf9d3e177d377ef836457e77578ef6f3162818d43d",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Camel K Object API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

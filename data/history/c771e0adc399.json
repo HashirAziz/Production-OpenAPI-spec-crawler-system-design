@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c771e0adc399",
+    "source_url": "https://raw.githubusercontent.com/Arkansal/SAE401/114ca155e793cf31bdb63d25f5ce287a468ddc98/swagger.yaml",
+    "fetched_at": "2026-07-07T09:34:35.094053+00:00",
+    "content_hash": "7a974367f7d19c605e7c6d4223a10b8442baeaaea1272c70a46c4a97d10de178",
+    "info_version": null,
+    "status": "new",
+    "title": "API Documentation",
+    "openapi_version": "openapi_3",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

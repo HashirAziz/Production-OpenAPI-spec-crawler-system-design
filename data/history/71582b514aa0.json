@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "71582b514aa0",
+    "source_url": "https://raw.githubusercontent.com/jselga/APIRestFullZelda/df0e6f8486726d7ae4d31c552a43ee08f2c842e2/swagger.yaml",
+    "fetched_at": "2026-07-07T09:34:17.685980+00:00",
+    "content_hash": "0bb57db85c3c1b268ba35bc9943257601d446dc298c54ab3be154cf511d7d2b3",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Zelda BotW API Spanish Version",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

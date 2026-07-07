@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f6989ad7d5c2",
+    "source_url": "https://raw.githubusercontent.com/TawasalPlatform/openapi/ab91e2b7b6c0afc0660adbe97f97059ade007b70/openapi.yaml",
+    "fetched_at": "2026-07-07T09:33:31.171408+00:00",
+    "content_hash": "fdd37f0241a851cbd4d7043ff1432b64d69a3aeeeae59cbbfdff002bbd8d745e",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Tawasal SuperApp API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

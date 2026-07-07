@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "bd348c0e68e2",
+    "source_url": "https://raw.githubusercontent.com/cam-ai-lab/dummy-card-issuer-api/09c5d2975a5e0e237fe0058cfc1ecc67c0222111/openapi.yaml",
+    "fetched_at": "2026-07-07T09:33:28.348787+00:00",
+    "content_hash": "7475abf6a0555b6886b2ad286828768225444924088f4d164bb8621957bf4415",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Credit Card Issuer API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "7e9c4cd17511",
+    "source_url": "https://raw.githubusercontent.com/vogelileo/horizon_guard/1e2701b7c4a7129a0171259c98111e4b2af6db9e/swagger.yaml",
+    "fetched_at": "2026-07-07T09:34:20.652538+00:00",
+    "content_hash": "4489adb5350147287d85552d5d953a430c30e9301447985b80ccef1d4f7d0a06",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "HORIZON GUARD - ARMY CH",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

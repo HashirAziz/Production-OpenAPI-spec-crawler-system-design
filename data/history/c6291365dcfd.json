@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c6291365dcfd",
+    "source_url": "https://raw.githubusercontent.com/quangnd2dev/media_storage/187ddcf030bfb6d6981a224d304d5e8a01157e1e/swagger.yaml",
+    "fetched_at": "2026-07-07T09:34:17.456351+00:00",
+    "content_hash": "3383f2235eb5982ffa8f767391fcd7c6a2cf58d392999c0dc964c3ead493f347",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "unknown",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

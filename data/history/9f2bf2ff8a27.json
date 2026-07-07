@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9f2bf2ff8a27",
+    "source_url": "https://raw.githubusercontent.com/tangjzh/EBike/e211d79b1566cacccabfa791e3612ab7767873cf/swagger.yaml",
+    "fetched_at": "2026-07-07T09:34:26.010771+00:00",
+    "content_hash": "3f40e9eefbe9c0e24975d929058057d4e387c668b363ecbc0623ff160446a406",
+    "info_version": "v1",
+    "status": "new",
+    "title": "API Documentation",
+    "openapi_version": "swagger_2",
+    "paths_count": 38,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d4caf801ec7d",
+    "source_url": "https://raw.githubusercontent.com/sergey-yakushevich/crypto-alert-test/4174f7f5c1c0225542e82a5b371146f744079fbf/openapi.yaml",
+    "fetched_at": "2026-07-07T09:33:30.917869+00:00",
+    "content_hash": "4f5930c3ce1ab8244c5754757ac1431ad42dac39045933a8b2d422070a23d1c0",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Crypto Alert API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "688cc44e4f60",
+    "source_url": "https://raw.githubusercontent.com/krishnaKantVishWakarma-titan/Jobs_API/322e1e145812799db6a1e622bf8966de17ad5c3f/swagger.yaml",
+    "fetched_at": "2026-07-07T09:34:19.095856+00:00",
+    "content_hash": "26b3e568445899cbc05078ca68527dcddec8d4a4539d6aca7f9abdf98f0a7981",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Jobs API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

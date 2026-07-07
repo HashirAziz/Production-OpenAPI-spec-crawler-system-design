@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b21f0b3c85a4",
+    "source_url": "https://raw.githubusercontent.com/ruantiengo/letuce-backend/e0173839e44789052314f7462030c1fccc329f95/openapi.yaml",
+    "fetched_at": "2026-07-07T09:33:29.951845+00:00",
+    "content_hash": "372306477db1a2fea1ca5eb4e4ad5c454dd4e868cdde2d012515bb5f4f23babf",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Letuce Backend API",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

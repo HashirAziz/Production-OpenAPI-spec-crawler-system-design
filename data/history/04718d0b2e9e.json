@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "04718d0b2e9e",
+    "source_url": "https://raw.githubusercontent.com/contention-markets/cm-contract/c2f55d1b1e6f1b4956ba7dbc91a2b0a46cec8f6a/openapi.yaml",
+    "fetched_at": "2026-07-07T09:33:30.161462+00:00",
+    "content_hash": "749cbd87d9df3ad18e1b62e6a149a765c8295d9153addaf9c96e548f9d85ad98",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Contention Markets B2B Protocol API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

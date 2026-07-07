@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "182ea677b5cd",
+    "source_url": "https://raw.githubusercontent.com/anthonyc-dev/brms-server/53e85356fcd01917f7cb90845480d1cd30adc302/openapi.yaml",
+    "fetched_at": "2026-07-07T09:33:27.651035+00:00",
+    "content_hash": "50545e36a24d16bf3def9dc581c3e147040c75a34e27ccd0d59e062e6c9f2b14",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "BRMS API",
+    "openapi_version": "openapi_3",
+    "paths_count": 25,
+    "path_diff": null
+  }
+]

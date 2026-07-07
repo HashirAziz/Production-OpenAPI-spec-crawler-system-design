@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3df89aab07d5",
+    "source_url": "https://raw.githubusercontent.com/katwre/Spatial_explorer_api/bccd07a56cf6d7befe0f659b6381b78994babb6b/openapi.yaml",
+    "fetched_at": "2026-07-07T09:33:28.124578+00:00",
+    "content_hash": "dc9c805221f0156c4bb4d28d0f191fcb2a5dd65c412cf97c5becfa99f6929694",
+    "info_version": "0.2.0",
+    "status": "new",
+    "title": "Spatial Explorer API",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

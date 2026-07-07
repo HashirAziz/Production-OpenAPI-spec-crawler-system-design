@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ffc80e98e127",
+    "source_url": "https://raw.githubusercontent.com/mrueg/netcupscp-exporter/0fa9ccaf006b246742349ed81b5586bf2c15fe18/openapi.json",
+    "fetched_at": "2026-07-07T09:34:05.473603+00:00",
+    "content_hash": "e34bdbab7040ed80b8d8523f92dd287bcf55ba02afd8a2e12795d597ad909999",
+    "info_version": "2026.0204.100932",
+    "status": "new",
+    "title": "SCP (Server Control Panel) REST API",
+    "openapi_version": "openapi_3",
+    "paths_count": 61,
+    "path_diff": null
+  }
+]
