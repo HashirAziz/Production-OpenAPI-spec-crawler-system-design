@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "27edf71a9eda",
+    "source_url": "https://raw.githubusercontent.com/duapa/list-service-api/888af6d8ed4c1a738ab0b3b0359bea40ef7ce74d/openapi.yaml",
+    "fetched_at": "2026-07-08T08:19:40.215959+00:00",
+    "content_hash": "77997f6da564128af6b7df98f5b6225679c69317e8cb4e7c1865a2b476d44c51",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Stings API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "461dfdc0991f",
+    "source_url": "https://raw.githubusercontent.com/dosorio79/ulearn-platform/a55b074bec8231e690e79fc5c697333bcd0dec96/openapi.yaml",
+    "fetched_at": "2026-07-08T08:19:39.436059+00:00",
+    "content_hash": "b12bafef271b9957648e80fd8361370a29ac4d0c7486dea5a9f032e8f78efc42",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "Agentic Micro-Learning API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1f95dbb31921",
+    "source_url": "https://raw.githubusercontent.com/URLR/api-clients-generation/87031edff713615e24f368b910ddd9ce60501b71/openapi.yaml",
+    "fetched_at": "2026-07-08T08:19:57.330208+00:00",
+    "content_hash": "be9f625a3f8c7c8e345009f1bb70c57fdcf6440549ee6c5553549f8fdb0440ec",
+    "info_version": "2.0.0",
+    "status": "new",
+    "title": "URLR API Reference",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

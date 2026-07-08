@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "fe1892150894",
+    "source_url": "https://raw.githubusercontent.com/patent-dev/epo-bdds/4d0f9dd4bcec38834576be547f5e7b9961b9e208/openapi.yaml",
+    "fetched_at": "2026-07-08T08:19:52.676236+00:00",
+    "content_hash": "6384d2741ca7da8157f5522f4cfa859610a9e42e3ce930b294953a6bc89eb5db",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "EPO Bulk Data Distribution Service (BDDS) API (unofficial)",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

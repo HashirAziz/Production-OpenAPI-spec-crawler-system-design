@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6781916d8343",
+    "source_url": "https://raw.githubusercontent.com/rupeshsah2038/160text/204eebc85fc01d809da3d6011bfe1c73b58e4011/openapi.yaml",
+    "fetched_at": "2026-07-08T08:19:38.120153+00:00",
+    "content_hash": "b222c5b86e94ffbc08fd0c7972ca2ae310fd4b75a4f4d4389bee2805a483d654",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Bulk SMS External API",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

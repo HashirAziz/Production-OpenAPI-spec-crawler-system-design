@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3bb938d845dc",
+    "source_url": "https://raw.githubusercontent.com/tmajdali/swaggerDocs/77700e1851e072169c319d8cb12f49e69dec2974/openapi.yaml",
+    "fetched_at": "2026-07-08T08:19:45.236036+00:00",
+    "content_hash": "917cd46d6708a7fb8baa75bb1b8693f37b8f9a29eeab475f9520a19192930b71",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Rabet Onboarding API",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

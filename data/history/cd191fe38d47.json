@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "cd191fe38d47",
+    "source_url": "https://raw.githubusercontent.com/ronan-macedo/fresh-cart-api/db55a4c2f9088357c76bc7591333f48f645e2278/swagger.json",
+    "fetched_at": "2026-07-08T08:21:55.371858+00:00",
+    "content_hash": "0144bb4ca5f5f2eb8c6b8313f48679b4ce4b88f829dbea23df20b8fb821a9c99",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "FreshCart API",
+    "openapi_version": "openapi_3",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

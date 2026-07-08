@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "103ab05c7c5c",
+    "source_url": "https://raw.githubusercontent.com/maikereis/k8s-ray-serve-anomaly-detector/b4f4547004bb85ab131c0aa7fcc73ecde05bf874/openapi.yaml",
+    "fetched_at": "2026-07-08T08:19:35.200293+00:00",
+    "content_hash": "eba4152bc600202810c2c7e10b92f317c9bf10656be344a03fb57224f4444d5d",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Ray Serve Anomaly Detection API",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

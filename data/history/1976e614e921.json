@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1976e614e921",
+    "source_url": "https://raw.githubusercontent.com/Chukwuemeka-Test-Org/product-MAIN/d0eee2fd3154a27b01729d0e179dad67ab8934f0/openapi.yaml",
+    "fetched_at": "2026-07-08T08:19:45.996895+00:00",
+    "content_hash": "d827347f12cb80b030e953ca99591ac00459775db6a910e96e1b35fe2a97dcf8",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Insecure API Demo",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

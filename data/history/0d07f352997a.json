@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0d07f352997a",
+    "source_url": "https://raw.githubusercontent.com/lizzyTheLizard/medium-java-frameworks/f56aed03d7822a0c104d3b09460d4471a7e40a70/openapi.yaml",
+    "fetched_at": "2026-07-08T08:19:45.558899+00:00",
+    "content_hash": "71206a21eb1fb81d1700f9134fa6583edb76228f373a4aca8d03d4328442cc38",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Blogpost API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a8e9c3e394dc",
+    "source_url": "https://raw.githubusercontent.com/jdevtree-org/jdevtree-documentation/e39bd183b0af2bdcdd824fa4909452398c704647/openapi.yaml",
+    "fetched_at": "2026-07-08T08:19:39.892215+00:00",
+    "content_hash": "28a02db8873b79bbfdf510847e4e6ac278c8055c541ba8f6ed97c32a4b5a53ef",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "jdevtree Auth API",
+    "openapi_version": "openapi_3",
+    "paths_count": 12,
+    "path_diff": null
+  }
+]

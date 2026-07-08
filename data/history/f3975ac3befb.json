@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f3975ac3befb",
+    "source_url": "https://raw.githubusercontent.com/miciav/nanofaas/1f7401ec2773e5c58dbacb16c0b8606b59785db8/openapi.yaml",
+    "fetched_at": "2026-07-08T08:19:33.491918+00:00",
+    "content_hash": "b745a86352172b406ca47784cb8a84542ecd88f9e798176535306ee55804745d",
+    "info_version": "0.5.0",
+    "status": "new",
+    "title": "nanofaas Control Plane API",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5f2c1e71b080",
+    "source_url": "https://raw.githubusercontent.com/robamemar94/omdb_api/09bd6e1f0697681758e3839770b589c960feee2b/openapi.yaml",
+    "fetched_at": "2026-07-08T08:19:41.110274+00:00",
+    "content_hash": "83ca2cb90fdc2717d852b6f2e47c77e66168c21ceca530c458b57b029c63d6d1",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Movie API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "7f8b848f3f0e",
+    "source_url": "https://raw.githubusercontent.com/Khanuma88/circlesave-api/815e98de2797391e7ea9626a693fd7330cf7dae0/openapi.yaml",
+    "fetched_at": "2026-07-08T08:19:36.486143+00:00",
+    "content_hash": "e2d4fbd53109c6feb4009989aed0104d2162fd544060b4e6d4e0e62944aecfca",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "CircleSave API",
+    "openapi_version": "openapi_3",
+    "paths_count": 23,
+    "path_diff": null
+  }
+]

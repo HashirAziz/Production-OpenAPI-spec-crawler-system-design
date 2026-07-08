@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "73711373d46d",
+    "source_url": "https://raw.githubusercontent.com/jabi006/digitaltolk-laravel-assessment/4147475b267552d1f7bfb6cf23f337b0968c97cd/openapi.yaml",
+    "fetched_at": "2026-07-08T08:19:40.809862+00:00",
+    "content_hash": "7da6488e80e414746494e88b4723d52698708eacf8e5cb955a89ba88ace25e75",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Translation Management Service API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

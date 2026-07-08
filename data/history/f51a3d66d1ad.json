@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f51a3d66d1ad",
+    "source_url": "https://raw.githubusercontent.com/SZanko/paperless/1fd679052811c58cadad4642a6f2444a9dff178f/openapi.yaml",
+    "fetched_at": "2026-07-08T08:19:59.217711+00:00",
+    "content_hash": "7e8b57efb6d1b053356634c45cd7385ba93e8835d9482baf944a0491bb301e78",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Paperless REST-Server",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "bde0e381c648",
+    "source_url": "https://raw.githubusercontent.com/erikarenhill/vma-alert-hass/00e3371ce3f1737ec646214595acfc548b43cc5b/swagger.json",
+    "fetched_at": "2026-07-08T08:21:54.712385+00:00",
+    "content_hash": "fdfd6b36953ed5ed6ad71865052492c0035c29c6074f3d826f684b5ad2e213b0",
+    "info_version": "v2",
+    "status": "new",
+    "title": "Sveriges Radio's API for Important Public Announcements",
+    "openapi_version": "openapi_3",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

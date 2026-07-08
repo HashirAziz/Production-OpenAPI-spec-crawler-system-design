@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "299bd9743b07",
+    "source_url": "https://raw.githubusercontent.com/icf-public-resources/hes-interview-qa/743e53bf84fdb89ef7f196bbe3677aa8102d6ea0/openapi.yaml",
+    "fetched_at": "2026-07-08T08:19:57.650463+00:00",
+    "content_hash": "d0bfcde88bb4f8ed0d8942cc9be4e1c36b79208e734f66058110b397d063b35f",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Census App API",
+    "openapi_version": "openapi_3",
+    "paths_count": 22,
+    "path_diff": null
+  }
+]

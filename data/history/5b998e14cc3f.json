@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5b998e14cc3f",
+    "source_url": "https://raw.githubusercontent.com/Dimitri-Y/GooseTrack-group-7_backend/99dcc7794fdc486ff167d572126d5143c4119f59/swagger.json",
+    "fetched_at": "2026-07-08T08:21:53.819387+00:00",
+    "content_hash": "b09f819139d6987cf276659721fa027bb5f1a33f55566f097f013f3212f05e02",
+    "info_version": "2.0.2",
+    "status": "new",
+    "title": "API documentation",
+    "openapi_version": "openapi_3",
+    "paths_count": 12,
+    "path_diff": null
+  }
+]

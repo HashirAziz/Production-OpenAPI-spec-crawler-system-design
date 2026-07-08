@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b4f910df8611",
+    "source_url": "https://raw.githubusercontent.com/yongjun925/koa-restful-example/bb461240d91ea269e1625211b0582c8e4fabbe27/swagger.json",
+    "fetched_at": "2026-07-08T08:21:52.099929+00:00",
+    "content_hash": "da862a74e1fdba1c55706e54d1f09c287fc5c43ef3e9086363741a235a7dae1f",
+    "info_version": "1.1",
+    "status": "new",
+    "title": "Example API",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

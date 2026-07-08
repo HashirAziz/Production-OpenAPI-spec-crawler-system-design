@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "eb950a6e4fc5",
+    "source_url": "https://raw.githubusercontent.com/jpollock/node-wp-app-for-local-addon/2405468e945d87cc818e8d508f3e472dfb725d86/openapi.yaml",
+    "fetched_at": "2026-07-08T08:19:48.512872+00:00",
+    "content_hash": "5a9bc24289d3fcd89b823bc77b2897e248670c547b57625cd2a86e5200a17a56",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Node WordPress Bridge API",
+    "openapi_version": "openapi_3",
+    "paths_count": 15,
+    "path_diff": null
+  }
+]

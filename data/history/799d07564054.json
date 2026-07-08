@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "799d07564054",
+    "source_url": "https://raw.githubusercontent.com/ALTA-BE20-MuhammadMahivaBentarRaharja/My-Task-App/fdf0a8c6f5e4dcf8e4204e5e68cb852db7f10e52/openapi.yaml",
+    "fetched_at": "2026-07-08T08:19:33.170986+00:00",
+    "content_hash": "9016416e8ce3dd0dfca6523473db260dff70724509c5aec112ee1a3d96f04cbd",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "MyTaskApp",
+    "openapi_version": "swagger_2",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

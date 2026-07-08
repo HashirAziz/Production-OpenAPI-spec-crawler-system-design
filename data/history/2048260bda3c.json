@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2048260bda3c",
+    "source_url": "https://raw.githubusercontent.com/rdwaynedehoedt/ceilaosystem_backend/16f7a43f70d4a76e138d4bbb2bada00f50b46411/openapi.yaml",
+    "fetched_at": "2026-07-08T08:19:38.845718+00:00",
+    "content_hash": "ba8773b6ef25888d84f626e5e722a9fc9ca9bc5edb45dc789fb8f193d1bf7eab",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Insurance Brokerage API",
+    "openapi_version": "openapi_3",
+    "paths_count": 15,
+    "path_diff": null
+  }
+]

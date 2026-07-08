@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e0abed2dd3a4",
+    "source_url": "https://raw.githubusercontent.com/quentinreytinas/borgmatic-api-nextcloud-aio/0c3d810d0ff65a995ae3f3430b5782b4121359b1/openapi.yaml",
+    "fetched_at": "2026-07-08T08:19:58.907758+00:00",
+    "content_hash": "360dc6b6a1f40d599463b11558b460370d32033adfb27736702dbd4b5778d065",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Borgmatic API for Nextcloud AIO",
+    "openapi_version": "openapi_3",
+    "paths_count": 65,
+    "path_diff": null
+  }
+]

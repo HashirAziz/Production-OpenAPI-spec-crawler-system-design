@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "7ec8b497f8d4",
+    "source_url": "https://raw.githubusercontent.com/kimyongyeon/inm-auth-api/d5b83b3f4ab0d57eff4b97f2e020ce41d0eeab0b/openapi.yaml",
+    "fetched_at": "2026-07-08T08:19:35.582580+00:00",
+    "content_hash": "93afbd3b5fed041f2e4ae9c313ccc1653df959e2c27e0b1b4250534436fb0999",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "샘플 API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

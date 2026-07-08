@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3c5614a2e505",
+    "source_url": "https://raw.githubusercontent.com/STS-Engineer/DB_IA/8711830898ff8bde324b448d9ccc11f48ac6ac1a/openapi.yaml",
+    "fetched_at": "2026-07-08T08:19:48.198646+00:00",
+    "content_hash": "c7cc8171da739be15b2160a96882d40c701dfbd5d780a971ad5a4535014e28f2",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Action Plan API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

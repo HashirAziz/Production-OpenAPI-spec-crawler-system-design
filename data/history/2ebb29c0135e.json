@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2ebb29c0135e",
+    "source_url": "https://raw.githubusercontent.com/Tiyouw/edu/6a343b223f039c153a99dff88d73b443d36d77a4/openapi.yaml",
+    "fetched_at": "2026-07-08T08:19:37.800847+00:00",
+    "content_hash": "c9d69ecc54e7f79fa436d1632f67eff9aba6bf26dae9a2e2f698208e7b2e3cda",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "School API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

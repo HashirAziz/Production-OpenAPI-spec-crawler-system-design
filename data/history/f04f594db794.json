@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f04f594db794",
+    "source_url": "https://raw.githubusercontent.com/aka4rKO/choreo-sample-service-1/1e9f6257757b521272ec19d88bd5399d00ccca44/openapi.yaml",
+    "fetched_at": "2026-07-08T08:19:46.338517+00:00",
+    "content_hash": "1ae181f901de9ac48ff17fe5ad00bda9595f7bf2f64fd43a2bdd9167bc32b1f6",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Greet API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

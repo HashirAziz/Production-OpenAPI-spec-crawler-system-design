@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0eab4d29e9dc",
+    "source_url": "https://raw.githubusercontent.com/RogerioCordeiro/Compass_Car/02d3f7e85b0bd89468afe2f14486369d414c60f2/swagger.json",
+    "fetched_at": "2026-07-08T08:21:55.021708+00:00",
+    "content_hash": "04e896f3e0c608d069f42c9a280ba4bbc4f6dea1b467339df3d1473a2e97d28d",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "CompassCar",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

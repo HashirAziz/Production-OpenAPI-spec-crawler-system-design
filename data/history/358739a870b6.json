@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "358739a870b6",
+    "source_url": "https://raw.githubusercontent.com/brainway/documentationai-starter-kit/5a99109063d9ae977e5bf6fb3470a2712eceea0d/openapi.yaml",
+    "fetched_at": "2026-07-08T08:19:47.538362+00:00",
+    "content_hash": "78809f24c1f72594de33aa624479cbae3de940c1d44075dc76aeee090bf55db4",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Test my doc",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

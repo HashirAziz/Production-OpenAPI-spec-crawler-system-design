@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ecb54159fea2",
+    "source_url": "https://raw.githubusercontent.com/StephenDVick/TempAssureApi/0f276959618f323ed6ad140ca6e15e8252ed447f/openapi.yaml",
+    "fetched_at": "2026-07-08T08:19:49.588700+00:00",
+    "content_hash": "eec594eab1fdefc9142dc0585c5669942968dfd98492154f7e172ac9a3d1c479",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "TempAssure API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

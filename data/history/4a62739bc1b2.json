@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4a62739bc1b2",
+    "source_url": "https://raw.githubusercontent.com/algaworks/api-alga-stock/0446089eed806d456938a1ea546fb9f2962cbc46/openapi.yaml",
+    "fetched_at": "2026-07-08T08:19:42.455122+00:00",
+    "content_hash": "dff35cc2c6099be1168d72a7b1e8277526223944ff6d411e0e1e170963c99f8a",
+    "info_version": "1.1",
+    "status": "new",
+    "title": "AlgaStock",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]
