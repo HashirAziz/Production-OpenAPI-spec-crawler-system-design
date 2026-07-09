@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6bfe5c68374e",
+    "source_url": "https://raw.githubusercontent.com/Solvro/backend-eventownik-v2/e56fd3e6569a32beb15fc79f227b5aadbee7bc8d/swagger.json",
+    "fetched_at": "2026-07-09T09:32:21.438031+00:00",
+    "content_hash": "415d97f6f79f733e2b487f638438b511a3d6f5418b4e89e0613bd07baa6eae3d",
+    "info_version": "0.5.0",
+    "status": "new",
+    "title": "Eventownik backend",
+    "openapi_version": "openapi_3",
+    "paths_count": 38,
+    "path_diff": null
+  }
+]

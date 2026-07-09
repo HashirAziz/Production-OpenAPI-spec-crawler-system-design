@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "101eef3fb11e",
+    "source_url": "https://raw.githubusercontent.com/rosante/ArquiteturaExagonal/f953541df2673fddf8fa090e2cfb51f45893cf85/swagger.yaml",
+    "fetched_at": "2026-07-09T09:31:45.882292+00:00",
+    "content_hash": "78ca4b3a9d261986cbfc5d3d700e06ced80f431cf073e898428523e3cf16c6f7",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Carros API",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

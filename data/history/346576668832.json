@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "346576668832",
+    "source_url": "https://raw.githubusercontent.com/ImFelipeOliveira/desafio-backend-pigz/3ee51635c74ca5e5b9fba390d46bec8c4f74fea7/swagger.yaml",
+    "fetched_at": "2026-07-09T09:31:36.773625+00:00",
+    "content_hash": "17f990d8a93745aa63487f3ee5b1114ec9de637449b00dd9a9480a323eee83d3",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "PIGZ Backend API",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b639b70d2e56",
+    "source_url": "https://raw.githubusercontent.com/AIBInnovations/sajanshree_backend/b565523613603aaa1e883ab6f44e1a6e9adb128d/swagger.yaml",
+    "fetched_at": "2026-07-09T09:31:34.410845+00:00",
+    "content_hash": "16be856513ea175ff95592493ffa76d06f301229b6a9f5c6c63ee9694e35e315",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Sajan Shree Backend - Auth API",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

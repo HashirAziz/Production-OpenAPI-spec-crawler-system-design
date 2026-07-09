@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f1cc5e8c325c",
+    "source_url": "https://raw.githubusercontent.com/BITSSAP2025AugAPIBP3Sections/APIBP-20234YC-Team-11/8b72455bf139276fe3e8897f593049ac93a1fe9f/swagger.yaml",
+    "fetched_at": "2026-07-09T09:31:39.464323+00:00",
+    "content_hash": "2cecb8aa81102b5545acb3fde8a0d84cca2316e514f36d8a553e639e0652541c",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Warehouse Management API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

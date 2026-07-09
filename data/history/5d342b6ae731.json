@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5d342b6ae731",
+    "source_url": "https://raw.githubusercontent.com/arjun-sir/phoenix/04a19667f90c07aee109b3b63dc2cd15178a6f39/swagger.yaml",
+    "fetched_at": "2026-07-09T09:31:35.355786+00:00",
+    "content_hash": "f2482c9c1d19e741acc4d93ea76fbee245e80f3266aeb3df9eb17c8b63a5015d",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "IMF Gadget Management API",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

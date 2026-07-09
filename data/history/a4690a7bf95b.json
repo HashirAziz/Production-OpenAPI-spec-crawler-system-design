@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a4690a7bf95b",
+    "source_url": "https://raw.githubusercontent.com/alexgo-dev/P11-Argent_Bank/bafb9be4c58915d68bca7c2bfa4396a6e7e45703/swagger.yaml",
+    "fetched_at": "2026-07-09T09:31:43.921974+00:00",
+    "content_hash": "cb0bf688e0e4c5912532edc0c3ad0801c2b93fb3554dbac94af1e8019f3af0d6",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Argent Bank API Documentation",
+    "openapi_version": "swagger_2",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

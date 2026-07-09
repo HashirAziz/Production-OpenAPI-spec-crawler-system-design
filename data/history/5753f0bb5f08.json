@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5753f0bb5f08",
+    "source_url": "https://raw.githubusercontent.com/wikimedia/mediawiki-services-kask/4eb9735bc0637f4e6d92e6e1f2356ad77cf19aeb/openapi.yaml",
+    "fetched_at": "2026-07-09T09:30:36.353216+00:00",
+    "content_hash": "ebb4ae780a4ee625526bda3bf343c191c89e95f786558b8526c9ddbdd0cd9e52",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "kask",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

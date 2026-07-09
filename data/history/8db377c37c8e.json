@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8db377c37c8e",
+    "source_url": "https://raw.githubusercontent.com/wolfwaters/HerrOber2/541cefd4e6e46d7d14a2c36e95221e5efc7fac6a/swagger.yaml",
+    "fetched_at": "2026-07-09T09:31:50.004902+00:00",
+    "content_hash": "aa125c371bae6895f95380de7509774ea4e3aa146b28d61df0781c4f2186489b",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Herr Ober API",
+    "openapi_version": "swagger_2",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

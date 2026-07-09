@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6cdb5fe2c806",
+    "source_url": "https://raw.githubusercontent.com/Kentswindells45/carset-task-api/46609e424e73dcea8827cd91ee9f30091ea5b1ec/swagger.yaml",
+    "fetched_at": "2026-07-09T09:31:39.775262+00:00",
+    "content_hash": "9dcd33a97bc7d6e763f45a05ddd609db8023f35c6a3ff5386b2052ca32883d3a",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "CarSet Task API",
+    "openapi_version": "openapi_3",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

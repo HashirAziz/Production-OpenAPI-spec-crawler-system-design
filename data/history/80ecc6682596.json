@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "80ecc6682596",
+    "source_url": "https://raw.githubusercontent.com/Jwostik/Pipeline/bab1db4f9a2640de45c9c473d5e647996785170c/swagger.yaml",
+    "fetched_at": "2026-07-09T09:31:34.747530+00:00",
+    "content_hash": "8b66395244243f2c6d0fc358ee24132d23dded11f361a3a6e0574dc23345576f",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Pipeline service",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

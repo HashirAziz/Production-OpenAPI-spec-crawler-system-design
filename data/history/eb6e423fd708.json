@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "eb6e423fd708",
+    "source_url": "https://raw.githubusercontent.com/chmenegatti/go-todo-api-03/22171ef35a54a4ef8d600f8ab9177cb70d6e3193/swagger.yaml",
+    "fetched_at": "2026-07-09T09:31:37.754491+00:00",
+    "content_hash": "6e056b717af612653b3967769d3a8fd0bc70f293040292bd901d4cbe65c3dc75",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Todo API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

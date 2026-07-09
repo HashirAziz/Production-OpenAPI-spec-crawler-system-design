@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "071c570f8bbd",
+    "source_url": "https://raw.githubusercontent.com/nebula001/JOBS-API/3aca4db761e2b207cb863b151764382756212702/Swagger.yaml",
+    "fetched_at": "2026-07-09T09:31:41.665358+00:00",
+    "content_hash": "e1fa8d09a4715eb44142bd0ce2106f83deceea24b9674e5b2ab8b8b133655711",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Jobs API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

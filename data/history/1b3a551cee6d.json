@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1b3a551cee6d",
+    "source_url": "https://raw.githubusercontent.com/paarth-sharma/fimoney-IMS/ce3e54e3df15ca07206dc604922d33c0715a2743/swagger.yaml",
+    "fetched_at": "2026-07-09T09:31:38.853435+00:00",
+    "content_hash": "bae89ebcb1bfdb6f25308a89f233982125f64317f7e6647de96e2f84c3a7676e",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Inventory Management System API",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]
