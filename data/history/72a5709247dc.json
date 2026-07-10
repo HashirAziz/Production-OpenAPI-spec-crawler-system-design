@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "72a5709247dc",
+    "source_url": "https://raw.githubusercontent.com/samadh90/chatty-corner-api/5dffe6438166bb3700b32730ee3b5d167525039c/swagger.yaml",
+    "fetched_at": "2026-07-10T09:27:27.908199+00:00",
+    "content_hash": "e0640fcc0fa02a4b87f5a9fdc40162c45423002d7fb38452452835b2148260f1",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Chatty Corner - API 1.0",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

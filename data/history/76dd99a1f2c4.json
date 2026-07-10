@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "76dd99a1f2c4",
+    "source_url": "https://raw.githubusercontent.com/urbanbigdatacentre/WPD-Auth/1a8431dc9ae70450e6c8ec516772a8e32dc69379/swagger.yaml",
+    "fetched_at": "2026-07-10T09:27:44.714966+00:00",
+    "content_hash": "0dd4f45c3db99e9fe51b873fc7dd2b6d95d976369cc41e29bdde03248c8a26e0",
+    "info_version": "1.0.4",
+    "status": "new",
+    "title": "The authenticator for the Waterproofing Data (WPD) Work Packages",
+    "openapi_version": "swagger_2",
+    "paths_count": 15,
+    "path_diff": null
+  }
+]

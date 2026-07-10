@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2780bde268de",
+    "source_url": "https://raw.githubusercontent.com/mizzy/swagger-ui-gae-playground/8a0893ef65a3433b6a12b0ded8c5641ee3ac9fd7/swagger.yaml",
+    "fetched_at": "2026-07-10T09:27:47.104023+00:00",
+    "content_hash": "b03ef8078a83ea9a0242a9aa5af3669eccc4ad8c96edd31bd2be017423b5b1bb",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Swagger Petstore",
+    "openapi_version": "swagger_2",
+    "paths_count": 16,
+    "path_diff": null
+  }
+]

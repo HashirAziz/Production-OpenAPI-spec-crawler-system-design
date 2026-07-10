@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e4d852e28a13",
+    "source_url": "https://raw.githubusercontent.com/merly-ai/merly-mentor/84a53f15f6a1ee616df83ad7e8abba28acb7e6e0/swagger.yaml",
+    "fetched_at": "2026-07-10T09:27:45.885061+00:00",
+    "content_hash": "e05a65ca4c400c5c40bfec315efcc94f33bcbbafe68983b10ce01483d76344bd",
+    "info_version": "0.2.2",
+    "status": "new",
+    "title": "Mentor API",
+    "openapi_version": "openapi_3",
+    "paths_count": 37,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ee4e50a7b099",
+    "source_url": "https://raw.githubusercontent.com/Learning-Hinterland/api-gateway/7478470d57cdb2bcd0d21ee1c52bb05d0ec6b6fb/swagger.yaml",
+    "fetched_at": "2026-07-10T09:27:43.256548+00:00",
+    "content_hash": "7765ba6b272763bf121513db167e3c9d81c3daffe365b0c93d205ea6544c5fdf",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Learning Hinterland",
+    "openapi_version": "openapi_3",
+    "paths_count": 21,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "35366ae48904",
+    "source_url": "https://raw.githubusercontent.com/d-guo/e6998-6_final_project/6925144c1e3685b6483786ad0d658d449757c472/swagger.yaml",
+    "fetched_at": "2026-07-10T09:27:46.166739+00:00",
+    "content_hash": "d8f6d960bd9f1f41893616e603f372dd359a63772234e6692eefb934b6a377dd",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Columbia Coffee Chat API",
+    "openapi_version": "swagger_2",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

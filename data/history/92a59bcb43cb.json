@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "92a59bcb43cb",
+    "source_url": "https://raw.githubusercontent.com/kalivarun/Script-Tools-/75104ef616170d96631834a25551240682a1ba74/swagger.yaml",
+    "fetched_at": "2026-07-10T09:27:32.387919+00:00",
+    "content_hash": "552c888da3fa186852cb1f93a054a58be189e058ee515748b0bd077d75161d90",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Swagger API is compromised by Vatins system",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]
