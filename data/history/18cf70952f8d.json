@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "18cf70952f8d",
+    "source_url": "https://raw.githubusercontent.com/Aiven-Open/klaw/c1049816496d12b51dfd3d266819c71bc700209c/openapi.yaml",
+    "fetched_at": "2026-07-11T07:47:57.284016+00:00",
+    "content_hash": "5133355457d406f8408418b5c1321dbad990573405dee7a07f5c4373ca406d52",
+    "info_version": "2.10.5",
+    "status": "new",
+    "title": "Klaw - OpenAPI",
+    "openapi_version": "openapi_3",
+    "paths_count": 166,
+    "path_diff": null
+  }
+]

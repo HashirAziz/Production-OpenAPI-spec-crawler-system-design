@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "40302ae30efd",
+    "source_url": "https://raw.githubusercontent.com/crazyrokr/tickonomics/f8de1a187aed9f1631159950eb184aaf77fbc283/infra/terraform/environments/gcp/openapi.yaml.tftpl",
+    "fetched_at": "2026-07-11T07:47:43.113671+00:00",
+    "content_hash": "16513b47192fd93e52d059d622ea875f34c235e1d65cf6e43e8da1df73206b10",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Tickonomics Forecast API",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

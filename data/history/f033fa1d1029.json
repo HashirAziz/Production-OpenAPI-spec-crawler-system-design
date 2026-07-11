@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f033fa1d1029",
+    "source_url": "https://raw.githubusercontent.com/gfarias1977/udec-etes-api/1eed5bbf9f7b0dfef901d24d4ce7250490dac9fc/api-docs/v1.swagger.yamlbkp",
+    "fetched_at": "2026-07-11T07:49:08.688297+00:00",
+    "content_hash": "db7851e622dd0c53163464ac450a43acd630417e5881ef86d9af9520f6268674",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API Ediciones Técnicas",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

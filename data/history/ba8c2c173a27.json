@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ba8c2c173a27",
+    "source_url": "https://raw.githubusercontent.com/Commitlabs-Org/Commitlabs-Frontend/28870ace4908c58bf88ecda5d1014bb73c44c9d7/openapi.yaml",
+    "fetched_at": "2026-07-11T07:48:09.858289+00:00",
+    "content_hash": "e87711bd1a680edba9897d2b6b26d6d09d776dc50356952115197236f12b578a",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "CommitLabs API",
+    "openapi_version": "openapi_3",
+    "paths_count": 40,
+    "path_diff": null
+  }
+]

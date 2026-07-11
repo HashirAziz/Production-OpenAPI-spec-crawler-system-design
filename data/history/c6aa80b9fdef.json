@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c6aa80b9fdef",
+    "source_url": "https://raw.githubusercontent.com/Sriikaran/LifeGraph-Fresh/a0227cb03dd1ef6996234f22bd41ef6e29befd85/docs/openapi.yaml.ours",
+    "fetched_at": "2026-07-11T07:47:30.928496+00:00",
+    "content_hash": "f3dfdc0daf651e07309bdcd4f23d8bd5a57985e870f3c25052d9cab0f579ca40",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Amazon LifeGraph API",
+    "openapi_version": "openapi_3",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

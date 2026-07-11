@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f276420c31be",
+    "source_url": "https://raw.githubusercontent.com/fpachecog/aplicar-porcentaje/0d9725639e01c8eaa39271293c79cd836cbc5af7/swagger.yaml",
+    "fetched_at": "2026-07-11T07:49:13.000147+00:00",
+    "content_hash": "470de0e80f0f9504ea67ebe9d5e8637bd413452873433c0544916381650ceedc",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "tenpo-calculo-porcentaje",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

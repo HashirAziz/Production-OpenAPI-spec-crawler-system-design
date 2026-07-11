@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f112d6fb1959",
+    "source_url": "https://raw.githubusercontent.com/muon23/chatbot/e450f8e25920d5d8126f2aab531f328f9d129ea5/swagger.yaml",
+    "fetched_at": "2026-07-11T07:49:12.397426+00:00",
+    "content_hash": "675ef6396536fefab6864ef39162b49afd1642d182df091b255191bab208c851",
+    "info_version": "0.x",
+    "status": "new",
+    "title": "Conversational Chatbot API",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

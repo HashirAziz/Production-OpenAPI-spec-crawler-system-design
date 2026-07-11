@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4dfe2a8691de",
+    "source_url": "https://raw.githubusercontent.com/RevylAI/revyl-cli/c5d4d1b9ef2e44c57b7f2ceed8c42dae95b2321a/openapi.json",
+    "fetched_at": "2026-07-11T07:48:45.360473+00:00",
+    "content_hash": "802190893ac4fe646384462bae6826be4d5d87642baf3ad6ea307a1c051f73ef",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Revyl API",
+    "openapi_version": "openapi_3",
+    "paths_count": 121,
+    "path_diff": null
+  }
+]

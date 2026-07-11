@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b20a816d1f6d",
+    "source_url": "https://raw.githubusercontent.com/MyPureCloud/web-messaging-sdk-java/4b6b7bdd3360dd0e2a1ab2c1551c4d91eac5aebc/swagger.json",
+    "fetched_at": "2026-07-11T07:50:02.554210+00:00",
+    "content_hash": "74057fc872b14a296f36c31ff0c77b8b955efcbfff06dbc8e8ede8dae5686b49",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "shyrka-chat",
+    "openapi_version": "swagger_2",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b64470cf35a5",
+    "source_url": "https://raw.githubusercontent.com/abhiramkolluri/ask-sai-baba/0ad0390ed99e26ac9af71d53cae1fa3e138a739e/backend/infra/openapi.json.prev",
+    "fetched_at": "2026-07-11T07:48:27.456763+00:00",
+    "content_hash": "798691a21017b74537a4248d1cebd01bc04202e2a5f6956607d6d1847268b5b2",
+    "info_version": "2.0.0",
+    "status": "new",
+    "title": "Ask Sai Vidya API",
+    "openapi_version": "openapi_3",
+    "paths_count": 20,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9844602501c5",
+    "source_url": "https://raw.githubusercontent.com/ijohnanthone/Building-a-Node.js-TypeScript-MySQL-Boilerplate-API/4fa3c060ab274d34a5a2d83a34af8a9b9da8ab41/swagger.yaml",
+    "fetched_at": "2026-07-11T07:49:17.588826+00:00",
+    "content_hash": "cf622303167ca26f07861b6af063e0c194109694d7326aea574fedf33def5313",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Node.js Sign-up and Verification API",
+    "openapi_version": "openapi_3",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

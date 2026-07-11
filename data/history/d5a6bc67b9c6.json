@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d5a6bc67b9c6",
+    "source_url": "https://raw.githubusercontent.com/mrifqidaffaaditya/WA-AKG/627a69fc0cc24b2a1e61f67c8c820ee0bc460f0a/swagger.json",
+    "fetched_at": "2026-07-11T07:49:45.911126+00:00",
+    "content_hash": "168433bbdb8b41d0d384bb69b03abe82fdf94cbf856651251f325ba69c10980c",
+    "info_version": "1.2.0",
+    "status": "new",
+    "title": "WA-AKG API Documentation",
+    "openapi_version": "openapi_3",
+    "paths_count": 81,
+    "path_diff": null
+  }
+]

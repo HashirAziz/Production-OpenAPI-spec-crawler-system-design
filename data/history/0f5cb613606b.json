@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0f5cb613606b",
+    "source_url": "https://raw.githubusercontent.com/grssdm/MSL-CoinCapApp/3418c0c35c3547623f4eeadb998bd332624c25af/swagger.yaml",
+    "fetched_at": "2026-07-11T07:49:25.702335+00:00",
+    "content_hash": "68968fe3ca54b9766ee4cfe1f5f77b3918cf0bda7b715e01896a2121d09a037d",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "CoinCap API 2.0",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

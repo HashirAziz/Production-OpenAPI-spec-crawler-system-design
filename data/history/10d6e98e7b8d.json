@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "10d6e98e7b8d",
+    "source_url": "https://raw.githubusercontent.com/192kb/levsha-web/73d755b599225a2e8d1767526a4a7fc9d1f00c96/swagger.yaml",
+    "fetched_at": "2026-07-11T07:49:09.355203+00:00",
+    "content_hash": "45da13e499c9d261550b2b8d53e81ba00408e24095e473065a6c227290315bdd",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Проект LEVSHA",
+    "openapi_version": "openapi_3",
+    "paths_count": 15,
+    "path_diff": null
+  }
+]

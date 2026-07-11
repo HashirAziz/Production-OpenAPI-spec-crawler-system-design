@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "866096e363bf",
+    "source_url": "https://raw.githubusercontent.com/fpem123/GPT2-Friends/74b76e8c3f8b146595e2da88c6652791b7b11ac8/Swagger.yaml",
+    "fetched_at": "2026-07-11T07:49:02.590370+00:00",
+    "content_hash": "d0ce24a22103d27c0d49ba13cb49021bd0efb6cd29190fd7cbd5e17774f6e7f3",
+    "info_version": "v0.1",
+    "status": "new",
+    "title": "GPT2-Friends",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

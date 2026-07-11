@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0838f9ec032e",
+    "source_url": "https://raw.githubusercontent.com/trustedanalytics-ng/tap-template-repository/6bc52fdc64f9b27bccd01976a7b2af10d49f95f0/swagger.yaml",
+    "fetched_at": "2026-07-11T07:49:00.902411+00:00",
+    "content_hash": "bd3751638dba62e3c8772ecd6be9e72c36ece7a9dc164e86baa08d82ec4e05ab",
+    "info_version": "1",
+    "status": "new",
+    "title": "tap-template-repository",
+    "openapi_version": "swagger_2",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

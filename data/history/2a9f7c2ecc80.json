@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2a9f7c2ecc80",
+    "source_url": "https://raw.githubusercontent.com/coder/agentapi/9ff117e231822f670305254ef24f6389f75953f4/openapi.json",
+    "fetched_at": "2026-07-11T07:48:15.431814+00:00",
+    "content_hash": "b33e590af299e50597efddf54e4e9806726472e414141bb17552ee1d87b07a6b",
+    "info_version": "0.12.2",
+    "status": "new",
+    "title": "AgentAPI",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]
