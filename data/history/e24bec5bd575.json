@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e24bec5bd575",
+    "source_url": "https://raw.githubusercontent.com/lates-codrin/microservice-scraper-core/22a0df9c9ed0e66a45d8c2b27bbd4afb6bbfde41/openapi.yaml",
+    "fetched_at": "2026-07-12T08:09:15.777732+00:00",
+    "content_hash": "40e93e12544570ea1715d18eff8b264b5f334c16b4e277a19e817a8e2200ef5a",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Lex-Advisor Scraper Service API",
+    "openapi_version": "openapi_3",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

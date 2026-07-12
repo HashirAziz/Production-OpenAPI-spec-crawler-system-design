@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f8edb47344ad",
+    "source_url": "https://raw.githubusercontent.com/lengfengbyit/kratos-realworld/0e2f170926b2d8060385f0873dd08e1e9bd62e85/openapi.yaml",
+    "fetched_at": "2026-07-12T08:09:17.495137+00:00",
+    "content_hash": "9d4470a4a5ad45a726f7dfcb35b2f28a842eff14b1923dd148b2122955c95cbb",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": null,
+    "openapi_version": "openapi_3",
+    "paths_count": 13,
+    "path_diff": null
+  }
+]

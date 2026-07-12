@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1ff753387c62",
+    "source_url": "https://raw.githubusercontent.com/narainkarthikv/sdlc-practice/fbe335ff586f660de0f6e1b77fab7e66a0499980/terraform/environments/dev/todo-openapi.yaml.tpl",
+    "fetched_at": "2026-07-12T08:09:10.763465+00:00",
+    "content_hash": "960acd1b4948df06138a6be973854ad4e07fe0889f207d7f8d534ec9a9f7aa17",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "todolist-dev-api",
+    "openapi_version": "swagger_2",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

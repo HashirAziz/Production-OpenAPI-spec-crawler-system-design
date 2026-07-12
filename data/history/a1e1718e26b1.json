@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a1e1718e26b1",
+    "source_url": "https://raw.githubusercontent.com/InduwaraSMPN/choreo-sample-book-list-service/02b92c5d476fec6dedf130555071a5c2a0d506bb/openapi.yaml",
+    "fetched_at": "2026-07-12T08:09:17.012060+00:00",
+    "content_hash": "83fa5c6925495229450305fe1d9d1837d509bba504c14a92529f4976e258cee1",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Choreo Sample - Book List - Nodejs REST API Service",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

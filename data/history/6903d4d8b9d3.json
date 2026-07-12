@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6903d4d8b9d3",
+    "source_url": "https://raw.githubusercontent.com/HavierD/serverless-backend-template/61c7cba95b70e29e2a3f2d50000c25324b62441a/openapi.yaml.tpl",
+    "fetched_at": "2026-07-12T08:09:09.226950+00:00",
+    "content_hash": "f665576e4b8032d6f6fcb354059c8b04ee1cb761ed2035393681b5a8e0cdf1e4",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "demo-http-api",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

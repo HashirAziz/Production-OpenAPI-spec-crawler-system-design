@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ce0d22942a65",
+    "source_url": "https://raw.githubusercontent.com/HaseebZub/jest-testing-procur/9b83763a3ab07692c2aa744613326a46bb35bea4/OPENAPI.yaml",
+    "fetched_at": "2026-07-12T08:09:01.046398+00:00",
+    "content_hash": "bb1c623f326c57f31be5af62e7c61eef6637501b260c26f94ad6635255638349",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "ProcureSense AI Backend (discovered)",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

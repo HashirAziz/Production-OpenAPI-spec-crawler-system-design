@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ac304fba86dc",
+    "source_url": "https://raw.githubusercontent.com/mintproject/emulator-manager-api/fc6f62886f8a0ed0427f8f6539ad4f675efe94d0/openapi.yaml",
+    "fetched_at": "2026-07-12T08:09:16.790785+00:00",
+    "content_hash": "aee04db4a6227f09b73b72f03c57106eb9e5fecdb2d891a483997a278b1a19f0",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "emulator-manager",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

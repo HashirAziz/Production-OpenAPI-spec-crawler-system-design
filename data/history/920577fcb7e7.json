@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "920577fcb7e7",
+    "source_url": "https://raw.githubusercontent.com/freddiefujiwara/air-condition-gas/4618573cc45c67a0311e709b60dea57bb877f445/openapi.yaml",
+    "fetched_at": "2026-07-12T08:09:17.209843+00:00",
+    "content_hash": "1d770b6931b0e0af802e6c811f49afa889deffabb5539932bfd666a44af9e71d",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Air Condition Logger API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

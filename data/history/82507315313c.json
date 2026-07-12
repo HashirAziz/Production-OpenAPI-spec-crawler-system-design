@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "82507315313c",
+    "source_url": "https://raw.githubusercontent.com/nextcloud/server/cb86f0a0a53c0fe5b2e12017bb6af2958ec80aef/apps/appstore/openapi.json.license",
+    "fetched_at": "2026-07-12T08:09:22.954026+00:00",
+    "content_hash": "6416ca66ccefe57698b161a4c9be57ea22f7cb947872e946eb8fdf3c69311b12",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "unknown",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

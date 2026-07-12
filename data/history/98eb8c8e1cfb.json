@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "98eb8c8e1cfb",
+    "source_url": "https://raw.githubusercontent.com/Pyfinart/accounter_go/c2eea2d161ceeed748ea0c6c913a631f029816ae/openapi.yaml",
+    "fetched_at": "2026-07-12T08:09:17.700681+00:00",
+    "content_hash": "6cbea3cc9d72a544ab3c90ab1b1828954f3f01bf7a1a000214029787d2cdd578",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": null,
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

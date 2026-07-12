@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "440990eccfc6",
+    "source_url": "https://raw.githubusercontent.com/opper-ai/opper-sdks/1e059e9d5a58d5b773f01ab98aba4d6be5763dc3/openapi.yaml",
+    "fetched_at": "2026-07-12T08:09:13.172035+00:00",
+    "content_hash": "444a13beaa80164c2b5cc8b676c575ab61a58006e9ba8191402f7c83382f5aa6",
+    "info_version": "3.0.0",
+    "status": "new",
+    "title": "Task API",
+    "openapi_version": "openapi_3",
+    "paths_count": 40,
+    "path_diff": null
+  }
+]

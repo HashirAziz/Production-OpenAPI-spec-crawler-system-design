@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ff3c34167e76",
+    "source_url": "https://raw.githubusercontent.com/guacsec/trustify/3eba74d1e5b222d1b9ded372a93d15066b2c4bfe/openapi.yaml",
+    "fetched_at": "2026-07-12T08:09:20.428566+00:00",
+    "content_hash": "3d3ad47d079ac62c1fcf94f6e37f0c65dfe79651d667a3117f46dfd0ef6e2a8d",
+    "info_version": "0.5.0-rc.1",
+    "status": "new",
+    "title": "Trustify",
+    "openapi_version": "openapi_3",
+    "paths_count": 58,
+    "path_diff": null
+  }
+]

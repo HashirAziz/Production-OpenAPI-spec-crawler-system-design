@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a26224e5799d",
+    "source_url": "https://raw.githubusercontent.com/truptipatil0511-CTS/QuakePulse_WebService/5d2a3908d1fd491a34a8d3bc75bea07b137fe04c/swagger.yaml.txt",
+    "fetched_at": "2026-07-12T08:10:03.815366+00:00",
+    "content_hash": "84f02757412877ade326d74357b316447ff5ea8facaf9889e3818da8d558dc25",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "QuakePulse API",
+    "openapi_version": "openapi_3",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]
