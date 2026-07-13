@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "90d38c2eb173",
+    "source_url": "https://raw.githubusercontent.com/LukasParke/pypistats.dev/07f03ceafae3f8a515bec348101f1eff3054a774/openapi.yaml",
+    "fetched_at": "2026-07-13T08:59:35.266210+00:00",
+    "content_hash": "ab68e57377501dc0bc6c5979b8f51f647cb2b92506185d83e4ae381a6ae6a1c0",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "PyPI Stats API",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

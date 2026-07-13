@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "382b7c05ae6f",
+    "source_url": "https://raw.githubusercontent.com/anshumandas/flutter_go/3d23b83d8e038ff3066b259cbbed52edabefc0a5/openapi.yaml",
+    "fetched_at": "2026-07-13T08:59:36.924117+00:00",
+    "content_hash": "91a5c6ba91c932827294889e513b2374eaaab8177ed328cd69256aed688ed7fb",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Generic App",
+    "openapi_version": "openapi_3",
+    "paths_count": 14,
+    "path_diff": null
+  }
+]

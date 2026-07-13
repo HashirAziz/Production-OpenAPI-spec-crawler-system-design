@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "bd7d4ddd51be",
+    "source_url": "https://raw.githubusercontent.com/IgorTakagui/DevWeb/0b32248309341d7c946e6c533afa4614412a2301/swagger.yaml",
+    "fetched_at": "2026-07-13T09:00:47.577449+00:00",
+    "content_hash": "ebadc8e060c5cd2e240584e088842c52aa0c7a5520129e32b4af47d433157de2",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API de Produtos",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ac4e57ba7e80",
+    "source_url": "https://raw.githubusercontent.com/bulutthecat/Computer-Control-ChatGPT-Plugin/6da1553e75c065b7144bff9e6e53d14434f6bd1b/openapi.yaml",
+    "fetched_at": "2026-07-13T08:59:35.508401+00:00",
+    "content_hash": "3678773f138fbaf74470be31a8680f8795e8dd1c7a11cd20e02a1dc585b4862b",
+    "info_version": "v1",
+    "status": "new",
+    "title": "Command Line Interface Plugin",
+    "openapi_version": "openapi_3",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

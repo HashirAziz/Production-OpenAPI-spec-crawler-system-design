@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a2719326f345",
+    "source_url": "https://raw.githubusercontent.com/mattseidel/shiping_backend/dd2750354fe4dbafb1019c7eea4d4cca71a4aa07/swagger.yaml",
+    "fetched_at": "2026-07-13T09:00:40.110275+00:00",
+    "content_hash": "d4c32ba795a4f774ca6d6a4bb080beb6651cb0a15f9f3055c898a318c850830b",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Shipping Management API",
+    "openapi_version": "openapi_3",
+    "paths_count": 14,
+    "path_diff": null
+  }
+]

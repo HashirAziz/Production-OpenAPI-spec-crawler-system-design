@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "956da3c32543",
+    "source_url": "https://raw.githubusercontent.com/huimajose/health-api/7218813b3749b0a5ca6ebaeb83f1773aa9727947/swagger.yaml",
+    "fetched_at": "2026-07-13T09:00:47.342796+00:00",
+    "content_hash": "f084fe6e8aba4d757ac7ed9dc33208c818f8f1652b804f11ad5205408ad1c9c9",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Example Health Analytics Data Service",
+    "openapi_version": "swagger_2",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

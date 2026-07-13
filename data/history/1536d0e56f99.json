@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1536d0e56f99",
+    "source_url": "https://raw.githubusercontent.com/surya20003/corizo/da744fbf1430fb04dbfd4f8abece286dd319e3e3/swagger.yaml",
+    "fetched_at": "2026-07-13T09:00:34.484697+00:00",
+    "content_hash": "8bcbe8861a9f0de4c29b49a733d7b8ea5f200d09ac4755e1a87ac25a02c4076c",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Employee Directory API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

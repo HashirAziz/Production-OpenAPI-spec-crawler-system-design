@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "07270db8d5a5",
+    "source_url": "https://raw.githubusercontent.com/honey-grapes/hw2-photo-album-backend/64d9a7e897c3f1e72d6e7420d862aa41107d91fc/swagger.yaml",
+    "fetched_at": "2026-07-13T09:00:49.336218+00:00",
+    "content_hash": "78bab7a12f11c09bcba8e9c35f3fc82c12975f535b4a080e769b456d6874d5f3",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "AI Photo Search",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

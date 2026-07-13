@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1d056de5b25e",
+    "source_url": "https://raw.githubusercontent.com/FraMan97/kairos-p2p-gateway/7c6ca9aa9df3673b95d66a8d81ca702a1739f389/swagger.yaml",
+    "fetched_at": "2026-07-13T09:00:38.492764+00:00",
+    "content_hash": "79d47760b5609eb47e3bfd16f742f3f3e5afb3ce2b472b63f43af1c834e23c71",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Kairos P2P - Gateway API",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

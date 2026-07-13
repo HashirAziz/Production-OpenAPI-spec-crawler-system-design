@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8a3bce30421b",
+    "source_url": "https://raw.githubusercontent.com/beantownpub/menu-api/f8fe9b39ef742df2e0fe5925c23677303a777e8b/swagger.yaml",
+    "fetched_at": "2026-07-13T09:00:32.714784+00:00",
+    "content_hash": "8151e1e6e7548425075a1a9080e16fcfe5ff6ad1833b4622cd9e3715633c3dd6",
+    "info_version": "0.1.20",
+    "status": "new",
+    "title": "Menu API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

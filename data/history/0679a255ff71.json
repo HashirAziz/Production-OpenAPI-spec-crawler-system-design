@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0679a255ff71",
+    "source_url": "https://raw.githubusercontent.com/Turatov/CurrencyAPIDocs/0788a68937c82f4b79790f40d0d7903005f94582/swagger.yaml",
+    "fetched_at": "2026-07-13T09:00:31.645093+00:00",
+    "content_hash": "8ed10b29c3d92606a60ff0cd75299e8ee778380d8685b68d690384abf1d38bf4",
+    "info_version": "v0.0.1",
+    "status": "new",
+    "title": "Currency rates api",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

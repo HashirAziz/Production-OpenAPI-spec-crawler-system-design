@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "7277c22e6a13",
+    "source_url": "https://raw.githubusercontent.com/Amrit-04/Modex-Assignment/0d626398bf40b4ab93ea20d2f8272032817e5e1a/swagger.yaml",
+    "fetched_at": "2026-07-13T09:00:40.678811+00:00",
+    "content_hash": "2a49e84ce8bc970b139412f420411aab701da04e884efb761a43e42ab5af4437",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "ParkIt API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

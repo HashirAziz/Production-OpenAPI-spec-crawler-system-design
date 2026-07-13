@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "206abb3a3fde",
+    "source_url": "https://raw.githubusercontent.com/dewtech-technologies/dare-method/274c3b22e6bbc95507288470f2f1b204cffde479/packages/cli/templates/stacks/mcp-rust/openapi.json.tera",
+    "fetched_at": "2026-07-13T09:00:10.760232+00:00",
+    "content_hash": "389595c0c1296ff43a403a43a1c01b5676f9e32539f887444cd04cbd1c78d155",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "{{ projectName }}",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

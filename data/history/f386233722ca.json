@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f386233722ca",
+    "source_url": "https://raw.githubusercontent.com/Rezwanul-Haque/Gochat/1856f63371c060545cf41ca036bbc32d052a81a7/swagger.yaml",
+    "fetched_at": "2026-07-13T09:00:27.514910+00:00",
+    "content_hash": "fa1a098b898af7e9c4469b8da9587f4a140b1505d961dd2ac4e85391ea765c77",
+    "info_version": "1.1.0",
+    "status": "new",
+    "title": "GoChat API.",
+    "openapi_version": "swagger_2",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

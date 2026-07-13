@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "71f653b56a2e",
+    "source_url": "https://raw.githubusercontent.com/Aivis-Project/AivisSpeech/77a3675f7b76865cfa0253ac30f41ef1dd822e27/openapi.json",
+    "fetched_at": "2026-07-13T08:59:56.513113+00:00",
+    "content_hash": "1d935a3e31b82b6136a48a80241ba9ba666214b3899e7efaf7616dc064318aa1",
+    "info_version": "latest",
+    "status": "new",
+    "title": "AivisSpeech Engine",
+    "openapi_version": "openapi_3",
+    "paths_count": 44,
+    "path_diff": null
+  }
+]
