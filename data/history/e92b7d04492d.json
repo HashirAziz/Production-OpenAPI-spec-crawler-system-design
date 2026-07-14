@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e92b7d04492d",
+    "source_url": "https://raw.githubusercontent.com/Redocly/website/f2e186135133bc16cd7a1fca43646270a381d4ae/learn/openapi/openapi-visual-reference/openapi.yaml~",
+    "fetched_at": "2026-07-14T07:54:31.632905+00:00",
+    "content_hash": "5cd06c2af6d3fb253d714ea0f2e853c7c93d4926c1b925389f7306cf89301f45",
+    "info_version": null,
+    "status": "new",
+    "title": "Example",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

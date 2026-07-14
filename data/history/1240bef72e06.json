@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1240bef72e06",
+    "source_url": "https://raw.githubusercontent.com/liesai/poc-gcloud-gemini-apim-wif/05c1e1e866f81f253a27b58204d8da47fd59c3b7/terraform-azure-apim/openapi.json.tftpl",
+    "fetched_at": "2026-07-14T07:55:11.242302+00:00",
+    "content_hash": "82104fe6b0a73ea1151ecac5ec5049ce4053355d649dc6582dbe41ae7d69102e",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "${title}",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

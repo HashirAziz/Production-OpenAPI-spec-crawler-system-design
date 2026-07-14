@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8484cce9cf3e",
+    "source_url": "https://raw.githubusercontent.com/Aegis-AI-Organizations/Aegis-AI-Documentation/181d609b07675896b4e076a8e5242507fe0ae09d/openapi.yaml",
+    "fetched_at": "2026-07-14T07:54:47.988966+00:00",
+    "content_hash": "11fc4f0a858d745f9e7f355eb54e14adf22172aba49df5b9969a6cdffa85ba62",
+    "info_version": "3.1.0",
+    "status": "new",
+    "title": "Aegis AI Gateway API",
+    "openapi_version": "openapi_3",
+    "paths_count": 41,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a31f85c8c791",
+    "source_url": "https://raw.githubusercontent.com/QuarkLink/QuankLinkManager/c150d3d3c792736ca512e20e897ad129cad4563f/openapi.yaml",
+    "fetched_at": "2026-07-14T07:54:47.622824+00:00",
+    "content_hash": "b69231d4576f71e5064a60af7e661fb0292f9380e4758b2198d460ee74063ea9",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "短链管理服务",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

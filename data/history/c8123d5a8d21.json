@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c8123d5a8d21",
+    "source_url": "https://raw.githubusercontent.com/Idoiv/hearflow/f72b16cb6fdcd9139d12f7a7ade7fb1ad5382699/openapi.yaml",
+    "fetched_at": "2026-07-14T07:54:46.923975+00:00",
+    "content_hash": "665eb0171b3a861f5433d6b96aa44ef788cc7bb077ce835325f9bdf499751208",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Hearflow Public API",
+    "openapi_version": "openapi_3",
+    "paths_count": 23,
+    "path_diff": null
+  }
+]

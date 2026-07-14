@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e1d0b39e6f0c",
+    "source_url": "https://raw.githubusercontent.com/internetarchive/wiki-references-db/4693ea206554b8ae7335c443797863a89585f692/openapi.yaml",
+    "fetched_at": "2026-07-14T07:54:43.347995+00:00",
+    "content_hash": "25b0c46718b70dd2502dfe17f801cd7e97bccbd17550df54671985f10556cc0a",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Wiki References DB API",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

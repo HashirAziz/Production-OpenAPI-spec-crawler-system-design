@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c7f6a2182a47",
+    "source_url": "https://raw.githubusercontent.com/chetankothawade/cybertouchsecurity/3b13293083f46af586f489a4ec369887a901ba56/docs/api/swagger/swagger.json.bak.1780828080546",
+    "fetched_at": "2026-07-14T07:56:32.259597+00:00",
+    "content_hash": "5f44fa9f2673533842d89f4c06646304fde4daa306aa2a38b69f54763981dbd9",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "PadHai Seekers API Documentation",
+    "openapi_version": "openapi_3",
+    "paths_count": 86,
+    "path_diff": null
+  }
+]

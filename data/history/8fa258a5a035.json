@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8fa258a5a035",
+    "source_url": "https://raw.githubusercontent.com/BetterMoneyLabs/basis-tracker/51d244081ab953f4ae4c5df6925cd8521d0e1f16/openapi.yaml",
+    "fetched_at": "2026-07-14T07:54:46.462216+00:00",
+    "content_hash": "e0a4c234b09dd92e97adb1cb7e278275f8c71013c2d9a7daa64239d4286c1d4e",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Basis Tracker API",
+    "openapi_version": "openapi_3",
+    "paths_count": 14,
+    "path_diff": null
+  }
+]
