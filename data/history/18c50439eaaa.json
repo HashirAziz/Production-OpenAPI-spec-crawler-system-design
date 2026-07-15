@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "18c50439eaaa",
+    "source_url": "https://raw.githubusercontent.com/taimos/cdk-serverless-demo-http/b701abde56d465d7b9cdc881ad8d367b500727a4/openapi.yaml",
+    "fetched_at": "2026-07-15T07:59:35.329345+00:00",
+    "content_hash": "3d8df4f4d15c8f93c61884957b9f221798cb83d420a09cc53be0a0cbe52cd68f",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Serverless Demo",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

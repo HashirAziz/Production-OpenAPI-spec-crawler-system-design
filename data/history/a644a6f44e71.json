@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a644a6f44e71",
+    "source_url": "https://raw.githubusercontent.com/mich163w/DEexam/384d5d1f7a76895d3c19784767585591b2a357ae/swagger.yaml",
+    "fetched_at": "2026-07-15T08:00:59.391574+00:00",
+    "content_hash": "7f63e3d95d49f90b1d3b4af1566207e9fb21a2ac0efdfd5f2385a52d2364e503",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "MEN REST API",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

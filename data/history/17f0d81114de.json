@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "17f0d81114de",
+    "source_url": "https://raw.githubusercontent.com/portaldev/nasa-apod-api-docs/7c609bfdd6e6462028625b789fd288d07870188f/openapi.yaml",
+    "fetched_at": "2026-07-15T07:59:42.538153+00:00",
+    "content_hash": "b718cfe41ff0eb7802b4b90c80a728f241278af09204b2fed3792ca320cbb5b8",
+    "info_version": "v1",
+    "status": "new",
+    "title": "Astronomy Picture of the Day API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

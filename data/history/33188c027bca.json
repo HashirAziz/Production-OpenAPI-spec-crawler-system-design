@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "33188c027bca",
+    "source_url": "https://raw.githubusercontent.com/Thre4dripper/NodeTs-Express-Service-Based-Template/5fded05e45b816b8e4632e284f23da834f68d5a1/swagger.json",
+    "fetched_at": "2026-07-15T08:02:02.919314+00:00",
+    "content_hash": "55281d011184113ba7b0f918ef5515bd21d5d65d3ce3b60b3928fcfc21cf2069",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Node Swagger API",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

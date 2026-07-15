@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d1cad13061fd",
+    "source_url": "https://raw.githubusercontent.com/WorldHealthOrganization/smart-html/2cc25562b2f18e81b77c761adcfe71df50f6d22e/trust/v1.5.0/schemas/StructureDefinition-HCert.openapi.json2",
+    "fetched_at": "2026-07-15T08:00:21.036866+00:00",
+    "content_hash": "986c599fd0046e79d68908590b23cf6f83f60f1dd1b7dd65e721629dc2334ac3",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Health Certificate API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

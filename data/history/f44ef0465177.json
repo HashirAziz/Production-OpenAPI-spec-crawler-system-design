@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f44ef0465177",
+    "source_url": "https://raw.githubusercontent.com/ebigunso/SleepTracker/be17f6073862131520044a17e86cc03df5e9641b/openapi.yaml",
+    "fetched_at": "2026-07-15T07:59:39.319635+00:00",
+    "content_hash": "cf408d1db5bf07a0844e9073563bf4cfdc2e5f79087d1e1f6c88e2c43ff02394",
+    "info_version": "0.1",
+    "status": "new",
+    "title": "Sleep API",
+    "openapi_version": "openapi_3",
+    "paths_count": 19,
+    "path_diff": null
+  }
+]

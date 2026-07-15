@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "dd7ee4665761",
+    "source_url": "https://raw.githubusercontent.com/centria-restful-web-service-course/demo/f278785a9eae002bd07d5c33c9243b41a9696dc7/swagger.yaml",
+    "fetched_at": "2026-07-15T08:01:02.061279+00:00",
+    "content_hash": "0b433bec45e83cd7c7c7b601a8951ac7ac30fec6ba1a521d4040803d540309cb",
+    "info_version": "0.1",
+    "status": "new",
+    "title": "Clinic appointment managment system API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

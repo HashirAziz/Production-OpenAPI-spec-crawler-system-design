@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "27c44830b2f4",
+    "source_url": "https://raw.githubusercontent.com/Meatball-Sub-11/GoRep/442bd380f9a7ebc2f2a35f8bd99f91072b0e0f62/openapi.yaml",
+    "fetched_at": "2026-07-15T07:59:41.644326+00:00",
+    "content_hash": "6efedbb5e5056c4a63d6ae8c9426483d42ae98031055d66ea732ffe5ed777195",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "To-Do List REST API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

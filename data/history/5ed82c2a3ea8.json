@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5ed82c2a3ea8",
+    "source_url": "https://raw.githubusercontent.com/UMMAN2005/SocketChatApp/83655af88ee8c3819fc97b8885a5ed1db5b62a83/swagger.yaml",
+    "fetched_at": "2026-07-15T08:00:56.610296+00:00",
+    "content_hash": "fb42efc6e12b4571882d0f6aa9aad2a5bae12993477e23eeb3313d4a88186698",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "My API",
+    "openapi_version": "swagger_2",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]
