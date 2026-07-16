@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a69000dae232",
+    "source_url": "https://raw.githubusercontent.com/jeyemwey/owncast-with-transcriptions/f4138bfe48f72c295b4b31f02a42395e744f8942/openapi.yaml",
+    "fetched_at": "2026-07-16T08:04:19.056890+00:00",
+    "content_hash": "292017b91109e9e660fd95ebe7579aa32a1762a59b32543f1eb9aa4978c64ff9",
+    "info_version": "0.0.6",
+    "status": "new",
+    "title": "Owncast",
+    "openapi_version": "openapi_3",
+    "paths_count": 46,
+    "path_diff": null
+  }
+]

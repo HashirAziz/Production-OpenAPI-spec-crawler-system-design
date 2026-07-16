@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "88860234699e",
+    "source_url": "https://raw.githubusercontent.com/toahabhuiyan01/FoodBhai-Backend/94a4b45b9f87a8d52309e905a0718a39e90b3ac7/openapi.yaml",
+    "fetched_at": "2026-07-16T08:04:36.254437+00:00",
+    "content_hash": "11098e110c63e980c8507ec90135a639f62f76ca8a96878e2e758586e7def82f",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Food Bhai API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

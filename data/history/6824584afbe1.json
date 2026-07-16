@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6824584afbe1",
+    "source_url": "https://raw.githubusercontent.com/server-craftsman/sdn302-assignment/827f88108b0c54dedb75ec1e4041340b3c2c8f93/swagger.yaml",
+    "fetched_at": "2026-07-16T08:05:46.487590+00:00",
+    "content_hash": "6a15499809b3813bccef19f7b546a101c6c63607fc9d595ad6c5c8af1b61cfa2",
+    "info_version": "2.0.0",
+    "status": "new",
+    "title": "Nguyễn Đan Huy - Phật tử của Chùa Hoằng Pháp Trung Ương, huyện Củ Chi, TP HCM",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

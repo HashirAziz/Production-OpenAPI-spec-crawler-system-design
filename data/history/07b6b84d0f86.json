@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "07b6b84d0f86",
+    "source_url": "https://raw.githubusercontent.com/DzianCPP/phpNativeMVC/282f124d3a4ad8c318d80bc52e34075b19b29993/openapi.yaml",
+    "fetched_at": "2026-07-16T08:04:21.132001+00:00",
+    "content_hash": "4e18fd7de9b1fa03036dd927fbc155f55426419f6332d6c67102aee23a6bbecc",
+    "info_version": "2.0",
+    "status": "new",
+    "title": "gorest API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "273179098381",
+    "source_url": "https://raw.githubusercontent.com/Punter613/skskprotech/8c099304cd60b9fee723d0134fcf40fd766b7d5c/openapi.yaml",
+    "fetched_at": "2026-07-16T08:04:24.878913+00:00",
+    "content_hash": "43162af8cae5fd8f00a02d3aaf1284959c89861b5e7b67ea5f5dacc599888d3f",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "SKSK ProTech API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

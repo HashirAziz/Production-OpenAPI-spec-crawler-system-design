@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "14e04432c254",
+    "source_url": "https://raw.githubusercontent.com/vishaaleeo/swiggy_users_management/4d437de5596b7051c1c0701282f9abd1b8c8dd7a/swagger.yaml",
+    "fetched_at": "2026-07-16T08:06:07.649357+00:00",
+    "content_hash": "30aed6df2f5592d0f1c6f9ed7437d4de74ca9325ef6e939c6bbc08a7d7509723",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "users_management",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "dfe037ec555c",
+    "source_url": "https://raw.githubusercontent.com/qianying-wu/DBMS-Final-Project/bf4431c41cb3cd937655c73d4b050d3000e3c244/openapi.yaml",
+    "fetched_at": "2026-07-16T08:04:37.713331+00:00",
+    "content_hash": "e486fb178def257e993fec9d1280eec1edfb506e8ac95b1a1088b42556b821c8",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "競賽組隊系統 API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

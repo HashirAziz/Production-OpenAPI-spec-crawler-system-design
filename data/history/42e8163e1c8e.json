@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "42e8163e1c8e",
+    "source_url": "https://raw.githubusercontent.com/robipanczel/curly-computing-machine/20cfd43684798742b23595e807d2f80eab1d0ae4/openapi.yaml",
+    "fetched_at": "2026-07-16T08:04:42.792923+00:00",
+    "content_hash": "b786502504064c77cc3fbb50ba221738743f91936abc09c6f8046815fa2ee402",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Curly API",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

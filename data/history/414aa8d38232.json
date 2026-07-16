@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "414aa8d38232",
+    "source_url": "https://raw.githubusercontent.com/gregorlp/worldcup-live-info/f02497b9adc03c2b906de095f43a1b02f14a0100/openapi.yaml",
+    "fetched_at": "2026-07-16T08:04:28.487078+00:00",
+    "content_hash": "927af077710988922fc4175c160a3e75d1804498900a5ed314f8abd824b8e23e",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "World Cup 2026 API (football-data.org facade)",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5cf8eaca9720",
+    "source_url": "https://raw.githubusercontent.com/evrintobing17/expense-management-backend/ec0f3391a11862deaee3a32fdc6d16fef0daee90/openapi.yaml",
+    "fetched_at": "2026-07-16T08:04:27.744060+00:00",
+    "content_hash": "a204e92b1a4a341126059fe4376b9df3b2fd0eb8cc9f319b5e7b1d4ec478b64c",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Expense Management Backend API",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

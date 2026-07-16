@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "badcc4800c96",
+    "source_url": "https://raw.githubusercontent.com/hmecruz/p2p-evaluation-network/04fa8973de60e81e3273ec92fc93834a930d30b3/openapi.yaml",
+    "fetched_at": "2026-07-16T08:04:45.519369+00:00",
+    "content_hash": "a432c713a388a089b8d7f20c8722a3a5b85cb17185e08801a9ce70f985507e0e",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Distributed CD Tester",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

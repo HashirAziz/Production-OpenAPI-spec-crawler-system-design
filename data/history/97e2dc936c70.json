@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "97e2dc936c70",
+    "source_url": "https://raw.githubusercontent.com/alkem-io/wopi-service/7873e7d4acd5ff9eadab64249d4594ee10f8c1e9/openapi.yaml",
+    "fetched_at": "2026-07-16T08:04:40.696319+00:00",
+    "content_hash": "f6b9f3f7657ca229363e8b167193f3bde2bc2daf5fb4366c792782e69ff0db30",
+    "info_version": "1.1.0",
+    "status": "new",
+    "title": "Alkemio WOPI Service",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

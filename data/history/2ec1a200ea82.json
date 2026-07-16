@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2ec1a200ea82",
+    "source_url": "https://raw.githubusercontent.com/vasileermicioi/apigw-cognito/6ebb487bfb43294499ce7a1ee04f28e3f1930cb7/openapi.yaml",
+    "fetched_at": "2026-07-16T08:04:26.273420+00:00",
+    "content_hash": "9760ea7695384084a0722aa3e251ebe01f5feeffa8a0cf6c1fd6f37b4b7a40ca",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "secureApi001-api-20201103a",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "22d89c33ae23",
+    "source_url": "https://raw.githubusercontent.com/ima1256/finance-api/27b3cf99b75f3d739a168f6aaec23e72e97edc36/swagger.yaml",
+    "fetched_at": "2026-07-16T08:05:50.615504+00:00",
+    "content_hash": "281202143bad278af3aa8882920cdfe8d0a4022482ca88e340b7e067a1aedfbb",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Express API with Swagger",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

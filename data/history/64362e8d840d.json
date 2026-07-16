@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "64362e8d840d",
+    "source_url": "https://raw.githubusercontent.com/umermansoor/langchain-typescript-express-starter/17cec231fbf81ab4559d4b4ad1a12594c9a022d8/swagger.yaml",
+    "fetched_at": "2026-07-16T08:06:00.891943+00:00",
+    "content_hash": "fa881336789ed9f19345fe628186dfc46cd3d0e489506ae283fac372afcc402c",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "unknown",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

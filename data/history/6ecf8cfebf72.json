@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6ecf8cfebf72",
+    "source_url": "https://raw.githubusercontent.com/jhgrzybowski/local_printer_api/ac228931acf7daa153027354875d37dbd8be42e5/openapi.yaml",
+    "fetched_at": "2026-07-16T08:04:32.056181+00:00",
+    "content_hash": "03dfca71696fe4322ae872888e16b7fc115bd135f80973f05082aa49f30d4800",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "Local Printer API",
+    "openapi_version": "openapi_3",
+    "paths_count": 17,
+    "path_diff": null
+  }
+]

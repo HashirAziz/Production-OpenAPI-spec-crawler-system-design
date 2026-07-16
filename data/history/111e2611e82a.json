@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "111e2611e82a",
+    "source_url": "https://raw.githubusercontent.com/brunoaquino/springEstudos/1c18e176c88628035481c129282c6bbf4e9a885c/swagger.yaml",
+    "fetched_at": "2026-07-16T08:06:05.697069+00:00",
+    "content_hash": "159d131b2030a8d12cf5ca14fcc8459e2f9849afdcc4337e2f1451adf833ec36",
+    "info_version": "1.0.7",
+    "status": "new",
+    "title": "Swagger Petstore",
+    "openapi_version": "swagger_2",
+    "paths_count": 14,
+    "path_diff": null
+  }
+]

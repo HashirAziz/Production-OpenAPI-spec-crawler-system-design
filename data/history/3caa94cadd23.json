@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3caa94cadd23",
+    "source_url": "https://raw.githubusercontent.com/Andrew2121212f/sportfix/591aa6ebdcd7b6067b08022295d68f6eab68f024/openapi.yaml",
+    "fetched_at": "2026-07-16T08:04:34.244502+00:00",
+    "content_hash": "d0f807e39c02bf0d92f57bd7552f9d02558f6690317a1520d913730fa2597e41",
+    "info_version": "1.13",
+    "status": "new",
+    "title": "Marketing API",
+    "openapi_version": "openapi_3",
+    "paths_count": 38,
+    "path_diff": null
+  }
+]

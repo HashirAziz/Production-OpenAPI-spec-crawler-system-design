@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2bede8db561d",
+    "source_url": "https://raw.githubusercontent.com/jocall3/Apps/d4432dbe5fb34106f988a04febabaef8f16a93f0/The%20Sovereign's%20Ledger_2/openapi.yaml.txt",
+    "fetched_at": "2026-07-16T08:04:20.332927+00:00",
+    "content_hash": "9a41c1f10adad57e2e0f8fea7c7ca948d7fbf3dbd6f1fe91114bcf5ca4422387",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Demo Bank API: The Quantum Core",
+    "openapi_version": "openapi_3",
+    "paths_count": 14,
+    "path_diff": null
+  }
+]

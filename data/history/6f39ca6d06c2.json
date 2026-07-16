@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6f39ca6d06c2",
+    "source_url": "https://raw.githubusercontent.com/dave-sh/ip-clip-send/bc355b7a1da24c6f6da2a426c737951477a7bad0/openapi.yaml",
+    "fetched_at": "2026-07-16T08:04:22.338935+00:00",
+    "content_hash": "26384cac7c28fb0b79588e171f547811a86af889a03d9e5acc449ac460e9fa2a",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "IP Reputation - OpenAPI 3.0",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

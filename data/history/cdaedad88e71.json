@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "cdaedad88e71",
+    "source_url": "https://raw.githubusercontent.com/andrejsmattos/opinia/3ab42d60902a460d725d723f9d8e78b37ed95e74/openapi.yaml",
+    "fetched_at": "2026-07-16T08:04:46.181465+00:00",
+    "content_hash": "a784ad3d08ce399e346f607ca39159b72fbc42514af5bfcba2bc2b65e79ad9a7",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "Opinia API – MVP",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

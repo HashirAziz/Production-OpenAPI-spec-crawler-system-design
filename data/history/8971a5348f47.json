@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8971a5348f47",
+    "source_url": "https://raw.githubusercontent.com/adham-younes/osiris-gpt-backend/289667dcf8dff5cc743982a6e16c65882057c196/openapi.yaml",
+    "fetched_at": "2026-07-16T08:04:34.711463+00:00",
+    "content_hash": "403fe229d3e8b4d716cded45cbd2e1c66e1655c97307fa58724dfe8774caa754",
+    "info_version": "1.1.0",
+    "status": "new",
+    "title": "OSIRIS GPT Backend",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

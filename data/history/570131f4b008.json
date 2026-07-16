@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "570131f4b008",
+    "source_url": "https://raw.githubusercontent.com/KrisXVII/session_bloom_api/38ce4a5c79531096d9883b1afeeb6ec9166fca9a/swagger.yaml",
+    "fetched_at": "2026-07-16T08:05:54.629075+00:00",
+    "content_hash": "e9865dc49ce122adb392f281291838dab1ba984073b07d22a2c5740193801659",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "SessionBloom API",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

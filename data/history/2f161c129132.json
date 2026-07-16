@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2f161c129132",
+    "source_url": "https://raw.githubusercontent.com/demchukv/rental-campers-api/2af8aa5c021d98c35af682f7641257971d4a3a16/openapi.yaml",
+    "fetched_at": "2026-07-16T08:04:44.797364+00:00",
+    "content_hash": "1cf842bc61d8d51367528f8949540ca64ed10ca64246622f2736028d97d5bb40",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Rental campers - OpenAPI 3.0",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

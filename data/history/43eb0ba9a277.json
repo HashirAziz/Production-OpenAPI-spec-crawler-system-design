@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "43eb0ba9a277",
+    "source_url": "https://raw.githubusercontent.com/Prabhatsingh001/URL.ly/b978d9d6daf150f79279882cb05aaf1fe2898017/openapi.yaml",
+    "fetched_at": "2026-07-16T08:04:28.131491+00:00",
+    "content_hash": "d8bae5b9c3dc92da1fa66100616ebefb2605e5f73258c6aca977d59a7c68c0b0",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "URL.ly API",
+    "openapi_version": "openapi_3",
+    "paths_count": 18,
+    "path_diff": null
+  }
+]

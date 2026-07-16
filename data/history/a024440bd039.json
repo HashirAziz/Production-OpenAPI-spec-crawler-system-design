@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a024440bd039",
+    "source_url": "https://raw.githubusercontent.com/JFSvensson/NjordBreeze-WindEdition/46ed9e0beeb3756f72b996968bbce54934d9b467/openapi.yaml",
+    "fetched_at": "2026-07-16T08:04:21.961616+00:00",
+    "content_hash": "6950ef08bb0f0f0534e4cbbae9e1db2b73302e3e4094c53679398133ee591078",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "NjordBreeze Wind Edition API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

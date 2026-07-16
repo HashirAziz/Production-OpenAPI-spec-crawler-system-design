@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8834091cbb27",
+    "source_url": "https://raw.githubusercontent.com/GQAdonis/supabase-management-api-server/e64b8974306a6b4592b1d1d30ea24277f317900b/openapi.yaml",
+    "fetched_at": "2026-07-16T08:04:39.265201+00:00",
+    "content_hash": "ea4c952b538785a9ca46702ed9ee23e581d9a9876f74ef8afdd6b64353cb360a",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Supabase API (v1)",
+    "openapi_version": "openapi_3",
+    "paths_count": 52,
+    "path_diff": null
+  }
+]

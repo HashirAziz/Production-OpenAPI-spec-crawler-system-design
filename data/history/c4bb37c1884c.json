@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c4bb37c1884c",
+    "source_url": "https://raw.githubusercontent.com/RemseyMailjard/capstone3-starter/3da2e27b11041d9278e748d4ccd15c7b364d6c59/openapi.yaml",
+    "fetched_at": "2026-07-16T08:04:32.408155+00:00",
+    "content_hash": "490726a05c85df25a137ffb6e53ba00bbcaa2dc1c448940898bcec881701ec61",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Capstone API",
+    "openapi_version": "openapi_3",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

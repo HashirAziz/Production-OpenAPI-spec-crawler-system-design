@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a7dd7e9a659b",
+    "source_url": "https://raw.githubusercontent.com/wsmontes/concierge-api/4be52f35a1087430ff6e4405d9c6fc99a5baac37/openapi.yaml",
+    "fetched_at": "2026-07-16T08:04:22.733726+00:00",
+    "content_hash": "090900628cc9cf8b9aa7f16c81d1049b4c1b7ff1af6a2739fcb1738bb684107c",
+    "info_version": "3.0.0",
+    "status": "new",
+    "title": "Concierge API",
+    "openapi_version": "openapi_3",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

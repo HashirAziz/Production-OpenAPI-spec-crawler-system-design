@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f11980d51d78",
+    "source_url": "https://raw.githubusercontent.com/richvfreak/DiscordEye/dcf13275e36497039c31ff695330eef44e546d45/swagger.yaml",
+    "fetched_at": "2026-07-16T08:05:46.140023+00:00",
+    "content_hash": "4234bfe855dd613a1ca26bcf8922ecb2df77e4bc971dd63187e01ac4e16b12ac",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Simple Lanyard API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

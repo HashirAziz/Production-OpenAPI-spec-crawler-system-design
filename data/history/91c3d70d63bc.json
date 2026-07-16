@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "91c3d70d63bc",
+    "source_url": "https://raw.githubusercontent.com/Jason-19/Fargate-Flask/b938726bc05694973e768ee88f0b43056553a3d1/openapi.yaml",
+    "fetched_at": "2026-07-16T08:04:45.866354+00:00",
+    "content_hash": "f9862d71c69e7ffb74683606ba7df91979e58bad190c28025a81505dfd6e4cdd",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Gamer Vault LTS",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

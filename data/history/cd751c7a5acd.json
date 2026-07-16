@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "cd751c7a5acd",
+    "source_url": "https://raw.githubusercontent.com/cr1m5onk1ng/bowling_game_app/78009e6d62f147754054cf2d5afc1df7ecf4f84d/openapi.yaml",
+    "fetched_at": "2026-07-16T08:04:43.454633+00:00",
+    "content_hash": "a8cf2fe6d04b0883276c40b6ab8efe10b3fbc8c81cdb8f1aba6fbbfd52abf2b5",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Bowling Match Tracker API",
+    "openapi_version": "openapi_3",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

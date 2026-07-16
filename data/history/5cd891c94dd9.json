@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5cd891c94dd9",
+    "source_url": "https://raw.githubusercontent.com/45Saurabh45/basics/e3bb205264a50c498bdb9f75cc8b50c10814d60a/openapi.yaml",
+    "fetched_at": "2026-07-16T08:04:25.921237+00:00",
+    "content_hash": "eb3db1244e5606119462a97561c850993307dd46defb26b11987b5be4c2499e7",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Email and Calendar API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

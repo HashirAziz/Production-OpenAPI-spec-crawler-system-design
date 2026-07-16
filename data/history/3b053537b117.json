@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3b053537b117",
+    "source_url": "https://raw.githubusercontent.com/Snehitha2706/EmailCamp/b3c4182f5e4863ddaa7c565331499e6145a5083a/openapi.yaml",
+    "fetched_at": "2026-07-16T08:04:35.065014+00:00",
+    "content_hash": "4e6d530b3b1092632f9c528576f3a4dc8cc3da4d028c3cacfc476e55ab91a1c2",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "EmailCamp Platform API",
+    "openapi_version": "openapi_3",
+    "paths_count": 19,
+    "path_diff": null
+  }
+]

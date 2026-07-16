@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4ea06e48490a",
+    "source_url": "https://raw.githubusercontent.com/guppy0356/Lahan/b3cbc9a678c74f1c54f62a5f84da9b0f7368c7d2/openapi.yaml",
+    "fetched_at": "2026-07-16T08:04:38.364371+00:00",
+    "content_hash": "48879751d07015d5f504128243afcc47b1e985b6c97a5ad81e4e4e25a5fdcd83",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "JSONPlaceholder API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

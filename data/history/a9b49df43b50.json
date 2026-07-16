@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a9b49df43b50",
+    "source_url": "https://raw.githubusercontent.com/abhi3691/autoapi_test_nest/1062b7f1828b6b9c0a582673c043b55a38796374/openapi.yaml",
+    "fetched_at": "2026-07-16T08:04:31.138470+00:00",
+    "content_hash": "cb8c8cb8c560ee1cc7fa714343452bae2bcc47966227f170f66cf901450a718a",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Generated API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

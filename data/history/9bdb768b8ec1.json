@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9bdb768b8ec1",
+    "source_url": "https://raw.githubusercontent.com/ryanpsouzaa/cronos-up/4c84ef0318b557e54986f9486e29af48a6d47550/swagger.yaml",
+    "fetched_at": "2026-07-16T08:05:53.918719+00:00",
+    "content_hash": "8e1cae39b1892183d9c584944f004177031a45e408c0b125625323d35e19239c",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Cronos AI API",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]
