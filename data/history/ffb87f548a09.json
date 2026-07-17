@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ffb87f548a09",
+    "source_url": "https://raw.githubusercontent.com/julion2/durian/57529744cef9108c129e62824bc79724fa84f0a4/openapi.yaml",
+    "fetched_at": "2026-07-17T08:01:34.786781+00:00",
+    "content_hash": "46a2d4e8009234d8be927bb618724a94bdac94770dcb8893ac65e84dfd6ec8ce",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Durian API",
+    "openapi_version": "openapi_3",
+    "paths_count": 17,
+    "path_diff": null
+  }
+]

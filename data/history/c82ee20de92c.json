@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c82ee20de92c",
+    "source_url": "https://raw.githubusercontent.com/vipriga06/UXIA_server/37ea68def5644defd205443eedea878b521e4ede/swagger.yaml",
+    "fetched_at": "2026-07-17T08:02:58.538943+00:00",
+    "content_hash": "11575534deb402c446a30bf31bba55884ca0ae202ab58c37bb60236548fb2376",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "UXIA SERVER",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

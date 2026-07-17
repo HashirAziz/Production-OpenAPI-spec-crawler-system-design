@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "594b52896cbc",
+    "source_url": "https://raw.githubusercontent.com/palomma-tech/docs-palomma-api/44a873a91e51499edb4c566869633cbe987597c8/openapi.yaml",
+    "fetched_at": "2026-07-17T08:01:40.553255+00:00",
+    "content_hash": "1ccb5e11c48da5381a497420047fd93f9031c3cdfd86f4e42d372d32c6ac9a26",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Palomma Rentals API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

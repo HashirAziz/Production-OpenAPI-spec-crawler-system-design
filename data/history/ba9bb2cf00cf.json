@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ba9bb2cf00cf",
+    "source_url": "https://raw.githubusercontent.com/MuhammadArslanKhan96/NextV-backend/be522157ab08a20cb64d848e4c3ef3522af20e30/swagger.yaml",
+    "fetched_at": "2026-07-17T08:03:04.848925+00:00",
+    "content_hash": "0b87e5d94af20eb93844df98a0824d9e2ab0d9f1bfd0a41e52e3ce70bf3f284d",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "unknown",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

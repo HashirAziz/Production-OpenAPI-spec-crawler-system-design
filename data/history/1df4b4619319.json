@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1df4b4619319",
+    "source_url": "https://raw.githubusercontent.com/shima10-x1p/microservice_template/44df15ffaaeee6d9f6dd4c9ccb38b9fc2093bd5f/openapi.yaml",
+    "fetched_at": "2026-07-17T08:01:53.975512+00:00",
+    "content_hash": "43e8f40c9d334991c7d75dba049e9991cb1f6ff172d2be918b47e18ca45391b6",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "ToDo App API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

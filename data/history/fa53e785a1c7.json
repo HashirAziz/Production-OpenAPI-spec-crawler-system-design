@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "fa53e785a1c7",
+    "source_url": "https://raw.githubusercontent.com/Alexsys-solutions/Echnage-CNRA-MENPS/d111c91f61b1e2ac7422358f25dedd8b1bc664d2/swagger.yaml",
+    "fetched_at": "2026-07-17T08:02:58.019391+00:00",
+    "content_hash": "cbb3a452e98e447dedbbacce6ae82e815ad2ca67659a8f09ff472b20f7ddc5a3",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Student Beneficiary Service API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

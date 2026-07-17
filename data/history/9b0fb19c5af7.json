@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9b0fb19c5af7",
+    "source_url": "https://raw.githubusercontent.com/gopika452/gopika-dev/186bd7ac87e396a6280f427f12c7e824c03cd882/swagger.yaml",
+    "fetched_at": "2026-07-17T08:02:56.621579+00:00",
+    "content_hash": "fab5f41e5b5be001e472a2378b4f44ea5687b1b7d700485e0ccf5386c890fac4",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Document Chatbot API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

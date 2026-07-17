@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4bb12babec99",
+    "source_url": "https://raw.githubusercontent.com/ff08435/ESD_Assignment2_FatimaFaisal/fd8d10e40e15c87b205ea9b958389e008ad9a705/openapi.yaml",
+    "fetched_at": "2026-07-17T08:01:48.654209+00:00",
+    "content_hash": "a5df8d09ed7f6e3d47d9b572a5072e0e20c6f002dc0595dd5846dfdc11950635",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "OpenWeather Proxy API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "72bfd202c3da",
+    "source_url": "https://raw.githubusercontent.com/soenneker/soenneker.spotify.openapiclient/c1c58b55ec8b0ef05937580426b72b602662193b/openapi.yaml",
+    "fetched_at": "2026-07-17T08:01:35.499226+00:00",
+    "content_hash": "2d888d731358ae8a97126ffd4117d257305943f06721734abe9af24962bf38c3",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Spotify Web API",
+    "openapi_version": "openapi_3",
+    "paths_count": 70,
+    "path_diff": null
+  }
+]

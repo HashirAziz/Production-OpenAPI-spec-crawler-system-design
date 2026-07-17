@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "267d257af3bb",
+    "source_url": "https://raw.githubusercontent.com/le-du6/backend-hsm-pkcs11/1ca891c8c4c18bb02b31abfec7bf8e7ad5db525f/openapi.yaml",
+    "fetched_at": "2026-07-17T08:01:50.919749+00:00",
+    "content_hash": "7497727c7e3e1c8738a14ca9614e195cf272b248e089543de7aa193d8cbf0200",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "HSM PKCS#11 API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

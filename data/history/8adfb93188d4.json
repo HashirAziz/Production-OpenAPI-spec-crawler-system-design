@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8adfb93188d4",
+    "source_url": "https://raw.githubusercontent.com/dota2-beta/ssu-bench/a3a3feab0be3d04b27b0bfea42453862298cd65b/openapi.yaml",
+    "fetched_at": "2026-07-17T08:01:44.785963+00:00",
+    "content_hash": "5ee2992c1935c3d42b6eaf45c3589e83c7a468fec133d55400871da6a84badbe",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "SsuBench API",
+    "openapi_version": "openapi_3",
+    "paths_count": 13,
+    "path_diff": null
+  }
+]

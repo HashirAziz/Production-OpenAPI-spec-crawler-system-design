@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6fd774a1f8bb",
+    "source_url": "https://raw.githubusercontent.com/WorldHealthOrganization/smart-html/2cc25562b2f18e81b77c761adcfe71df50f6d22e/trust/schemas/StructureDefinition-COSEHeader.openapi.json2",
+    "fetched_at": "2026-07-17T08:02:20.985673+00:00",
+    "content_hash": "47d6bdcff59bc78bb0aae658ae8bee3fe98fa10361d62c9218bfd231761c8d9b",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "COSE Headers (DRAFT) API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

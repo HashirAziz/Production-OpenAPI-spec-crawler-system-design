@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "096b5c853c45",
+    "source_url": "https://raw.githubusercontent.com/lstochlak/spring_microservices_sandbox/59a2409841b65b04bc586f9c60a785d74771dec3/openapi.yaml",
+    "fetched_at": "2026-07-17T08:01:48.929397+00:00",
+    "content_hash": "65889d5991364d711ef0afd3ad7ee265e3127017ebf6fb1078dc876b83002a4b",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "spring_microservices_sandbox API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

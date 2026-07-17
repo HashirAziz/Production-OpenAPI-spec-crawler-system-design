@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ee0456329a49",
+    "source_url": "https://raw.githubusercontent.com/romi-ari/Challenge-06/1ded94f798f79d24b39f37ef6a0406be08fbbdac/openapi.yaml",
+    "fetched_at": "2026-07-17T08:01:43.676218+00:00",
+    "content_hash": "c80414b9d39397dba6377830a93c0fb369071df5d6147bd29bb3c1aa956eaba7",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Binar Academy Post API",
+    "openapi_version": "openapi_3",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

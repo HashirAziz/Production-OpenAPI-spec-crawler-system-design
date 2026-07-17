@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "acb2dfdd659d",
+    "source_url": "https://raw.githubusercontent.com/ston3/ageteller/cd2704b2d9f5095bc7cf816211abdbaea722b41a/swagger.yaml",
+    "fetched_at": "2026-07-17T08:03:05.680133+00:00",
+    "content_hash": "94495e5aa1d8f4db1828d13003d1315a90575aade115ba8d16d9400873c13da3",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "AOMS-PSI Eligibility API",
+    "openapi_version": "swagger_2",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

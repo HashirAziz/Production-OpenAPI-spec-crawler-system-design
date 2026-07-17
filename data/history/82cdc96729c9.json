@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "82cdc96729c9",
+    "source_url": "https://raw.githubusercontent.com/mauriciosoares/api-test/533b3b5512c7ac7ced23e93ec4f5201cf76de092/swagger.yaml",
+    "fetched_at": "2026-07-17T08:02:54.398543+00:00",
+    "content_hash": "e75b33f3a82ea6074d194fd9ec6a74a37e3f95d35ab404d20ad7b303af4abcf5",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "TODO API Testing Playground",
+    "openapi_version": "openapi_3",
+    "paths_count": 14,
+    "path_diff": null
+  }
+]

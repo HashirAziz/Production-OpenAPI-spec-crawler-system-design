@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c36dcea44c54",
+    "source_url": "https://raw.githubusercontent.com/yinchanted/gpi-prevalidation-connector-sdk/1af1a3d91e0b4b08b25c464658c977afed614d85/swagger.yaml",
+    "fetched_at": "2026-07-17T08:02:59.126682+00:00",
+    "content_hash": "a0e4824d20307772e8235c44fc807fc61ae484ffa205ebae2fc7540043af3eaf",
+    "info_version": "1.0.10",
+    "status": "new",
+    "title": "Beneficiary account pre-validation",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

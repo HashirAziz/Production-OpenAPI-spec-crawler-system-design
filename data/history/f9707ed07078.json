@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f9707ed07078",
+    "source_url": "https://raw.githubusercontent.com/gbrogio/integra-mais-python/79ab40e50478c26b89bd1f17dcbe09c5f0d83c8a/swagger.yaml",
+    "fetched_at": "2026-07-17T08:02:56.928499+00:00",
+    "content_hash": "1fe823ce30a5db7ccae957cddb4e4f48d0a9d261284328fea919530554d5c9bb",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Integra Mais API",
+    "openapi_version": "openapi_3",
+    "paths_count": 14,
+    "path_diff": null
+  }
+]

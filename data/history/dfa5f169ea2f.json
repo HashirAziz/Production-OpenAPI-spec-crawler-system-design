@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "dfa5f169ea2f",
+    "source_url": "https://raw.githubusercontent.com/albedo121/ExpressAuth/7b73ca6579222bd955ed075f1c2002103da3bbad/swagger.yaml",
+    "fetched_at": "2026-07-17T08:02:56.380762+00:00",
+    "content_hash": "956c5436d35f4a704dbde608041e35258388815926bbfd87c816f460e699724b",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "ExpressAuth API.",
+    "openapi_version": "openapi_3",
+    "paths_count": 15,
+    "path_diff": null
+  }
+]

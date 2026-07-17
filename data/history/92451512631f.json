@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "92451512631f",
+    "source_url": "https://raw.githubusercontent.com/hashemmuhammad/mediaslide-app/e92deb919900f286e59cd89e380e10f982bebcc1/openapi.yaml",
+    "fetched_at": "2026-07-17T08:01:49.756367+00:00",
+    "content_hash": "6a6b4f5dcff0e2e111c30bd2fe9e9ebd706afce624d23c568f0d3f223ba098e9",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Mediaslide API",
+    "openapi_version": "openapi_3",
+    "paths_count": 16,
+    "path_diff": null
+  }
+]

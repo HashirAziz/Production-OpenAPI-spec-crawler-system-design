@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5908a7f2991b",
+    "source_url": "https://raw.githubusercontent.com/JarenGarman/tea_subscription_api_docs/2399dba89bba41313752ce0bd8b1881bfbb74a12/swagger.yaml",
+    "fetched_at": "2026-07-17T08:02:48.693679+00:00",
+    "content_hash": "e0ec237cd41cc902239e17e4830abfb410503b69bdd0668bfdec868fe98c2b84",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Tea Subscription",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

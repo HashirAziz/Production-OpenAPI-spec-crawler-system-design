@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "51ba0e50fa6d",
+    "source_url": "https://raw.githubusercontent.com/triptease/docs/2e1da034d92f68d02908de2a60f5f4d267b1cb20/swagger.yaml",
+    "fetched_at": "2026-07-17T08:03:05.946402+00:00",
+    "content_hash": "75d754e0bb7cef1059b2f23367603abbdac638d7e8790b8cf80a5295fc1b862a",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Triptease API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

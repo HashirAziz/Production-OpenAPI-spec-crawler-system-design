@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0089c3e5caaa",
+    "source_url": "https://raw.githubusercontent.com/Kaua-Silva-Eshows/api_html_to_img/27fd4356872a8d2858f565795bc3e1d72d8aec55/openapi.yaml",
+    "fetched_at": "2026-07-17T08:01:42.472531+00:00",
+    "content_hash": "c6e1440a3a3041866beb2c1a89c89520b11dd4d0f38f5bed9e2ced541c53168e",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "HTML → XLS API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

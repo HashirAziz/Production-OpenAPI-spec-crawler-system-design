@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "68636085bc30",
+    "source_url": "https://raw.githubusercontent.com/aivillage/aicl-devkit/d2029fd3aca074e18d15175d502124e0afc47454/openapi.yaml",
+    "fetched_at": "2026-07-17T08:01:49.438075+00:00",
+    "content_hash": "04435315fd208c00f96ae2a94a84cb4ac7a6c5a750b98c3295ba399046fda130",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "Moderator Service API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

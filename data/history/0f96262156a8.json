@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0f96262156a8",
+    "source_url": "https://raw.githubusercontent.com/rancher-sandbox/rancher-ai-llm-mock/743e4caf7a482ed24eba943187fd9dab13ed7280/openapi.yaml",
+    "fetched_at": "2026-07-17T08:01:40.828893+00:00",
+    "content_hash": "eac6b28a88d24864f3b66027a3ac64defc65e1add46f0729f7b77ed9de064b37",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "LLM Mock Service",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

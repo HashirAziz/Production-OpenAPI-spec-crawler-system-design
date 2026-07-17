@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f9a69e79147d",
+    "source_url": "https://raw.githubusercontent.com/seandavi/ols-mcp-server/4f22ed75ac271abfb0527ad53119c555d4809bf1/openapi.json",
+    "fetched_at": "2026-07-17T08:02:32.288090+00:00",
+    "content_hash": "7379438a95385b7df328b57b9dd971fc02e72772c8643d2b056c78c54ff332f6",
+    "info_version": "3.0",
+    "status": "new",
+    "title": "OLS Service",
+    "openapi_version": "openapi_3",
+    "paths_count": 85,
+    "path_diff": null
+  }
+]

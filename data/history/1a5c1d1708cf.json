@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1a5c1d1708cf",
+    "source_url": "https://raw.githubusercontent.com/leonardoxr/hytale-api/073e46d1abdafe714971f734a6e3303d7d7469ae/openapi.yaml",
+    "fetched_at": "2026-07-17T08:01:31.858734+00:00",
+    "content_hash": "a9074a32ea482274f856f458d4c19a5033ccf872d916f8de251346ba4f506f0c",
+    "info_version": "2.0.0",
+    "status": "new",
+    "title": "Hytale Server API",
+    "openapi_version": "openapi_3",
+    "paths_count": 40,
+    "path_diff": null
+  }
+]

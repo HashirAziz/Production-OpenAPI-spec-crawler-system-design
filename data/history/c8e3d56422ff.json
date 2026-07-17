@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c8e3d56422ff",
+    "source_url": "https://raw.githubusercontent.com/pierotorres-dev/appointment-service-ue1/b3dc7d5038d1d80a748d14e62f6d58178d65b7c7/openapi.yaml",
+    "fetched_at": "2026-07-17T08:01:45.979894+00:00",
+    "content_hash": "c3d834540bbbac9a4c1cf653e2543469404bbbaef54498743139bbf68ec31895",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Appointment Service API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

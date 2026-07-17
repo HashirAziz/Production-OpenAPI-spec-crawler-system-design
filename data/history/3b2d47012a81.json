@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3b2d47012a81",
+    "source_url": "https://raw.githubusercontent.com/t-huyeng/datenplattform-darmstadt-api/37b3456f6702d8b15a132c3f11268a17df947d4f/openapi.yaml",
+    "fetched_at": "2026-07-17T08:01:43.118949+00:00",
+    "content_hash": "74de8088bf94a06d6d782f570396d19bd033154caabb4a7c0d3606c16fc01373",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Datenplattform Darmstadt API",
+    "openapi_version": "openapi_3",
+    "paths_count": 19,
+    "path_diff": null
+  }
+]

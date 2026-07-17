@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b6591d1d5370",
+    "source_url": "https://raw.githubusercontent.com/adam0white/TriggersAPI/44068a639329b21382b1aca1781c21f51f0a2c40/openapi.yaml",
+    "fetched_at": "2026-07-17T08:01:41.112526+00:00",
+    "content_hash": "5f527214c3f5b7474e8112cb8d96590629a1e494f03c5c2f1fff6d5dfa875ece",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "TriggersAPI",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

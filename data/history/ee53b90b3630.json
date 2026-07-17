@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ee53b90b3630",
+    "source_url": "https://raw.githubusercontent.com/AlexInABox/zeitvertreib-website/6a71af997589c6dd09e017d59ed34215bb3bfa06/backend/src/openapi.json.renewed",
+    "fetched_at": "2026-07-17T08:02:18.661845+00:00",
+    "content_hash": "4b6563a771a3cef4ce1251ce6274d1d9df1b92b3434033eff92c4dc56e799008",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Zeitvertreib API",
+    "openapi_version": "openapi_3",
+    "paths_count": 32,
+    "path_diff": null
+  }
+]
