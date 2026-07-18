@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "998fecc2040d",
+    "source_url": "https://raw.githubusercontent.com/StacLabs/multi-tenant-catalogs/27e801913e1ece6a4ce9b9200d8dae1cbc6d8d80/openapi.yaml",
+    "fetched_at": "2026-07-18T07:41:42.106335+00:00",
+    "content_hash": "7dbd7d7577880fadbcb877ecad1da10c5e6084336c5f452f8f23cc699f67604c",
+    "info_version": "1.0.0-rc.2",
+    "status": "new",
+    "title": "STAC API Multi-Tenant Catalogs Endpoint Extension",
+    "openapi_version": "openapi_3",
+    "paths_count": 13,
+    "path_diff": null
+  }
+]

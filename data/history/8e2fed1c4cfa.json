@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8e2fed1c4cfa",
+    "source_url": "https://raw.githubusercontent.com/WieserJulian/Klang/75272c93e1f4061f45b9bb472298c8ceeeac2fa0/openapi.yaml",
+    "fetched_at": "2026-07-18T07:41:47.260554+00:00",
+    "content_hash": "b48b00ac1e8b55d2fcf64e9f8e1999456d6abad7c1e204a3f18a1fb07ff2de37",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Music Server",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d4beeac9a91f",
+    "source_url": "https://raw.githubusercontent.com/klaus139/elevate-app-fintech-test/1c2edd7efc15a07d77895b5906fb88f501df0c4d/swagger.yaml",
+    "fetched_at": "2026-07-18T07:42:52.612423+00:00",
+    "content_hash": "4fac495988485ddb0214578fcb33133293d4a4677801260435a2014ce53b5244",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Budget API",
+    "openapi_version": "swagger_2",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

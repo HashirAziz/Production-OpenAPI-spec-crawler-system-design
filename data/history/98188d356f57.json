@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "98188d356f57",
+    "source_url": "https://raw.githubusercontent.com/MehediHasan4321/blog-api/a57a9bcd29efbeeaecf11db778056d7e7efb6bd3/swagger.yaml",
+    "fetched_at": "2026-07-18T07:42:52.056466+00:00",
+    "content_hash": "80fefcf3d433983c213c0c3de9bca0d310dc62d9d4c4e7c320ecf1da27c9d5f2",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "My Blog API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

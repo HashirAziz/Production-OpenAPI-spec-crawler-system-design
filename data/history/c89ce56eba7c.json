@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "c89ce56eba7c",
+    "source_url": "https://raw.githubusercontent.com/Ojonugwacodes/genderize/69f308d9a142a94b19be9f34508730cba754e312/swagger.yaml",
+    "fetched_at": "2026-07-18T07:42:50.261863+00:00",
+    "content_hash": "308143241b628015abf859ddcacc3e4ba5916bc4fbae999143353bc008438c2e",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Gender Classify API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

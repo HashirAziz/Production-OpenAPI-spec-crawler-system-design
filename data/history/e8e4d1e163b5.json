@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e8e4d1e163b5",
+    "source_url": "https://raw.githubusercontent.com/buildo/metarpheus-swagger/b1a60b49897ec378b3120d0b1b0fc1eb8c853ce0/swagger.yaml",
+    "fetched_at": "2026-07-18T07:43:04.988966+00:00",
+    "content_hash": "9147120c8faa899e6a69efa0396c5859d110906d509a94b170bd8c273dd57b88",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "metarpheus-swagger",
+    "openapi_version": "swagger_2",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

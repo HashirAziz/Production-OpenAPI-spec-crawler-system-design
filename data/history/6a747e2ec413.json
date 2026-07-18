@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6a747e2ec413",
+    "source_url": "https://raw.githubusercontent.com/miguelgarcia/example-shop-py/0af3d652ebf2428f3b1504268376c935a78af01b/openapi.yaml",
+    "fetched_at": "2026-07-18T07:41:34.547477+00:00",
+    "content_hash": "d9156775dc6a198bf27a08d52441d4110785bc8e76213d3c1920d0774d5f5d50",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "example-shop-py REST API",
+    "openapi_version": "openapi_3",
+    "paths_count": 15,
+    "path_diff": null
+  }
+]

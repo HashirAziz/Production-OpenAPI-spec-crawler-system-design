@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "31915255754b",
+    "source_url": "https://raw.githubusercontent.com/makeev/alphai-postman/97ed722598a3647a578426ee362922afd39849d8/openapi.yaml",
+    "fetched_at": "2026-07-18T07:41:40.594264+00:00",
+    "content_hash": "aca5b9e7894ae6c9a834be5a61e86d63db5143cfa3edfd06a73fad2955bc6510",
+    "info_version": "1.10.0",
+    "status": "new",
+    "title": "alphai REST API",
+    "openapi_version": "openapi_3",
+    "paths_count": 12,
+    "path_diff": null
+  }
+]

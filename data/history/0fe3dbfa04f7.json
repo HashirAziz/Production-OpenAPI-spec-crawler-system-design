@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0fe3dbfa04f7",
+    "source_url": "https://raw.githubusercontent.com/uzziel1/temp-jobs-api/e1f4d4f96d3783f2c355b6dc1518d85cf5f13709/swagger.yaml",
+    "fetched_at": "2026-07-18T07:42:48.728036+00:00",
+    "content_hash": "58b952b22b3b44f27ab74e72905b3419b783d63bc4fa1cdb8b155772d047d749",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Jobs-API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "598aa653efef",
+    "source_url": "https://raw.githubusercontent.com/Crunchymon/NeuralPagedAttention/2f7fbbafbd08cefaaaac4322a0dbe21cfa270889/openapi.yaml",
+    "fetched_at": "2026-07-18T07:41:47.859094+00:00",
+    "content_hash": "dbe9c2ad249813dcc25d7f93ad9b943f90a68f6c82eda6f161cb4d19dd5e1f75",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "Neural PagedAttention Backend API",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

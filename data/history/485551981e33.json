@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "485551981e33",
+    "source_url": "https://raw.githubusercontent.com/yasirsd88/code-review/9ec223c53927f1ece35275b70ff3657142ce1465/openapi.yaml",
+    "fetched_at": "2026-07-18T07:41:51.771461+00:00",
+    "content_hash": "5d44691170393ea749c81881d87e448dc8d7b88eaae2ccef974d5c94db0a5935",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Messages API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

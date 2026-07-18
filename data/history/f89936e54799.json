@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f89936e54799",
+    "source_url": "https://raw.githubusercontent.com/eliona-smart-building-assistant/ews-app/e7fa1b19759e025c2f67b282731c72858272f998/openapi.yaml",
+    "fetched_at": "2026-07-18T07:41:39.852629+00:00",
+    "content_hash": "6d2e73d13fef6bfb1420b5822b79050eba89a8f62dbca0b3e9086772ca0f20d5",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "EWS app API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

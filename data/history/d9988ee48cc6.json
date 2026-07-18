@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d9988ee48cc6",
+    "source_url": "https://raw.githubusercontent.com/consistorioAI/RAG_Asistente/fe0db17adc516e77bc8e4b02a52103d1a0beff03/openapi.yaml",
+    "fetched_at": "2026-07-18T07:41:48.489738+00:00",
+    "content_hash": "b636043e14252c4382d8d898ecc661730b819911d9cc706ab1fd10f9449b24dc",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "RAG Legal API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

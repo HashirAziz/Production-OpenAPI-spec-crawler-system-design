@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2c705ab8645e",
+    "source_url": "https://raw.githubusercontent.com/Kerembehlul/OpenAPI-Library-Project/db98be585a35d0a030a504ac2cffd10d58d5dc50/openapi.yaml",
+    "fetched_at": "2026-07-18T07:41:46.129743+00:00",
+    "content_hash": "4802d1f53d3f70f68d534d52c46b3c9c59c8aa8888299f7fdcb1804770ef8f98",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Online Kütüphane API",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

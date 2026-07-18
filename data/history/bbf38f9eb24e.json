@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "bbf38f9eb24e",
+    "source_url": "https://raw.githubusercontent.com/LuisETC98/TodoCamisetas_backend/70cfe958beab0c7976f333946b59f16663a18c30/OpenApi.json",
+    "fetched_at": "2026-07-18T07:42:21.376201+00:00",
+    "content_hash": "8fcc5cbe23b86f2040546be6a7c7d5700b47d32b8b89b62ec466ef48ebfb4100",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "TodoCamisetas API B2B",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

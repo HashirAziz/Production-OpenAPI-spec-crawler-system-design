@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "792ec1b700f6",
+    "source_url": "https://raw.githubusercontent.com/theCalcaholic/nextcloud-secrets/341a2815db79cb4ee0050e2dfc9b48a7c831f0bc/openapi.json",
+    "fetched_at": "2026-07-18T07:42:27.557955+00:00",
+    "content_hash": "619efcad432ef26a2d3de92b60f79d42800b2ea1e7238a35dec53b57bc444113",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "secrets",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

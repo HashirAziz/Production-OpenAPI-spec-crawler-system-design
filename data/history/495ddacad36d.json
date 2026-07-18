@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "495ddacad36d",
+    "source_url": "https://raw.githubusercontent.com/abe-jin/kasutama/4e44d545585dee53e4487de70e779118a07a2097/openapi.yaml",
+    "fetched_at": "2026-07-18T07:41:45.481511+00:00",
+    "content_hash": "751014e53734b232a59d940a147f4fdaa474d7d0f15b4a98213311bc199add81",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Customer Support FAQ API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

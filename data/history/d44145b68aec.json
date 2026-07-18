@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d44145b68aec",
+    "source_url": "https://raw.githubusercontent.com/X-om/smart-energy-grid/328c24a2234c2fa544be617f0b13d7b3efc8addd/openapi.yaml",
+    "fetched_at": "2026-07-18T07:41:40.247387+00:00",
+    "content_hash": "6641697ec21c5e953fb9d0a303920e281185c3e6cc66e11c3adcdd8cf37a4828",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Smart Energy Grid API",
+    "openapi_version": "openapi_3",
+    "paths_count": 40,
+    "path_diff": null
+  }
+]

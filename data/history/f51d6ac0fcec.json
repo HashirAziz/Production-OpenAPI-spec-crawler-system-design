@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f51d6ac0fcec",
+    "source_url": "https://raw.githubusercontent.com/AhmedMahmoudEG/ProdFlow-App/121df3adee07202995e4ea4571ebe3518eb75d83/swagger.yaml",
+    "fetched_at": "2026-07-18T07:42:45.601307+00:00",
+    "content_hash": "9585cdc655e6ed404a1e91200433ef26947b867d44bf4cc5fa5ebf8c703d43de",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "ProdFlow API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

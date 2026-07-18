@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "78a710871c87",
+    "source_url": "https://raw.githubusercontent.com/raylin666/go-micro-protoc/38e95a6d451722aa68dd43a441c7000cf5294f8f/openapi.yaml",
+    "fetched_at": "2026-07-18T07:41:44.142504+00:00",
+    "content_hash": "6793985244f06538252282facfaf327f111eeb954302ea719a96b1aaea62a921",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "Article API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

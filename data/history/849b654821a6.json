@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "849b654821a6",
+    "source_url": "https://raw.githubusercontent.com/bartlbalazs/daskalo/24d7a0775a24ee8f77a4afb0ab0812e3b0bc488c/infra/openapi.yaml.tpl",
+    "fetched_at": "2026-07-18T07:41:42.385887+00:00",
+    "content_hash": "60841bdf2656e276e6553d47b2d7bbf452fae4ea599799491a6175fe217045b2",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Daskalo API",
+    "openapi_version": "swagger_2",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

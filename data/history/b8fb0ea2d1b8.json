@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b8fb0ea2d1b8",
+    "source_url": "https://raw.githubusercontent.com/gabrielsb18/PI-BackEnd-IESB/b92507ff165fdba09aa64f533963251d640de70a/swagger.yaml",
+    "fetched_at": "2026-07-18T07:42:48.165400+00:00",
+    "content_hash": "4068a5336edc5a452a16fcb389959cb878859a7d33bfd50887aae70743279d27",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "API Notes",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

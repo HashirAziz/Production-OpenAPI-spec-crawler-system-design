@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b6d402274e7a",
+    "source_url": "https://raw.githubusercontent.com/dev-crisgon/backend-tp-hexagonal/8f1dbb16a3cbe16f79c6afb34de463fdfb0d8e36/openapi.yaml",
+    "fetched_at": "2026-07-18T07:41:47.570153+00:00",
+    "content_hash": "afd1e14e9c5c051ae897a3b3dbc6ad5ad2c6571785d741ba571071d087e1f82f",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API Hexagonal - Users, Courses & Notes",
+    "openapi_version": "openapi_3",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

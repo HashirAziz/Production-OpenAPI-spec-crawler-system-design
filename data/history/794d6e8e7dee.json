@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "794d6e8e7dee",
+    "source_url": "https://raw.githubusercontent.com/yoshinorisano/chatgpt-simple-todo-plugin/b37064b231d5830f9e022f6e6e82c6be1b48ba8c/openapi.yaml",
+    "fetched_at": "2026-07-18T07:41:34.915591+00:00",
+    "content_hash": "a8d0cdd0696d61a3645000a7e7ebcff99127dc15630078ef24be4da4a7410979",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Simple TODO API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

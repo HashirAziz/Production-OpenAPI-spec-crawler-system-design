@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "79b64173360d",
+    "source_url": "https://raw.githubusercontent.com/gyles/learn-serverless/1724a1313dd19577ed0a32addc8f306f9a621a45/openapi.yaml",
+    "fetched_at": "2026-07-18T07:41:41.140894+00:00",
+    "content_hash": "b241d17326392f48ca734a5e37ef437a5232dea71031d5e51b8d3c73bb8fe293",
+    "info_version": "1",
+    "status": "new",
+    "title": "Audit API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

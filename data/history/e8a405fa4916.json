@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e8a405fa4916",
+    "source_url": "https://raw.githubusercontent.com/formancehq/gateway/d99593eb2705093e25686ed7711f9f9089390770/openapi.yaml",
+    "fetched_at": "2026-07-18T07:41:36.338024+00:00",
+    "content_hash": "6310fd9fd3d3b5893e4381bbceb0cdc91dd67d74bb83d601301b91529b465e36",
+    "info_version": "latest",
+    "status": "new",
+    "title": "Gateway API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

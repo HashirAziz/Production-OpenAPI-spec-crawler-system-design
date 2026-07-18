@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "32f8c33d624d",
+    "source_url": "https://raw.githubusercontent.com/pagopa/pagopa-infra/475cd13848608d26c8a8a6fc90931d0f36b2854c/src/domains/aca-app/api/aca/v1/_openapi.json.tpl",
+    "fetched_at": "2026-07-18T07:42:07.012568+00:00",
+    "content_hash": "86374e8a6515d00c64e2601a6e237466d97671c29f063aed56246680f8b32ca2",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "Pagopa ACA",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

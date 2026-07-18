@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8a6fb62a64b4",
+    "source_url": "https://raw.githubusercontent.com/hezbymuhammad/golang-marvel-demo/82d08636f5abff3fb26960dbdafc402b4e0ee458/swagger.yaml",
+    "fetched_at": "2026-07-18T07:42:52.339554+00:00",
+    "content_hash": "e142e755e53179a6215153e307aa4b11c519dd25d0670ad4e24de63954adac43",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

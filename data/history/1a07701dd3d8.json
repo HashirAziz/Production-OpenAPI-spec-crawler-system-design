@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1a07701dd3d8",
+    "source_url": "https://raw.githubusercontent.com/vmediavi/RoutePilot/a8b30e5bcf36d93e6214f47f127853e666e9eca6/swagger.yaml",
+    "fetched_at": "2026-07-18T07:42:49.990730+00:00",
+    "content_hash": "8545353d503addf9aeea41f31063bf39b9571f56096f8ece2b057d3c0bafc289",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "RoutePilot API",
+    "openapi_version": "openapi_3",
+    "paths_count": 31,
+    "path_diff": null
+  }
+]

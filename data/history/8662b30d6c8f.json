@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8662b30d6c8f",
+    "source_url": "https://raw.githubusercontent.com/krish-rRay23/OfflinePay/31bc07b13515a8f1e9fc77260ec008052807fce2/openapi.yaml",
+    "fetched_at": "2026-07-18T07:41:49.425968+00:00",
+    "content_hash": "6bde8b9b4f8384ead8636e95dac171237db359e5d0e2761dc9521dd27fc03aff",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "OfflinePay API",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]
