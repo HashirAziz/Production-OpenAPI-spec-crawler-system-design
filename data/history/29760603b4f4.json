@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "29760603b4f4",
+    "source_url": "https://raw.githubusercontent.com/ysrastogi/SpecScout-TheDocLessAPIAgent/219271b793b0a8afc634d60f8cc29e650d995add/openapi.yaml",
+    "fetched_at": "2026-07-19T08:08:49.521262+00:00",
+    "content_hash": "76bd3d8c541964dd73309c1b11e3c63bb39100c848859d0cac4e65a0a4dfc373",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "GitHub REST API (Reverse Engineered)",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

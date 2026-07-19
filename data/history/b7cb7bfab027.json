@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b7cb7bfab027",
+    "source_url": "https://raw.githubusercontent.com/daniel0321forever/terriyaki-go/14d3e9b0cd1f11b26ee6734645ad0c1c4799ca4e/openapi.yaml",
+    "fetched_at": "2026-07-19T08:08:45.577123+00:00",
+    "content_hash": "81f6a452fcbc4a1eaa8579648ecbb8903b3daf9e4bf48ce3a6246fe75eca3f87",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Habitat Platform API",
+    "openapi_version": "openapi_3",
+    "paths_count": 38,
+    "path_diff": null
+  }
+]

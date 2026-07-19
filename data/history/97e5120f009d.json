@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "97e5120f009d",
+    "source_url": "https://raw.githubusercontent.com/DeiC-HPC/DST-API/336e2c9501157e98b9956626a55511728d1853ec/swagger.json",
+    "fetched_at": "2026-07-19T08:11:54.826993+00:00",
+    "content_hash": "14545606c4f2d86ce06dbd705459988af53c02e01522d7b5f95f6c00b7127d6e",
+    "info_version": "v1",
+    "status": "new",
+    "title": "Danish Data Portal - HPC API",
+    "openapi_version": "openapi_3",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

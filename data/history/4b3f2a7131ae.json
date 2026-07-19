@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4b3f2a7131ae",
+    "source_url": "https://raw.githubusercontent.com/Soncha19/pyproject/9df2fdf96e15d756d5f36686b2f2ec4e68a25458/openapi.yaml",
+    "fetched_at": "2026-07-19T08:08:56.405881+00:00",
+    "content_hash": "506cd06402f9e4a9ef04e7d409d23405f4efa4ab8330ec281ac9311ee29942cf",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Advertisement Service",
+    "openapi_version": "openapi_3",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

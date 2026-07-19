@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b2a681b67e4d",
+    "source_url": "https://raw.githubusercontent.com/FeisalDy/silan-nest-angular/81eca826cd42f722759ea400bc9ce04f00d068af/openapi.yaml",
+    "fetched_at": "2026-07-19T08:09:19.990095+00:00",
+    "content_hash": "7e7d85b83251f1565ca69c129b24c119de3ecc45916139cdddc7cffe9631ca64",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "API Documentation",
+    "openapi_version": "openapi_3",
+    "paths_count": 13,
+    "path_diff": null
+  }
+]

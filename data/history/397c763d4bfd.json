@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "397c763d4bfd",
+    "source_url": "https://raw.githubusercontent.com/Bjarmah/RESTAPI_Assignment/5e0eb91860e62e10d043f8d5a8342f05441b2f88/openapi.yaml",
+    "fetched_at": "2026-07-19T08:09:17.578164+00:00",
+    "content_hash": "2ac4b95002da5ddf13ad66e8bdfbde9dd65a2ca44fbc643a6b082e3cd7260a75",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "User and Product Management API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

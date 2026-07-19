@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6c8e3ca0e351",
+    "source_url": "https://raw.githubusercontent.com/BackendDevLearning/SoulChat/0d06519570bba309d366173bf647eed893bbc2b2/openapi.yaml",
+    "fetched_at": "2026-07-19T08:08:48.545851+00:00",
+    "content_hash": "a3d62ad7255c3a0ce83c995f87f4717e21220be676ab02abe341e5d0d1d6827f",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "Conduit API",
+    "openapi_version": "openapi_3",
+    "paths_count": 10,
+    "path_diff": null
+  }
+]

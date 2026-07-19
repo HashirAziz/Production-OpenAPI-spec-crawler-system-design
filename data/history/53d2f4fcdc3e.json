@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "53d2f4fcdc3e",
+    "source_url": "https://raw.githubusercontent.com/nextcloud/groupfolders/6405ae3e2418c9ae61e3361df92d94bee34aab00/openapi.json",
+    "fetched_at": "2026-07-19T08:09:59.694454+00:00",
+    "content_hash": "34b89f2a74510f016c1155a1fa0b2827c62916f308f39df928bd35215e45e3c7",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "groupfolders",
+    "openapi_version": "openapi_3",
+    "paths_count": 13,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "71271c02fc7f",
+    "source_url": "https://raw.githubusercontent.com/MatiasCabrera97/Ejercicio/5585ad3c48c92ab36eb835e971b6950ce091d63f/openapi.yaml",
+    "fetched_at": "2026-07-19T08:09:10.357109+00:00",
+    "content_hash": "27c65a89c50c61467a4cbf727c1691bdc3846e3c3be948197bee5c013ae32238",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Usuarios API",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

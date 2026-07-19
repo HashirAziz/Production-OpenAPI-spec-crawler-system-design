@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4804a1168333",
+    "source_url": "https://raw.githubusercontent.com/hugomcruz/carris-ui-backend/3ba70fb18e8d4e48f8ef12c9dc8ff820b65761e7/openapi.yaml",
+    "fetched_at": "2026-07-19T08:08:58.389903+00:00",
+    "content_hash": "6c85ffc80ceda36460e3d40f4b21161264e518f4d50f67a4a361f6bf91876ee1",
+    "info_version": "2.0.0",
+    "status": "new",
+    "title": "Carris Backend API",
+    "openapi_version": "openapi_3",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

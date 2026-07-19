@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a88bdd6f3d6b",
+    "source_url": "https://raw.githubusercontent.com/ScottyLabs/cmumaps-rust/0037cb4d6bcdd14ce1aa17d678534a63e4828ec3/openapi.yaml",
+    "fetched_at": "2026-07-19T08:09:06.892143+00:00",
+    "content_hash": "7b9a8804dccab38653489900f2d6425a47a3f3749d4c0bf3f810376eb7b1fccf",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "CMUMaps pathfinding and search apis",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

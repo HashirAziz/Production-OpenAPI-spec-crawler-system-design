@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f0ce01f28434",
+    "source_url": "https://raw.githubusercontent.com/p-mcmillan/movies-api/5318c0bb49da34a9ab5939c30a58c1616f076c7a/openapi.yaml",
+    "fetched_at": "2026-07-19T08:08:59.805971+00:00",
+    "content_hash": "f871d3a4d3ab7edb44367db31c8b0048c502c0ab613fb97aefa5d729345bc08f",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Movies API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

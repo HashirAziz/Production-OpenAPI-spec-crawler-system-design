@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "299085b080d6",
+    "source_url": "https://raw.githubusercontent.com/rswebdev/zoom-webhook-serviceware/4cd890d3c2bdd626a43bbceeae758f96d185778f/openapi.yaml",
+    "fetched_at": "2026-07-19T08:08:56.875622+00:00",
+    "content_hash": "3544a240ff498d0cc727bf61b1d687e49718827e1312c36a80fa9b7fc7bf9022",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Zoom Webhook Serviceware API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "531de3c48c1d",
+    "source_url": "https://raw.githubusercontent.com/PerylothPersonalProyects/agenda-react-AI/28ba60ae26d912f24c4a6104ad4681fbd8b38f86/openapi.yaml",
+    "fetched_at": "2026-07-19T08:08:57.408406+00:00",
+    "content_hash": "fd0a6d2ad2ccfa2550762cd67a840c3ca478f003abc6e7c20d99d081fff85fee",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Agenda API",
+    "openapi_version": "openapi_3",
+    "paths_count": 45,
+    "path_diff": null
+  }
+]

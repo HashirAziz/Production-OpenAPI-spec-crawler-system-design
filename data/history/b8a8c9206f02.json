@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b8a8c9206f02",
+    "source_url": "https://raw.githubusercontent.com/menakaj/hr-employee/6a47a639d76231c5a568341db17eb83239a0b72e/openapi.yaml",
+    "fetched_at": "2026-07-19T08:08:58.862994+00:00",
+    "content_hash": "687bf36b8149ead1a9150b7718dfcba57ee7101250480827f055e3914dd93a8e",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "Employee V1",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

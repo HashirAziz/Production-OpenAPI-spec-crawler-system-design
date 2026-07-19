@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "07d622b7eccc",
+    "source_url": "https://raw.githubusercontent.com/komilovsg/cloth-ai/fccb8cf8f41b3bc366560c331e41d67121bada58/openapi.yaml",
+    "fetched_at": "2026-07-19T08:09:19.004626+00:00",
+    "content_hash": "850b3b2c155c3d4a398c3e04ab92849efbda23ff7182f701694e6f86ba70bec5",
+    "info_version": "0.0.0",
+    "status": "new",
+    "title": "CLOTH.AI API (Draft)",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

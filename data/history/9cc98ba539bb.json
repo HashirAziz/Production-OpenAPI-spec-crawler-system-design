@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9cc98ba539bb",
+    "source_url": "https://raw.githubusercontent.com/nkinder123/review-server/2770505e1d1ed1b38f972c9c2f0354ca3691d91c/openapi.yaml",
+    "fetched_at": "2026-07-19T08:08:48.028755+00:00",
+    "content_hash": "0e57cef8b493ee3bc33294cd5037d155203ca745d75de4d6b0941aae70dea769",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": null,
+    "openapi_version": "openapi_3",
+    "paths_count": 13,
+    "path_diff": null
+  }
+]

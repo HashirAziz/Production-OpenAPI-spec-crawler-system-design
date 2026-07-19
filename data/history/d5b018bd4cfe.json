@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d5b018bd4cfe",
+    "source_url": "https://raw.githubusercontent.com/shariksait/smart-pr-reviewer/9ef663a98c5d6b2bf14d69b8d6ec218c5b99a006/openapi.yaml",
+    "fetched_at": "2026-07-19T08:09:06.437170+00:00",
+    "content_hash": "033193eb04be1f2c3b3539c39bfc0f300b8db7f7d09b0b9fb697f498a699dcd2",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Sample User API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]
