@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "950d7621f80d",
+    "source_url": "https://raw.githubusercontent.com/aboubakr15/kali-files/28789571a9ee111356a21d7b459b6fac64df10f4/BugBounty/spaceX/url_analysis/js_files/swagger.json.1",
+    "fetched_at": "2026-07-20T08:51:53.864932+00:00",
+    "content_hash": "6ef284af9e799ed127e91c1e67af7760a4477ea8a462e849e8f044b73ce27a70",
+    "info_version": "2",
+    "status": "new",
+    "title": "Starlink Enterprise API",
+    "openapi_version": "openapi_3",
+    "paths_count": 41,
+    "path_diff": null
+  }
+]

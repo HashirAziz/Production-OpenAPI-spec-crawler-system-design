@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "cec379ec9fa4",
+    "source_url": "https://raw.githubusercontent.com/NationalLibraryOfNorway/bikube/4ec5ff79ea1d7b275a80e4bbb12e657a26c4238c/openapi.json",
+    "fetched_at": "2026-07-20T08:50:46.976253+00:00",
+    "content_hash": "0774251a152b09c514616bc995ed8f53bd35dd86f7ba41267ecc83133edcc323",
+    "info_version": "0.0.1-SNAPSHOT",
+    "status": "new",
+    "title": "Bikube - API for kommuniksjon med tekstkataloger",
+    "openapi_version": "openapi_3",
+    "paths_count": 24,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5777f4fe897e",
+    "source_url": "https://raw.githubusercontent.com/rafkiyuda/SinarDigital_BE_MiniProject2_MuhammadRafkiYudawijaya_3/c2db779456ca933d98e59d633410c9779feb7ea4/swagger.yaml",
+    "fetched_at": "2026-07-20T08:51:14.161192+00:00",
+    "content_hash": "dade66ff500ba09b9791dee8752f698ddbd4f21be4a2c30738877da2c68ded07",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Mini Project 2 API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

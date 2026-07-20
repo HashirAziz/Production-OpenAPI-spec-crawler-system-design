@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "46fd0b684e52",
+    "source_url": "https://raw.githubusercontent.com/vicorandy/transcribe-app-be/716365a2c132dcc007e8507c42c7dc8139690ca3/swagger.yaml",
+    "fetched_at": "2026-07-20T08:51:15.178636+00:00",
+    "content_hash": "f956d505ef2b8e583a12bb27e7f80c696cc05f5fb896ebea440ce33af2b3dd14",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Project - Name",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

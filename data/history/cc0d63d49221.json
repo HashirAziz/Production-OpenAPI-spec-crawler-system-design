@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "cc0d63d49221",
+    "source_url": "https://raw.githubusercontent.com/blnkfinance/blnk-docs/d129b9cc9247ce16fbb3a6317736b0f10d1395b8/openapi.json",
+    "fetched_at": "2026-07-20T08:50:47.516350+00:00",
+    "content_hash": "89c179d4b57ec593fef31d0457594c065a4fca6f3d1317e44f04b15821290d38",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Blnk",
+    "openapi_version": "openapi_3",
+    "paths_count": 15,
+    "path_diff": null
+  }
+]

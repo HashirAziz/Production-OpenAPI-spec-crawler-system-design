@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "7c6cc08a74a5",
+    "source_url": "https://raw.githubusercontent.com/podko-va/CTD_fin_project/c60efaaa43b60f8a84ddf7e6772ed5284bcdc500/swagger.yaml",
+    "fetched_at": "2026-07-20T08:51:16.807069+00:00",
+    "content_hash": "a27928d742d308e5de5f219fe64cb9ef52efa01ad2859a12d51778dbf5eafd45",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Appointments API",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

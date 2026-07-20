@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1c9f52187291",
+    "source_url": "https://raw.githubusercontent.com/Shanmukhcr7/Automation-bhubharati-EC/86cf45af36a05c0716d30f3048eff5f5a99fecc4/swagger.yaml",
+    "fetched_at": "2026-07-20T08:51:18.337935+00:00",
+    "content_hash": "71d5ff2e00dbbe4f72ca716a617c06641136e60dcb14ea48bad377d2bf825cc7",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Telangana Bhu Bharati EC Automation API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "f99f5e0e5a07",
+    "source_url": "https://raw.githubusercontent.com/phonxvzf/agado/50f74d01fcaae11744a0b71736398df54aafc120/swagger.yaml",
+    "fetched_at": "2026-07-20T08:51:06.044577+00:00",
+    "content_hash": "2dad58599f5c154e043e3a5416cf50d0c7050aab4c6ca18a449e56531f72bc9f",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Agado API",
+    "openapi_version": "swagger_2",
+    "paths_count": 14,
+    "path_diff": null
+  }
+]
