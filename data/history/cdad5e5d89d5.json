@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "cdad5e5d89d5",
+    "source_url": "https://raw.githubusercontent.com/HazemSarhan/learning-management-system-api/0ae202e1661f0bdddf7130a36c2941742f6587d4/swagger.yaml",
+    "fetched_at": "2026-07-21T08:20:24.211482+00:00",
+    "content_hash": "1c1699ea21d94b08d39ee9cc9c92aa44bf7e5c2a3826dd471956f14ea3248468",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Learning Management System",
+    "openapi_version": "openapi_3",
+    "paths_count": 31,
+    "path_diff": null
+  }
+]

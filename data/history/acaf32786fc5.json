@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "acaf32786fc5",
+    "source_url": "https://raw.githubusercontent.com/RafaelAlvesDS/XIV-Market-Board-Notifications-Discord-Bot/5b44775407c23d761db05fe2d5f2611921f80741/swagger.yaml",
+    "fetched_at": "2026-07-21T08:20:15.482659+00:00",
+    "content_hash": "47fd0bd647071796aa69a790ef61a0811d8a7b54af794f8df9cdc08c98e266fc",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Universalis WebSocket API (Unofficial Docs)",
+    "openapi_version": "openapi_3",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

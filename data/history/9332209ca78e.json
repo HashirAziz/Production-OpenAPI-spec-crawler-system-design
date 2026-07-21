@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "9332209ca78e",
+    "source_url": "https://raw.githubusercontent.com/afirmeplay-edu/afirmeplay_backend/ecc665d45db27749977bba3799c83459519dd737/swagger.yaml",
+    "fetched_at": "2026-07-21T08:20:12.832122+00:00",
+    "content_hash": "800faac68d80a41a46247a62da7a9868ec7aefb1b20962c1343c9261fee86cdb",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "invaPlay Backend API",
+    "openapi_version": "openapi_3",
+    "paths_count": 107,
+    "path_diff": null
+  }
+]

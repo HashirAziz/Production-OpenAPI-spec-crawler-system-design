@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "83b56cba59dc",
+    "source_url": "https://raw.githubusercontent.com/schieskejulia-collab/petraplan/f5d0e13cae4de1c6fc7ccebdf334167ceb9a0d32/backend/openapi.yaml%E2%81%A0",
+    "fetched_at": "2026-07-21T08:18:51.244456+00:00",
+    "content_hash": "5c871fdbe1ea4d7f000b489ab63db12b906fbdddc001ac2c689c9af469cd2a54",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "Api",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

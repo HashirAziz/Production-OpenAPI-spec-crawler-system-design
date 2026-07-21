@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6c0adae80ca3",
+    "source_url": "https://raw.githubusercontent.com/oleksii-haidai/user-git-viewer/c134ecbbec81ca343fb0ea9f643e32cd45850826/swagger.yaml",
+    "fetched_at": "2026-07-21T08:20:13.610949+00:00",
+    "content_hash": "566a7395f64ec4afa5300dd8754ff3aeb8ec23a598c5db25d82513267c57d913",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Git Service Repository Viewer",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0cc249d084ec",
+    "source_url": "https://raw.githubusercontent.com/librematch/librematch-rlink_client/a1227c74a6990db9d9bc0e33c83a502773084178/openapi.yaml",
+    "fetched_at": "2026-07-21T08:18:49.246558+00:00",
+    "content_hash": "5141c32be0dc75d8c80100514930ed291889f80d56c59f5aca86d2823fc9c1ad",
+    "info_version": "24.11.01",
+    "status": "new",
+    "title": "World's Edge API",
+    "openapi_version": "openapi_3",
+    "paths_count": 102,
+    "path_diff": null
+  }
+]

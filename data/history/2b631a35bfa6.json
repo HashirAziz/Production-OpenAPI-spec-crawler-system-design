@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2b631a35bfa6",
+    "source_url": "https://raw.githubusercontent.com/ZetsumeiFR/SaferTrail-back/aa966176e7db51a949c01f9cc8eb24d15f2a5081/swagger.yaml",
+    "fetched_at": "2026-07-21T08:20:13.369317+00:00",
+    "content_hash": "9e6a24ea26c98149f9de672f9134772ca577214973ab760aec7186688a31d7d7",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "SaferTrail API",
+    "openapi_version": "openapi_3",
+    "paths_count": 19,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a822f6893f97",
+    "source_url": "https://raw.githubusercontent.com/daniudo557/store-server/fa6bdfdaab85ed581b3d9b93cbd9e3562408bcb3/swagger.yaml",
+    "fetched_at": "2026-07-21T08:20:19.890069+00:00",
+    "content_hash": "756764cba67800973a6cdbed75ac2507286408f3695135b4e9ae3c3048790223",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Store server",
+    "openapi_version": "swagger_2",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

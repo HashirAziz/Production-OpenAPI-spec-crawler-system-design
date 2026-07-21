@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "b7c5e0c35e01",
+    "source_url": "https://raw.githubusercontent.com/sebastianvasquezechavarria1234/drive-stack/b44dd947a80f806c283086616e16d28a6a12f5e0/swagger.yaml",
+    "fetched_at": "2026-07-21T08:20:11.289299+00:00",
+    "content_hash": "86c02d015772610560696626578d6056620cdca46e2ddb89d40789499ba36589",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "NodeApiCrud - Auto Management API",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

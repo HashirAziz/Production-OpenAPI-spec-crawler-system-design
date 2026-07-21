@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1ba3e972b9a3",
+    "source_url": "https://raw.githubusercontent.com/5GZORRO/VPNaaS/21985f1915a113c77eb69943ae5b721f312d8227/swagger.yaml",
+    "fetched_at": "2026-07-21T08:20:04.906128+00:00",
+    "content_hash": "d6752b283602deaf005b499542d8f67b7ef8a3084fc25bb9882cb18ddf00ac66",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "VPN-as-a-Service",
+    "openapi_version": "swagger_2",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

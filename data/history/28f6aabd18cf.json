@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "28f6aabd18cf",
+    "source_url": "https://raw.githubusercontent.com/dwarukira/nest/c5e873081ee81c1350abb5c76692c5b629e61771/swagger.yaml",
+    "fetched_at": "2026-07-21T08:20:20.830152+00:00",
+    "content_hash": "06208f5d8c4c5e0b9252efc1b18eee94f2c4dabb521dc85974032f969d3ebf80",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "afrikanest.",
+    "openapi_version": "swagger_2",
+    "paths_count": 14,
+    "path_diff": null
+  }
+]

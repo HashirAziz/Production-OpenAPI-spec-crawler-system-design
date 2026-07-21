@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "65ef82c2f36a",
+    "source_url": "https://raw.githubusercontent.com/Kalai2021/IDMApp-go/90614c54d19bf6ca0ff38d72eab0f07eae0ca776/swagger.yaml",
+    "fetched_at": "2026-07-21T08:20:11.657379+00:00",
+    "content_hash": "5386c77abfc58b92f6de9cc1bfc19252f7f97ea48d4e0a76960e43cda7296c05",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "IDM App API",
+    "openapi_version": "openapi_3",
+    "paths_count": 18,
+    "path_diff": null
+  }
+]

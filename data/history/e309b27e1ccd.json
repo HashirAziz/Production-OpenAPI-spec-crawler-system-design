@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e309b27e1ccd",
+    "source_url": "https://raw.githubusercontent.com/GSA/auctions_api/a757b46a28ce7072e7fd5e78f0dcf1dc230061ab/openapi.yaml",
+    "fetched_at": "2026-07-21T08:18:49.992370+00:00",
+    "content_hash": "cb8e9835989514f857240e95f00754ac49e5efcb327e4fedc54d465dd49979fa",
+    "info_version": "2.0.0",
+    "status": "new",
+    "title": "Auctions API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]
