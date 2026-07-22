@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "311a6c5627ae",
+    "source_url": "https://raw.githubusercontent.com/matp65/Bangumi-Recorder/8020bd0d2590e7ab85fda302417d78753b0242bf/OpenAPI.yaml",
+    "fetched_at": "2026-07-22T08:20:23.419009+00:00",
+    "content_hash": "6b1aa0d2662a68656e349aace2d21d4c2f413be9d35262e3cac9eafee4b4da2b",
+    "info_version": "2.1.0",
+    "status": "new",
+    "title": "Bangumi Recorder API",
+    "openapi_version": "openapi_3",
+    "paths_count": 49,
+    "path_diff": null
+  }
+]

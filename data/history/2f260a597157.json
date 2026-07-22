@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2f260a597157",
+    "source_url": "https://raw.githubusercontent.com/marcoahansen/projeto-typeorm/2e3e93b685a90b77a225a69f45386bbfbb670474/swagger.yaml",
+    "fetched_at": "2026-07-22T08:21:31.808084+00:00",
+    "content_hash": "ba974d91c89f70d93a224ada188b05c6a559083a00bbe431d8915b392b510f06",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API Projeto TypeORM",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]
