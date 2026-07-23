@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "49d1352fbfe9",
+    "source_url": "https://raw.githubusercontent.com/jzellis/kowloon/ee29fe79f0fa6fa1b868c91fd5bf678f5e877e58/openapi.yamlx",
+    "fetched_at": "2026-07-23T08:22:22.491641+00:00",
+    "content_hash": "31cf3bd772f47026ee984695d6f225b5b1c3ea4b3fd68e2ed5beec8192c1d350",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Kowloon API",
+    "openapi_version": "openapi_3",
+    "paths_count": 40,
+    "path_diff": null
+  }
+]

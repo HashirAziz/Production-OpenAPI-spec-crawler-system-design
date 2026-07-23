@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "38e2447e6f2e",
+    "source_url": "https://raw.githubusercontent.com/leilvm/imara/53b9b76a0cfe3b0260492e59a1f7948c2f945281/openapi.yaml",
+    "fetched_at": "2026-07-23T08:22:52.111825+00:00",
+    "content_hash": "429610b5031e6d65dcadd121fab86de08d1fb2321c5ce067956eb1ab0f54731c",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "Imara Financial Services API",
+    "openapi_version": "openapi_3",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

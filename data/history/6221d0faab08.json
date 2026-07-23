@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6221d0faab08",
+    "source_url": "https://raw.githubusercontent.com/atopos31/ftoz/54f327293f7ce3cf463df7f3e93ac63f92978684/openapi.yaml",
+    "fetched_at": "2026-07-23T08:22:52.690017+00:00",
+    "content_hash": "aed44b64f527754010a492f48cde170e47d255a2744bd2ebe188fab8eae76610",
+    "info_version": "v2.0.0",
+    "status": "new",
+    "title": "IceWhale-Files API",
+    "openapi_version": "openapi_3",
+    "paths_count": 63,
+    "path_diff": null
+  }
+]

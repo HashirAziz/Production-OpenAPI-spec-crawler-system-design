@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "90ef9349302d",
+    "source_url": "https://raw.githubusercontent.com/hiyoko3m/book-record/d92107d5cb649e4dd40e0b45e39d5e10c89968dc/openapi.yaml",
+    "fetched_at": "2026-07-23T08:22:41.275432+00:00",
+    "content_hash": "265b0b1235db4dc0cdb72e84da0e92c9310127a41116bc97dc3333a0f8cb4ee6",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "Book Record Backend",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

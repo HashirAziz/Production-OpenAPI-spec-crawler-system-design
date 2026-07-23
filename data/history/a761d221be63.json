@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a761d221be63",
+    "source_url": "https://raw.githubusercontent.com/refaelach/insurance-api-testing/f105ec0c32ab752b3bd5792b51b9ee63a08003ac/openapi.yaml",
+    "fetched_at": "2026-07-23T08:22:40.282943+00:00",
+    "content_hash": "287f918a0f0a01d1c866071ed08515e6acf59355281f352dcd8394cda9357492",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Insurance API",
+    "openapi_version": "openapi_3",
+    "paths_count": 13,
+    "path_diff": null
+  }
+]

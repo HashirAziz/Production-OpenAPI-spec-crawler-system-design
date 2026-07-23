@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ff548e6cd3a1",
+    "source_url": "https://raw.githubusercontent.com/typhoidcoma/Aelora/75418791f8818f0a3857d0f0b3a4da4534f068a9/openapi.yaml",
+    "fetched_at": "2026-07-23T08:22:48.980064+00:00",
+    "content_hash": "fc3b318dd4028cd1fb78d0f2ed85b140fc8e90d0fbb6ee22505607fec44e75a4",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Aelora API",
+    "openapi_version": "openapi_3",
+    "paths_count": 77,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "42822e547b6f",
+    "source_url": "https://raw.githubusercontent.com/stac-api-extensions/query/cd7b4cb7a4394c676e009f80ceba8c2dc8e0a676/openapi.yaml",
+    "fetched_at": "2026-07-23T08:22:35.275739+00:00",
+    "content_hash": "44787974de5d8e7c2813a38d3cfe0881c11a4f22dadf5b4e55aa7d260d2955c4",
+    "info_version": "1.0.0-rc.2",
+    "status": "new",
+    "title": "The SpatioTemporal Asset Catalog API - Query",
+    "openapi_version": "openapi_3",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

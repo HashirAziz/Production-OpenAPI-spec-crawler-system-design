@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "288205dd2fd8",
+    "source_url": "https://raw.githubusercontent.com/Avi-Sionary/Final-Project-Kompella-Avineesh/b59af7ad357e68189fabdeb4d9af25bd5f0c9dfd/openapi.yaml",
+    "fetched_at": "2026-07-23T08:22:46.726237+00:00",
+    "content_hash": "b1d983237835a829811f971a54181c39b7593e7311a2664f60e90321b367d4e6",
+    "info_version": "v0",
+    "status": "new",
+    "title": "OpenAPI definition",
+    "openapi_version": "openapi_3",
+    "paths_count": 15,
+    "path_diff": null
+  }
+]

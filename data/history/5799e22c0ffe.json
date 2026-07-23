@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5799e22c0ffe",
+    "source_url": "https://raw.githubusercontent.com/Ranj8521Kumar/GhostPay-Lite/97d88f3c4fa874eba64c568b9555ddce9ce311db/openapi.yaml",
+    "fetched_at": "2026-07-23T08:22:51.770617+00:00",
+    "content_hash": "2f451e36ec556738f907748bd9fe3b307556c2616d8ab3b06a96d37a3d270500",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "GhostPay-Lite API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

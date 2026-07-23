@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5bc98d7e58e1",
+    "source_url": "https://raw.githubusercontent.com/yunwoong7/ChatGPT_Plugin_Naver_search/452d036c0f9f87c105aca5df4f44c4491f73a9a6/openapi.yaml",
+    "fetched_at": "2026-07-23T08:22:39.867721+00:00",
+    "content_hash": "897249cad4f03b853b84278183185ac3395c7501176ecd8f7d9f1ee40a08a290",
+    "info_version": "v1",
+    "status": "new",
+    "title": "Naver Search ChatGPT Plugin",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

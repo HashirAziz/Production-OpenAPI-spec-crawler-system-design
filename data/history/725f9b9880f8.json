@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "725f9b9880f8",
+    "source_url": "https://raw.githubusercontent.com/icezingza/namo_cosmic_ai_framework/f68d43cf756fc36b55c1e82b025cd85e055824ee/openapi.yaml",
+    "fetched_at": "2026-07-23T08:22:40.939802+00:00",
+    "content_hash": "c451eb4af7c6f39e86b65f56eda03ebba66b6b23ec11670b85628ce5ae25ee53",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "NaMo Omega Cosmic AI Framework",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

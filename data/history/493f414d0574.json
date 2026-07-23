@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "493f414d0574",
+    "source_url": "https://raw.githubusercontent.com/t-kaji-iret/gourmet-liff-app-backend/32815a8919db8bf0c5da289d62f94b2bff8c03da/openapi.yaml",
+    "fetched_at": "2026-07-23T08:22:45.327452+00:00",
+    "content_hash": "2f0a29a99cd2ce68de06fb48a9cb779cec05181a7bc97b9ab7c7f6ccf95a8d9f",
+    "info_version": "1.0.5",
+    "status": "new",
+    "title": "life アプリ API",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

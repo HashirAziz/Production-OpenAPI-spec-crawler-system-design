@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8f9703490a84",
+    "source_url": "https://raw.githubusercontent.com/sergdemc/y_lab_1/c0411b0d0a491ede225fc81be52f63de5e110f60/openapi.yaml",
+    "fetched_at": "2026-07-23T08:22:55.144995+00:00",
+    "content_hash": "6484872678032dbbaf0c9ae4eae5616531e464cb2215cef2580189fedd3cf916",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Restaurant API",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

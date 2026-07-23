@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "91d588479d56",
+    "source_url": "https://raw.githubusercontent.com/ibvi-br/pibras/248cea0885a136b5c2b7da368137ff1b88a322bb/openapi.yaml",
+    "fetched_at": "2026-07-23T08:22:40.617120+00:00",
+    "content_hash": "539abe1bde6537e5d4f9ab41622168bea320b3bc2241cacd30e6bfb1ad3aeb4a",
+    "info_version": "0.2-draft",
+    "status": "new",
+    "title": "PIBRAS Reference API",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

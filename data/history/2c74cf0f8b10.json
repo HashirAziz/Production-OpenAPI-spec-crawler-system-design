@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2c74cf0f8b10",
+    "source_url": "https://raw.githubusercontent.com/lehrstuhl-boente/scigate-api/2ce53a413c781490dda2e16348af4e21279e966b/openapi.yaml",
+    "fetched_at": "2026-07-23T08:22:46.009346+00:00",
+    "content_hash": "051b64927822e9ddfd5ae825d48215d5273ecf7b9b549417424477ac02229efb",
+    "info_version": "1.0.11",
+    "status": "new",
+    "title": "Scigate API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]
