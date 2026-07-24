@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0b99a6d43c9f",
+    "source_url": "https://raw.githubusercontent.com/codefly-dev/service-go-grpc/bddf1f197078fb02b6a59db06eac044f3cd14332/templates/factory/openapi/api.swagger.json.tmpl",
+    "fetched_at": "2026-07-24T08:19:29.648719+00:00",
+    "content_hash": "1e4f84c7d5d6c97787a97083ad927b45200aef7a1467c3d1f17ba25e8816d6ac",
+    "info_version": "version not set",
+    "status": "new",
+    "title": "api.proto",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e6cdfed68cd1",
+    "source_url": "https://raw.githubusercontent.com/qovira/qovira/0ddd9c886e8db555132c157d561fad54f1541cc1/openapi.yaml",
+    "fetched_at": "2026-07-24T08:18:07.960060+00:00",
+    "content_hash": "d276a12df4352e5b830606cbbef5af35c98e65425ae6981ce09ad2d75bda6d53",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "Qovira",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

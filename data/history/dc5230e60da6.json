@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "dc5230e60da6",
+    "source_url": "https://raw.githubusercontent.com/YomiLokan/CrowtherNLP/ffc883b1c299159ce00436c94a872a70d7272720/openapi.yaml",
+    "fetched_at": "2026-07-24T08:18:08.248961+00:00",
+    "content_hash": "6cfd2800713c8a935d81b5ab30a0d6439dbc5b63a1c7905fa74b6c925df32cd0",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "Yoruba Phonology Assistant API",
+    "openapi_version": "openapi_3",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

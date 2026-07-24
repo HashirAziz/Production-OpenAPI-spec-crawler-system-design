@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "51a1f87a438c",
+    "source_url": "https://raw.githubusercontent.com/uk-gov-mirror/dvsa.mes-api-definitions/4003ac6cea70e574fce7419ca1d8acdb3fb2b457/openapi.yaml",
+    "fetched_at": "2026-07-24T08:18:06.182029+00:00",
+    "content_hash": "c5fb7d3ab3f41ae1e12b7280572750f91d2e16cb7eb08c59e99a39982bb90f4d",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "DVSA Mobile Examiner Services REST API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

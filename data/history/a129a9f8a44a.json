@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a129a9f8a44a",
+    "source_url": "https://raw.githubusercontent.com/kraken-hpc/powerapi/cb7ab5ec321ffc5faf2172ca83bb7ec3b7415838/openapi.yaml",
+    "fetched_at": "2026-07-24T08:17:59.505995+00:00",
+    "content_hash": "83e26def5bcdc9d86b4cdb9d4480f99772f09fa3c911ce72d1a9fb2e66fac925",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Power API v1.0",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

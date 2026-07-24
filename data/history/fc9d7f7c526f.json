@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "fc9d7f7c526f",
+    "source_url": "https://raw.githubusercontent.com/Anitajallas/mintlify-docs/f9830118c8c99b0818a6d8e0b5c0c9cfe38a6176/openapi.yaml",
+    "fetched_at": "2026-07-24T08:18:06.547201+00:00",
+    "content_hash": "af53240f0b5aab15e797c82c45abe9f2bf072add5dd7cc79cbb183ecf30e52b9",
+    "info_version": "3.0.0",
+    "status": "new",
+    "title": "Adhere API",
+    "openapi_version": "openapi_3",
+    "paths_count": 64,
+    "path_diff": null
+  }
+]

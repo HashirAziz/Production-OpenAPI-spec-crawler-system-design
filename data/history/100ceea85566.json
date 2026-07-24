@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "100ceea85566",
+    "source_url": "https://raw.githubusercontent.com/InfinityXOneSystems/infinity-ui/b0b1a3c76e00cf80ed5fd7124fc1d6833ccfdf15/openapi.yaml",
+    "fetched_at": "2026-07-24T08:18:09.118362+00:00",
+    "content_hash": "e6a04745882a3322b30f9eee541432b9de5b97e192b22881b3f1c2705a33e8da",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "XPS Intelligence API",
+    "openapi_version": "openapi_3",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

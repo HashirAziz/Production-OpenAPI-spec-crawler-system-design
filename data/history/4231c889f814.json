@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4231c889f814",
+    "source_url": "https://raw.githubusercontent.com/Slovo-Propovedi/slovo-propovedi-mobile/3f4b69b97e633496e18b1b15d6d586600d545947/openAPI.yaml",
+    "fetched_at": "2026-07-24T08:18:02.491123+00:00",
+    "content_hash": "a3a89b7f1dc10640393b466c1fc5b0a07c61b454563a3a368e29ebd0d2573f23",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Admin API — Слово.Проповеди",
+    "openapi_version": "openapi_3",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "fdbeba999467",
+    "source_url": "https://raw.githubusercontent.com/specialized806/second-op-ai-/b81876eb46c182988b2b54b81db4af791b5d7202/openapi.yaml",
+    "fetched_at": "2026-07-24T08:18:08.850704+00:00",
+    "content_hash": "0b38aa9b78bea98ecb17ef1ded0c59c75d8b787387f777d65d8e946855ac37eb",
+    "info_version": "2.0.0",
+    "status": "new",
+    "title": "OpenAI API",
+    "openapi_version": "openapi_3",
+    "paths_count": 19,
+    "path_diff": null
+  }
+]

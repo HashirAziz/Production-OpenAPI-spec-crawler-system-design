@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8b7582b9e0e3",
+    "source_url": "https://raw.githubusercontent.com/fraunhoferfokus/dredger/765d425a55183a54db318497670da6ab8e5d0370/examples/OpenAPI.yaml.min-example",
+    "fetched_at": "2026-07-24T08:17:49.366996+00:00",
+    "content_hash": "b361b804768f0e0abb6fa87e1bddf28a21543890dca2bc7eda18432996c91db2",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "My-Service",
+    "openapi_version": "openapi_3",
+    "paths_count": 8,
+    "path_diff": null
+  }
+]

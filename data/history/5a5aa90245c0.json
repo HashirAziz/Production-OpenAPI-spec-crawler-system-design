@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5a5aa90245c0",
+    "source_url": "https://raw.githubusercontent.com/CryptoCommerce/bitfund-ent-api-docs/62e38351fdeb200ea005d970e98d2e20d6f686bf/swagger.yaml",
+    "fetched_at": "2026-07-24T08:18:57.930047+00:00",
+    "content_hash": "8fce20dcf7c1c1a6141ec236099e798306a03895438a2bc289088afbbd3dcc63",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "BitFund Private API",
+    "openapi_version": "openapi_3",
+    "paths_count": 9,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "bba0c9908cab",
+    "source_url": "https://raw.githubusercontent.com/Forsakringskassan/rimfrost-regel-bekraftabeslut-openapi/83f3186c7736b35b5dc6d63d64665351acbc1254/openapi.yaml",
+    "fetched_at": "2026-07-24T08:18:07.464893+00:00",
+    "content_hash": "723c75a50703f9ffa9dcc68efd242896c79961d31545dfa93bb99b2383791342",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Bekräfta beslut API",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

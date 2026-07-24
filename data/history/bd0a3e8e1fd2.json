@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "bd0a3e8e1fd2",
+    "source_url": "https://raw.githubusercontent.com/robofit/mozart-api-low/642ec19beaacb5fabcbdcde63bad5ecb8daead4f/swagger.yaml",
+    "fetched_at": "2026-07-24T08:18:53.923839+00:00",
+    "content_hash": "1fe60d0c5abe3257d8d5c628fc7455c08f0a46badae0f42c801668d2111a5c9e",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "MOZART Low-level API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]

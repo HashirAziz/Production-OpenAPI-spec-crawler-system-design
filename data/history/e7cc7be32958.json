@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e7cc7be32958",
+    "source_url": "https://raw.githubusercontent.com/Abdelfatah10/Sihatek_Backend/bd2a6308896c06c47df1561e8ae5559c62f3f6fd/swagger.yaml",
+    "fetched_at": "2026-07-24T08:18:55.710002+00:00",
+    "content_hash": "c9f488276fc8a82b29dd2993304543760077480d2468ca6ba0e80b68ee4b68d8",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Sihatek Healthcare API",
+    "openapi_version": "swagger_2",
+    "paths_count": 41,
+    "path_diff": null
+  }
+]

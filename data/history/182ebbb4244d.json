@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "182ebbb4244d",
+    "source_url": "https://raw.githubusercontent.com/lucadr04/Trentus-backend/509b392bdae4d3b7f1dcf24c6677efcaab682919/swagger.yaml",
+    "fetched_at": "2026-07-24T08:18:59.813397+00:00",
+    "content_hash": "bfcbf5a1ef08025440917d6df975bf28de5a797d0f00176c2ecb0c803f0c0562",
+    "info_version": "2.0.0",
+    "status": "new",
+    "title": "Trentus API",
+    "openapi_version": "openapi_3",
+    "paths_count": 25,
+    "path_diff": null
+  }
+]
