@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "8a6c4a516b01",
+    "source_url": "https://raw.githubusercontent.com/lucasgomesdutra/Obras-Blockchain/69df86d771803b13cfab852b4b3959c0f9f49b78/swagger.yaml",
+    "fetched_at": "2026-07-25T08:00:39.304114+00:00",
+    "content_hash": "c1b19992022e24fe9aebcfdcb4da347559c10585c5c79a4b86e8efeceab53edf",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Obras&Blockchain API",
+    "openapi_version": "openapi_3",
+    "paths_count": 18,
+    "path_diff": null
+  }
+]

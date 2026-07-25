@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "091fef9ff199",
+    "source_url": "https://raw.githubusercontent.com/speakeasy-sdks/ccg-v1-go/865640fb4f0ccaef72517e925dfb492d4931e762/openapi.yaml",
+    "fetched_at": "2026-07-25T07:59:39.604847+00:00",
+    "content_hash": "453193dff74187cad11086a121f01552c745c6b52c5d91906ae48ec35b873563",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "MdNotesCCG",
+    "openapi_version": "openapi_3",
+    "paths_count": 2,
+    "path_diff": null
+  }
+]

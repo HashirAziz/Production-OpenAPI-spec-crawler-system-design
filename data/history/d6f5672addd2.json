@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "d6f5672addd2",
+    "source_url": "https://raw.githubusercontent.com/Alexx2378/node-mysql-api-formentera/cdfa5226a0d824a2602e9e50bb9581a98acb97b5/swagger.yaml",
+    "fetched_at": "2026-07-25T08:00:39.755636+00:00",
+    "content_hash": "4daa7323eaf690116d42839eab6f9d991b4c37b95c2deee6acc0cbc14e2fa845",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Auth System API",
+    "openapi_version": "openapi_3",
+    "paths_count": 11,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "df0be9097881",
+    "source_url": "https://raw.githubusercontent.com/vanna-ai/multi-agent/8cff32e9688628adcb91eb0b58df017525d72d62/openapi.yaml",
+    "fetched_at": "2026-07-25T07:59:42.223664+00:00",
+    "content_hash": "7da3532e4af29a2089eac8d0fd8f473eff3e275519ca2cafdc4bdaf65a8e596e",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Vanna Multi-Agent Query API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

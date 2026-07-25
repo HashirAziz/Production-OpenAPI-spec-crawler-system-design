@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0cf5814785ac",
+    "source_url": "https://raw.githubusercontent.com/jitdoo/bookstore-inventory-api/f4ecc8134cf994bf882b15fab5532c9bb8d7017e/openapi.yaml",
+    "fetched_at": "2026-07-25T07:59:50.084571+00:00",
+    "content_hash": "6fa7defafe31edf8f121600883fcd4bd301b7629f6ae0195f8f5ccbc049cb49a",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Bookstore Inventory API",
+    "openapi_version": "openapi_3",
+    "paths_count": 16,
+    "path_diff": null
+  }
+]

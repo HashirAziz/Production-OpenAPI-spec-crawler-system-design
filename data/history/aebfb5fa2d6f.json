@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "aebfb5fa2d6f",
+    "source_url": "https://raw.githubusercontent.com/GenesisEducationKyiv/software-engineering-school-6-0-Volodymyr-Kysylenko/3cb5c5182d4efb00a1e5147dc0a3171d529114b5/swagger.yaml",
+    "fetched_at": "2026-07-25T08:00:43.345368+00:00",
+    "content_hash": "2f13b7b96a402122a380865fa8cf93035fc742f403f29c389eb383d67559f829",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "GitHub Release Notification API",
+    "openapi_version": "swagger_2",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

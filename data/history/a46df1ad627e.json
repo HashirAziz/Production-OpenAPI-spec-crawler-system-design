@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a46df1ad627e",
+    "source_url": "https://raw.githubusercontent.com/LittleMoreInteresting/nft-market-backend/ebb710710b1273f6eea305eac87e91431938d935/openapi.yaml",
+    "fetched_at": "2026-07-25T07:59:49.375763+00:00",
+    "content_hash": "45257231ad4843a05540592d4108e3592c15921c99416903ba6bf29b687117f2",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": null,
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]

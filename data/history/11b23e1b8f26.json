@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "11b23e1b8f26",
+    "source_url": "https://raw.githubusercontent.com/kamikadzem22/igpsport-unoffical-api/8e294cd6ccf9939f291223bbe66c82aaf28d417c/openapi.yaml",
+    "fetched_at": "2026-07-25T07:59:41.896729+00:00",
+    "content_hash": "c8fd745cefc0903c00f360d6cb8dabc374be5efbd0642f3788cd1fa5e74440b1",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "iGPSPORT Unofficial API",
+    "openapi_version": "openapi_3",
+    "paths_count": 12,
+    "path_diff": null
+  }
+]

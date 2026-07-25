@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1244c8e9faf0",
+    "source_url": "https://raw.githubusercontent.com/c0m/manabi-mentor/47a3ec443027946f2490e77a08d1ed147fff260b/openapi.yaml",
+    "fetched_at": "2026-07-25T07:59:48.785391+00:00",
+    "content_hash": "06e2723a0dd19e5425562adda8acbb3c122d6b5050b67477806a1e401f5d3d37",
+    "info_version": "v0",
+    "status": "new",
+    "title": "Manabi Mentor",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "74f7d7126e89",
+    "source_url": "https://raw.githubusercontent.com/siey09/goalpulse-agent/7889b9a7658b06ccd8a4cec0aef8083c42c2615c/openapi.yaml",
+    "fetched_at": "2026-07-25T07:59:49.802951+00:00",
+    "content_hash": "0021a7675d7fbd65078a5bb7c8578b1bc7ec7178e0a1341105d0e9cbe036586d",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "GoalPulse Agent API",
+    "openapi_version": "openapi_3",
+    "paths_count": 27,
+    "path_diff": null
+  }
+]

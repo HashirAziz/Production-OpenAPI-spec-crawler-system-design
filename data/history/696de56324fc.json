@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "696de56324fc",
+    "source_url": "https://raw.githubusercontent.com/walid-olt/Crowdfunder/cab846fc09d853e1fb367428ac11418d1525281f/openapi.yaml",
+    "fetched_at": "2026-07-25T07:59:49.085392+00:00",
+    "content_hash": "e89d6f53574f37208181613e176bc2f5226ad51958531dc6059d4ec8622ad341",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Crowdfunder API",
+    "openapi_version": "openapi_3",
+    "paths_count": 17,
+    "path_diff": null
+  }
+]
