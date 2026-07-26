@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "2cf3cc69d4c8",
+    "source_url": "https://raw.githubusercontent.com/maddoxk/backend-event-ledger-api/e8da58ee713fc56e2992c1f855e7cefbb264ee6b/openapi.yaml",
+    "fetched_at": "2026-07-26T08:18:40.943311+00:00",
+    "content_hash": "0f7d2c92e272f9539ce1d3441eaf2adfc86d43395eefdd55cbd1d6db1948bf4a",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Event Ledger API",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

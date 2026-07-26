@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "fda622421f50",
+    "source_url": "https://raw.githubusercontent.com/error311/FileRise/f2c2bc08e3332e8ea398ad574fffa43346e1c237/openapi.json.dist",
+    "fetched_at": "2026-07-26T08:18:43.555348+00:00",
+    "content_hash": "93b26a9a9afae99e8263cd4200283fdc30955280b68a6310c71f7e94acbfd7f4",
+    "info_version": "3.3.2",
+    "status": "new",
+    "title": "FileRise API",
+    "openapi_version": "openapi_3",
+    "paths_count": 111,
+    "path_diff": null
+  }
+]
