@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "ec5eb95f498a",
+    "source_url": "https://raw.githubusercontent.com/capitao-consorcios/api_simuladorParcelas/a08c8df21bb8fe57c0f7980a68d3a773d26e1b0b/openapi.yaml",
+    "fetched_at": "2026-07-27T09:40:55.400918+00:00",
+    "content_hash": "996b4a17bd77179e30ae6318e094536c60766599182b577a79289bd0e39b4322",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "API de Simulação de Consórcio",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]

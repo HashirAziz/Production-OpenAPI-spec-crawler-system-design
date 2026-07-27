@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "36ef6e56dec6",
+    "source_url": "https://raw.githubusercontent.com/Kernel-Science/physlibsearch/ffcf1f14c1e2217043fdb7e95b2783a8841e012e/openapi.json",
+    "fetched_at": "2026-07-27T09:41:30.246496+00:00",
+    "content_hash": "c61fd8cfc5199399adc612058aa18d8bd8099122ad5ccb637e56f815c5fd13ef",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "PhyslibSearch API",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]

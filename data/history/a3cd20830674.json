@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a3cd20830674",
+    "source_url": "https://raw.githubusercontent.com/barna-bash/URelf/c75d5949c412c80d632c3cbf713f29a033c5191d/openapi.yaml",
+    "fetched_at": "2026-07-27T09:40:55.968953+00:00",
+    "content_hash": "f67c3fdc653583e5a3b0d6d3dd6c4eaafe27d2485f4ce85aabf90fa264df41ec",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "URELf API",
+    "openapi_version": "openapi_3",
+    "paths_count": 4,
+    "path_diff": null
+  }
+]
