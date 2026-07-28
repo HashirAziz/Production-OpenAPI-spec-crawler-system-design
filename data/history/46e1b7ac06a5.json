@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "46e1b7ac06a5",
+    "source_url": "https://raw.githubusercontent.com/withqwerty/reep/ad5514767ee9f139df66bed12c896b80828f4d36/openapi.yaml",
+    "fetched_at": "2026-07-28T08:25:24.373735+00:00",
+    "content_hash": "82844e1c940545607bd7f875a13b8ce9056497a52f68b457705aeb3b66ce6838",
+    "info_version": "2.7.0",
+    "status": "new",
+    "title": "The Reep Register",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

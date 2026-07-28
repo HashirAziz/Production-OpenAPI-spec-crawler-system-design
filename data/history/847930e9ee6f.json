@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "847930e9ee6f",
+    "source_url": "https://raw.githubusercontent.com/AzisabaNetwork/api/f57b75bd8c6001ee72f4aa043bc56519c47ebdf4/swagger.yaml",
+    "fetched_at": "2026-07-28T08:26:47.594442+00:00",
+    "content_hash": "74ae65af3f98b04165cb86f99c75cf22d4e6073f5e544438af82c60047722d04",
+    "info_version": "dev",
+    "status": "new",
+    "title": "Azisaba API",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

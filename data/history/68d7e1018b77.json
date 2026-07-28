@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "68d7e1018b77",
+    "source_url": "https://raw.githubusercontent.com/OpenCHAMI/smd/226b2a44fdde8826418c3d848e7be79bc52e546a/cmd/smd/swagger.yaml.Save",
+    "fetched_at": "2026-07-28T08:26:26.318176+00:00",
+    "content_hash": "0d96af6b18f57a1c179c6ee9ed31e5a857742a31a9c29d9aef0d0de2f422547e",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Hardware State Manager",
+    "openapi_version": "swagger_2",
+    "paths_count": 26,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e99676f9d0d6",
+    "source_url": "https://raw.githubusercontent.com/ttlequals0/PixelProbe/cc64f73169f04cb4a5e552d5df54a03f53818e08/openapi.yaml",
+    "fetched_at": "2026-07-28T08:25:43.165568+00:00",
+    "content_hash": "be5dd931522a7bcebe6f08423b95de5352a0a1b0f7bed263de1693691629fde6",
+    "info_version": "0.0.0",
+    "status": "new",
+    "title": "PixelProbe API",
+    "openapi_version": "openapi_3",
+    "paths_count": 71,
+    "path_diff": null
+  }
+]
