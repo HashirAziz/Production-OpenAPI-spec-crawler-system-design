@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1bff9c82df8f",
+    "source_url": "https://raw.githubusercontent.com/device-management-toolkit/rps/fe58ca0035beef0b210a46f3fa65d395fb5d7897/swagger.yaml",
+    "fetched_at": "2026-07-29T08:32:51.793849+00:00",
+    "content_hash": "10627536feb44aeb6a80ab29d8387cd336f579e2ace377294ed7ef5822ff7a64",
+    "info_version": "2.29.1",
+    "status": "new",
+    "title": "Remote Provisioning  (RPS) API",
+    "openapi_version": "openapi_3",
+    "paths_count": 14,
+    "path_diff": null
+  }
+]
