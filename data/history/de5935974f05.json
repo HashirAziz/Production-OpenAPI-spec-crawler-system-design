@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "de5935974f05",
+    "source_url": "https://raw.githubusercontent.com/ghyathmoussa/rLLM/47d4a449c99b441090a45238cf996062577a1b81/openapi.yaml",
+    "fetched_at": "2026-07-31T08:42:32.285880+00:00",
+    "content_hash": "be67e9d8fb6ab4de90e14fc64ad1db39c2194715aa45da364fbeec9bfda92840",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "rLLM Inference Server API",
+    "openapi_version": "openapi_3",
+    "paths_count": 5,
+    "path_diff": null
+  }
+]

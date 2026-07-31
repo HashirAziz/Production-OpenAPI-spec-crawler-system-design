@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "e932142015a1",
+    "source_url": "https://raw.githubusercontent.com/formancehq/flows/ddf2285b377404d88002272584ff75bdd67fb6b8/openapi.yaml",
+    "fetched_at": "2026-07-31T08:42:36.374988+00:00",
+    "content_hash": "5663290e375a2b05ab8c7daba65941570902aff134f051c580f035fa1ec0ce41",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "Formance Simple orchestration Service API",
+    "openapi_version": "openapi_3",
+    "paths_count": 28,
+    "path_diff": null
+  }
+]

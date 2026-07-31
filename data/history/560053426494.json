@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "560053426494",
+    "source_url": "https://raw.githubusercontent.com/cvdlinden/wiim-httpapi/6aa9ea40a419f8621548ea44be2917d268f5d91e/openapi.json",
+    "fetched_at": "2026-07-31T08:43:06.367115+00:00",
+    "content_hash": "7c154d51a73147b3715c867af819307e130af4467c0d0f20d34815821431e872",
+    "info_version": "1.2.0",
+    "status": "new",
+    "title": "Linkplay/WiiM HTTP API",
+    "openapi_version": "openapi_3",
+    "paths_count": 346,
+    "path_diff": null
+  }
+]
