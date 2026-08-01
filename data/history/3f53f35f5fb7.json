@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "3f53f35f5fb7",
+    "source_url": "https://raw.githubusercontent.com/gropaul/dash/fffea6b6f190ea0ca9a07cbcf1a68eb5ed25fe6c/openapi.yaml",
+    "fetched_at": "2026-08-01T08:12:07.686780+00:00",
+    "content_hash": "6eed28c4a748d281f1082a60b3968b8a200ab7919ea27c93a6cb4e509e48ad0f",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "Duck Explorer API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]
