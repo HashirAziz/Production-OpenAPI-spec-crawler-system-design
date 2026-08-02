@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "378f5af234e3",
+    "source_url": "https://raw.githubusercontent.com/projecthorus/sondehub-infra/748a76fcacb08a525063fb824cb93b0ba2f766a6/swagger.yaml",
+    "fetched_at": "2026-08-02T08:14:38.738623+00:00",
+    "content_hash": "00b179937541458f93c8da7a9bcd2bd9dedd30397758f01cbdcad32b2ee33083",
+    "info_version": "2.0.0",
+    "status": "new",
+    "title": "SondeHub",
+    "openapi_version": "swagger_2",
+    "paths_count": 18,
+    "path_diff": null
+  }
+]
