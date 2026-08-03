@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5931a86032ab",
+    "source_url": "https://raw.githubusercontent.com/ohkami-rs/ohkami/e675014f568a341963eb9ebb8967bf05acbf18f3/samples/openapi-tags/openapi.json.sample",
+    "fetched_at": "2026-08-03T09:34:21.783523+00:00",
+    "content_hash": "a1d0b1d110d80babff7ecf917630025334dc8d1192dbb5318a386b124926ea5f",
+    "info_version": "0.0.0",
+    "status": "new",
+    "title": "Sample API",
+    "openapi_version": "openapi_3",
+    "paths_count": 6,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "272873ee7b35",
+    "source_url": "https://raw.githubusercontent.com/ohkami-rs/ohkami/e675014f568a341963eb9ebb8967bf05acbf18f3/samples/petstore/openapi.json.sample",
+    "fetched_at": "2026-08-03T09:34:21.074677+00:00",
+    "content_hash": "4dfcf5e866b74714c0a5852b92d2874c4908386a87069dc58c206a629ff8e85d",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Petstore API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]
