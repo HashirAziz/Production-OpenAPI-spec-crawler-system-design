@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "cabf9ec4fc5f",
+    "source_url": "https://raw.githubusercontent.com/go-kratos/kratos-admin/e893d6d1748bc07a77df530e47f742749c0a913b/openapi.yaml",
+    "fetched_at": "2026-08-06T08:26:47.690235+00:00",
+    "content_hash": "046b2946ee76b2f1de9b5804018dd6b744ceacf1d9650b0fdc656e3eb29dcf93",
+    "info_version": "0.0.1",
+    "status": "new",
+    "title": "AdminService API",
+    "openapi_version": "openapi_3",
+    "paths_count": 7,
+    "path_diff": null
+  }
+]
