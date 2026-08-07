@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "0bfec9ae61e1",
+    "source_url": "https://raw.githubusercontent.com/agentic-lab-club/Satpayev_science_tz_hackaton/f33f87b9d9043f8e6153d7921e6b26949e2c6c12/backend/docs/swagger.yaml.backup",
+    "fetched_at": "2026-08-07T07:08:18.359694+00:00",
+    "content_hash": "ba60abfc47d619e64b70caadeeb51a26998ca7b70dcf48663345db7d862e3acb",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Satpayev Science TZ Backend API",
+    "openapi_version": "swagger_2",
+    "paths_count": 21,
+    "path_diff": null
+  }
+]
