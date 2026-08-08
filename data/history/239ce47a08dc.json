@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "239ce47a08dc",
+    "source_url": "https://raw.githubusercontent.com/speakeasy-api/developer-docs/8c1044854ff2c05cb13c20c592600673919b7b1d/public/assets/openapi/django/openapi.yaml.txt",
+    "fetched_at": "2026-08-08T06:41:52.977044+00:00",
+    "content_hash": "96447c6a53cd6947f07c9de68bffc51955fac8ef00433ffe6d9445c8ae53d641",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "Books API",
+    "openapi_version": "openapi_3",
+    "paths_count": 3,
+    "path_diff": null
+  }
+]
