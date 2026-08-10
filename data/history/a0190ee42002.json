@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a0190ee42002",
+    "source_url": "https://raw.githubusercontent.com/LibrariesHacked/catalogues-api/fad46565ea71438d2a008e71208d15c0a8c41586/openapi.json",
+    "fetched_at": "2026-08-10T07:22:22.150636+00:00",
+    "content_hash": "03086bee34a536bba474a5bda6f34d2b6934b03e81aa8795066e20c7ceaee94d",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Library Books API",
+    "openapi_version": "openapi_3",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]
