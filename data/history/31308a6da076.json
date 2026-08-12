@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "31308a6da076",
+    "source_url": "https://raw.githubusercontent.com/mms-gianni/locust-admin/cce96a4e0acda0cb6063d067ed36dda776ad6c92/openapi.yaml",
+    "fetched_at": "2026-08-12T07:17:37.399305+00:00",
+    "content_hash": "3a85e1008487601ed92042ca290e1e922b031b5ac06890df0338185cfbaca836",
+    "info_version": "1.0",
+    "status": "new",
+    "title": "Locust swarm API",
+    "openapi_version": "openapi_3",
+    "paths_count": 14,
+    "path_diff": null
+  }
+]

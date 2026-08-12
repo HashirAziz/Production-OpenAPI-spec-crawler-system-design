@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a7b428ef96eb",
+    "source_url": "https://raw.githubusercontent.com/langchain-ai/agent-protocol/d9fd23d762bf4cffe876890a854fb79bcdd14f1a/openapi.json",
+    "fetched_at": "2026-08-12T07:17:45.488140+00:00",
+    "content_hash": "7d069e43ca105e8127ce07ba7bd8bd7a78a2fadd6420009f2634a24cfb153f32",
+    "info_version": "0.1.6",
+    "status": "new",
+    "title": "Agent Protocol",
+    "openapi_version": "openapi_3",
+    "paths_count": 21,
+    "path_diff": null
+  }
+]

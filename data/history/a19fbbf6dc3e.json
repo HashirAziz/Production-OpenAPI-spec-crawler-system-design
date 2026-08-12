@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "a19fbbf6dc3e",
+    "source_url": "https://raw.githubusercontent.com/gisktzh/gb3-web_ui/1d0ea1bc6edf58460213b000a2f5f60c48693e11/swagger.yaml",
+    "fetched_at": "2026-08-12T07:18:38.818358+00:00",
+    "content_hash": "acdb0a57e9530c421f5dae7b7c4ee64460856dde3ff08f6619d5b87ad8d1d807",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "GB3 Frontend",
+    "openapi_version": "swagger_2",
+    "paths_count": 1,
+    "path_diff": null
+  }
+]
