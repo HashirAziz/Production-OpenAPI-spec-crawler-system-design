@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "733648019f8c",
+    "source_url": "https://raw.githubusercontent.com/veritasfuji-japan/veritas_os/15725049fe64939a542636d6bb83b7c7ac72754a/openapi.yaml",
+    "fetched_at": "2026-08-14T07:17:02.252535+00:00",
+    "content_hash": "6c2f5394fff4d99ec31c21c3e4f364d7466a99a38c070e7b5d7982069167c18f",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "VERITAS Public API",
+    "openapi_version": "openapi_3",
+    "paths_count": 37,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4bccdbe86cf3",
+    "source_url": "https://raw.githubusercontent.com/BugTraceAI/BugTraceAI-CLI/e255063475cb1ad2631121102f27b3cca455a2dd/openapi.yaml",
+    "fetched_at": "2026-08-14T07:16:56.154896+00:00",
+    "content_hash": "312bfc1148dc273740a6f4c7beea579ea17f51e767ac1f062c4501ff576e4071",
+    "info_version": "3.6.93-beta",
+    "status": "new",
+    "title": "BugTraceAI CLI API",
+    "openapi_version": "openapi_3",
+    "paths_count": 28,
+    "path_diff": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "574626bca481",
+    "source_url": "https://raw.githubusercontent.com/openshift/assisted-service/a6888f164db6d9eb0eda1a18269ad1b6b97a6261/swagger.yaml",
+    "fetched_at": "2026-08-14T07:17:58.424649+00:00",
+    "content_hash": "9d0b4936ca97ad5f827f3d45e6f842fc737a7a2626ed5a7026ad96480c54d87f",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "AssistedInstall",
+    "openapi_version": "swagger_2",
+    "paths_count": 61,
+    "path_diff": null
+  }
+]

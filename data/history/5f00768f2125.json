@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "5f00768f2125",
+    "source_url": "https://raw.githubusercontent.com/wolfi-dev/os/06440043e7253d9cf31734d4cd039579bf3941d9/swagger.yaml",
+    "fetched_at": "2026-08-14T07:17:57.096562+00:00",
+    "content_hash": "0a28da14f7605fe3b2c68d7f10dcc3adbf7bfda3b18c1803f0bf8bbb9ff5c2b5",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "unknown",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

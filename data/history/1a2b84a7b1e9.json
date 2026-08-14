@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "1a2b84a7b1e9",
+    "source_url": "https://raw.githubusercontent.com/alliander-opensource/weather-provider-api/537cac48797fe71295c4411e7a57ce2d80430093/openapi.json.license",
+    "fetched_at": "2026-08-14T07:17:35.094792+00:00",
+    "content_hash": "acbf02029ebf6c94a34e12397e26275ae0bda279cd6c3da991c21ebde27b61a5",
+    "info_version": null,
+    "status": "new",
+    "title": null,
+    "openapi_version": "unknown",
+    "paths_count": 0,
+    "path_diff": null
+  }
+]

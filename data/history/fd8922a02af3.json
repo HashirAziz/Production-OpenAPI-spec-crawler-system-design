@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "fd8922a02af3",
+    "source_url": "https://raw.githubusercontent.com/alfaarghya/alfa-leetcode-api/783321143eb21b847a9b0119a37920f04ba3324a/swagger.yaml",
+    "fetched_at": "2026-08-14T07:17:58.984670+00:00",
+    "content_hash": "897d7a35538e9468143531e4efeedc92b98d90c9f82a7900d0d0b1a7d1f1b6f5",
+    "info_version": "2.0.4",
+    "status": "new",
+    "title": "alfa-leetcode-api",
+    "openapi_version": "openapi_3",
+    "paths_count": 25,
+    "path_diff": null
+  }
+]

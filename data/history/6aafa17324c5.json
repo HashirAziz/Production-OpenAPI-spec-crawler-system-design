@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "6aafa17324c5",
+    "source_url": "https://raw.githubusercontent.com/traccar/traccar/2cb46ff60492e676d7966f5549dce6957c9c8fbe/openapi.yaml",
+    "fetched_at": "2026-08-14T07:16:47.962095+00:00",
+    "content_hash": "27943f3ea09bef8def90acf54351ec6db596f0314dbbba97636b3bcabe742387",
+    "info_version": "6.14.5",
+    "status": "new",
+    "title": "Traccar",
+    "openapi_version": "openapi_3",
+    "paths_count": 76,
+    "path_diff": null
+  }
+]

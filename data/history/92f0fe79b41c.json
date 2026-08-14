@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "92f0fe79b41c",
+    "source_url": "https://raw.githubusercontent.com/lukaszliniewicz/Pandrator/fa51f34673ed14c4878c99294cda49610058744a/openapi.json",
+    "fetched_at": "2026-08-14T07:17:32.425860+00:00",
+    "content_hash": "3a2fc88f3fdd8447bdc1a1f24d1803aabccbfd3f2a5e2e3eeb020f89d998c8c2",
+    "info_version": "1.0.0",
+    "status": "new",
+    "title": "Pandrator API",
+    "openapi_version": "openapi_3",
+    "paths_count": 135,
+    "path_diff": null
+  }
+]

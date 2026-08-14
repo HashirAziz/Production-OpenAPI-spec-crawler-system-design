@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "4597e199349d",
+    "source_url": "https://raw.githubusercontent.com/Authula/authula/d3ae353e39896966c471cd8bff4280dae7b1fac3/openapi.json",
+    "fetched_at": "2026-08-14T07:17:39.343961+00:00",
+    "content_hash": "ee28a7965ce5dbc53de341f2cfa4ea831154506974374bd4e21f0698415aea39",
+    "info_version": "0.1.0",
+    "status": "new",
+    "title": "Authula API",
+    "openapi_version": "openapi_3",
+    "paths_count": 66,
+    "path_diff": null
+  }
+]

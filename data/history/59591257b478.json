@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "59591257b478",
+    "source_url": "https://raw.githubusercontent.com/raiyanyahya/zapq/d929c252e53544152db0bc09580ce03a0b0d1b8b/openapi.yaml",
+    "fetched_at": "2026-08-14T07:17:06.720230+00:00",
+    "content_hash": "42e4525f14062cda5c62d8d4cab7183baef02448cc67a83d606624a036941950",
+    "info_version": "1.1",
+    "status": "new",
+    "title": "ZapQ",
+    "openapi_version": "openapi_3",
+    "paths_count": 18,
+    "path_diff": null
+  }
+]
