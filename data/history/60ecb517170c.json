@@ -1,0 +1,14 @@
+[
+  {
+    "spec_id": "60ecb517170c",
+    "source_url": "https://raw.githubusercontent.com/CareTogether/CareTogetherCMS/5e1428cd8454fda352df7aab7f36caf669be1fc4/swagger.json",
+    "fetched_at": "2026-08-15T06:30:49.077489+00:00",
+    "content_hash": "fa8b476a22552ca08aa34b8fecb59c904bea37d7887ddff1d61e3f657d1863b7",
+    "info_version": "v1",
+    "status": "new",
+    "title": "CareTogether CMS API",
+    "openapi_version": "openapi_3",
+    "paths_count": 25,
+    "path_diff": null
+  }
+]
